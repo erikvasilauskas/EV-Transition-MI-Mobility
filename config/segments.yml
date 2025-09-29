@@ -1,0 +1,44 @@
+# Mapping template for supply-chain segments. Replace placeholder values as segment definitions solidify.
+segments:
+  - id: 1
+    name: 
+    description: 
+    industries:
+      - naics: 000000
+        label: Sample industry
+  - id: 2
+    name: 
+    description: 
+    industries: []
+  - id: 3
+    name: 
+    description: 
+    industries: []
+  - id: 4
+    name: 
+    description: 
+    industries: []
+  - id: 5
+    name: 
+    description: 
+    industries: []
+  - id: 6
+    name: 
+    description: 
+    industries: []
+  - id: 7
+    name: 
+    description: 
+    industries: []
+  - id: 8
+    name: 
+    description: 
+    industries: []
+  - id: 9
+    name: 
+    description: 
+    industries: []
+  - id: 10
+    name: 
+    description: 
+    industries: []

@@ -1,0 +1,39 @@
+naics_code,naics_title,segment_id,segment_name,stage,employment_qcew_2024,mi_employment_pct_change_2024_2030,mi_wage_pct_change_2024_2030,mi_gdp_pct_change_2024_2030
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,5524,-4.010993025722974,5.928505028558525,30.69803999691861
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,4347,-0.09463180897109337,12.259859433846602,30.43615046713143
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,34371,-5.8367142964990455,15.42830193830216,17.527795855030416
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,5147,-12.990833057016868,5.5515232148048055,1.581927902567325
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,2802,-9.09571418424086,10.489028561170894,0.33364156486636126
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,3258,-16.971325974482504,9.523471513018203,-1.2952958766409501
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,1974,-15.007230370890202,11.21377298759406,5.6715982207323945
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,2698,-11.217919509285505,13.12738322611663,69.16021411136859
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,1262,-16.72114924886053,15.441048033406032,60.435169261794975
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,11221,-3.21027690266793,6.794475967426446,25.26277384432373
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,29604,-7.811404327376457,-4.021880535343775,3.809586577382275
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,17946,1.053256053597212,10.11815420057279,16.39233001955671
+3315,Foundries,3,Forging & Foundries,Upstream,9349,-22.873946076107917,1.5539810496705053,59.15842012573852
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,6988,-4.215445014961645,1.3093353913429064,20.671709925631955
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,2869,-1.3137819692068808,2.1758793057528187,13.027319100230372
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,24530,-6.612320553472944,1.4181334330958013,22.522798921317037
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,10865,-0.8704164469529019,13.034041304870547,27.65542711728528
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,12179,-3.04971832658572,38.516082401512485,53.40043561389029
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,4970,-4.464605443600771,7.993962723854358,11.358846866630575
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,8867,-2.7267026208773615,12.393433271341902,19.409224378571977
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,4446,2.126263147746479,27.24970080967578,16.300083474445074
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,84452,2.7275866775772375,22.5658126422611,36.42881892324631
+5414,Industrial design,6,Engineering & Design,OEM,10458,-2.0096726335445387,19.52811607277482,14.621598286318491
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,25297,9.323465545195255,35.621578613658926,37.13461450751062
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,48138,27.199870176160857,24.862203254629346,42.94047754260967
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,7921,0.365456489054978,18.238153957008073,29.55052086203477
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,117023,-9.57037250942021,3.6827329681267105,12.303413624833322
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,25978,3.668049189282737,22.47873542247077,25.09669897264981
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,6359,-0.7629358523141591,19.53300557839163,22.543724601810787
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,24407,0.9978140581044561,22.71850400693711,18.075614300399607
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,8732,0.22425243611705453,22.15833472713149,22.967162734280528
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,3846,-5.734584607605438,19.59343071958918,17.974924209268785
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,18192,1.181548779962319,21.64742058030206,40.61401511232299
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,27826,1.5792617734133918,25.595938346462226,-4.27810516326549
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,38262,0.40183659946551964,20.672716894227523,35.640482899511234
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,31338,6.212770114514354,36.96030962653682,12.143165385690372
+4841,General Freight Trucking,10,Logistics,Downstream,35249,-9.666031196056382,6.3277746508634225,11.087148804929527
+4842,Specialized Freight Trucking,10,Logistics,Downstream,11640,-15.008952186685834,5.773744562364095,14.937160232999716

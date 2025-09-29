@@ -1,0 +1,10 @@
+# Default configuration values for the EV-Transition staffing analysis project.
+project_name: EV-Transition Staffing Patterns
+default_year: 2024
+default_geography: Michigan
+data_paths:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  lookups: data/lookups
+segments_lookup: data/lookups/segment_assignments.csv
