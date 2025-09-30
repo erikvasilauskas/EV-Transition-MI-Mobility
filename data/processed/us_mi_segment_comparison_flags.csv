@@ -1,0 +1,2660 @@
+segment_id,segment_name,occcd,issue,level
+1.0,1. Materials & Processing,23-0000,missing_in_mi,major
+1.0,1. Materials & Processing,39-0000,missing_in_mi,major
+1.0,1. Materials & Processing,45-0000,missing_in_mi,major
+2.0,2. Equipment Manufacturing,23-0000,missing_in_mi,major
+2.0,2. Equipment Manufacturing,25-0000,missing_in_mi,major
+2.0,2. Equipment Manufacturing,29-0000,missing_in_mi,major
+2.0,2. Equipment Manufacturing,33-0000,missing_in_mi,major
+2.0,2. Equipment Manufacturing,35-0000,missing_in_mi,major
+2.0,2. Equipment Manufacturing,45-0000,missing_in_mi,major
+3.0,3. Forging & Foundries,23-0000,missing_in_mi,major
+3.0,3. Forging & Foundries,33-0000,missing_in_mi,major
+4.0,4. Parts & Machining,23-0000,missing_in_mi,major
+4.0,4. Parts & Machining,33-0000,missing_in_mi,major
+5.0,5. Component Systems,23-0000,missing_in_mi,major
+5.0,5. Component Systems,25-0000,missing_in_mi,major
+5.0,5. Component Systems,29-0000,missing_in_mi,major
+5.0,5. Component Systems,33-0000,missing_in_mi,major
+6.0,6. Engineering & Design,39-0000,missing_in_mi,major
+6.0,6. Engineering & Design,45-0000,missing_in_mi,major
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",25-0000,missing_in_mi,major
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",29-0000,missing_in_mi,major
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",39-0000,missing_in_mi,major
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-0000,missing_in_mi,major
+9.0,"9. Dealers, Maintenance, & Repair",19-0000,missing_in_mi,major
+9.0,"9. Dealers, Maintenance, & Repair",35-0000,missing_in_mi,major
+10.0,10. Logistics,17-0000,missing_in_mi,major
+10.0,10. Logistics,23-0000,missing_in_mi,major
+10.0,10. Logistics,25-0000,missing_in_mi,major
+10.0,10. Logistics,27-0000,missing_in_mi,major
+10.0,10. Logistics,35-0000,missing_in_mi,major
+10.0,10. Logistics,37-0000,missing_in_us,major
+10.0,10. Logistics,45-0000,missing_in_mi,major
+,Total,00-0000,missing_in_us,major
+,Total,11-0000,missing_in_us,major
+,Total,13-0000,missing_in_us,major
+,Total,15-0000,missing_in_us,major
+,Total,17-0000,missing_in_us,major
+,Total,19-0000,missing_in_us,major
+,Total,21-0000,missing_in_us,major
+,Total,23-0000,missing_in_us,major
+,Total,25-0000,missing_in_us,major
+,Total,27-0000,missing_in_us,major
+,Total,29-0000,missing_in_us,major
+,Total,31-0000,missing_in_us,major
+,Total,33-0000,missing_in_us,major
+,Total,35-0000,missing_in_us,major
+,Total,37-0000,missing_in_us,major
+,Total,39-0000,missing_in_us,major
+,Total,41-0000,missing_in_us,major
+,Total,43-0000,missing_in_us,major
+,Total,47-0000,missing_in_us,major
+,Total,49-0000,missing_in_us,major
+,Total,51-0000,missing_in_us,major
+,Total,53-0000,missing_in_us,major
+1.0,1. Materials & Processing,11-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,11-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,11-2020,missing_in_mi,detailed
+1.0,1. Materials & Processing,11-2030,missing_in_mi,detailed
+1.0,1. Materials & Processing,11-2032,missing_in_mi,detailed
+1.0,1. Materials & Processing,11-3000,missing_in_mi,detailed
+1.0,1. Materials & Processing,11-3010,missing_in_mi,detailed
+1.0,1. Materials & Processing,11-3131,missing_in_mi,detailed
+1.0,1. Materials & Processing,11-9000,missing_in_mi,detailed
+1.0,1. Materials & Processing,11-9021,missing_in_mi,detailed
+1.0,1. Materials & Processing,11-9161,missing_in_mi,detailed
+1.0,1. Materials & Processing,13-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,13-1070,missing_in_mi,detailed
+1.0,1. Materials & Processing,13-1080,missing_in_mi,detailed
+1.0,1. Materials & Processing,13-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,13-2041,missing_in_mi,detailed
+1.0,1. Materials & Processing,13-2050,missing_in_mi,detailed
+1.0,1. Materials & Processing,13-2099,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1200,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1210,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1212,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1230,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1231,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1240,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1241,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1242,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1250,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1253,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1254,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-1255,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,15-2031,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-2051,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-2061,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-2070,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-2110,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-2171,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-3000,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-3010,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-3011,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-3019,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-3020,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-3023,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-3025,missing_in_mi,detailed
+1.0,1. Materials & Processing,17-3028,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-1010,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-1013,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-1020,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-1022,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-2030,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-2032,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-2040,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-2041,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-4000,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-4010,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-4013,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-4021,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-4040,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-4042,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-4090,missing_in_mi,detailed
+1.0,1. Materials & Processing,19-5000,missing_in_mi,detailed
+1.0,1. Materials & Processing,23-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,23-1010,missing_in_mi,detailed
+1.0,1. Materials & Processing,23-1011,missing_in_mi,detailed
+1.0,1. Materials & Processing,27-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,27-1010,missing_in_mi,detailed
+1.0,1. Materials & Processing,27-1012,missing_in_mi,detailed
+1.0,1. Materials & Processing,27-1013,missing_in_mi,detailed
+1.0,1. Materials & Processing,27-1020,missing_in_mi,detailed
+1.0,1. Materials & Processing,27-1029,missing_in_mi,detailed
+1.0,1. Materials & Processing,27-3000,missing_in_mi,detailed
+1.0,1. Materials & Processing,27-3031,missing_in_mi,detailed
+1.0,1. Materials & Processing,27-3040,missing_in_mi,detailed
+1.0,1. Materials & Processing,27-3042,missing_in_mi,detailed
+1.0,1. Materials & Processing,29-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,33-9000,missing_in_mi,detailed
+1.0,1. Materials & Processing,33-9030,missing_in_mi,detailed
+1.0,1. Materials & Processing,37-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,37-2010,missing_in_mi,detailed
+1.0,1. Materials & Processing,37-3000,missing_in_mi,detailed
+1.0,1. Materials & Processing,37-3011,missing_in_mi,detailed
+1.0,1. Materials & Processing,39-4000,missing_in_mi,detailed
+1.0,1. Materials & Processing,39-9000,missing_in_mi,detailed
+1.0,1. Materials & Processing,41-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,41-1011,missing_in_mi,detailed
+1.0,1. Materials & Processing,41-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,41-2020,missing_in_mi,detailed
+1.0,1. Materials & Processing,41-2021,missing_in_mi,detailed
+1.0,1. Materials & Processing,41-3000,missing_in_mi,detailed
+1.0,1. Materials & Processing,41-4000,missing_in_mi,detailed
+1.0,1. Materials & Processing,41-9000,missing_in_mi,detailed
+1.0,1. Materials & Processing,41-9090,missing_in_mi,detailed
+1.0,1. Materials & Processing,41-9099,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-3000,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-3011,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-3021,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-4000,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-4041,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-5000,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-5011,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-5030,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-5032,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-6000,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-9000,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-9020,missing_in_mi,detailed
+1.0,1. Materials & Processing,43-9199,missing_in_mi,detailed
+1.0,1. Materials & Processing,45-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,45-2090,missing_in_mi,detailed
+1.0,1. Materials & Processing,45-2091,missing_in_mi,detailed
+1.0,1. Materials & Processing,45-2092,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-1011,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2020,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2021,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2022,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2031,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2040,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2044,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2050,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2051,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2061,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2070,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2071,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2073,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2121,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2140,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2141,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2150,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2171,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-2221,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-3000,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-3011,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-4000,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-4011,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-4090,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-5000,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-5020,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-5022,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-5023,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-5032,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-5040,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-5044,missing_in_mi,detailed
+1.0,1. Materials & Processing,47-5051,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-2090,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-3000,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-3020,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-3021,missing_in_us,detailed
+1.0,1. Materials & Processing,49-3040,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-3090,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-9000,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-9010,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-9012,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-9021,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-9040,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-9060,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-9069,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-9090,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-9096,missing_in_mi,detailed
+1.0,1. Materials & Processing,49-9099,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-2000,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-2020,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-2021,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-2028,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-2041,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-3000,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-3090,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-3092,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-4000,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-4020,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-4022,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-4030,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-4032,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-4050,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-4070,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-4120,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-4190,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-5100,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-5111,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-5113,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-6000,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-6060,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-6063,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-6064,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-6090,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-6091,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-7000,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-7011,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-7040,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-7041,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-8000,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-8010,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-8013,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-8090,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-8092,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-8093,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-8099,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9000,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9010,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9020,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9022,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9030,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9031,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9120,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9123,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9160,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9190,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9191,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9194,missing_in_mi,detailed
+1.0,1. Materials & Processing,51-9196,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-1000,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-3000,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-3030,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-3031,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-4000,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-4010,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-6000,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-7000,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-7011,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-7060,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-7061,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-7070,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-7072,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-7121,missing_in_mi,detailed
+1.0,1. Materials & Processing,53-7199,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,11-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,11-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,11-2020,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,11-3000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,11-3010,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,11-3131,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,11-9000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,11-9021,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,11-9121,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,11-9141,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-1041,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-1070,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-1075,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-1080,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-1141,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-2031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-2041,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-2050,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,13-2099,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1200,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1210,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1212,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1230,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1231,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1240,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1241,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1242,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1243,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1250,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1253,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1254,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-1255,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-2031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,15-2051,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-2041,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-2051,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-2061,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-2070,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-2081,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-2110,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-2171,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-3000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-3010,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-3011,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-3012,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-3019,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-3020,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-3022,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,17-3028,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-2030,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-2031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-2032,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-2040,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-2041,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-2042,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-4000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-4031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-4040,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-4043,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-4090,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-4099,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-5000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,19-5012,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,23-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,23-1010,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,23-1011,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,23-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,23-2011,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,27-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,27-1010,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,27-1014,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,27-1020,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,27-1024,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,27-3000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,27-3031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,27-3040,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,27-4000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,29-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,29-1141,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,33-9000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,33-9030,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,33-9032,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,35-3000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,35-3011,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,37-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,37-2010,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,37-3000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,37-3011,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,41-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,41-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,41-2020,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,41-2031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,41-3000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,41-4000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,41-9000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,41-9090,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,41-9099,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-3000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-3011,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-3021,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-4000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-4071,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-4161,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-5000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-5030,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-5032,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-5111,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-6000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-9000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-9020,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-9021,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,43-9199,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,45-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,45-2090,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,45-2092,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-1011,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-2031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-2061,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-2070,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-2073,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-2140,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-2150,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-2211,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-2221,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-3000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-3013,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-3019,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-4000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-4021,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-5000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-5010,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-5013,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,47-5071,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-2090,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-3000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-3040,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-3041,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-3042,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-3090,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-3093,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-9000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-9010,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-9012,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-9021,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-9040,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-9069,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-9090,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-9096,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,49-9098,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-2020,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-2021,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-2051,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4020,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4021,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4022,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4023,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4030,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4050,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4051,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4060,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4062,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4070,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4120,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4190,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-4193,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-5100,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-5111,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-5112,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-6000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-6031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-7000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-7040,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-7099,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-8000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-8031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9010,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9011,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9012,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9020,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9021,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9023,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9030,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9032,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9041,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9051,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9120,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9123,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9160,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9190,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9191,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9192,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9194,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9195,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,51-9196,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-1000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-2000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-2010,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-2012,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-3000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-3030,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-3031,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-7000,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-7021,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-7060,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-7061,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-7063,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-7070,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-7072,missing_in_mi,detailed
+2.0,2. Equipment Manufacturing,53-7199,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-1000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-2000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-2020,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-3000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-3010,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-3012,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-3013,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-3071,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-9000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-9021,missing_in_mi,detailed
+3.0,3. Forging & Foundries,11-9199,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-1000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-1051,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-1070,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-1080,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-1081,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-1111,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-1141,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-1151,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-2000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-2031,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-2041,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-2050,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-2051,missing_in_mi,detailed
+3.0,3. Forging & Foundries,13-2099,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1200,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1210,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1211,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1212,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1230,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1231,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1240,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1241,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1242,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1250,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1251,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1253,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1254,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1255,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-1299,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-2000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-2031,missing_in_mi,detailed
+3.0,3. Forging & Foundries,15-2051,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-2000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-2011,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-2051,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-2070,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-2071,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-2072,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-2110,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-2111,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-2131,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3010,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3011,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3012,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3019,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3020,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3021,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3023,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3024,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3027,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3028,missing_in_mi,detailed
+3.0,3. Forging & Foundries,17-3029,missing_in_mi,detailed
+3.0,3. Forging & Foundries,19-2000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,19-2030,missing_in_mi,detailed
+3.0,3. Forging & Foundries,19-2031,missing_in_mi,detailed
+3.0,3. Forging & Foundries,19-2032,missing_in_mi,detailed
+3.0,3. Forging & Foundries,19-4000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,19-4031,missing_in_mi,detailed
+3.0,3. Forging & Foundries,19-4090,missing_in_mi,detailed
+3.0,3. Forging & Foundries,19-4099,missing_in_mi,detailed
+3.0,3. Forging & Foundries,19-5000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,19-5012,missing_in_mi,detailed
+3.0,3. Forging & Foundries,23-1000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,23-1010,missing_in_mi,detailed
+3.0,3. Forging & Foundries,23-1011,missing_in_mi,detailed
+3.0,3. Forging & Foundries,27-1000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,27-1020,missing_in_mi,detailed
+3.0,3. Forging & Foundries,27-1024,missing_in_mi,detailed
+3.0,3. Forging & Foundries,27-3000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,27-3031,missing_in_mi,detailed
+3.0,3. Forging & Foundries,27-3040,missing_in_mi,detailed
+3.0,3. Forging & Foundries,27-3042,missing_in_mi,detailed
+3.0,3. Forging & Foundries,33-9000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,33-9030,missing_in_mi,detailed
+3.0,3. Forging & Foundries,33-9032,missing_in_mi,detailed
+3.0,3. Forging & Foundries,37-2000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,37-2010,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-1000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-1012,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-2000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-2031,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-3000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-3091,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-4000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-4011,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-9000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-9090,missing_in_mi,detailed
+3.0,3. Forging & Foundries,41-9099,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-1000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-3000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-3011,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-3021,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-3051,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-3061,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-4000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-4071,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-4151,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-4161,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-4171,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-5000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-5111,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-6000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-6011,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-9000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-9020,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-9021,missing_in_mi,detailed
+3.0,3. Forging & Foundries,43-9199,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-1000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-1011,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-2000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-2031,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-2061,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-2140,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-2141,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-2150,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-2152,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-2211,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-3000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-3015,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-4000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-5000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,47-5032,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-1000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-2000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-2090,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-3000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-3011,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-3040,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-3042,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-9000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-9010,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-9012,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-9040,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-9043,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-9090,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-9096,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-9098,missing_in_mi,detailed
+3.0,3. Forging & Foundries,49-9099,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-1000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-2000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-2020,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-2021,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-2028,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-2051,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4020,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4021,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4030,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4032,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4035,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4050,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4060,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4061,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4070,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4120,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4190,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4192,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-4194,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-5100,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-5112,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-6000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-6031,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-7000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-7040,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-7042,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-7099,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-8000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-8021,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9010,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9011,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9020,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9021,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9022,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9023,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9030,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9031,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9032,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9041,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9051,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9120,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9123,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9160,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9190,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9191,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9194,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9195,missing_in_mi,detailed
+3.0,3. Forging & Foundries,51-9196,missing_in_mi,detailed
+3.0,3. Forging & Foundries,53-1000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,53-3000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,53-3030,missing_in_mi,detailed
+3.0,3. Forging & Foundries,53-3033,missing_in_mi,detailed
+3.0,3. Forging & Foundries,53-7000,missing_in_mi,detailed
+3.0,3. Forging & Foundries,53-7060,missing_in_mi,detailed
+3.0,3. Forging & Foundries,53-7061,missing_in_mi,detailed
+3.0,3. Forging & Foundries,53-7063,missing_in_mi,detailed
+3.0,3. Forging & Foundries,53-7064,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-2020,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-2030,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-2032,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-3000,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-3010,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-3111,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-3131,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-9000,missing_in_mi,detailed
+4.0,4. Parts & Machining,11-9021,missing_in_mi,detailed
+4.0,4. Parts & Machining,13-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,13-1041,missing_in_mi,detailed
+4.0,4. Parts & Machining,13-1070,missing_in_mi,detailed
+4.0,4. Parts & Machining,13-1080,missing_in_mi,detailed
+4.0,4. Parts & Machining,13-1141,missing_in_mi,detailed
+4.0,4. Parts & Machining,13-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,13-2031,missing_in_mi,detailed
+4.0,4. Parts & Machining,13-2041,missing_in_mi,detailed
+4.0,4. Parts & Machining,13-2050,missing_in_mi,detailed
+4.0,4. Parts & Machining,13-2099,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1200,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1210,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1212,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1230,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1231,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1240,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1241,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1242,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1243,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1250,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1253,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1254,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-1255,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-2031,missing_in_mi,detailed
+4.0,4. Parts & Machining,15-2051,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-2011,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-2041,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-2061,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-2070,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-2081,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-2110,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-2111,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-2131,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-3000,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-3010,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-3011,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-3012,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-3019,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-3020,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-3021,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-3024,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-3028,missing_in_mi,detailed
+4.0,4. Parts & Machining,17-3029,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-2010,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-2012,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-2030,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-2031,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-2032,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-4000,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-4031,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-4090,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-5000,missing_in_mi,detailed
+4.0,4. Parts & Machining,19-5012,missing_in_mi,detailed
+4.0,4. Parts & Machining,23-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,23-1010,missing_in_mi,detailed
+4.0,4. Parts & Machining,23-1011,missing_in_mi,detailed
+4.0,4. Parts & Machining,23-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,23-2011,missing_in_mi,detailed
+4.0,4. Parts & Machining,27-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,27-1020,missing_in_mi,detailed
+4.0,4. Parts & Machining,27-1021,missing_in_mi,detailed
+4.0,4. Parts & Machining,27-3000,missing_in_mi,detailed
+4.0,4. Parts & Machining,27-3031,missing_in_mi,detailed
+4.0,4. Parts & Machining,27-3040,missing_in_mi,detailed
+4.0,4. Parts & Machining,27-3042,missing_in_mi,detailed
+4.0,4. Parts & Machining,33-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,33-1090,missing_in_mi,detailed
+4.0,4. Parts & Machining,33-9000,missing_in_mi,detailed
+4.0,4. Parts & Machining,33-9030,missing_in_mi,detailed
+4.0,4. Parts & Machining,33-9032,missing_in_mi,detailed
+4.0,4. Parts & Machining,37-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,37-2010,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-1012,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-2020,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-2021,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-2022,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-2031,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-3000,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-4000,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-9000,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-9090,missing_in_mi,detailed
+4.0,4. Parts & Machining,41-9099,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-3000,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-3011,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-3021,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-3051,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-4000,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-4071,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-5000,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-5111,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-6000,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-9000,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-9020,missing_in_mi,detailed
+4.0,4. Parts & Machining,43-9199,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-1011,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-2031,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-2061,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-2140,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-2141,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-2150,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-2152,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-2211,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-3000,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-3015,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-4000,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-5000,missing_in_mi,detailed
+4.0,4. Parts & Machining,47-5032,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-2090,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-2094,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-3000,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-3011,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-3020,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-3023,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-3040,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-3042,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-9000,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-9010,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-9012,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-9021,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-9040,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-9044,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-9090,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-9096,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-9098,missing_in_mi,detailed
+4.0,4. Parts & Machining,49-9099,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-2000,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-2020,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-2051,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4000,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4020,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4030,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4050,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4052,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4060,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4062,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4070,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4071,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4120,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4190,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4192,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-4194,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-5100,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-6000,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-6031,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-7000,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-7040,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-7042,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-7099,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-8000,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-8021,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-8031,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-8090,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-8099,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9000,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9010,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9011,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9020,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9023,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9030,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9031,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9032,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9051,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9120,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9123,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9160,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9190,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9191,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9194,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9195,missing_in_mi,detailed
+4.0,4. Parts & Machining,51-9196,missing_in_mi,detailed
+4.0,4. Parts & Machining,53-1000,missing_in_mi,detailed
+4.0,4. Parts & Machining,53-3000,missing_in_mi,detailed
+4.0,4. Parts & Machining,53-3030,missing_in_mi,detailed
+4.0,4. Parts & Machining,53-7000,missing_in_mi,detailed
+4.0,4. Parts & Machining,53-7021,missing_in_mi,detailed
+4.0,4. Parts & Machining,53-7060,missing_in_mi,detailed
+4.0,4. Parts & Machining,53-7063,missing_in_mi,detailed
+5.0,5. Component Systems,11-1000,missing_in_mi,detailed
+5.0,5. Component Systems,11-2000,missing_in_mi,detailed
+5.0,5. Component Systems,11-2020,missing_in_mi,detailed
+5.0,5. Component Systems,11-2030,missing_in_mi,detailed
+5.0,5. Component Systems,11-2032,missing_in_mi,detailed
+5.0,5. Component Systems,11-3000,missing_in_mi,detailed
+5.0,5. Component Systems,11-3010,missing_in_mi,detailed
+5.0,5. Component Systems,11-3013,missing_in_mi,detailed
+5.0,5. Component Systems,11-3111,missing_in_mi,detailed
+5.0,5. Component Systems,11-3131,missing_in_mi,detailed
+5.0,5. Component Systems,11-9000,missing_in_mi,detailed
+5.0,5. Component Systems,11-9021,missing_in_mi,detailed
+5.0,5. Component Systems,11-9111,missing_in_mi,detailed
+5.0,5. Component Systems,11-9121,missing_in_mi,detailed
+5.0,5. Component Systems,13-1000,missing_in_mi,detailed
+5.0,5. Component Systems,13-1041,missing_in_mi,detailed
+5.0,5. Component Systems,13-1070,missing_in_mi,detailed
+5.0,5. Component Systems,13-1080,missing_in_mi,detailed
+5.0,5. Component Systems,13-1121,missing_in_mi,detailed
+5.0,5. Component Systems,13-1141,missing_in_mi,detailed
+5.0,5. Component Systems,13-2000,missing_in_mi,detailed
+5.0,5. Component Systems,13-2031,missing_in_mi,detailed
+5.0,5. Component Systems,13-2050,missing_in_mi,detailed
+5.0,5. Component Systems,13-2099,missing_in_mi,detailed
+5.0,5. Component Systems,15-1200,missing_in_mi,detailed
+5.0,5. Component Systems,15-1210,missing_in_mi,detailed
+5.0,5. Component Systems,15-1212,missing_in_mi,detailed
+5.0,5. Component Systems,15-1221,missing_in_mi,detailed
+5.0,5. Component Systems,15-1230,missing_in_mi,detailed
+5.0,5. Component Systems,15-1231,missing_in_mi,detailed
+5.0,5. Component Systems,15-1240,missing_in_mi,detailed
+5.0,5. Component Systems,15-1241,missing_in_mi,detailed
+5.0,5. Component Systems,15-1242,missing_in_mi,detailed
+5.0,5. Component Systems,15-1243,missing_in_mi,detailed
+5.0,5. Component Systems,15-1250,missing_in_mi,detailed
+5.0,5. Component Systems,15-1254,missing_in_mi,detailed
+5.0,5. Component Systems,15-1255,missing_in_mi,detailed
+5.0,5. Component Systems,15-1299,missing_in_mi,detailed
+5.0,5. Component Systems,15-2000,missing_in_mi,detailed
+5.0,5. Component Systems,15-2031,missing_in_mi,detailed
+5.0,5. Component Systems,17-2000,missing_in_mi,detailed
+5.0,5. Component Systems,17-2011,missing_in_mi,detailed
+5.0,5. Component Systems,17-2031,missing_in_mi,detailed
+5.0,5. Component Systems,17-2041,missing_in_mi,detailed
+5.0,5. Component Systems,17-2051,missing_in_mi,detailed
+5.0,5. Component Systems,17-2070,missing_in_mi,detailed
+5.0,5. Component Systems,17-2110,missing_in_mi,detailed
+5.0,5. Component Systems,17-2111,missing_in_mi,detailed
+5.0,5. Component Systems,17-3000,missing_in_mi,detailed
+5.0,5. Component Systems,17-3010,missing_in_mi,detailed
+5.0,5. Component Systems,17-3012,missing_in_mi,detailed
+5.0,5. Component Systems,17-3019,missing_in_mi,detailed
+5.0,5. Component Systems,17-3020,missing_in_mi,detailed
+5.0,5. Component Systems,17-3021,missing_in_mi,detailed
+5.0,5. Component Systems,17-3022,missing_in_mi,detailed
+5.0,5. Component Systems,17-3024,missing_in_mi,detailed
+5.0,5. Component Systems,17-3029,missing_in_mi,detailed
+5.0,5. Component Systems,19-1000,missing_in_mi,detailed
+5.0,5. Component Systems,19-1020,missing_in_mi,detailed
+5.0,5. Component Systems,19-1021,missing_in_mi,detailed
+5.0,5. Component Systems,19-1029,missing_in_mi,detailed
+5.0,5. Component Systems,19-1040,missing_in_mi,detailed
+5.0,5. Component Systems,19-1042,missing_in_mi,detailed
+5.0,5. Component Systems,19-1099,missing_in_mi,detailed
+5.0,5. Component Systems,19-2000,missing_in_mi,detailed
+5.0,5. Component Systems,19-2010,missing_in_mi,detailed
+5.0,5. Component Systems,19-2012,missing_in_mi,detailed
+5.0,5. Component Systems,19-2030,missing_in_mi,detailed
+5.0,5. Component Systems,19-2032,missing_in_mi,detailed
+5.0,5. Component Systems,19-2099,missing_in_mi,detailed
+5.0,5. Component Systems,19-4000,missing_in_mi,detailed
+5.0,5. Component Systems,19-4031,missing_in_mi,detailed
+5.0,5. Component Systems,19-4090,missing_in_mi,detailed
+5.0,5. Component Systems,19-4099,missing_in_mi,detailed
+5.0,5. Component Systems,19-5000,missing_in_mi,detailed
+5.0,5. Component Systems,19-5011,missing_in_mi,detailed
+5.0,5. Component Systems,19-5012,missing_in_mi,detailed
+5.0,5. Component Systems,23-1000,missing_in_mi,detailed
+5.0,5. Component Systems,23-1010,missing_in_mi,detailed
+5.0,5. Component Systems,23-1011,missing_in_mi,detailed
+5.0,5. Component Systems,23-2000,missing_in_mi,detailed
+5.0,5. Component Systems,23-2011,missing_in_mi,detailed
+5.0,5. Component Systems,27-1000,missing_in_mi,detailed
+5.0,5. Component Systems,27-1020,missing_in_mi,detailed
+5.0,5. Component Systems,27-1021,missing_in_mi,detailed
+5.0,5. Component Systems,27-3000,missing_in_mi,detailed
+5.0,5. Component Systems,27-3031,missing_in_mi,detailed
+5.0,5. Component Systems,27-3040,missing_in_mi,detailed
+5.0,5. Component Systems,27-3043,missing_in_mi,detailed
+5.0,5. Component Systems,27-4000,missing_in_mi,detailed
+5.0,5. Component Systems,29-1000,missing_in_mi,detailed
+5.0,5. Component Systems,29-1141,missing_in_mi,detailed
+5.0,5. Component Systems,29-2000,missing_in_mi,detailed
+5.0,5. Component Systems,29-2090,missing_in_mi,detailed
+5.0,5. Component Systems,29-2092,missing_in_mi,detailed
+5.0,5. Component Systems,33-9000,missing_in_mi,detailed
+5.0,5. Component Systems,33-9030,missing_in_mi,detailed
+5.0,5. Component Systems,33-9032,missing_in_mi,detailed
+5.0,5. Component Systems,37-2000,missing_in_mi,detailed
+5.0,5. Component Systems,37-2010,missing_in_mi,detailed
+5.0,5. Component Systems,41-1000,missing_in_mi,detailed
+5.0,5. Component Systems,41-2000,missing_in_mi,detailed
+5.0,5. Component Systems,41-3000,missing_in_mi,detailed
+5.0,5. Component Systems,41-3091,missing_in_mi,detailed
+5.0,5. Component Systems,41-4000,missing_in_mi,detailed
+5.0,5. Component Systems,41-9000,missing_in_mi,detailed
+5.0,5. Component Systems,41-9090,missing_in_mi,detailed
+5.0,5. Component Systems,41-9099,missing_in_mi,detailed
+5.0,5. Component Systems,43-1000,missing_in_mi,detailed
+5.0,5. Component Systems,43-3000,missing_in_mi,detailed
+5.0,5. Component Systems,43-3011,missing_in_mi,detailed
+5.0,5. Component Systems,43-3021,missing_in_mi,detailed
+5.0,5. Component Systems,43-3051,missing_in_mi,detailed
+5.0,5. Component Systems,43-3061,missing_in_mi,detailed
+5.0,5. Component Systems,43-4000,missing_in_mi,detailed
+5.0,5. Component Systems,43-4071,missing_in_mi,detailed
+5.0,5. Component Systems,43-4111,missing_in_mi,detailed
+5.0,5. Component Systems,43-4161,missing_in_mi,detailed
+5.0,5. Component Systems,43-5000,missing_in_mi,detailed
+5.0,5. Component Systems,43-5030,missing_in_mi,detailed
+5.0,5. Component Systems,43-5032,missing_in_mi,detailed
+5.0,5. Component Systems,43-5111,missing_in_mi,detailed
+5.0,5. Component Systems,43-6000,missing_in_mi,detailed
+5.0,5. Component Systems,43-9000,missing_in_mi,detailed
+5.0,5. Component Systems,43-9020,missing_in_mi,detailed
+5.0,5. Component Systems,43-9021,missing_in_mi,detailed
+5.0,5. Component Systems,43-9199,missing_in_mi,detailed
+5.0,5. Component Systems,47-1000,missing_in_mi,detailed
+5.0,5. Component Systems,47-1011,missing_in_mi,detailed
+5.0,5. Component Systems,47-2000,missing_in_mi,detailed
+5.0,5. Component Systems,47-2140,missing_in_mi,detailed
+5.0,5. Component Systems,47-2141,missing_in_mi,detailed
+5.0,5. Component Systems,47-2150,missing_in_mi,detailed
+5.0,5. Component Systems,47-2152,missing_in_mi,detailed
+5.0,5. Component Systems,49-1000,missing_in_mi,detailed
+5.0,5. Component Systems,49-2000,missing_in_mi,detailed
+5.0,5. Component Systems,49-2090,missing_in_mi,detailed
+5.0,5. Component Systems,49-2091,missing_in_mi,detailed
+5.0,5. Component Systems,49-2093,missing_in_mi,detailed
+5.0,5. Component Systems,49-3000,missing_in_mi,detailed
+5.0,5. Component Systems,49-3011,missing_in_mi,detailed
+5.0,5. Component Systems,49-3031,missing_in_mi,detailed
+5.0,5. Component Systems,49-3040,missing_in_mi,detailed
+5.0,5. Component Systems,49-3042,missing_in_mi,detailed
+5.0,5. Component Systems,49-9000,missing_in_mi,detailed
+5.0,5. Component Systems,49-9010,missing_in_mi,detailed
+5.0,5. Component Systems,49-9012,missing_in_mi,detailed
+5.0,5. Component Systems,49-9021,missing_in_mi,detailed
+5.0,5. Component Systems,49-9040,missing_in_mi,detailed
+5.0,5. Component Systems,49-9043,missing_in_mi,detailed
+5.0,5. Component Systems,49-9044,missing_in_mi,detailed
+5.0,5. Component Systems,49-9050,missing_in_mi,detailed
+5.0,5. Component Systems,49-9052,missing_in_mi,detailed
+5.0,5. Component Systems,49-9060,missing_in_mi,detailed
+5.0,5. Component Systems,49-9062,missing_in_mi,detailed
+5.0,5. Component Systems,49-9064,missing_in_us,detailed
+5.0,5. Component Systems,49-9069,missing_in_mi,detailed
+5.0,5. Component Systems,49-9081,missing_in_mi,detailed
+5.0,5. Component Systems,49-9090,missing_in_mi,detailed
+5.0,5. Component Systems,49-9098,missing_in_mi,detailed
+5.0,5. Component Systems,49-9099,missing_in_mi,detailed
+5.0,5. Component Systems,51-1000,missing_in_mi,detailed
+5.0,5. Component Systems,51-2000,missing_in_mi,detailed
+5.0,5. Component Systems,51-2020,missing_in_mi,detailed
+5.0,5. Component Systems,51-2021,missing_in_mi,detailed
+5.0,5. Component Systems,51-2031,missing_in_mi,detailed
+5.0,5. Component Systems,51-2041,missing_in_mi,detailed
+5.0,5. Component Systems,51-2051,missing_in_mi,detailed
+5.0,5. Component Systems,51-4000,missing_in_mi,detailed
+5.0,5. Component Systems,51-4020,missing_in_mi,detailed
+5.0,5. Component Systems,51-4021,missing_in_mi,detailed
+5.0,5. Component Systems,51-4022,missing_in_mi,detailed
+5.0,5. Component Systems,51-4023,missing_in_mi,detailed
+5.0,5. Component Systems,51-4030,missing_in_mi,detailed
+5.0,5. Component Systems,51-4032,missing_in_mi,detailed
+5.0,5. Component Systems,51-4035,missing_in_mi,detailed
+5.0,5. Component Systems,51-4050,missing_in_mi,detailed
+5.0,5. Component Systems,51-4051,missing_in_mi,detailed
+5.0,5. Component Systems,51-4070,missing_in_mi,detailed
+5.0,5. Component Systems,51-4120,missing_in_mi,detailed
+5.0,5. Component Systems,51-4122,missing_in_mi,detailed
+5.0,5. Component Systems,51-4190,missing_in_mi,detailed
+5.0,5. Component Systems,51-4191,missing_in_mi,detailed
+5.0,5. Component Systems,51-4193,missing_in_mi,detailed
+5.0,5. Component Systems,51-4194,missing_in_mi,detailed
+5.0,5. Component Systems,51-4199,missing_in_mi,detailed
+5.0,5. Component Systems,51-5100,missing_in_mi,detailed
+5.0,5. Component Systems,51-5112,missing_in_mi,detailed
+5.0,5. Component Systems,51-6000,missing_in_mi,detailed
+5.0,5. Component Systems,51-6090,missing_in_mi,detailed
+5.0,5. Component Systems,51-6091,missing_in_mi,detailed
+5.0,5. Component Systems,51-8000,missing_in_mi,detailed
+5.0,5. Component Systems,51-9000,missing_in_mi,detailed
+5.0,5. Component Systems,51-9010,missing_in_mi,detailed
+5.0,5. Component Systems,51-9011,missing_in_mi,detailed
+5.0,5. Component Systems,51-9020,missing_in_mi,detailed
+5.0,5. Component Systems,51-9021,missing_in_mi,detailed
+5.0,5. Component Systems,51-9022,missing_in_mi,detailed
+5.0,5. Component Systems,51-9023,missing_in_mi,detailed
+5.0,5. Component Systems,51-9030,missing_in_mi,detailed
+5.0,5. Component Systems,51-9032,missing_in_mi,detailed
+5.0,5. Component Systems,51-9041,missing_in_mi,detailed
+5.0,5. Component Systems,51-9051,missing_in_mi,detailed
+5.0,5. Component Systems,51-9120,missing_in_mi,detailed
+5.0,5. Component Systems,51-9141,missing_in_mi,detailed
+5.0,5. Component Systems,51-9160,missing_in_mi,detailed
+5.0,5. Component Systems,51-9162,missing_in_mi,detailed
+5.0,5. Component Systems,51-9190,missing_in_mi,detailed
+5.0,5. Component Systems,51-9191,missing_in_mi,detailed
+5.0,5. Component Systems,51-9194,missing_in_mi,detailed
+5.0,5. Component Systems,51-9195,missing_in_mi,detailed
+5.0,5. Component Systems,51-9198,missing_in_mi,detailed
+5.0,5. Component Systems,53-1000,missing_in_mi,detailed
+5.0,5. Component Systems,53-1047,missing_in_mi,detailed
+5.0,5. Component Systems,53-2000,missing_in_mi,detailed
+5.0,5. Component Systems,53-2010,missing_in_mi,detailed
+5.0,5. Component Systems,53-3000,missing_in_mi,detailed
+5.0,5. Component Systems,53-3030,missing_in_mi,detailed
+5.0,5. Component Systems,53-3032,missing_in_mi,detailed
+5.0,5. Component Systems,53-3033,missing_in_mi,detailed
+5.0,5. Component Systems,53-7000,missing_in_mi,detailed
+5.0,5. Component Systems,53-7060,missing_in_mi,detailed
+5.0,5. Component Systems,53-7061,missing_in_mi,detailed
+5.0,5. Component Systems,53-7063,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-2011,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-2020,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-2030,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-2033,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-3010,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-3111,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-3131,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-9000,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-9013,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-9030,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-9033,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-9039,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-9141,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-9151,missing_in_mi,detailed
+6.0,6. Engineering & Design,11-9161,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-1030,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-1031,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-1070,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-1075,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-1080,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-1131,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-2020,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-2041,missing_in_mi,detailed
+6.0,6. Engineering & Design,13-2050,missing_in_mi,detailed
+6.0,6. Engineering & Design,15-1200,missing_in_mi,detailed
+6.0,6. Engineering & Design,15-1210,missing_in_mi,detailed
+6.0,6. Engineering & Design,15-1221,missing_in_mi,detailed
+6.0,6. Engineering & Design,15-1230,missing_in_mi,detailed
+6.0,6. Engineering & Design,15-1240,missing_in_mi,detailed
+6.0,6. Engineering & Design,15-1250,missing_in_mi,detailed
+6.0,6. Engineering & Design,15-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,15-2011,missing_in_mi,detailed
+6.0,6. Engineering & Design,15-2021,missing_in_mi,detailed
+6.0,6. Engineering & Design,15-2099,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-1010,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-1020,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-2021,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-2070,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-2110,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-2121,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-2161,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-2171,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-3010,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-3020,missing_in_mi,detailed
+6.0,6. Engineering & Design,17-3021,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-1010,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-1011,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-1020,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-1023,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-1030,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-1031,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-1040,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-1041,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-1099,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-2010,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-2011,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-2021,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-2030,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-2040,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-2043,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-2099,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-3030,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-3032,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-3033,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-3039,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-3090,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-3091,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-3093,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-3094,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-4000,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-4010,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-4012,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-4013,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-4040,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-4044,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-4051,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-4071,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-4090,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-4092,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-5000,missing_in_mi,detailed
+6.0,6. Engineering & Design,19-5012,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1010,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1012,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1018,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1020,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1021,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1022,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1023,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1090,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1091,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1094,missing_in_mi,detailed
+6.0,6. Engineering & Design,21-1099,missing_in_mi,detailed
+6.0,6. Engineering & Design,23-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,23-1010,missing_in_mi,detailed
+6.0,6. Engineering & Design,23-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,23-2090,missing_in_mi,detailed
+6.0,6. Engineering & Design,23-2093,missing_in_mi,detailed
+6.0,6. Engineering & Design,23-2099,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-1040,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-1042,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-1070,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-1071,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-1190,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-1199,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-2010,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-2011,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-3041,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-3099,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-4000,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-4010,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-4011,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-4012,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-4022,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-9000,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-9031,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-9040,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-9045,missing_in_mi,detailed
+6.0,6. Engineering & Design,25-9099,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-1010,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-1013,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-1020,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-1022,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-1023,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-1026,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-1027,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-1029,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-2010,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-2012,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-3040,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-3043,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-3090,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-3099,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-4000,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-4010,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-4011,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-4015,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-4030,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-4031,missing_in_mi,detailed
+6.0,6. Engineering & Design,27-4032,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1031,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1051,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1071,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1120,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1122,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1126,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1128,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1131,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1171,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1210,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1216,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1221,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1222,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1223,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1224,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1229,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1290,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-1299,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-2030,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-2033,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-2034,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-2050,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-2052,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-2056,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-2061,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-2090,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-2099,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-9000,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-9021,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-9090,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-9092,missing_in_mi,detailed
+6.0,6. Engineering & Design,29-9099,missing_in_mi,detailed
+6.0,6. Engineering & Design,31-1130,missing_in_mi,detailed
+6.0,6. Engineering & Design,31-1131,missing_in_mi,detailed
+6.0,6. Engineering & Design,31-9000,missing_in_mi,detailed
+6.0,6. Engineering & Design,31-9090,missing_in_mi,detailed
+6.0,6. Engineering & Design,31-9092,missing_in_mi,detailed
+6.0,6. Engineering & Design,31-9093,missing_in_mi,detailed
+6.0,6. Engineering & Design,31-9096,missing_in_mi,detailed
+6.0,6. Engineering & Design,31-9097,missing_in_mi,detailed
+6.0,6. Engineering & Design,31-9099,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-1090,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-1091,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-2011,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-2020,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-2021,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-9000,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-9030,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-9090,missing_in_mi,detailed
+6.0,6. Engineering & Design,33-9099,missing_in_mi,detailed
+6.0,6. Engineering & Design,35-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,35-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,35-2010,missing_in_mi,detailed
+6.0,6. Engineering & Design,35-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,35-3023,missing_in_mi,detailed
+6.0,6. Engineering & Design,37-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,37-1011,missing_in_mi,detailed
+6.0,6. Engineering & Design,37-1012,missing_in_mi,detailed
+6.0,6. Engineering & Design,37-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,37-2010,missing_in_mi,detailed
+6.0,6. Engineering & Design,37-2012,missing_in_mi,detailed
+6.0,6. Engineering & Design,37-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,39-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,39-1022,missing_in_mi,detailed
+6.0,6. Engineering & Design,39-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,39-2021,missing_in_mi,detailed
+6.0,6. Engineering & Design,39-7000,missing_in_mi,detailed
+6.0,6. Engineering & Design,39-7010,missing_in_mi,detailed
+6.0,6. Engineering & Design,39-9000,missing_in_mi,detailed
+6.0,6. Engineering & Design,39-9011,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-2010,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-2011,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-4000,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-9000,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-9020,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-9022,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-9090,missing_in_mi,detailed
+6.0,6. Engineering & Design,41-9099,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-4000,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-4071,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-4151,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-4199,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-5000,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-5021,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-5030,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-5031,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-5032,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-5111,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-6000,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-6012,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-6013,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-9000,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-9020,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-9022,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-9051,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-9071,missing_in_mi,detailed
+6.0,6. Engineering & Design,43-9111,missing_in_mi,detailed
+6.0,6. Engineering & Design,45-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,45-1011,missing_in_mi,detailed
+6.0,6. Engineering & Design,45-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,45-2011,missing_in_mi,detailed
+6.0,6. Engineering & Design,45-2041,missing_in_mi,detailed
+6.0,6. Engineering & Design,45-2090,missing_in_mi,detailed
+6.0,6. Engineering & Design,45-2092,missing_in_mi,detailed
+6.0,6. Engineering & Design,45-2093,missing_in_mi,detailed
+6.0,6. Engineering & Design,45-2099,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2031,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2050,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2051,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2070,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2073,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2130,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2132,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2140,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2141,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2150,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2171,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2211,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-2221,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-3013,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-4000,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-4041,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-4090,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-5000,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-5010,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-5011,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-5012,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-5013,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-5020,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-5032,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-5071,missing_in_mi,detailed
+6.0,6. Engineering & Design,47-5081,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-2020,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-2022,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-2090,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-2091,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-2095,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-3011,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-3020,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-3040,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-3042,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-3050,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-3053,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9000,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9010,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9040,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9043,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9050,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9052,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9060,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9069,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9081,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9090,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9092,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9094,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9096,missing_in_mi,detailed
+6.0,6. Engineering & Design,49-9098,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-2011,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-2020,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-4000,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-4030,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-4033,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-4060,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-4070,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-4120,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-4190,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-5100,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-6000,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-6031,missing_in_us,detailed
+6.0,6. Engineering & Design,51-6050,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-6052,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-6090,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-6092,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-7000,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-7011,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-8000,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-8010,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-8011,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-8013,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-8021,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-8031,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-8090,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-8091,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-8099,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9000,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9010,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9011,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9012,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9020,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9021,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9023,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9041,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9120,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9160,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9190,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9192,missing_in_mi,detailed
+6.0,6. Engineering & Design,51-9194,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-1000,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-2000,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-2010,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-2012,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-2020,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-2021,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-3000,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-3030,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-3050,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-3099,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-5000,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-5020,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-5021,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-6000,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-6041,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-6051,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-7000,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-7060,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-7061,missing_in_us,detailed
+6.0,6. Engineering & Design,53-7063,missing_in_mi,detailed
+6.0,6. Engineering & Design,53-7064,missing_in_mi,detailed
+7.0,7. Core Automotive,11-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,11-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,11-2020,missing_in_mi,detailed
+7.0,7. Core Automotive,11-2030,missing_in_mi,detailed
+7.0,7. Core Automotive,11-2032,missing_in_mi,detailed
+7.0,7. Core Automotive,11-3000,missing_in_mi,detailed
+7.0,7. Core Automotive,11-3010,missing_in_mi,detailed
+7.0,7. Core Automotive,11-3111,missing_in_mi,detailed
+7.0,7. Core Automotive,11-9000,missing_in_mi,detailed
+7.0,7. Core Automotive,11-9021,missing_in_mi,detailed
+7.0,7. Core Automotive,11-9141,missing_in_mi,detailed
+7.0,7. Core Automotive,13-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,13-1070,missing_in_mi,detailed
+7.0,7. Core Automotive,13-1080,missing_in_mi,detailed
+7.0,7. Core Automotive,13-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,13-2031,missing_in_mi,detailed
+7.0,7. Core Automotive,13-2050,missing_in_mi,detailed
+7.0,7. Core Automotive,13-2099,missing_in_us,detailed
+7.0,7. Core Automotive,15-1200,missing_in_mi,detailed
+7.0,7. Core Automotive,15-1210,missing_in_mi,detailed
+7.0,7. Core Automotive,15-1230,missing_in_mi,detailed
+7.0,7. Core Automotive,15-1240,missing_in_mi,detailed
+7.0,7. Core Automotive,15-1242,missing_in_mi,detailed
+7.0,7. Core Automotive,15-1243,missing_in_mi,detailed
+7.0,7. Core Automotive,15-1250,missing_in_mi,detailed
+7.0,7. Core Automotive,15-1255,missing_in_mi,detailed
+7.0,7. Core Automotive,15-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,17-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,17-2061,missing_in_mi,detailed
+7.0,7. Core Automotive,17-2070,missing_in_mi,detailed
+7.0,7. Core Automotive,17-2110,missing_in_mi,detailed
+7.0,7. Core Automotive,17-3000,missing_in_mi,detailed
+7.0,7. Core Automotive,17-3010,missing_in_mi,detailed
+7.0,7. Core Automotive,17-3020,missing_in_mi,detailed
+7.0,7. Core Automotive,17-3028,missing_in_mi,detailed
+7.0,7. Core Automotive,19-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,19-4000,missing_in_mi,detailed
+7.0,7. Core Automotive,19-4031,missing_in_mi,detailed
+7.0,7. Core Automotive,19-4090,missing_in_mi,detailed
+7.0,7. Core Automotive,19-5000,missing_in_mi,detailed
+7.0,7. Core Automotive,19-5012,missing_in_mi,detailed
+7.0,7. Core Automotive,23-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,23-1010,missing_in_mi,detailed
+7.0,7. Core Automotive,23-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,23-2011,missing_in_mi,detailed
+7.0,7. Core Automotive,27-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,27-1010,missing_in_mi,detailed
+7.0,7. Core Automotive,27-1020,missing_in_mi,detailed
+7.0,7. Core Automotive,27-1024,missing_in_mi,detailed
+7.0,7. Core Automotive,27-3000,missing_in_mi,detailed
+7.0,7. Core Automotive,27-3040,missing_in_mi,detailed
+7.0,7. Core Automotive,27-3042,missing_in_mi,detailed
+7.0,7. Core Automotive,27-3090,missing_in_mi,detailed
+7.0,7. Core Automotive,27-3091,missing_in_mi,detailed
+7.0,7. Core Automotive,27-4000,missing_in_mi,detailed
+7.0,7. Core Automotive,29-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,33-9000,missing_in_mi,detailed
+7.0,7. Core Automotive,33-9030,missing_in_mi,detailed
+7.0,7. Core Automotive,37-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,37-2010,missing_in_mi,detailed
+7.0,7. Core Automotive,41-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,41-1011,missing_in_mi,detailed
+7.0,7. Core Automotive,41-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,41-2020,missing_in_mi,detailed
+7.0,7. Core Automotive,41-2021,missing_in_mi,detailed
+7.0,7. Core Automotive,41-2022,missing_in_mi,detailed
+7.0,7. Core Automotive,41-2031,missing_in_mi,detailed
+7.0,7. Core Automotive,41-3000,missing_in_mi,detailed
+7.0,7. Core Automotive,41-3091,missing_in_mi,detailed
+7.0,7. Core Automotive,41-4000,missing_in_mi,detailed
+7.0,7. Core Automotive,41-9000,missing_in_mi,detailed
+7.0,7. Core Automotive,41-9090,missing_in_mi,detailed
+7.0,7. Core Automotive,41-9099,missing_in_mi,detailed
+7.0,7. Core Automotive,43-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,43-3000,missing_in_mi,detailed
+7.0,7. Core Automotive,43-3021,missing_in_mi,detailed
+7.0,7. Core Automotive,43-3061,missing_in_mi,detailed
+7.0,7. Core Automotive,43-4000,missing_in_mi,detailed
+7.0,7. Core Automotive,43-4071,missing_in_mi,detailed
+7.0,7. Core Automotive,43-4151,missing_in_mi,detailed
+7.0,7. Core Automotive,43-5000,missing_in_mi,detailed
+7.0,7. Core Automotive,43-5030,missing_in_mi,detailed
+7.0,7. Core Automotive,43-5032,missing_in_mi,detailed
+7.0,7. Core Automotive,43-5111,missing_in_mi,detailed
+7.0,7. Core Automotive,43-6000,missing_in_mi,detailed
+7.0,7. Core Automotive,43-9000,missing_in_mi,detailed
+7.0,7. Core Automotive,43-9020,missing_in_mi,detailed
+7.0,7. Core Automotive,43-9021,missing_in_mi,detailed
+7.0,7. Core Automotive,43-9199,missing_in_mi,detailed
+7.0,7. Core Automotive,47-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,47-1011,missing_in_mi,detailed
+7.0,7. Core Automotive,47-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,47-2040,missing_in_mi,detailed
+7.0,7. Core Automotive,47-2042,missing_in_mi,detailed
+7.0,7. Core Automotive,47-2140,missing_in_mi,detailed
+7.0,7. Core Automotive,47-2150,missing_in_mi,detailed
+7.0,7. Core Automotive,49-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,49-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,49-2090,missing_in_mi,detailed
+7.0,7. Core Automotive,49-2096,missing_in_mi,detailed
+7.0,7. Core Automotive,49-3000,missing_in_mi,detailed
+7.0,7. Core Automotive,49-3020,missing_in_mi,detailed
+7.0,7. Core Automotive,49-3040,missing_in_mi,detailed
+7.0,7. Core Automotive,49-3090,missing_in_mi,detailed
+7.0,7. Core Automotive,49-3092,missing_in_mi,detailed
+7.0,7. Core Automotive,49-9000,missing_in_mi,detailed
+7.0,7. Core Automotive,49-9040,missing_in_mi,detailed
+7.0,7. Core Automotive,49-9090,missing_in_mi,detailed
+7.0,7. Core Automotive,49-9099,missing_in_mi,detailed
+7.0,7. Core Automotive,51-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,51-2000,missing_in_mi,detailed
+7.0,7. Core Automotive,51-2020,missing_in_mi,detailed
+7.0,7. Core Automotive,51-2021,missing_in_mi,detailed
+7.0,7. Core Automotive,51-2051,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4000,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4020,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4022,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4030,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4032,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4050,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4051,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4060,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4070,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4120,missing_in_mi,detailed
+7.0,7. Core Automotive,51-4190,missing_in_mi,detailed
+7.0,7. Core Automotive,51-5100,missing_in_mi,detailed
+7.0,7. Core Automotive,51-5112,missing_in_mi,detailed
+7.0,7. Core Automotive,51-6000,missing_in_mi,detailed
+7.0,7. Core Automotive,51-6060,missing_in_mi,detailed
+7.0,7. Core Automotive,51-6062,missing_in_mi,detailed
+7.0,7. Core Automotive,51-6090,missing_in_mi,detailed
+7.0,7. Core Automotive,51-6091,missing_in_mi,detailed
+7.0,7. Core Automotive,51-7000,missing_in_mi,detailed
+7.0,7. Core Automotive,51-7011,missing_in_mi,detailed
+7.0,7. Core Automotive,51-7040,missing_in_mi,detailed
+7.0,7. Core Automotive,51-7041,missing_in_mi,detailed
+7.0,7. Core Automotive,51-8000,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9000,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9020,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9021,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9023,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9030,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9032,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9120,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9123,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9160,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9190,missing_in_mi,detailed
+7.0,7. Core Automotive,51-9191,missing_in_mi,detailed
+7.0,7. Core Automotive,53-1000,missing_in_mi,detailed
+7.0,7. Core Automotive,53-3000,missing_in_mi,detailed
+7.0,7. Core Automotive,53-3030,missing_in_mi,detailed
+7.0,7. Core Automotive,53-7000,missing_in_mi,detailed
+7.0,7. Core Automotive,53-7060,missing_in_mi,detailed
+7.0,7. Core Automotive,53-7061,missing_in_mi,detailed
+7.0,7. Core Automotive,53-7199,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-2011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-2020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-2030,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-2032,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-3010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-3111,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-3131,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-9000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-9013,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-9051,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",11-9121,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-1041,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-1070,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-1080,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-1121,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-1131,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-1141,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-2031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-2041,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-2050,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-2054,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-2070,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-2072,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",13-2099,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-1200,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-1210,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-1230,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-1240,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-1242,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-1243,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-1250,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-1251,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-1253,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-1255,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",15-2031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-2011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-2051,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-2061,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-2070,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-2110,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-2111,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-3010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-3011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-3012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-3019,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-3020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-3024,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",17-3028,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-1010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-1011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-1012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-1013,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-2030,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-2031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-4000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-4010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-4012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-4031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-4090,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-4099,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-5000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",19-5012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",23-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",23-1010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",23-1020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",23-1022,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",23-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",23-2011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",23-2090,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",23-2093,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",25-4000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",25-4022,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-1010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-1011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-1013,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-1020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-1023,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-1025,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-1026,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-1029,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-2010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-2012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-3031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-3040,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-3041,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-3042,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-3043,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-4000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-4010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-4021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-4030,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-4031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",27-4032,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",29-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",29-1031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",33-9000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",33-9021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",33-9030,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",33-9032,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-2010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-2011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-2012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-2014,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-2015,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-3011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-3031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-9000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-9021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",35-9031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",37-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",37-1012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",37-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",37-2010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",37-2012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",37-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",37-3012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",37-3019,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",39-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",39-2021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-2010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-2020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-3011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-4000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-9000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-9010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-9011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-9041,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-9090,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",41-9099,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-4000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-4041,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-4071,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-4161,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-4199,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-5000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-5011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-5030,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-6000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-9000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-9020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-9051,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-9081,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",43-9199,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-1011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-2041,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-2090,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-2091,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-2092,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-2093,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-2099,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-4000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",45-4020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2040,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2041,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2042,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2050,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2051,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2070,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2140,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2150,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2151,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2171,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2211,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2221,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-2231,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-3019,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-4000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-4090,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-5000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-5020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",47-5022,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2022,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2090,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2091,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2093,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2095,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2096,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2097,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-2098,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-3011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-3020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-3040,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-3050,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-3090,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-3092,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9040,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9050,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9060,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9081,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9090,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9091,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9094,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9096,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",49-9098,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-2020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-2021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-3011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-3090,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-3092,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-3099,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4023,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4030,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4034,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4050,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4051,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4070,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4120,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4190,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4191,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4194,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-4199,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-5100,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-5111,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-5113,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-6000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-6011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-6060,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-6062,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-7000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-7011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-7021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-7040,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-7041,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-7042,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-8000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-8031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-8090,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-8091,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-8093,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9022,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9030,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9032,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9041,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9071,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9120,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9123,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9160,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9190,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9192,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9194,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9195,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9196,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",51-9197,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-1000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-2000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-2010,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-2012,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-3000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-3030,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-3050,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-3052,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-3053,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-5000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-5011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-5020,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-5021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-6000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-6021,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-6030,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-6031,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-6032,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-6051,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-6099,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-7000,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-7011,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-7060,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-7063,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-7070,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-7071,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-7072,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-7081,missing_in_mi,detailed
+8.0,"8. Motor Vehicle Parts, Materials, & Products Sales",53-7121,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-1000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-2020,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-3000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-3010,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-3013,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-3021,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-3051,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-3061,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-3071,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-3121,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",11-9000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1030,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1031,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1032,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1041,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1070,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1080,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1081,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1082,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1111,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1141,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-1151,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-2020,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-2041,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-2050,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-2051,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-2052,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-2054,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-2070,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-2071,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",13-2072,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1200,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1210,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1211,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1230,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1231,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1240,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1250,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1252,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1253,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1254,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1255,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-1299,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",15-2051,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",17-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",17-2070,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",17-2071,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",17-2141,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",17-3000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",17-3020,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",19-5000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",19-5011,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",23-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",23-2090,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",27-1000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",27-1020,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",27-1024,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",27-1026,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",27-3000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",27-3040,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",27-3042,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",27-3043,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",27-4000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",33-9000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",33-9030,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",35-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",35-3000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",35-3023,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",37-1000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",37-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",37-2010,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",37-3000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",37-3011,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",39-6000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",39-6011,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",39-6012,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",39-9000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",39-9099,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-1000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-1012,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-2010,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-2020,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-3000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-3011,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-3021,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-4000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-4011,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-9000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-9010,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-9011,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-9041,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-9090,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",41-9099,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-1000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-2011,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-2021,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-3000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-3061,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-3099,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-4000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-4021,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-4031,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-4041,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-4131,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-4161,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-5000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-5021,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-5030,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-5061,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-6000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-6011,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-9000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-9020,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-9021,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-9041,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",43-9071,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",47-1000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",47-1011,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",47-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",47-2031,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",47-2111,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",47-2121,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",47-2140,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-1000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-2090,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-2092,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-2096,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-3000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-3020,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-3040,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-3050,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-3051,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-3052,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-3053,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-3090,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-9000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-9021,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-9040,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-9041,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-9043,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",49-9090,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-1000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-4000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-4120,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-6000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-6031,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-6090,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-6093,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-9000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-9120,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-9123,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-9190,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",51-9198,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-1000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-2000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-2010,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-3000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-3030,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-3050,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-6000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-6030,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-6051,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-6099,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-7000,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-7051,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-7060,missing_in_mi,detailed
+9.0,"9. Dealers, Maintenance, & Repair",53-7199,missing_in_mi,detailed
+10.0,10. Logistics,11-1000,missing_in_mi,detailed
+10.0,10. Logistics,11-1011,missing_in_mi,detailed
+10.0,10. Logistics,11-2000,missing_in_mi,detailed
+10.0,10. Logistics,11-2020,missing_in_mi,detailed
+10.0,10. Logistics,11-2021,missing_in_mi,detailed
+10.0,10. Logistics,11-3000,missing_in_mi,detailed
+10.0,10. Logistics,11-3010,missing_in_mi,detailed
+10.0,10. Logistics,11-3013,missing_in_mi,detailed
+10.0,10. Logistics,11-3051,missing_in_mi,detailed
+10.0,10. Logistics,11-3061,missing_in_mi,detailed
+10.0,10. Logistics,11-3131,missing_in_mi,detailed
+10.0,10. Logistics,11-9000,missing_in_mi,detailed
+10.0,10. Logistics,11-9021,missing_in_mi,detailed
+10.0,10. Logistics,13-1000,missing_in_mi,detailed
+10.0,10. Logistics,13-1020,missing_in_mi,detailed
+10.0,10. Logistics,13-1030,missing_in_mi,detailed
+10.0,10. Logistics,13-1031,missing_in_mi,detailed
+10.0,10. Logistics,13-1051,missing_in_mi,detailed
+10.0,10. Logistics,13-1070,missing_in_mi,detailed
+10.0,10. Logistics,13-1080,missing_in_mi,detailed
+10.0,10. Logistics,13-1111,missing_in_mi,detailed
+10.0,10. Logistics,13-1141,missing_in_mi,detailed
+10.0,10. Logistics,13-2000,missing_in_mi,detailed
+10.0,10. Logistics,13-2050,missing_in_mi,detailed
+10.0,10. Logistics,13-2051,missing_in_mi,detailed
+10.0,10. Logistics,15-1200,missing_in_mi,detailed
+10.0,10. Logistics,15-1210,missing_in_mi,detailed
+10.0,10. Logistics,15-1211,missing_in_mi,detailed
+10.0,10. Logistics,15-1212,missing_in_mi,detailed
+10.0,10. Logistics,15-1230,missing_in_mi,detailed
+10.0,10. Logistics,15-1231,missing_in_mi,detailed
+10.0,10. Logistics,15-1240,missing_in_mi,detailed
+10.0,10. Logistics,15-1241,missing_in_mi,detailed
+10.0,10. Logistics,15-1250,missing_in_mi,detailed
+10.0,10. Logistics,15-1251,missing_in_mi,detailed
+10.0,10. Logistics,15-1254,missing_in_mi,detailed
+10.0,10. Logistics,15-1299,missing_in_mi,detailed
+10.0,10. Logistics,15-2000,missing_in_mi,detailed
+10.0,10. Logistics,15-2031,missing_in_mi,detailed
+10.0,10. Logistics,15-2051,missing_in_mi,detailed
+10.0,10. Logistics,17-2000,missing_in_mi,detailed
+10.0,10. Logistics,17-2110,missing_in_mi,detailed
+10.0,10. Logistics,17-2112,missing_in_mi,detailed
+10.0,10. Logistics,19-5000,missing_in_mi,detailed
+10.0,10. Logistics,19-5012,missing_in_mi,detailed
+10.0,10. Logistics,23-1000,missing_in_mi,detailed
+10.0,10. Logistics,23-1010,missing_in_mi,detailed
+10.0,10. Logistics,23-1011,missing_in_mi,detailed
+10.0,10. Logistics,27-1000,missing_in_mi,detailed
+10.0,10. Logistics,27-1020,missing_in_mi,detailed
+10.0,10. Logistics,27-1026,missing_in_mi,detailed
+10.0,10. Logistics,27-3000,missing_in_mi,detailed
+10.0,10. Logistics,27-3031,missing_in_mi,detailed
+10.0,10. Logistics,33-1000,missing_in_mi,detailed
+10.0,10. Logistics,33-1090,missing_in_mi,detailed
+10.0,10. Logistics,33-1091,missing_in_mi,detailed
+10.0,10. Logistics,33-9000,missing_in_mi,detailed
+10.0,10. Logistics,33-9030,missing_in_mi,detailed
+10.0,10. Logistics,35-2000,missing_in_mi,detailed
+10.0,10. Logistics,35-3000,missing_in_mi,detailed
+10.0,10. Logistics,35-3023,missing_in_mi,detailed
+10.0,10. Logistics,37-2011,missing_in_us,detailed
+10.0,10. Logistics,37-3000,missing_in_mi,detailed
+10.0,10. Logistics,37-3011,missing_in_mi,detailed
+10.0,10. Logistics,41-1000,missing_in_mi,detailed
+10.0,10. Logistics,41-1011,missing_in_mi,detailed
+10.0,10. Logistics,41-1012,missing_in_mi,detailed
+10.0,10. Logistics,41-2000,missing_in_mi,detailed
+10.0,10. Logistics,41-2020,missing_in_mi,detailed
+10.0,10. Logistics,41-2022,missing_in_mi,detailed
+10.0,10. Logistics,41-2031,missing_in_mi,detailed
+10.0,10. Logistics,41-3000,missing_in_mi,detailed
+10.0,10. Logistics,41-4000,missing_in_mi,detailed
+10.0,10. Logistics,41-9000,missing_in_mi,detailed
+10.0,10. Logistics,43-1000,missing_in_mi,detailed
+10.0,10. Logistics,43-2000,missing_in_mi,detailed
+10.0,10. Logistics,43-2011,missing_in_mi,detailed
+10.0,10. Logistics,43-3000,missing_in_mi,detailed
+10.0,10. Logistics,43-3011,missing_in_mi,detailed
+10.0,10. Logistics,43-3061,missing_in_mi,detailed
+10.0,10. Logistics,43-4000,missing_in_mi,detailed
+10.0,10. Logistics,43-4071,missing_in_mi,detailed
+10.0,10. Logistics,43-4151,missing_in_mi,detailed
+10.0,10. Logistics,43-4171,missing_in_mi,detailed
+10.0,10. Logistics,43-4199,missing_in_mi,detailed
+10.0,10. Logistics,43-5000,missing_in_mi,detailed
+10.0,10. Logistics,43-5030,missing_in_mi,detailed
+10.0,10. Logistics,43-5111,missing_in_mi,detailed
+10.0,10. Logistics,43-6000,missing_in_mi,detailed
+10.0,10. Logistics,43-6011,missing_in_mi,detailed
+10.0,10. Logistics,43-9000,missing_in_mi,detailed
+10.0,10. Logistics,43-9020,missing_in_mi,detailed
+10.0,10. Logistics,43-9021,missing_in_mi,detailed
+10.0,10. Logistics,43-9199,missing_in_mi,detailed
+10.0,10. Logistics,45-1000,missing_in_mi,detailed
+10.0,10. Logistics,45-1011,missing_in_mi,detailed
+10.0,10. Logistics,45-2000,missing_in_mi,detailed
+10.0,10. Logistics,45-2090,missing_in_mi,detailed
+10.0,10. Logistics,45-2091,missing_in_mi,detailed
+10.0,10. Logistics,45-2093,missing_in_mi,detailed
+10.0,10. Logistics,45-4000,missing_in_mi,detailed
+10.0,10. Logistics,45-4020,missing_in_mi,detailed
+10.0,10. Logistics,45-4022,missing_in_mi,detailed
+10.0,10. Logistics,47-1000,missing_in_mi,detailed
+10.0,10. Logistics,47-2000,missing_in_mi,detailed
+10.0,10. Logistics,47-2070,missing_in_mi,detailed
+10.0,10. Logistics,47-5000,missing_in_mi,detailed
+10.0,10. Logistics,47-5020,missing_in_mi,detailed
+10.0,10. Logistics,47-5071,missing_in_mi,detailed
+10.0,10. Logistics,49-1000,missing_in_mi,detailed
+10.0,10. Logistics,49-2000,missing_in_mi,detailed
+10.0,10. Logistics,49-2090,missing_in_mi,detailed
+10.0,10. Logistics,49-3000,missing_in_mi,detailed
+10.0,10. Logistics,49-3020,missing_in_mi,detailed
+10.0,10. Logistics,49-3021,missing_in_mi,detailed
+10.0,10. Logistics,49-3023,missing_in_mi,detailed
+10.0,10. Logistics,49-3040,missing_in_mi,detailed
+10.0,10. Logistics,49-3041,missing_in_mi,detailed
+10.0,10. Logistics,49-3042,missing_in_mi,detailed
+10.0,10. Logistics,49-3090,missing_in_mi,detailed
+10.0,10. Logistics,49-3093,missing_in_mi,detailed
+10.0,10. Logistics,49-9000,missing_in_mi,detailed
+10.0,10. Logistics,49-9021,missing_in_mi,detailed
+10.0,10. Logistics,49-9040,missing_in_mi,detailed
+10.0,10. Logistics,49-9041,missing_in_mi,detailed
+10.0,10. Logistics,49-9090,missing_in_mi,detailed
+10.0,10. Logistics,49-9096,missing_in_mi,detailed
+10.0,10. Logistics,51-1000,missing_in_mi,detailed
+10.0,10. Logistics,51-1011,missing_in_mi,detailed
+10.0,10. Logistics,51-4000,missing_in_mi,detailed
+10.0,10. Logistics,51-4120,missing_in_mi,detailed
+10.0,10. Logistics,51-4121,missing_in_mi,detailed
+10.0,10. Logistics,51-8000,missing_in_mi,detailed
+10.0,10. Logistics,51-8090,missing_in_mi,detailed
+10.0,10. Logistics,51-8093,missing_in_mi,detailed
+10.0,10. Logistics,51-9000,missing_in_mi,detailed
+10.0,10. Logistics,51-9061,missing_in_mi,detailed
+10.0,10. Logistics,51-9190,missing_in_mi,detailed
+10.0,10. Logistics,51-9199,missing_in_mi,detailed
+10.0,10. Logistics,53-1000,missing_in_mi,detailed
+10.0,10. Logistics,53-3000,missing_in_mi,detailed
+10.0,10. Logistics,53-3030,missing_in_mi,detailed
+10.0,10. Logistics,53-3050,missing_in_mi,detailed
+10.0,10. Logistics,53-3053,missing_in_mi,detailed
+10.0,10. Logistics,53-3099,missing_in_mi,detailed
+10.0,10. Logistics,53-4000,missing_in_mi,detailed
+10.0,10. Logistics,53-6000,missing_in_mi,detailed
+10.0,10. Logistics,53-6030,missing_in_mi,detailed
+10.0,10. Logistics,53-6031,missing_in_mi,detailed
+10.0,10. Logistics,53-6051,missing_in_mi,detailed
+10.0,10. Logistics,53-6099,missing_in_mi,detailed
+10.0,10. Logistics,53-7000,missing_in_mi,detailed
+10.0,10. Logistics,53-7021,missing_in_mi,detailed
+10.0,10. Logistics,53-7060,missing_in_mi,detailed
+10.0,10. Logistics,53-7064,missing_in_mi,detailed
+10.0,10. Logistics,53-7121,missing_in_mi,detailed
+10.0,10. Logistics,53-7199,missing_in_mi,detailed
+,Total,11-1011,missing_in_us,detailed
+,Total,11-1021,missing_in_us,detailed
+,Total,11-2021,missing_in_us,detailed
+,Total,11-2022,missing_in_us,detailed
+,Total,11-2032,missing_in_us,detailed
+,Total,11-3012,missing_in_us,detailed
+,Total,11-3013,missing_in_us,detailed
+,Total,11-3021,missing_in_us,detailed
+,Total,11-3031,missing_in_us,detailed
+,Total,11-3051,missing_in_us,detailed
+,Total,11-3061,missing_in_us,detailed
+,Total,11-3071,missing_in_us,detailed
+,Total,11-3111,missing_in_us,detailed
+,Total,11-3121,missing_in_us,detailed
+,Total,11-3131,missing_in_us,detailed
+,Total,11-9021,missing_in_us,detailed
+,Total,11-9041,missing_in_us,detailed
+,Total,11-9111,missing_in_us,detailed
+,Total,11-9121,missing_in_us,detailed
+,Total,11-9141,missing_in_us,detailed
+,Total,11-9199,missing_in_us,detailed
+,Total,13-1020,missing_in_us,detailed
+,Total,13-1031,missing_in_us,detailed
+,Total,13-1041,missing_in_us,detailed
+,Total,13-1051,missing_in_us,detailed
+,Total,13-1071,missing_in_us,detailed
+,Total,13-1075,missing_in_us,detailed
+,Total,13-1081,missing_in_us,detailed
+,Total,13-1082,missing_in_us,detailed
+,Total,13-1111,missing_in_us,detailed
+,Total,13-1121,missing_in_us,detailed
+,Total,13-1141,missing_in_us,detailed
+,Total,13-1151,missing_in_us,detailed
+,Total,13-1161,missing_in_us,detailed
+,Total,13-1199,missing_in_us,detailed
+,Total,13-2011,missing_in_us,detailed
+,Total,13-2031,missing_in_us,detailed
+,Total,13-2041,missing_in_us,detailed
+,Total,13-2051,missing_in_us,detailed
+,Total,13-2054,missing_in_us,detailed
+,Total,13-2071,missing_in_us,detailed
+,Total,13-2099,missing_in_us,detailed
+,Total,15-1211,missing_in_us,detailed
+,Total,15-1212,missing_in_us,detailed
+,Total,15-1231,missing_in_us,detailed
+,Total,15-1232,missing_in_us,detailed
+,Total,15-1241,missing_in_us,detailed
+,Total,15-1242,missing_in_us,detailed
+,Total,15-1243,missing_in_us,detailed
+,Total,15-1244,missing_in_us,detailed
+,Total,15-1251,missing_in_us,detailed
+,Total,15-1252,missing_in_us,detailed
+,Total,15-1253,missing_in_us,detailed
+,Total,15-1254,missing_in_us,detailed
+,Total,15-1255,missing_in_us,detailed
+,Total,15-1299,missing_in_us,detailed
+,Total,15-2031,missing_in_us,detailed
+,Total,15-2041,missing_in_us,detailed
+,Total,15-2051,missing_in_us,detailed
+,Total,17-1011,missing_in_us,detailed
+,Total,17-1012,missing_in_us,detailed
+,Total,17-1021,missing_in_us,detailed
+,Total,17-1022,missing_in_us,detailed
+,Total,17-2011,missing_in_us,detailed
+,Total,17-2031,missing_in_us,detailed
+,Total,17-2041,missing_in_us,detailed
+,Total,17-2051,missing_in_us,detailed
+,Total,17-2061,missing_in_us,detailed
+,Total,17-2071,missing_in_us,detailed
+,Total,17-2072,missing_in_us,detailed
+,Total,17-2081,missing_in_us,detailed
+,Total,17-2111,missing_in_us,detailed
+,Total,17-2112,missing_in_us,detailed
+,Total,17-2131,missing_in_us,detailed
+,Total,17-2141,missing_in_us,detailed
+,Total,17-2151,missing_in_us,detailed
+,Total,17-2199,missing_in_us,detailed
+,Total,17-3011,missing_in_us,detailed
+,Total,17-3012,missing_in_us,detailed
+,Total,17-3013,missing_in_us,detailed
+,Total,17-3019,missing_in_us,detailed
+,Total,17-3021,missing_in_us,detailed
+,Total,17-3022,missing_in_us,detailed
+,Total,17-3023,missing_in_us,detailed
+,Total,17-3024,missing_in_us,detailed
+,Total,17-3025,missing_in_us,detailed
+,Total,17-3026,missing_in_us,detailed
+,Total,17-3027,missing_in_us,detailed
+,Total,17-3028,missing_in_us,detailed
+,Total,17-3029,missing_in_us,detailed
+,Total,17-3031,missing_in_us,detailed
+,Total,19-1012,missing_in_us,detailed
+,Total,19-1013,missing_in_us,detailed
+,Total,19-1021,missing_in_us,detailed
+,Total,19-1022,missing_in_us,detailed
+,Total,19-1029,missing_in_us,detailed
+,Total,19-1042,missing_in_us,detailed
+,Total,19-2012,missing_in_us,detailed
+,Total,19-2031,missing_in_us,detailed
+,Total,19-2032,missing_in_us,detailed
+,Total,19-2041,missing_in_us,detailed
+,Total,19-2042,missing_in_us,detailed
+,Total,19-3011,missing_in_us,detailed
+,Total,19-3022,missing_in_us,detailed
+,Total,19-3041,missing_in_us,detailed
+,Total,19-3051,missing_in_us,detailed
+,Total,19-3099,missing_in_us,detailed
+,Total,19-4021,missing_in_us,detailed
+,Total,19-4031,missing_in_us,detailed
+,Total,19-4042,missing_in_us,detailed
+,Total,19-4043,missing_in_us,detailed
+,Total,19-4061,missing_in_us,detailed
+,Total,19-4099,missing_in_us,detailed
+,Total,19-5011,missing_in_us,detailed
+,Total,19-5012,missing_in_us,detailed
+,Total,21-1022,missing_in_us,detailed
+,Total,23-1011,missing_in_us,detailed
+,Total,23-2011,missing_in_us,detailed
+,Total,23-2093,missing_in_us,detailed
+,Total,23-2099,missing_in_us,detailed
+,Total,27-1011,missing_in_us,detailed
+,Total,27-1014,missing_in_us,detailed
+,Total,27-1021,missing_in_us,detailed
+,Total,27-1024,missing_in_us,detailed
+,Total,27-1025,missing_in_us,detailed
+,Total,27-1026,missing_in_us,detailed
+,Total,27-2012,missing_in_us,detailed
+,Total,27-3031,missing_in_us,detailed
+,Total,27-3041,missing_in_us,detailed
+,Total,27-3042,missing_in_us,detailed
+,Total,27-3043,missing_in_us,detailed
+,Total,27-3091,missing_in_us,detailed
+,Total,27-4021,missing_in_us,detailed
+,Total,29-1126,missing_in_us,detailed
+,Total,29-1141,missing_in_us,detailed
+,Total,29-1299,missing_in_us,detailed
+,Total,29-2010,missing_in_us,detailed
+,Total,29-2072,missing_in_us,detailed
+,Total,29-2091,missing_in_us,detailed
+,Total,29-9099,missing_in_us,detailed
+,Total,31-9093,missing_in_us,detailed
+,Total,33-1091,missing_in_us,detailed
+,Total,33-9032,missing_in_us,detailed
+,Total,35-1012,missing_in_us,detailed
+,Total,35-2021,missing_in_us,detailed
+,Total,35-3023,missing_in_us,detailed
+,Total,37-2011,missing_in_us,detailed
+,Total,37-3011,missing_in_us,detailed
+,Total,41-1011,missing_in_us,detailed
+,Total,41-1012,missing_in_us,detailed
+,Total,41-2011,missing_in_us,detailed
+,Total,41-2021,missing_in_us,detailed
+,Total,41-2022,missing_in_us,detailed
+,Total,41-2031,missing_in_us,detailed
+,Total,41-3031,missing_in_us,detailed
+,Total,41-3091,missing_in_us,detailed
+,Total,41-4011,missing_in_us,detailed
+,Total,41-4012,missing_in_us,detailed
+,Total,41-9031,missing_in_us,detailed
+,Total,41-9099,missing_in_us,detailed
+,Total,43-1011,missing_in_us,detailed
+,Total,43-3011,missing_in_us,detailed
+,Total,43-3021,missing_in_us,detailed
+,Total,43-3031,missing_in_us,detailed
+,Total,43-3051,missing_in_us,detailed
+,Total,43-3061,missing_in_us,detailed
+,Total,43-4041,missing_in_us,detailed
+,Total,43-4051,missing_in_us,detailed
+,Total,43-4071,missing_in_us,detailed
+,Total,43-4111,missing_in_us,detailed
+,Total,43-4151,missing_in_us,detailed
+,Total,43-4161,missing_in_us,detailed
+,Total,43-4171,missing_in_us,detailed
+,Total,43-4199,missing_in_us,detailed
+,Total,43-5011,missing_in_us,detailed
+,Total,43-5021,missing_in_us,detailed
+,Total,43-5032,missing_in_us,detailed
+,Total,43-5061,missing_in_us,detailed
+,Total,43-5071,missing_in_us,detailed
+,Total,43-5111,missing_in_us,detailed
+,Total,43-6011,missing_in_us,detailed
+,Total,43-6014,missing_in_us,detailed
+,Total,43-9021,missing_in_us,detailed
+,Total,43-9061,missing_in_us,detailed
+,Total,43-9199,missing_in_us,detailed
+,Total,47-1011,missing_in_us,detailed
+,Total,47-2031,missing_in_us,detailed
+,Total,47-2061,missing_in_us,detailed
+,Total,47-2073,missing_in_us,detailed
+,Total,47-2111,missing_in_us,detailed
+,Total,47-2121,missing_in_us,detailed
+,Total,47-2141,missing_in_us,detailed
+,Total,47-2152,missing_in_us,detailed
+,Total,47-2211,missing_in_us,detailed
+,Total,47-2221,missing_in_us,detailed
+,Total,47-4011,missing_in_us,detailed
+,Total,47-4041,missing_in_us,detailed
+,Total,47-5022,missing_in_us,detailed
+,Total,47-5023,missing_in_us,detailed
+,Total,49-1011,missing_in_us,detailed
+,Total,49-2011,missing_in_us,detailed
+,Total,49-2022,missing_in_us,detailed
+,Total,49-2094,missing_in_us,detailed
+,Total,49-3021,missing_in_us,detailed
+,Total,49-3022,missing_in_us,detailed
+,Total,49-3023,missing_in_us,detailed
+,Total,49-3031,missing_in_us,detailed
+,Total,49-3042,missing_in_us,detailed
+,Total,49-3053,missing_in_us,detailed
+,Total,49-3092,missing_in_us,detailed
+,Total,49-3093,missing_in_us,detailed
+,Total,49-9012,missing_in_us,detailed
+,Total,49-9021,missing_in_us,detailed
+,Total,49-9041,missing_in_us,detailed
+,Total,49-9043,missing_in_us,detailed
+,Total,49-9044,missing_in_us,detailed
+,Total,49-9045,missing_in_us,detailed
+,Total,49-9061,missing_in_us,detailed
+,Total,49-9062,missing_in_us,detailed
+,Total,49-9064,missing_in_us,detailed
+,Total,49-9069,missing_in_us,detailed
+,Total,49-9071,missing_in_us,detailed
+,Total,49-9098,missing_in_us,detailed
+,Total,49-9099,missing_in_us,detailed
+,Total,51-1011,missing_in_us,detailed
+,Total,51-2021,missing_in_us,detailed
+,Total,51-2028,missing_in_us,detailed
+,Total,51-2031,missing_in_us,detailed
+,Total,51-2041,missing_in_us,detailed
+,Total,51-2051,missing_in_us,detailed
+,Total,51-2061,missing_in_us,detailed
+,Total,51-2090,missing_in_us,detailed
+,Total,51-4021,missing_in_us,detailed
+,Total,51-4022,missing_in_us,detailed
+,Total,51-4023,missing_in_us,detailed
+,Total,51-4031,missing_in_us,detailed
+,Total,51-4032,missing_in_us,detailed
+,Total,51-4033,missing_in_us,detailed
+,Total,51-4034,missing_in_us,detailed
+,Total,51-4035,missing_in_us,detailed
+,Total,51-4041,missing_in_us,detailed
+,Total,51-4051,missing_in_us,detailed
+,Total,51-4052,missing_in_us,detailed
+,Total,51-4061,missing_in_us,detailed
+,Total,51-4062,missing_in_us,detailed
+,Total,51-4071,missing_in_us,detailed
+,Total,51-4072,missing_in_us,detailed
+,Total,51-4081,missing_in_us,detailed
+,Total,51-4111,missing_in_us,detailed
+,Total,51-4121,missing_in_us,detailed
+,Total,51-4122,missing_in_us,detailed
+,Total,51-4191,missing_in_us,detailed
+,Total,51-4192,missing_in_us,detailed
+,Total,51-4193,missing_in_us,detailed
+,Total,51-4194,missing_in_us,detailed
+,Total,51-4199,missing_in_us,detailed
+,Total,51-5111,missing_in_us,detailed
+,Total,51-5112,missing_in_us,detailed
+,Total,51-6031,missing_in_us,detailed
+,Total,51-6091,missing_in_us,detailed
+,Total,51-6093,missing_in_us,detailed
+,Total,51-7011,missing_in_us,detailed
+,Total,51-7031,missing_in_us,detailed
+,Total,51-7041,missing_in_us,detailed
+,Total,51-7042,missing_in_us,detailed
+,Total,51-8021,missing_in_us,detailed
+,Total,51-8031,missing_in_us,detailed
+,Total,51-8091,missing_in_us,detailed
+,Total,51-9011,missing_in_us,detailed
+,Total,51-9012,missing_in_us,detailed
+,Total,51-9021,missing_in_us,detailed
+,Total,51-9022,missing_in_us,detailed
+,Total,51-9023,missing_in_us,detailed
+,Total,51-9031,missing_in_us,detailed
+,Total,51-9032,missing_in_us,detailed
+,Total,51-9041,missing_in_us,detailed
+,Total,51-9051,missing_in_us,detailed
+,Total,51-9061,missing_in_us,detailed
+,Total,51-9082,missing_in_us,detailed
+,Total,51-9111,missing_in_us,detailed
+,Total,51-9123,missing_in_us,detailed
+,Total,51-9124,missing_in_us,detailed
+,Total,51-9141,missing_in_us,detailed
+,Total,51-9161,missing_in_us,detailed
+,Total,51-9162,missing_in_us,detailed
+,Total,51-9191,missing_in_us,detailed
+,Total,51-9192,missing_in_us,detailed
+,Total,51-9194,missing_in_us,detailed
+,Total,51-9195,missing_in_us,detailed
+,Total,51-9197,missing_in_us,detailed
+,Total,51-9198,missing_in_us,detailed
+,Total,51-9199,missing_in_us,detailed
+,Total,53-1047,missing_in_us,detailed
+,Total,53-3031,missing_in_us,detailed
+,Total,53-3032,missing_in_us,detailed
+,Total,53-3033,missing_in_us,detailed
+,Total,53-3053,missing_in_us,detailed
+,Total,53-3099,missing_in_us,detailed
+,Total,53-6021,missing_in_us,detailed
+,Total,53-6031,missing_in_us,detailed
+,Total,53-6099,missing_in_us,detailed
+,Total,53-7011,missing_in_us,detailed
+,Total,53-7021,missing_in_us,detailed
+,Total,53-7041,missing_in_us,detailed
+,Total,53-7051,missing_in_us,detailed
+,Total,53-7061,missing_in_us,detailed
+,Total,53-7062,missing_in_us,detailed
+,Total,53-7063,missing_in_us,detailed
+,Total,53-7064,missing_in_us,detailed
+,Total,53-7065,missing_in_us,detailed
+,Total,53-7199,missing_in_us,detailed

@@ -23,8 +23,8 @@ Use this log to record methodological decisions as the project evolves. Keeping 
 
 Add dated updates below as decisions are finalized:
 
-### YYYY-MM-DD
+### 2025-09-30
 
-- Decision: 
-- Rationale: 
-- Impact: 
+- Decision: Incorporate BLS 2024–2034 industry–occupation matrices as the national benchmark and compare segment shares against Michigan OEWS-derived staffing patterns.
+- Rationale: Enables direct benchmarking of MCDA segment staffing against US norms without waiting for CSV exports behind BLS access controls.
+- Impact: scripts/fetch_us_staffing.py, scripts/process_us_staffing_segments.py, and scripts/compare_us_mi_segments.py now produce side-by-side share comparisons and flag cases where broader NAICS fallbacks are used (e.g., 484000 for Truck Transportation).

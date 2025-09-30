@@ -1,0 +1,332 @@
+naics_code,Occupation Title,Occupation Code,Occupation Type,2024 Employment,2024 Percent of Industry,2024 Percent of Occupation,Projected 2034 Employment,Projected 2034 Percent of Industry,Projected 2034 Percent of Occupation,"Employment Change, 2024-2034","Employment Percent Change, 2024-2034",Occupation Sort,Display Level,source_url
+4247,"Total, all occupations",00-0000,Summary,540.0,100.0,0.3,546.4,100.0,0.3,6.4,1.2,,0.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Management occupations,11-0000,Summary,50.1,9.3,0.4,52.1,9.5,0.4,2.0,4.0,2.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Top executives,11-1000,Summary,26.7,4.9,0.7,27.6,5.0,0.7,0.9,3.3,3.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Chief executives,11-1011,Line Item,1.1,0.2,0.3,1.1,0.2,0.3,0.0,3.3,4.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,General and operations managers,11-1021,Line Item,25.6,4.7,0.7,26.5,4.8,0.7,0.8,3.3,5.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Advertising, marketing, promotions, public relations, and sales managers",11-2000,Summary,8.8,1.6,0.7,9.1,1.7,0.7,0.3,3.2,7.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Marketing and sales managers,11-2020,Summary,8.7,1.6,0.9,9.0,1.7,0.8,0.3,3.3,9.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Marketing managers,11-2021,Line Item,2.0,0.4,0.5,2.0,0.4,0.5,0.1,3.3,10.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Sales managers,11-2022,Line Item,6.8,1.3,1.1,7.0,1.3,1.1,0.2,3.3,11.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Operations specialties managers,11-3000,Summary,12.6,2.3,0.5,13.4,2.4,0.4,0.8,6.3,15.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Administrative services and facilities managers,11-3010,Summary,1.4,0.3,0.3,1.5,0.3,0.3,0.0,3.3,16.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Administrative services managers,11-3012,Line Item,1.1,0.2,0.4,1.1,0.2,0.4,0.0,3.3,17.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Facilities managers,11-3013,Line Item,0.4,0.1,0.2,0.4,0.1,0.2,0.0,3.3,18.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Computer and information systems managers,11-3021,Line Item,1.1,0.2,0.2,1.2,0.2,0.2,0.1,10.5,19.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Financial managers,11-3031,Line Item,2.9,0.5,0.3,3.3,0.6,0.3,0.4,13.6,20.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Industrial production managers,11-3051,Line Item,1.1,0.2,0.5,1.2,0.2,0.5,0.0,3.3,21.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Purchasing managers,11-3061,Line Item,0.8,0.2,1.0,0.8,0.2,1.0,0.0,3.3,22.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Transportation, storage, and distribution managers",11-3071,Line Item,4.6,0.8,2.1,4.7,0.9,2.1,0.2,3.3,23.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Human resources managers,11-3121,Line Item,0.5,0.1,0.2,0.6,0.1,0.2,0.0,3.3,25.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Other management occupations,11-9000,Summary,2.0,0.4,0.0,2.1,0.4,0.0,0.1,3.9,27.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Farmers, ranchers, and other agricultural managers",11-9013,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,28.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Construction managers,11-9021,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,8.4,29.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Architectural and engineering managers,11-9041,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,35.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Natural sciences managers,11-9121,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,3.3,42.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Managers, all other",11-9199,Line Item,1.4,0.3,0.1,1.5,0.3,0.1,0.0,3.3,50.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Business and financial operations occupations,13-0000,Summary,26.6,4.9,0.2,28.0,5.1,0.2,1.4,5.3,51.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Business operations specialists,13-1000,Summary,20.3,3.8,0.3,21.6,3.9,0.3,1.2,6.0,52.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Buyers and purchasing agents,13-1020,Line Item,5.7,1.1,1.1,6.2,1.1,1.1,0.5,8.4,54.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Compliance officers,13-1041,Line Item,0.5,0.1,0.1,0.5,0.1,0.1,0.0,3.3,58.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Cost estimators,13-1051,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,-5.0,59.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Human resources workers,13-1070,Summary,2.1,0.4,0.2,2.1,0.4,0.2,0.1,3.3,60.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Human resources specialists,13-1071,Line Item,2.1,0.4,0.2,2.1,0.4,0.2,0.1,3.3,61.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Logisticians and project management specialists,13-1080,Summary,2.9,0.5,0.2,3.2,0.6,0.2,0.3,11.5,64.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Logisticians,13-1081,Line Item,1.9,0.4,0.8,2.2,0.4,0.8,0.3,15.7,65.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Project management specialists,13-1082,Line Item,1.0,0.2,0.1,1.0,0.2,0.1,0.0,3.3,66.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Management analysts,13-1111,Line Item,0.7,0.1,0.1,0.8,0.1,0.1,0.0,3.3,67.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Compensation, benefits, and job analysis specialists",13-1141,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,3.3,70.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Training and development specialists,13-1151,Line Item,0.9,0.2,0.2,1.0,0.2,0.2,0.1,8.4,71.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Market research analysts and marketing specialists,13-1161,Line Item,4.3,0.8,0.5,4.4,0.8,0.4,0.1,3.3,72.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Business operations specialists, all other",13-1199,Line Item,2.8,0.5,0.2,2.9,0.5,0.2,0.1,3.3,73.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Financial specialists,13-2000,Summary,6.3,1.2,0.2,6.5,1.2,0.2,0.2,2.9,74.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Accountants and auditors,13-2011,Line Item,5.4,1.0,0.3,5.6,1.0,0.3,0.2,3.3,75.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Credit analysts,13-2041,Line Item,0.2,0.0,0.3,0.2,0.0,0.3,0.0,-7.1,78.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Financial analysts and advisors,13-2050,Summary,0.4,0.1,0.0,0.4,0.1,0.0,0.0,3.3,79.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Financial and investment analysts,13-2051,Line Item,0.3,0.1,0.1,0.3,0.1,0.1,0.0,3.3,80.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Financial risk specialists,13-2054,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,83.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Financial specialists, all other",13-2099,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,3.3,91.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Computer and mathematical occupations,15-0000,Summary,6.7,1.2,0.1,6.8,1.2,0.1,0.1,1.5,92.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Computer occupations,15-1200,Summary,6.4,1.2,0.1,6.4,1.2,0.1,0.0,0.1,93.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Computer and information analysts,15-1210,Summary,0.8,0.1,0.1,0.8,0.1,0.1,0.1,6.7,94.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Computer systems analysts,15-1211,Line Item,0.7,0.1,0.1,0.7,0.1,0.1,0.0,4.3,95.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Information security analysts,15-1212,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,22.9,96.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Computer support specialists,15-1230,Summary,1.9,0.3,0.2,1.7,0.3,0.2,-0.1,-6.2,98.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Computer network support specialists,15-1231,Line Item,0.3,0.1,0.2,0.3,0.1,0.2,0.0,-1.9,99.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Computer user support specialists,15-1232,Line Item,1.5,0.3,0.2,1.4,0.3,0.2,-0.1,-7.1,100.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Database and network administrators and architects,15-1240,Summary,1.1,0.2,0.2,1.0,0.2,0.2,0.0,-4.6,101.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Computer network architects,15-1241,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,8.4,102.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Database administrators,15-1242,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,-4.0,103.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Database architects,15-1243,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,104.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Network and computer systems administrators,15-1244,Line Item,0.8,0.1,0.2,0.7,0.1,0.2,-0.1,-7.1,105.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Software and web developers, programmers, and testers",15-1250,Summary,2.1,0.4,0.1,2.2,0.4,0.1,0.1,4.7,106.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Software developers,15-1252,Line Item,1.2,0.2,0.1,1.3,0.2,0.1,0.1,8.4,108.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Software quality assurance analysts and testers,15-1253,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,109.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Web developers,15-1254,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,3.3,110.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Web and digital interface designers,15-1255,Line Item,0.3,0.1,0.2,0.3,0.1,0.2,0.0,3.3,111.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Computer occupations, all other",15-1299,Line Item,0.6,0.1,0.1,0.6,0.1,0.1,0.0,3.3,112.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Mathematical science occupations,15-2000,Summary,0.4,0.1,0.1,0.5,0.1,0.1,0.1,26.9,113.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Operations research analysts,15-2031,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,18.8,116.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Data scientists,15-2051,Line Item,0.3,0.1,0.1,0.4,0.1,0.1,0.1,29.1,118.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Architecture and engineering occupations,17-0000,Summary,1.3,0.2,0.0,1.4,0.3,0.1,0.1,7.5,120.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Architects, surveyors, and cartographers",17-1000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,121.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Engineers,17-2000,Summary,1.1,0.2,0.1,1.2,0.2,0.1,0.1,8.6,128.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Industrial engineers, including health and safety",17-2110,Summary,0.6,0.1,0.1,0.6,0.1,0.1,0.1,11.3,139.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Health and safety engineers, except mining safety engineers and inspectors",17-2111,Line Item,0.1,0.0,0.3,0.1,0.0,0.3,0.0,3.3,140.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Industrial engineers,17-2112,Line Item,0.5,0.1,0.1,0.5,0.1,0.1,0.1,12.6,141.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Mechanical engineers,17-2141,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,11.5,144.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Engineers, all other",17-2199,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,148.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Drafters, engineering technicians, and mapping technicians",17-3000,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,1.3,149.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Engineering technologists and technicians, except drafters",17-3020,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.0,155.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Engineering technologists and technicians, except drafters, all other",17-3029,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,164.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Life, physical, and social science occupations",19-0000,Summary,3.7,0.7,0.2,3.9,0.7,0.2,0.2,4.1,166.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Life scientists,19-1000,Summary,1.7,0.3,0.4,1.7,0.3,0.4,0.1,3.3,167.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Agricultural and food scientists,19-1010,Summary,1.4,0.3,3.7,1.5,0.3,3.6,0.0,3.3,168.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Animal scientists,19-1011,Line Item,0.1,0.0,2.5,0.1,0.0,2.5,0.0,3.3,169.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Food scientists and technologists,19-1012,Line Item,0.1,0.0,0.7,0.1,0.0,0.6,0.0,3.3,170.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Soil and plant scientists,19-1013,Line Item,1.3,0.2,6.1,1.3,0.2,6.0,0.0,3.3,171.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Physical scientists,19-2000,Summary,0.2,0.0,0.1,0.2,0.0,0.1,0.0,3.3,184.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Chemists and materials scientists,19-2030,Summary,0.2,0.0,0.2,0.2,0.0,0.2,0.0,3.3,189.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Chemists,19-2031,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,3.3,190.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Life, physical, and social science technicians",19-4000,Summary,1.4,0.3,0.3,1.5,0.3,0.3,0.0,3.3,213.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Agricultural and food science technicians,19-4010,Summary,1.2,0.2,3.1,1.2,0.2,3.0,0.0,3.3,214.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Agricultural technicians,19-4012,Line Item,1.2,0.2,6.3,1.2,0.2,6.2,0.0,3.3,215.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Chemical technicians,19-4031,Line Item,0.2,0.0,0.3,0.2,0.0,0.3,0.0,3.3,218.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Miscellaneous life, physical, and social science technicians",19-4090,Summary,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,226.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Life, physical, and social science technicians, all other",19-4099,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,228.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Occupational health and safety specialists and technicians,19-5000,Summary,0.4,0.1,0.2,0.4,0.1,0.2,0.0,11.7,229.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Occupational health and safety specialists,19-5011,Line Item,0.2,0.0,0.2,0.3,0.1,0.2,0.0,14.6,230.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Occupational health and safety technicians,19-5012,Line Item,0.1,0.0,0.4,0.1,0.0,0.4,0.0,6.4,231.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Legal occupations,23-0000,Summary,0.2,0.0,0.0,0.3,0.0,0.0,0.0,2.6,255.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Lawyers, judges, and related workers",23-1000,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,256.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Lawyers and judicial law clerks,23-1010,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,257.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Lawyers,23-1011,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,258.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Educational instruction and library occupations,25-0000,Summary,0.4,0.1,0.0,0.4,0.1,0.0,0.0,3.1,269.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Librarians, curators, and archivists",25-4000,Summary,0.3,0.1,0.1,0.3,0.1,0.1,0.0,3.3,341.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Librarians and media collections specialists,25-4022,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,3.3,346.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Arts, design, entertainment, sports, and media occupations",27-0000,Summary,10.8,2.0,0.4,11.1,2.0,0.4,0.3,3.2,355.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Art and design workers,27-1000,Summary,9.9,1.8,1.0,10.2,1.9,1.0,0.3,3.3,356.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Artists and related workers,27-1010,Summary,0.4,0.1,0.2,0.4,0.1,0.2,0.0,3.3,357.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Art directors,27-1011,Line Item,0.3,0.1,0.2,0.3,0.1,0.2,0.0,3.3,358.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Designers,27-1020,Summary,9.4,1.7,1.3,9.7,1.8,1.4,0.3,3.3,363.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Commercial and industrial designers,27-1021,Line Item,0.3,0.1,1.0,0.3,0.1,1.0,0.0,3.3,364.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Floral designers,27-1023,Line Item,1.3,0.2,3.0,1.4,0.2,3.3,0.0,3.3,366.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Graphic designers,27-1024,Line Item,2.4,0.4,0.9,2.4,0.4,0.9,0.1,3.3,367.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Merchandise displayers and window trimmers,27-1026,Line Item,5.2,1.0,2.7,5.3,1.0,2.7,0.2,3.3,369.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Media and communication workers,27-3000,Summary,0.6,0.1,0.1,0.6,0.1,0.1,0.0,2.9,390.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Public relations specialists,27-3031,Line Item,0.3,0.1,0.1,0.3,0.1,0.1,0.0,3.3,393.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Writers and editors,27-3040,Summary,0.3,0.0,0.1,0.3,0.0,0.1,0.0,2.5,394.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Editors,27-3041,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,395.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Writers and authors,27-3043,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,397.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Media and communication equipment workers,27-4000,Summary,0.3,0.0,0.1,0.3,0.0,0.1,0.0,-0.6,402.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Photographers,27-4021,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,408.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Healthcare practitioners and technical occupations,29-0000,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,414.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Healthcare diagnosing or treating practitioners,29-1000,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,415.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Dietitians and nutritionists,29-1031,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,423.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Protective service occupations,33-0000,Summary,0.3,0.0,0.0,0.3,0.0,0.0,0.0,-0.5,524.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Other protective service workers,33-9000,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,-0.7,548.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Security guards and gambling surveillance officers,33-9030,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,-5.0,551.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Security guards,33-9032,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,-5.0,553.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Food preparation and serving related occupations,35-0000,Summary,0.9,0.2,0.0,0.9,0.2,0.0,0.0,3.3,560.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Supervisors of food preparation and serving workers,35-1000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,561.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,First-line supervisors of food preparation and serving workers,35-1012,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,563.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Cooks and food preparation workers,35-2000,Summary,0.4,0.1,0.0,0.4,0.1,0.0,0.0,3.4,564.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Cooks,35-2010,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.4,565.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Cooks, fast food",35-2011,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,566.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Cooks, short order",35-2015,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,570.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Food preparation workers,35-2021,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,572.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Food and beverage serving workers,35-3000,Summary,0.3,0.1,0.0,0.3,0.1,0.0,0.0,3.3,573.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Fast food and counter workers,35-3023,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,575.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Building and grounds cleaning and maintenance occupations,37-0000,Summary,5.9,1.1,0.1,6.1,1.1,0.1,0.2,3.3,583.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Supervisors of building and grounds cleaning and maintenance workers,37-1000,Summary,0.3,0.1,0.1,0.3,0.1,0.1,0.0,3.3,584.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",37-1012,Line Item,0.2,0.0,0.1,0.3,0.0,0.1,0.0,3.3,586.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Building cleaning and pest control workers,37-2000,Summary,1.7,0.3,0.0,1.8,0.3,0.0,0.1,3.3,587.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Building cleaning workers,37-2010,Summary,1.7,0.3,0.0,1.8,0.3,0.0,0.1,3.3,588.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Janitors and cleaners, except maids and housekeeping cleaners",37-2011,Line Item,1.7,0.3,0.1,1.8,0.3,0.1,0.1,3.3,589.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Grounds maintenance workers,37-3000,Summary,3.9,0.7,0.3,4.0,0.7,0.3,0.1,3.3,593.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Landscaping and groundskeeping workers,37-3011,Line Item,0.6,0.1,0.1,0.7,0.1,0.1,0.0,3.3,594.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Pesticide handlers, sprayers, and applicators, vegetation",37-3012,Line Item,3.2,0.6,10.9,3.3,0.6,10.8,0.1,3.3,595.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Personal care and service occupations,39-0000,Summary,0.3,0.0,0.0,0.3,0.0,0.0,0.0,3.3,598.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Animal care and service workers,39-2000,Summary,0.3,0.0,0.1,0.3,0.0,0.1,0.0,3.3,604.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Animal caretakers,39-2021,Line Item,0.3,0.0,0.1,0.3,0.0,0.1,0.0,3.3,606.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Sales and related occupations,41-0000,Summary,96.1,17.8,0.7,95.8,17.5,0.7,-0.3,-0.3,646.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Supervisors of sales workers,41-1000,Summary,6.1,1.1,0.3,6.3,1.2,0.4,0.2,3.3,647.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,First-line supervisors of retail sales workers,41-1011,Line Item,2.6,0.5,0.2,2.7,0.5,0.2,0.1,3.3,648.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,First-line supervisors of non-retail sales workers,41-1012,Line Item,3.5,0.6,1.1,3.6,0.7,1.1,0.1,3.3,649.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Retail sales workers,41-2000,Summary,15.6,2.9,0.2,15.1,2.8,0.2,-0.6,-3.5,650.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Cashiers,41-2010,Summary,6.9,1.3,0.2,6.0,1.1,0.2,-0.8,-12.2,651.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Cashiers,41-2011,Line Item,6.9,1.3,0.2,6.0,1.1,0.2,-0.8,-12.2,652.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Counter and rental clerks and parts salespersons,41-2020,Summary,1.0,0.2,0.1,1.0,0.2,0.1,0.0,3.3,654.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Counter and rental clerks,41-2021,Line Item,0.8,0.2,0.2,0.8,0.2,0.2,0.0,3.3,655.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Parts salespersons,41-2022,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,3.3,656.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Retail salespersons,41-2031,Line Item,7.8,1.4,0.2,8.0,1.5,0.2,0.3,3.3,657.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Sales representatives, services",41-3000,Summary,1.8,0.3,0.1,1.8,0.3,0.1,0.0,-0.8,658.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Sales representatives of services, except advertising, insurance, financial services, and travel",41-3091,Line Item,1.5,0.3,0.1,1.5,0.3,0.1,0.0,0.2,663.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Sales representatives, wholesale and manufacturing",41-4000,Summary,71.6,13.3,4.4,71.6,13.1,4.4,0.0,0.0,664.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Sales representatives, wholesale and manufacturing, technical and scientific products",41-4011,Line Item,5.3,1.0,1.8,5.2,1.0,1.7,-0.1,-1.9,665.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Sales representatives, wholesale and manufacturing, except technical and scientific products",41-4012,Line Item,66.2,12.3,5.1,66.3,12.1,5.0,0.1,0.2,666.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Other sales and related workers,41-9000,Summary,1.0,0.2,0.1,1.0,0.2,0.1,0.0,1.9,667.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Models, demonstrators, and product promoters",41-9010,Summary,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,668.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Demonstrators and product promoters,41-9011,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,669.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Sales and related workers, all other",41-9099,Line Item,0.7,0.1,0.6,0.7,0.1,0.6,0.0,3.3,678.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Office and administrative support occupations,43-0000,Summary,87.1,16.1,0.5,81.5,14.9,0.4,-5.6,-6.4,679.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Supervisors of office and administrative support workers,43-1000,Summary,7.7,1.4,0.5,7.6,1.4,0.5,-0.1,-1.9,680.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,First-line supervisors of office and administrative support workers,43-1011,Line Item,7.7,1.4,0.5,7.6,1.4,0.5,-0.1,-1.9,681.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Financial clerks,43-3000,Summary,18.5,3.4,0.7,17.2,3.1,0.6,-1.3,-7.2,686.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Bill and account collectors,43-3011,Line Item,0.4,0.1,0.2,0.4,0.1,0.2,0.0,-7.1,687.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Billing and posting clerks,43-3021,Line Item,2.1,0.4,0.5,2.0,0.4,0.5,-0.1,-7.1,688.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Bookkeeping, accounting, and auditing clerks",43-3031,Line Item,14.8,2.7,0.9,13.8,2.5,0.9,-1.0,-7.1,689.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Payroll and timekeeping clerks,43-3051,Line Item,0.4,0.1,0.2,0.3,0.1,0.2,-0.1,-17.4,691.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Procurement clerks,43-3061,Line Item,0.8,0.1,1.3,0.7,0.1,1.3,-0.1,-7.1,692.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Information and record clerks,43-4000,Summary,19.4,3.6,0.4,17.9,3.3,0.3,-1.6,-8.1,695.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Credit authorizers, checkers, and clerks",43-4041,Line Item,0.1,0.0,1.0,0.1,0.0,1.0,0.0,-7.1,699.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Customer service representatives,43-4051,Line Item,15.6,2.9,0.6,14.5,2.7,0.5,-1.1,-7.1,700.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,File clerks,43-4071,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,-17.4,702.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Order clerks,43-4151,Line Item,2.4,0.5,2.7,2.0,0.4,2.7,-0.4,-17.4,708.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Human resources assistants, except payroll and timekeeping",43-4161,Line Item,0.2,0.0,0.2,0.1,0.0,0.2,0.0,-7.1,709.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Receptionists and information clerks,43-4171,Line Item,1.0,0.2,0.1,0.9,0.2,0.1,0.0,-2.9,710.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Material recording, scheduling, dispatching, and distributing workers",43-5000,Summary,17.8,3.3,0.7,16.8,3.1,0.7,-1.0,-5.7,713.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Cargo and freight agents,43-5011,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,714.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Dispatchers,43-5030,Summary,2.2,0.4,0.7,2.1,0.4,0.6,0.0,-1.9,716.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Dispatchers, except police, fire, and ambulance",43-5032,Line Item,2.2,0.4,1.0,2.1,0.4,1.0,0.0,-1.9,718.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Production, planning, and expediting clerks",43-5061,Line Item,2.4,0.4,0.6,2.3,0.4,0.6,0.0,-1.9,724.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Shipping, receiving, and inventory clerks",43-5071,Line Item,12.8,2.4,1.5,11.9,2.2,1.5,-0.9,-7.1,725.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Weighers, measurers, checkers, and samplers, recordkeeping",43-5111,Line Item,0.4,0.1,0.8,0.4,0.1,0.8,0.0,-7.1,726.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Secretaries and administrative assistants,43-6000,Summary,6.3,1.2,0.2,6.2,1.1,0.2,-0.1,-1.9,727.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Executive secretaries and executive administrative assistants,43-6011,Line Item,0.9,0.2,0.2,0.8,0.2,0.2,0.0,-1.9,728.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Secretaries and administrative assistants, except legal, medical, and executive",43-6014,Line Item,5.4,1.0,0.3,5.3,1.0,0.3,-0.1,-1.9,731.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Other office and administrative support workers,43-9000,Summary,17.3,3.2,0.5,15.9,2.9,0.5,-1.4,-8.0,732.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Data entry and information processing workers,43-9020,Summary,0.8,0.1,0.4,0.6,0.1,0.4,-0.2,-27.9,733.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Data entry keyers,43-9021,Line Item,0.8,0.1,0.5,0.6,0.1,0.5,-0.2,-27.7,734.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Mail clerks and mail machine operators, except postal service",43-9051,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,-7.1,738.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Office clerks, general",43-9061,Line Item,15.9,3.0,0.6,14.8,2.7,0.6,-1.1,-7.1,739.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Proofreaders and copy markers,43-9081,Line Item,0.1,0.0,0.6,0.1,0.0,0.6,0.0,3.3,741.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Office and administrative support workers, all other",43-9199,Line Item,0.3,0.1,0.1,0.3,0.0,0.1,0.0,-9.1,743.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Farming, fishing, and forestry occupations",45-0000,Summary,25.6,4.7,2.5,26.8,4.9,2.7,1.2,4.6,744.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Supervisors of farming, fishing, and forestry workers",45-1000,Summary,1.7,0.3,2.5,1.7,0.3,2.6,0.1,3.3,745.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"First-line supervisors of farming, fishing, and forestry workers",45-1011,Line Item,1.7,0.3,2.5,1.7,0.3,2.6,0.1,3.3,746.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Agricultural workers,45-2000,Summary,24.0,4.4,2.8,25.1,4.6,3.0,1.1,4.7,747.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Graders and sorters, agricultural products",45-2041,Line Item,0.2,0.0,0.4,0.1,0.0,0.4,0.0,-7.1,750.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Miscellaneous agricultural workers,45-2090,Summary,23.8,4.4,3.0,24.9,4.6,3.2,1.1,4.8,751.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Agricultural equipment operators,45-2091,Line Item,7.1,1.3,10.8,7.6,1.4,10.9,0.6,8.4,752.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Farmworkers and laborers, crop, nursery, and greenhouse",45-2092,Line Item,16.4,3.0,3.3,17.0,3.1,3.5,0.5,3.3,753.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Farmworkers, farm, ranch, and aquacultural animals",45-2093,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,-1.9,754.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Agricultural workers, all other",45-2099,Line Item,0.1,0.0,1.5,0.2,0.0,1.5,0.0,3.3,755.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Construction and extraction occupations,47-0000,Summary,1.5,0.3,0.0,1.5,0.3,0.0,0.0,3.1,765.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Supervisors of construction and extraction workers,47-1000,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,766.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,First-line supervisors of construction trades and extraction workers,47-1011,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,767.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Construction trades workers,47-2000,Summary,1.2,0.2,0.0,1.2,0.2,0.0,0.0,3.0,768.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Construction laborers,47-2061,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,782.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Construction equipment operators,47-2070,Summary,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,783.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Operating engineers and other construction equipment operators,47-2073,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,786.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Electricians,47-2111,Line Item,0.1,0.0,0.0,0.1,0.0,0.0,0.0,3.3,790.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Painters and paperhangers,47-2140,Summary,0.2,0.0,0.1,0.2,0.0,0.1,0.0,3.3,795.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Painters, construction and maintenance",47-2141,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,3.3,796.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Pipelayers, plumbers, pipefitters, and steamfitters",47-2150,Summary,0.1,0.0,0.0,0.2,0.0,0.0,0.0,3.3,798.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Plumbers, pipefitters, and steamfitters",47-2152,Line Item,0.1,0.0,0.0,0.2,0.0,0.0,0.0,3.3,800.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Extraction workers,47-5000,Summary,0.1,0.0,0.1,0.1,0.0,0.1,0.0,3.3,824.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Surface mining machine operators and earth drillers,47-5020,Summary,0.1,0.0,0.2,0.1,0.0,0.2,0.0,3.3,829.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Excavating and loading machine and dragline operators, surface mining",47-5022,Line Item,0.1,0.0,0.2,0.1,0.0,0.2,0.0,3.3,830.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Installation, maintenance, and repair occupations",49-0000,Summary,15.8,2.9,0.2,16.3,3.0,0.2,0.5,3.2,842.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Supervisors of installation, maintenance, and repair workers",49-1000,Summary,1.4,0.3,0.2,1.4,0.3,0.2,0.0,3.3,843.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"First-line supervisors of mechanics, installers, and repairers",49-1011,Line Item,1.4,0.3,0.2,1.4,0.3,0.2,0.0,3.3,844.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Electrical and electronic equipment mechanics, installers, and repairers",49-2000,Summary,0.8,0.1,0.2,0.8,0.1,0.2,0.0,3.0,845.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Computer, automated teller, and office machine repairers",49-2011,Line Item,0.6,0.1,0.8,0.7,0.1,0.8,0.0,3.3,846.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Miscellaneous electrical and electronic equipment mechanics, installers, and repairers",49-2090,Summary,0.1,0.0,0.0,0.1,0.0,0.0,0.0,1.5,850.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Electrical and electronics repairers, commercial and industrial equipment",49-2094,Line Item,0.1,0.0,0.1,0.1,0.0,0.1,0.0,0.2,854.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Vehicle and mobile equipment mechanics, installers, and repairers",49-3000,Summary,4.4,0.8,0.2,4.5,0.8,0.2,0.2,3.4,859.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Aircraft mechanics and service technicians,49-3011,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,3.3,860.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Automotive technicians and repairers,49-3020,Summary,0.8,0.1,0.1,0.8,0.1,0.1,0.0,3.3,861.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Automotive service technicians and mechanics,49-3023,Line Item,0.6,0.1,0.1,0.7,0.1,0.1,0.0,3.3,864.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Bus and truck mechanics and diesel engine specialists,49-3031,Line Item,1.5,0.3,0.5,1.6,0.3,0.5,0.1,3.3,865.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Heavy vehicle and mobile equipment service technicians and mechanics,49-3040,Summary,1.6,0.3,0.7,1.7,0.3,0.6,0.1,3.3,866.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Farm equipment mechanics and service technicians,49-3041,Line Item,1.3,0.2,3.3,1.3,0.2,3.1,0.0,3.3,867.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Mobile heavy equipment mechanics, except engines",49-3042,Line Item,0.3,0.1,0.2,0.4,0.1,0.2,0.0,3.3,868.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",49-3090,Summary,0.2,0.0,0.1,0.2,0.0,0.1,0.0,6.4,874.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Tire repairers and changers,49-3093,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,6.4,877.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Other installation, maintenance, and repair occupations",49-9000,Summary,9.3,1.7,0.3,9.6,1.7,0.3,0.3,3.1,878.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Control and valve installers and repairers,49-9010,Summary,0.4,0.1,0.5,0.4,0.1,0.5,0.0,3.3,879.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Control and valve installers and repairers, except mechanical door",49-9012,Line Item,0.4,0.1,0.7,0.4,0.1,0.8,0.0,3.3,881.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Heating, air conditioning, and refrigeration mechanics and installers",49-9021,Line Item,0.6,0.1,0.1,0.6,0.1,0.1,0.0,3.3,882.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Home appliance repairers,49-9031,Line Item,0.1,0.0,0.3,0.1,0.0,0.3,0.0,3.3,883.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Industrial machinery installation, repair, and maintenance workers",49-9040,Summary,2.1,0.4,0.4,2.1,0.4,0.4,0.0,2.3,884.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Industrial machinery mechanics,49-9041,Line Item,1.6,0.3,0.4,1.7,0.3,0.3,0.1,3.3,885.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Maintenance workers, machinery",49-9043,Line Item,0.4,0.1,0.7,0.4,0.1,0.7,0.0,-1.9,886.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Maintenance and repair workers, general",49-9071,Line Item,4.9,0.9,0.3,5.1,0.9,0.3,0.2,3.3,898.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Miscellaneous installation, maintenance, and repair workers",49-9090,Summary,1.2,0.2,0.3,1.3,0.2,0.3,0.0,3.3,900.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Helpers--installation, maintenance, and repair workers",49-9098,Line Item,0.2,0.0,0.2,0.2,0.0,0.2,0.0,3.3,907.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Installation, maintenance, and repair workers, all other",49-9099,Line Item,1.0,0.2,0.4,1.0,0.2,0.4,0.0,3.3,908.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Production occupations,51-0000,Summary,25.7,4.8,0.3,26.0,4.8,0.3,0.3,1.3,909.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Supervisors of production workers,51-1000,Summary,2.8,0.5,0.4,2.9,0.5,0.4,0.1,3.3,910.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,First-line supervisors of production and operating workers,51-1011,Line Item,2.8,0.5,0.4,2.9,0.5,0.4,0.1,3.3,911.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Assemblers and fabricators,51-2000,Summary,3.7,0.7,0.2,3.8,0.7,0.2,0.1,2.6,912.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Miscellaneous assemblers and fabricators,51-2090,Line Item,3.5,0.7,0.2,3.7,0.7,0.2,0.1,3.3,921.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Food processing workers,51-3000,Summary,0.4,0.1,0.0,0.4,0.1,0.0,0.0,2.8,922.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Miscellaneous food processing workers,51-3090,Summary,0.4,0.1,0.1,0.4,0.1,0.1,0.0,2.8,928.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Food batchmakers,51-3092,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,3.3,930.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Food processing workers, all other",51-3099,Line Item,0.1,0.0,0.2,0.1,0.0,0.2,0.0,3.3,932.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Metal workers and plastic workers,51-4000,Summary,1.0,0.2,0.1,1.0,0.2,0.1,0.0,-0.4,933.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Forming machine setters, operators, and tenders, metal and plastic",51-4020,Summary,0.1,0.0,0.1,0.1,0.0,0.1,0.0,-1.9,934.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Extruding and drawing machine setters, operators, and tenders, metal and plastic",51-4021,Line Item,0.1,0.0,0.2,0.1,0.0,0.2,0.0,-1.9,935.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Machine tool cutting setters, operators, and tenders, metal and plastic",51-4030,Summary,0.2,0.0,0.1,0.2,0.0,0.1,0.0,-8.2,938.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",51-4031,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,-7.1,939.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Machinists,51-4041,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,3.3,944.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Welding, soldering, and brazing workers",51-4120,Summary,0.3,0.1,0.1,0.3,0.1,0.1,0.0,3.3,956.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Welders, cutters, solderers, and brazers",51-4121,Line Item,0.3,0.1,0.1,0.3,0.1,0.1,0.0,3.3,957.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Printing workers,51-5100,Summary,2.1,0.4,1.0,2.1,0.4,1.1,0.1,3.3,965.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Prepress technicians and workers,51-5111,Line Item,0.1,0.0,0.2,0.1,0.0,0.3,0.0,3.3,966.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Printing press operators,51-5112,Line Item,1.9,0.4,1.3,2.0,0.4,1.4,0.1,3.3,967.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Print binding and finishing workers,51-5113,Line Item,0.1,0.0,0.2,0.1,0.0,0.3,0.0,3.3,968.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Sewing machine operators,51-6031,Line Item,0.4,0.1,0.3,0.4,0.1,0.4,0.0,3.3,972.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Plant and system operators,51-8000,Summary,2.3,0.4,0.8,2.4,0.4,0.8,0.1,3.0,999.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Miscellaneous plant and system operators,51-8090,Summary,2.3,0.4,2.7,2.4,0.4,2.9,0.1,3.1,1006.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Petroleum pump system operators, refinery operators, and gaugers",51-8093,Line Item,1.9,0.4,5.5,2.0,0.4,5.9,0.1,3.3,1009.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Other production occupations,51-9000,Summary,12.3,2.3,0.5,12.3,2.2,0.5,0.0,-0.3,1011.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Chemical processing machine setters, operators, and tenders",51-9010,Summary,0.4,0.1,0.2,0.4,0.1,0.2,0.0,3.3,1012.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Chemical equipment operators and tenders,51-9011,Line Item,0.2,0.0,0.1,0.2,0.0,0.1,0.0,3.3,1013.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",51-9012,Line Item,0.3,0.0,0.5,0.3,0.0,0.5,0.0,3.3,1014.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Crushing, grinding, polishing, mixing, and blending workers",51-9020,Summary,2.9,0.5,2.0,2.7,0.5,2.0,-0.2,-6.3,1015.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Crushing, grinding, and polishing machine setters, operators, and tenders",51-9021,Line Item,0.5,0.1,1.6,0.5,0.1,1.7,0.0,-1.9,1016.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Mixing and blending machine setters, operators, and tenders",51-9023,Line Item,2.4,0.4,2.3,2.2,0.4,2.3,-0.2,-7.1,1018.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Cutting workers,51-9030,Summary,0.2,0.0,0.4,0.2,0.0,0.4,0.0,-0.2,1019.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Cutting and slicing machine setters, operators, and tenders",51-9032,Line Item,0.2,0.0,0.4,0.2,0.0,0.4,0.0,3.3,1021.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51-9041,Line Item,0.8,0.1,1.3,0.8,0.1,1.3,0.0,3.3,1022.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Inspectors, testers, sorters, samplers, and weighers",51-9061,Line Item,1.5,0.3,0.3,1.5,0.3,0.2,0.0,-1.9,1024.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Packaging and filling machine operators and tenders,51-9111,Line Item,2.8,0.5,0.7,2.9,0.5,0.7,0.1,3.3,1030.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Painting workers,51-9120,Summary,0.1,0.0,0.1,0.2,0.0,0.1,0.0,3.3,1031.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Coating, painting, and spraying machine setters, operators, and tenders",51-9124,Line Item,0.1,0.0,0.0,0.1,0.0,0.1,0.0,3.3,1033.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Miscellaneous production workers,51-9190,Summary,3.4,0.6,0.5,3.5,0.6,0.5,0.0,1.2,1039.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Paper goods machine setters, operators, and tenders",51-9196,Line Item,1.7,0.3,1.7,1.7,0.3,1.9,0.1,3.3,1045.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Helpers--production workers,51-9198,Line Item,0.7,0.1,0.4,0.6,0.1,0.4,0.0,-7.1,1047.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Production workers, all other",51-9199,Line Item,0.9,0.2,0.3,1.0,0.2,0.3,0.0,3.3,1048.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Transportation and material moving occupations,53-0000,Summary,180.9,33.5,1.3,186.8,34.2,1.3,5.9,3.3,1049.0,1.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Supervisors of transportation and material moving workers,53-1000,Summary,11.9,2.2,1.9,12.3,2.2,1.9,0.4,3.3,1050.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",53-1047,Line Item,11.9,2.2,1.9,12.3,2.2,1.9,0.4,3.3,1052.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Motor vehicle operators,53-3000,Summary,79.0,14.6,1.6,81.6,14.9,1.6,2.6,3.3,1061.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Driver/sales workers and truck drivers,53-3030,Summary,78.9,14.6,2.1,81.4,14.9,2.0,2.6,3.3,1063.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Driver/sales workers,53-3031,Line Item,5.5,1.0,1.2,5.7,1.0,1.2,0.2,3.3,1064.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Heavy and tractor-trailer truck drivers,53-3032,Line Item,56.7,10.5,2.5,58.6,10.7,2.5,1.9,3.3,1065.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Light truck drivers,53-3033,Line Item,16.6,3.1,1.5,17.2,3.1,1.5,0.5,3.3,1066.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Water transportation workers,53-5000,Summary,0.6,0.1,0.7,0.6,0.1,0.7,0.0,3.3,1081.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Sailors and marine oilers,53-5011,Line Item,0.3,0.1,0.9,0.3,0.1,0.9,0.0,3.3,1082.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Ship and boat captains and operators,53-5020,Summary,0.3,0.1,0.7,0.3,0.1,0.7,0.0,3.3,1083.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Captains, mates, and pilots of water vessels",53-5021,Line Item,0.3,0.1,0.8,0.3,0.1,0.8,0.0,3.3,1084.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Other transportation workers,53-6000,Summary,1.6,0.3,0.5,1.6,0.3,0.5,0.1,3.3,1087.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Transportation service attendants,53-6030,Summary,1.4,0.3,1.1,1.5,0.3,1.1,0.0,3.3,1090.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Automotive and watercraft service attendants,53-6031,Line Item,0.6,0.1,0.6,0.6,0.1,0.6,0.0,3.3,1091.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Aircraft service attendants,53-6032,Line Item,0.8,0.1,2.8,0.8,0.2,2.8,0.0,3.3,1092.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Transportation workers, all other",53-6099,Line Item,0.2,0.0,1.3,0.2,0.0,1.3,0.0,3.3,1096.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Material moving workers,53-7000,Summary,87.8,16.3,1.1,90.7,16.6,1.1,2.9,3.3,1097.0,2.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Conveyor operators and tenders,53-7011,Line Item,0.3,0.1,1.0,0.3,0.1,1.0,0.0,3.3,1098.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Crane and tower operators,53-7021,Line Item,0.1,0.0,0.3,0.1,0.0,0.3,0.0,3.3,1099.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Industrial truck and tractor operators,53-7051,Line Item,7.5,1.4,0.9,7.7,1.4,1.0,0.2,3.3,1102.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Laborers and material movers,53-7060,Summary,78.4,14.5,1.2,81.0,14.8,1.1,2.6,3.3,1103.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Cleaners of vehicles and equipment,53-7061,Line Item,0.2,0.0,0.0,0.2,0.0,0.0,0.0,3.3,1104.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Laborers and freight, stock, and material movers, hand",53-7062,Line Item,45.2,8.4,1.5,46.7,8.5,1.5,1.5,3.3,1105.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Packers and packagers, hand",53-7064,Line Item,7.1,1.3,1.2,7.3,1.3,1.3,0.2,3.3,1107.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Stockers and order fillers,53-7065,Line Item,25.9,4.8,0.9,26.8,4.9,0.9,0.8,3.3,1108.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Pumping station operators,53-7070,Summary,1.1,0.2,2.9,1.1,0.2,3.1,0.0,3.3,1109.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,Gas compressor and gas pumping station operators,53-7071,Line Item,0.1,0.0,2.4,0.1,0.0,2.5,0.0,3.3,1110.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Pump operators, except wellhead pumpers",53-7072,Line Item,1.0,0.2,7.3,1.0,0.2,7.3,0.0,3.3,1111.0,4.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Tank car, truck, and ship loaders",53-7121,Line Item,0.4,0.1,3.1,0.4,0.1,3.1,0.0,3.3,1114.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i
+4247,"Material moving workers, all other",53-7199,Line Item,0.1,0.0,0.2,0.1,0.0,0.2,0.0,3.3,1115.0,3.0,https://data.bls.gov/projections/nationalMatrix?queryParams=4240A3&ioType=i

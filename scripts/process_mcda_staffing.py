@@ -189,9 +189,9 @@ def attach_ep(df: pd.DataFrame, ep_df: pd.DataFrame) -> pd.DataFrame:
     merged = df.merge(ep_df, on='occcd', how='left')
     ep_cols = [c for c in merged.columns if c.startswith('ep_')]
     if ep_cols:
-        detailed_mask = merged['occ_level'] == 'detailed'
+        allowed_levels = merged['occ_level'].isin(['detailed', 'major'])
         for col in ep_cols:
-            merged.loc[~detailed_mask, col] = np.nan
+            merged.loc[~allowed_levels, col] = np.nan
     return merged
 
 

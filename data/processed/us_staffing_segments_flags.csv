@@ -1,0 +1,5 @@
+source_code,issue,segments
+3320A1,shared_across_segments,"3,4"
+3320A1,duplicate_within_segment,4
+4230A1,duplicate_within_segment,8
+484000,duplicate_within_segment,10
