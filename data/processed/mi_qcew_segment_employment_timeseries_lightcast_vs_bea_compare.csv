@@ -1,0 +1,1383 @@
+segment_id,segment_name,year,employment_qcew,value_type,forecast_source,applied_yoy_pct,adjustment_source
+1,1. Materials & Processing,2001,6408.723743439,QCEW,,,BEA
+1,1. Materials & Processing,2001,37742.06,QCEW,,,Lightcast
+1,1. Materials & Processing,2002,5917.804295476,QCEW,,,BEA
+1,1. Materials & Processing,2002,35262.55,QCEW,,,Lightcast
+1,1. Materials & Processing,2003,5783.647270935,QCEW,,,BEA
+1,1. Materials & Processing,2003,34444.590000000004,QCEW,,,Lightcast
+1,1. Materials & Processing,2004,5692.766741318001,QCEW,,,BEA
+1,1. Materials & Processing,2004,33665.21,QCEW,,,Lightcast
+1,1. Materials & Processing,2005,5638.534225207,QCEW,,,BEA
+1,1. Materials & Processing,2005,33192.68,QCEW,,,Lightcast
+1,1. Materials & Processing,2006,5474.88094268,QCEW,,,BEA
+1,1. Materials & Processing,2006,31884.17,QCEW,,,Lightcast
+1,1. Materials & Processing,2007,5282.717045612,QCEW,,,BEA
+1,1. Materials & Processing,2007,30514.11,QCEW,,,Lightcast
+1,1. Materials & Processing,2008,4983.565206061,QCEW,,,BEA
+1,1. Materials & Processing,2008,28749.17,QCEW,,,Lightcast
+1,1. Materials & Processing,2009,3755.903101696,QCEW,,,BEA
+1,1. Materials & Processing,2009,21905.4,QCEW,,,Lightcast
+1,1. Materials & Processing,2010,4092.01387913,QCEW,,,BEA
+1,1. Materials & Processing,2010,23613.69,QCEW,,,Lightcast
+1,1. Materials & Processing,2011,4516.355260275,QCEW,,,BEA
+1,1. Materials & Processing,2011,25740.67,QCEW,,,Lightcast
+1,1. Materials & Processing,2012,4636.829479004,QCEW,,,BEA
+1,1. Materials & Processing,2012,26351.590000000004,QCEW,,,Lightcast
+1,1. Materials & Processing,2013,4825.079021755,QCEW,,,BEA
+1,1. Materials & Processing,2013,27451.48,QCEW,,,Lightcast
+1,1. Materials & Processing,2014,5047.50725806,QCEW,,,BEA
+1,1. Materials & Processing,2014,28985.96,QCEW,,,Lightcast
+1,1. Materials & Processing,2015,5141.513900202,QCEW,,,BEA
+1,1. Materials & Processing,2015,29466.55,QCEW,,,Lightcast
+1,1. Materials & Processing,2016,5194.7440682960005,QCEW,,,BEA
+1,1. Materials & Processing,2016,29841.21,QCEW,,,Lightcast
+1,1. Materials & Processing,2017,5260.918482744,QCEW,,,BEA
+1,1. Materials & Processing,2017,30287.99,QCEW,,,Lightcast
+1,1. Materials & Processing,2018,5327.235128095,QCEW,,,BEA
+1,1. Materials & Processing,2018,30797.160000000003,QCEW,,,Lightcast
+1,1. Materials & Processing,2019,5287.025044109,QCEW,,,BEA
+1,1. Materials & Processing,2019,30623.47,QCEW,,,Lightcast
+1,1. Materials & Processing,2020,4436.1492898060005,QCEW,,,BEA
+1,1. Materials & Processing,2020,26014.910000000003,QCEW,,,Lightcast
+1,1. Materials & Processing,2021,4514.198420805,QCEW,,,BEA
+1,1. Materials & Processing,2021,26568.19,QCEW,,,Lightcast
+1,1. Materials & Processing,2022,4576.459496529,QCEW,,,BEA
+1,1. Materials & Processing,2022,26835.27,QCEW,,,Lightcast
+1,1. Materials & Processing,2023,4625.282707936,QCEW,,,BEA
+1,1. Materials & Processing,2023,27119.72,QCEW,,,Lightcast
+1,1. Materials & Processing,2024,4562.31377394,QCEW,,,BEA
+1,1. Materials & Processing,2024,26633.08,QCEW,,,Lightcast
+1,1. Materials & Processing,2025,4570.084647750432,Forecast,BLS,0.1703274740729066,BEA
+1,1. Materials & Processing,2025,4512.525248514875,Forecast,Moody,-1.091299895011983,BEA
+1,1. Materials & Processing,2025,26678.443452431817,Forecast,BLS,0.1703274740729066,Lightcast
+1,1. Materials & Processing,2025,26342.433225921544,Forecast,Moody,-1.091299895011983,Lightcast
+1,1. Materials & Processing,2026,4577.868757493939,Forecast,BLS,0.1703274740729066,BEA
+1,1. Materials & Processing,2026,4524.446025134036,Forecast,Moody,0.2641708569516452,BEA
+1,1. Materials & Processing,2026,26723.884171286318,Forecast,BLS,0.1703274740729066,Lightcast
+1,1. Materials & Processing,2026,26412.02225751638,Forecast,Moody,0.2641708569516452,Lightcast
+1,1. Materials & Processing,2027,4585.666125714951,Forecast,BLS,0.1703274740729066,BEA
+1,1. Materials & Processing,2027,4512.238599180828,Forecast,Moody,-0.2698104007738087,BEA
+1,1. Materials & Processing,2027,26769.40228816944,Forecast,BLS,0.1703274740729066,Lightcast
+1,1. Materials & Processing,2027,26340.759874410905,Forecast,Moody,-0.2698104007738087,Lightcast
+1,1. Materials & Processing,2028,4593.4767749962975,Forecast,BLS,0.1703274740729066,BEA
+1,1. Materials & Processing,2028,4502.319358456689,Forecast,Moody,-0.2198297032860793,BEA
+1,1. Materials & Processing,2028,26814.99793491129,Forecast,BLS,0.1703274740729066,Lightcast
+1,1. Materials & Processing,2028,26282.85506013569,Forecast,Moody,-0.2198297032860793,Lightcast
+1,1. Materials & Processing,2029,4601.300727959274,Forecast,BLS,0.1703274740729066,BEA
+1,1. Materials & Processing,2029,4480.407931601384,Forecast,Moody,-0.4866697608677741,BEA
+1,1. Materials & Processing,2029,26860.67124356653,Forecast,BLS,0.1703274740729066,Lightcast
+1,1. Materials & Processing,2029,26154.944352265305,Forecast,Moody,-0.4866697608677741,Lightcast
+1,1. Materials & Processing,2030,4609.138007263705,Forecast,BLS,0.1703274740729066,BEA
+1,1. Materials & Processing,2030,4457.6721027493095,Forecast,Moody,-0.5074499732873294,BEA
+1,1. Materials & Processing,2030,26906.42234641472,Forecast,BLS,0.1703274740729066,Lightcast
+1,1. Materials & Processing,2030,26022.221094136417,Forecast,Moody,-0.5074499732873294,Lightcast
+1,1. Materials & Processing,2031,4616.988635608012,Forecast,BLS,0.1703274740729066,BEA
+1,1. Materials & Processing,2031,4424.178618249082,Forecast,Moody,-0.7513671649282917,BEA
+1,1. Materials & Processing,2031,26952.25137596076,Forecast,BLS,0.1703274740729066,Lightcast
+1,1. Materials & Processing,2031,25826.698669250032,Forecast,Moody,-0.7513671649282917,Lightcast
+1,1. Materials & Processing,2032,4624.852635729276,Forecast,BLS,0.1703274740729066,BEA
+1,1. Materials & Processing,2032,4369.38355684259,Forecast,Moody,-1.238536373293585,BEA
+1,1. Materials & Processing,2032,26998.15846493521,Forecast,BLS,0.1703274740729066,Lightcast
+1,1. Materials & Processing,2032,25506.82561221044,Forecast,Moody,-1.238536373293585,Lightcast
+1,1. Materials & Processing,2033,4632.730030403308,Forecast,BLS,0.1703274740729066,BEA
+1,1. Materials & Processing,2033,4296.597079404599,Forecast,Moody,-1.66582943545904,BEA
+1,1. Materials & Processing,2033,27044.143746294736,Forecast,BLS,0.1703274740729066,Lightcast
+1,1. Materials & Processing,2033,25081.925403111032,Forecast,Moody,-1.66582943545904,Lightcast
+1,1. Materials & Processing,2034,4640.62084244471,Forecast,BLS,0.1703274740729066,BEA
+1,1. Materials & Processing,2034,4219.11841419126,Forecast,Moody,-1.8032564790570311,BEA
+1,1. Materials & Processing,2034,27090.20735322245,Forecast,BLS,0.1703274740729066,Lightcast
+1,1. Materials & Processing,2034,24629.63395820718,Forecast,Moody,-1.8032564790570311,Lightcast
+1,1. Materials & Processing,2035,4146.211808149224,Forecast,Moody,-1.728005684713881,BEA
+1,1. Materials & Processing,2035,24204.03248328514,Forecast,Moody,-1.728005684713881,Lightcast
+1,1. Materials & Processing,2036,4082.156522730207,Forecast,Moody,-1.5449110750473267,BEA
+1,1. Materials & Processing,2036,23830.10170484281,Forecast,Moody,-1.5449110750473267,Lightcast
+1,1. Materials & Processing,2037,4021.474051674051,Forecast,Moody,-1.48652974765334,BEA
+1,1. Materials & Processing,2037,23475.86015410428,Forecast,Moody,-1.48652974765334,Lightcast
+1,1. Materials & Processing,2038,3961.964144727906,Forecast,Moody,-1.4798033303577536,BEA
+1,1. Materials & Processing,2038,23128.46359371372,Forecast,Moody,-1.4798033303577536,Lightcast
+1,1. Materials & Processing,2039,3905.0472100289303,Forecast,Moody,-1.4365837907623078,BEA
+1,1. Materials & Processing,2039,22796.203834674063,Forecast,Moody,-1.4365837907623078,Lightcast
+1,1. Materials & Processing,2040,3846.334496784866,Forecast,Moody,-1.5035084106865289,BEA
+1,1. Materials & Processing,2040,22453.460992702498,Forecast,Moody,-1.5035084106865289,Lightcast
+1,1. Materials & Processing,2041,3787.674081158165,Forecast,Moody,-1.525099173660916,BEA
+1,1. Materials & Processing,2041,22111.02344464452,Forecast,Moody,-1.525099173660916,Lightcast
+1,1. Materials & Processing,2042,3728.655764731117,Forecast,Moody,-1.5581677610709892,BEA
+1,1. Materials & Processing,2042,21766.496605687214,Forecast,Moody,-1.5581677610709892,Lightcast
+1,1. Materials & Processing,2043,3669.1453648170223,Forecast,Moody,-1.5960282651189206,BEA
+1,1. Materials & Processing,2043,21419.0971675343,Forecast,Moody,-1.5960282651189206,Lightcast
+1,1. Materials & Processing,2044,3610.993105782956,Forecast,Moody,-1.5848992953967207,BEA
+1,1. Materials & Processing,2044,21079.62604744571,Forecast,Moody,-1.5848992953967207,Lightcast
+1,1. Materials & Processing,2045,3554.8528337404155,Forecast,Moody,-1.5547044925849474,BEA
+1,1. Materials & Processing,2045,20751.900154265964,Forecast,Moody,-1.5547044925849474,Lightcast
+1,1. Materials & Processing,2046,3500.886700692117,Forecast,Moody,-1.5180975295541377,BEA
+1,1. Materials & Processing,2046,20436.86607068851,Forecast,Moody,-1.5180975295541377,Lightcast
+1,1. Materials & Processing,2047,3447.203356523248,Forecast,Moody,-1.5334213517465758,BEA
+1,1. Materials & Processing,2047,20123.48280273272,Forecast,Moody,-1.5334213517465758,Lightcast
+1,1. Materials & Processing,2048,3392.7748908609115,Forecast,Moody,-1.5789165892792465,BEA
+1,1. Materials & Processing,2048,19805.74979441962,Forecast,Moody,-1.5789165892792465,Lightcast
+1,1. Materials & Processing,2049,3340.1992261057503,Forecast,Moody,-1.5496361075055065,BEA
+1,1. Materials & Processing,2049,19498.832744243096,Forecast,Moody,-1.5496361075055065,Lightcast
+1,1. Materials & Processing,2050,3290.845245290784,Forecast,Moody,-1.477575961015581,BEA
+1,1. Materials & Processing,2050,19210.722678935526,Forecast,Moody,-1.477575961015581,Lightcast
+1,1. Materials & Processing,2051,3243.834522921813,Forecast,Moody,-1.428530327770438,BEA
+1,1. Materials & Processing,2051,18936.29167928306,Forecast,Moody,-1.428530327770438,Lightcast
+1,1. Materials & Processing,2052,3197.545900688573,Forecast,Moody,-1.4269723657650295,BEA
+1,1. Materials & Processing,2052,18666.076029919022,Forecast,Moody,-1.4269723657650295,Lightcast
+1,1. Materials & Processing,2053,3150.143060451777,Forecast,Moody,-1.4824756769430092,BEA
+1,1. Materials & Processing,2053,18389.355992935787,Forecast,Moody,-1.4824756769430092,Lightcast
+1,1. Materials & Processing,2054,3100.735986025034,Forecast,Moody,-1.5684073224171953,BEA
+1,1. Materials & Processing,2054,18100.935986997218,Forecast,Moody,-1.5684073224171953,Lightcast
+1,1. Materials & Processing,2055,3050.36548088316,Forecast,Moody,-1.6244693314391327,BEA
+1,1. Materials & Processing,2055,17806.89183318502,Forecast,Moody,-1.6244693314391327,Lightcast
+2,2. Equipment Manufacturing,2001,2746.606227456,QCEW,,,BEA
+2,2. Equipment Manufacturing,2001,20788.32,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2002,2406.54235832,QCEW,,,BEA
+2,2. Equipment Manufacturing,2002,18189.07,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2003,2294.53703912,QCEW,,,BEA
+2,2. Equipment Manufacturing,2003,17279.93,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2004,2238.455779296,QCEW,,,BEA
+2,2. Equipment Manufacturing,2004,16848.46,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2005,2190.155941648,QCEW,,,BEA
+2,2. Equipment Manufacturing,2005,16495.93,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2006,2135.489485856,QCEW,,,BEA
+2,2. Equipment Manufacturing,2006,16103.86,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2007,2011.57623272,QCEW,,,BEA
+2,2. Equipment Manufacturing,2007,15205.69,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2008,1929.989200208,QCEW,,,BEA
+2,2. Equipment Manufacturing,2008,14606.53,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2009,1552.15792344,QCEW,,,BEA
+2,2. Equipment Manufacturing,2009,11781.75,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2010,1576.9562941119998,QCEW,,,BEA
+2,2. Equipment Manufacturing,2010,11840.46,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2011,1745.553774592,QCEW,,,BEA
+2,2. Equipment Manufacturing,2011,13088.96,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2012,1915.998360336,QCEW,,,BEA
+2,2. Equipment Manufacturing,2012,14345.21,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2013,1978.642738864,QCEW,,,BEA
+2,2. Equipment Manufacturing,2013,14897.95,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2014,2028.67178144,QCEW,,,BEA
+2,2. Equipment Manufacturing,2014,15339.4,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2015,2081.72693264,QCEW,,,BEA
+2,2. Equipment Manufacturing,2015,15770.66,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2016,2098.468780352,QCEW,,,BEA
+2,2. Equipment Manufacturing,2016,15910.12,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2017,2142.602806128,QCEW,,,BEA
+2,2. Equipment Manufacturing,2017,16253.59,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2018,2178.169407488,QCEW,,,BEA
+2,2. Equipment Manufacturing,2018,16590.879999999997,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2019,2102.634592224,QCEW,,,BEA
+2,2. Equipment Manufacturing,2019,16096.14,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2020,1896.898505904,QCEW,,,BEA
+2,2. Equipment Manufacturing,2020,14676.03,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2021,1902.91142304,QCEW,,,BEA
+2,2. Equipment Manufacturing,2021,14772.04,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2022,1919.378169968,QCEW,,,BEA
+2,2. Equipment Manufacturing,2022,15058.07,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2023,1920.832274112,QCEW,,,BEA
+2,2. Equipment Manufacturing,2023,15142.68,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2024,1868.7203256,QCEW,,,BEA
+2,2. Equipment Manufacturing,2024,14758.86,QCEW,,,Lightcast
+2,2. Equipment Manufacturing,2025,1867.2999309361344,Forecast,BLS,-0.076008948177364,BEA
+2,2. Equipment Manufacturing,2025,1823.375677870328,Forecast,Moody,-2.4265079749219898,BEA
+2,2. Equipment Manufacturing,2025,14747.641945751033,Forecast,BLS,-0.076008948177364,Lightcast
+2,2. Equipment Manufacturing,2025,14400.735085092429,Forecast,Moody,-2.4265079749219898,Lightcast
+2,2. Equipment Manufacturing,2026,1865.8806158993132,Forecast,BLS,-0.076008948177364,BEA
+2,2. Equipment Manufacturing,2026,1809.357857265368,Forecast,Moody,-0.7687840073271605,BEA
+2,2. Equipment Manufacturing,2026,14736.4324182271,Forecast,BLS,-0.076008948177364,Lightcast
+2,2. Equipment Manufacturing,2026,14290.024536820689,Forecast,Moody,-0.7687840073271605,Lightcast
+2,2. Equipment Manufacturing,2027,1864.462379668923,Forecast,BLS,-0.076008948177364,BEA
+2,2. Equipment Manufacturing,2027,1805.581998501772,Forecast,Moody,-0.2086850176394977,BEA
+2,2. Equipment Manufacturing,2027,14725.23141094714,Forecast,BLS,-0.076008948177364,Lightcast
+2,2. Equipment Manufacturing,2027,14260.203396595334,Forecast,Moody,-0.2086850176394977,Lightcast
+2,2. Equipment Manufacturing,2028,1863.045221424974,Forecast,BLS,-0.076008948177364,BEA
+2,2. Equipment Manufacturing,2028,1801.755852729057,Forecast,Moody,-0.2119065085877901,BEA
+2,2. Equipment Manufacturing,2028,14714.038917434997,Forecast,BLS,-0.076008948177364,Lightcast
+2,2. Equipment Manufacturing,2028,14229.985097460092,Forecast,Moody,-0.2119065085877901,Lightcast
+2,2. Equipment Manufacturing,2029,1861.6291403481,Forecast,BLS,-0.076008948177364,BEA
+2,2. Equipment Manufacturing,2029,1792.6726178034953,Forecast,Moody,-0.5041323946195976,BEA
+2,2. Equipment Manufacturing,2029,14702.854931219445,Forecast,BLS,-0.076008948177364,Lightcast
+2,2. Equipment Manufacturing,2029,14158.247132834254,Forecast,Moody,-0.5041323946195976,Lightcast
+2,2. Equipment Manufacturing,2030,1860.2141356195584,Forecast,BLS,-0.076008948177364,BEA
+2,2. Equipment Manufacturing,2030,1784.1734446449775,Forecast,Moody,-0.4741062631352788,BEA
+2,2. Equipment Manufacturing,2030,14691.67944583418,Forecast,BLS,-0.076008948177364,Lightcast
+2,2. Equipment Manufacturing,2030,14091.121996427317,Forecast,Moody,-0.4741062631352788,Lightcast
+2,2. Equipment Manufacturing,2031,1858.8002064212276,Forecast,BLS,-0.076008948177364,BEA
+2,2. Equipment Manufacturing,2031,1772.487036952854,Forecast,Moody,-0.6550040147273427,BEA
+2,2. Equipment Manufacturing,2031,14680.512454817812,Forecast,BLS,-0.076008948177364,Lightcast
+2,2. Equipment Manufacturing,2031,13998.82458163059,Forecast,Moody,-0.6550040147273427,Lightcast
+2,2. Equipment Manufacturing,2032,1857.387351935608,Forecast,BLS,-0.076008948177364,BEA
+2,2. Equipment Manufacturing,2032,1754.608888699515,Forecast,Moody,-1.0086476166321432,BEA
+2,2. Equipment Manufacturing,2032,14669.353951713858,Forecast,BLS,-0.076008948177364,Lightcast
+2,2. Equipment Manufacturing,2032,13857.62577113146,Forecast,Moody,-1.0086476166321432,Lightcast
+2,2. Equipment Manufacturing,2033,1855.9755713458223,Forecast,BLS,-0.076008948177364,BEA
+2,2. Equipment Manufacturing,2033,1732.8379013986346,Forecast,Moody,-1.240788613410989,BEA
+2,2. Equipment Manufacturing,2033,14658.203930070746,Forecast,BLS,-0.076008948177364,Lightcast
+2,2. Equipment Manufacturing,2033,13685.681928474152,Forecast,Moody,-1.240788613410989,Lightcast
+2,2. Equipment Manufacturing,2034,1854.5648638356136,Forecast,BLS,-0.076008948177364,BEA
+2,2. Equipment Manufacturing,2034,1709.247805617921,Forecast,Moody,-1.3613561754202943,BEA
+2,2. Equipment Manufacturing,2034,14647.062383441806,Forecast,BLS,-0.076008948177364,Lightcast
+2,2. Equipment Manufacturing,2034,13499.371052392493,Forecast,Moody,-1.3613561754202943,Lightcast
+2,2. Equipment Manufacturing,2035,1687.083481695007,Forecast,Moody,-1.2967296988806662,BEA
+2,2. Equipment Manufacturing,2035,13324.32069879402,Forecast,Moody,-1.2967296988806662,Lightcast
+2,2. Equipment Manufacturing,2036,1669.1724368348423,Forecast,Moody,-1.0616572952376688,BEA
+2,2. Equipment Manufacturing,2036,13182.862076054407,Forecast,Moody,-1.0616572952376688,Lightcast
+2,2. Equipment Manufacturing,2037,1653.1584215659736,Forecast,Moody,-0.9593984968524476,BEA
+2,2. Equipment Manufacturing,2037,13056.385895454612,Forecast,Moody,-0.9593984968524476,Lightcast
+2,2. Equipment Manufacturing,2038,1637.1183829019026,Forecast,Moody,-0.9702662766510188,BEA
+2,2. Equipment Manufacturing,2038,12929.704186161596,Forecast,Moody,-0.9702662766510188,Lightcast
+2,2. Equipment Manufacturing,2039,1621.321623529714,Forecast,Moody,-0.9649124667568544,BEA
+2,2. Equipment Manufacturing,2039,12804.94385855454,Forecast,Moody,-0.9649124667568544,Lightcast
+2,2. Equipment Manufacturing,2040,1604.5247243070182,Forecast,Moody,-1.036000444262745,BEA
+2,2. Equipment Manufacturing,2040,12672.28458329232,Forecast,Moody,-1.036000444262745,Lightcast
+2,2. Equipment Manufacturing,2041,1587.3211593003732,Forecast,Moody,-1.0721907083155169,BEA
+2,2. Equipment Manufacturing,2041,12536.413525458962,Forecast,Moody,-1.0721907083155169,Lightcast
+2,2. Equipment Manufacturing,2042,1570.4859592586809,Forecast,Moody,-1.0606045249918166,BEA
+2,2. Equipment Manufacturing,2042,12403.45175633626,Forecast,Moody,-1.0606045249918166,Lightcast
+2,2. Equipment Manufacturing,2043,1554.0989733232077,Forecast,Moody,-1.043434093687069,BEA
+2,2. Equipment Manufacturing,2043,12274.02991191662,Forecast,Moody,-1.043434093687069,Lightcast
+2,2. Equipment Manufacturing,2044,1538.8874610918988,Forecast,Moody,-0.978799451799462,BEA
+2,2. Equipment Manufacturing,2044,12153.891774425078,Forecast,Moody,-0.978799451799462,Lightcast
+2,2. Equipment Manufacturing,2045,1524.331018228611,Forecast,Moody,-0.945906912059696,BEA
+2,2. Equipment Manufacturing,2045,12038.927272046536,Forecast,Moody,-0.945906912059696,Lightcast
+2,2. Equipment Manufacturing,2046,1510.2687111549922,Forecast,Moody,-0.9225231859389696,BEA
+2,2. Equipment Manufacturing,2046,11927.865376623577,Forecast,Moody,-0.9225231859389696,Lightcast
+2,2. Equipment Manufacturing,2047,1496.8171914685608,Forecast,Moody,-0.8906706195445189,BEA
+2,2. Equipment Manufacturing,2047,11821.627384175166,Forecast,Moody,-0.8906706195445189,Lightcast
+2,2. Equipment Manufacturing,2048,1483.319926816429,Forecast,Moody,-0.901731001558674,BEA
+2,2. Equipment Manufacturing,2048,11715.02810516331,Forecast,Moody,-0.901731001558674,Lightcast
+2,2. Equipment Manufacturing,2049,1469.971630250455,Forecast,Moody,-0.8998932950777897,BEA
+2,2. Equipment Manufacturing,2049,11609.605352728466,Forecast,Moody,-0.8998932950777897,Lightcast
+2,2. Equipment Manufacturing,2050,1457.645431658049,Forecast,Moody,-0.8385330940234579,BEA
+2,2. Equipment Manufacturing,2050,11512.25496976032,Forecast,Moody,-0.8385330940234579,Lightcast
+2,2. Equipment Manufacturing,2051,1446.0764752445616,Forecast,Moody,-0.7936742476754309,BEA
+2,2. Equipment Manufacturing,2051,11420.885166738595,Forecast,Moody,-0.7936742476754309,Lightcast
+2,2. Equipment Manufacturing,2052,1434.7384923696088,Forecast,Moody,-0.7840514017791003,BEA
+2,2. Equipment Manufacturing,2052,11331.3395564932,Forecast,Moody,-0.7840514017791003,Lightcast
+2,2. Equipment Manufacturing,2053,1423.096359203361,Forecast,Moody,-0.811446352639483,BEA
+2,2. Equipment Manufacturing,2053,11239.391814956842,Forecast,Moody,-0.811446352639483,Lightcast
+2,2. Equipment Manufacturing,2054,1410.782917695267,Forecast,Moody,-0.8652570452071962,BEA
+2,2. Equipment Manufacturing,2054,11142.142185439488,Forecast,Moody,-0.8652570452071962,Lightcast
+2,2. Equipment Manufacturing,2055,1397.9832860131949,Forecast,Moody,-0.907271524309512,BEA
+2,2. Equipment Manufacturing,2055,11041.052702192916,Forecast,Moody,-0.907271524309512,Lightcast
+3,3. Forging & Foundries,2001,2685.457545453,QCEW,,,BEA
+3,3. Forging & Foundries,2001,15110.79,QCEW,,,Lightcast
+3,3. Forging & Foundries,2002,2456.054590573,QCEW,,,BEA
+3,3. Forging & Foundries,2002,13904.31,QCEW,,,Lightcast
+3,3. Forging & Foundries,2003,2339.386961097,QCEW,,,BEA
+3,3. Forging & Foundries,2003,13346.33,QCEW,,,Lightcast
+3,3. Forging & Foundries,2004,2539.437045166,QCEW,,,BEA
+3,3. Forging & Foundries,2004,14485.82,QCEW,,,Lightcast
+3,3. Forging & Foundries,2005,2492.595834874,QCEW,,,BEA
+3,3. Forging & Foundries,2005,14228.88,QCEW,,,Lightcast
+3,3. Forging & Foundries,2006,2391.538149145,QCEW,,,BEA
+3,3. Forging & Foundries,2006,13768.61,QCEW,,,Lightcast
+3,3. Forging & Foundries,2007,2220.884464612,QCEW,,,BEA
+3,3. Forging & Foundries,2007,12934.2,QCEW,,,Lightcast
+3,3. Forging & Foundries,2008,2027.52934861,QCEW,,,BEA
+3,3. Forging & Foundries,2008,11764.62,QCEW,,,Lightcast
+3,3. Forging & Foundries,2009,1455.321139238,QCEW,,,BEA
+3,3. Forging & Foundries,2009,8555.58,QCEW,,,Lightcast
+3,3. Forging & Foundries,2010,1565.929608042,QCEW,,,BEA
+3,3. Forging & Foundries,2010,9306.68,QCEW,,,Lightcast
+3,3. Forging & Foundries,2011,1800.869532069,QCEW,,,BEA
+3,3. Forging & Foundries,2011,10786.87,QCEW,,,Lightcast
+3,3. Forging & Foundries,2012,1913.105052721,QCEW,,,BEA
+3,3. Forging & Foundries,2012,11422.29,QCEW,,,Lightcast
+3,3. Forging & Foundries,2013,1863.908509268,QCEW,,,BEA
+3,3. Forging & Foundries,2013,11206.14,QCEW,,,Lightcast
+3,3. Forging & Foundries,2014,1912.765341001,QCEW,,,BEA
+3,3. Forging & Foundries,2014,11469.67,QCEW,,,Lightcast
+3,3. Forging & Foundries,2015,1913.76715643,QCEW,,,BEA
+3,3. Forging & Foundries,2015,11549.96,QCEW,,,Lightcast
+3,3. Forging & Foundries,2016,1922.454834953,QCEW,,,BEA
+3,3. Forging & Foundries,2016,11628.29,QCEW,,,Lightcast
+3,3. Forging & Foundries,2017,1952.72960573,QCEW,,,BEA
+3,3. Forging & Foundries,2017,11839.86,QCEW,,,Lightcast
+3,3. Forging & Foundries,2018,2028.666817256,QCEW,,,BEA
+3,3. Forging & Foundries,2018,12301.7,QCEW,,,Lightcast
+3,3. Forging & Foundries,2019,2011.691255971,QCEW,,,BEA
+3,3. Forging & Foundries,2019,12260.57,QCEW,,,Lightcast
+3,3. Forging & Foundries,2020,1664.552001487,QCEW,,,BEA
+3,3. Forging & Foundries,2020,10119.97,QCEW,,,Lightcast
+3,3. Forging & Foundries,2021,1691.753051671,QCEW,,,BEA
+3,3. Forging & Foundries,2021,10307.81,QCEW,,,Lightcast
+3,3. Forging & Foundries,2022,1766.1785962519998,QCEW,,,BEA
+3,3. Forging & Foundries,2022,10695.36,QCEW,,,Lightcast
+3,3. Forging & Foundries,2023,1800.642649901,QCEW,,,BEA
+3,3. Forging & Foundries,2023,10896.99,QCEW,,,Lightcast
+3,3. Forging & Foundries,2024,1733.729137523,QCEW,,,BEA
+3,3. Forging & Foundries,2024,10458.53,QCEW,,,Lightcast
+3,3. Forging & Foundries,2025,1714.6192499959827,Forecast,BLS,-1.1022418158305736,BEA
+3,3. Forging & Foundries,2025,1673.122441025205,Forecast,Moody,-3.495741934889806,BEA
+3,3. Forging & Foundries,2025,10343.251709018814,Forecast,BLS,-1.1022418158305736,Lightcast
+3,3. Forging & Foundries,2025,10092.926781016968,Forecast,Moody,-3.495741934889806,Lightcast
+3,3. Forging & Foundries,2026,1695.7199996402464,Forecast,BLS,-1.1022418158305736,BEA
+3,3. Forging & Foundries,2026,1640.9945553133632,Forecast,Moody,-1.9202351796892647,BEA
+3,3. Forging & Foundries,2026,10229.244063565398,Forecast,BLS,-1.1022418158305736,Lightcast
+3,3. Forging & Foundries,2026,9899.1188503076,Forecast,Moody,-1.9202351796892647,Lightcast
+3,3. Forging & Foundries,2027,1677.0290647248096,Forecast,BLS,-1.1022418158305736,BEA
+3,3. Forging & Foundries,2027,1596.7312465841903,Forecast,Moody,-2.697346471129536,BEA
+3,3. Forging & Foundries,2027,10116.493058053416,Forecast,BLS,-1.1022418158305736,Lightcast
+3,3. Forging & Foundries,2027,9632.10531732591,Forecast,Moody,-2.697346471129536,Lightcast
+3,3. Forging & Foundries,2028,1658.5441491097804,Forecast,BLS,-1.1022418158305736,BEA
+3,3. Forging & Foundries,2028,1557.3646888568285,Forecast,Moody,-2.4654466937737243,BEA
+3,3. Forging & Foundries,2028,10004.984841271951,Forecast,BLS,-1.1022418158305736,Lightcast
+3,3. Forging & Foundries,2028,9394.630895239095,Forecast,Moody,-2.4654466937737243,Lightcast
+3,3. Forging & Foundries,2029,1640.262981964281,Forecast,BLS,-1.1022418158305736,BEA
+3,3. Forging & Foundries,2029,1517.4506695592424,Forecast,Moody,-2.562920527425371,BEA
+3,3. Forging & Foundries,2029,9894.705714683943,Forecast,BLS,-1.1022418158305736,Lightcast
+3,3. Forging & Foundries,2029,9153.853971549166,Forecast,Moody,-2.562920527425371,Lightcast
+3,3. Forging & Foundries,2030,1622.1833174874812,Forecast,BLS,-1.1022418158305736,BEA
+3,3. Forging & Foundries,2030,1480.5597759644763,Forecast,Moody,-2.431109909192716,BEA
+3,3. Forging & Foundries,2030,9785.64213074332,Forecast,BLS,-1.1022418158305736,Lightcast
+3,3. Forging & Foundries,2030,8931.313720573804,Forecast,Moody,-2.431109909192716,Lightcast
+3,3. Forging & Foundries,2031,1604.3029346327066,Forecast,BLS,-1.1022418158305736,BEA
+3,3. Forging & Foundries,2031,1443.1587951852666,Forecast,Moody,-2.5261378423472105,BEA
+3,3. Forging & Foundries,2031,9677.780691230731,Forecast,BLS,-1.1022418158305736,Lightcast
+3,3. Forging & Foundries,2031,8705.696424859641,Forecast,Moody,-2.5261378423472105,Lightcast
+3,3. Forging & Foundries,2032,1586.619636834588,Forecast,BLS,-1.1022418158305736,BEA
+3,3. Forging & Foundries,2032,1401.9904456691745,Forecast,Moody,-2.852655553459538,BEA
+3,3. Forging & Foundries,2032,9571.108145607612,Forecast,BLS,-1.1022418158305736,Lightcast
+3,3. Forging & Foundries,2032,8457.352892328554,Forecast,Moody,-2.852655553459538,Lightcast
+3,3. Forging & Foundries,2033,1569.131251739218,Forecast,BLS,-1.1022418158305736,BEA
+3,3. Forging & Foundries,2033,1357.769647368848,Forecast,Moody,-3.1541440554696267,BEA
+3,3. Forging & Foundries,2033,9465.611389388358,Forecast,BLS,-1.1022418158305736,Lightcast
+3,3. Forging & Foundries,2033,8190.595798825084,Forecast,Moody,-3.1541440554696267,Lightcast
+3,3. Forging & Foundries,2034,1551.8356309372823,Forecast,BLS,-1.1022418158305736,BEA
+3,3. Forging & Foundries,2034,1313.3402334390976,Forecast,Moody,-3.2722350227704533,BEA
+3,3. Forging & Foundries,2034,9361.277462530496,Forecast,BLS,-1.1022418158305736,Lightcast
+3,3. Forging & Foundries,2034,7922.580254522364,Forecast,Moody,-3.2722350227704533,Lightcast
+3,3. Forging & Foundries,2035,1271.4954526219028,Forecast,Moody,-3.186134084053796,BEA
+3,3. Forging & Foundries,2035,7670.156224696511,Forecast,Moody,-3.186134084053796,Lightcast
+3,3. Forging & Foundries,2036,1233.3066581940668,Forecast,Moody,-3.003455053581861,BEA
+3,3. Forging & Foundries,2036,7439.78652994824,Forecast,Moody,-3.003455053581861,Lightcast
+3,3. Forging & Foundries,2037,1196.9828859232343,Forecast,Moody,-2.94523442563924,BEA
+3,3. Forging & Foundries,2037,7220.667375874133,Forecast,Moody,-2.94523442563924,Lightcast
+3,3. Forging & Foundries,2038,1161.5754663556845,Forecast,Moody,-2.95805562334669,BEA
+3,3. Forging & Foundries,2038,7007.076018518929,Forecast,Moody,-2.95805562334669,Lightcast
+3,3. Forging & Foundries,2039,1127.933746177033,Forecast,Moody,-2.8962147663292703,BEA
+3,3. Forging & Foundries,2039,6804.136048182667,Forecast,Moody,-2.8962147663292703,Lightcast
+3,3. Forging & Foundries,2040,1094.8782134517169,Forecast,Moody,-2.9306271611566697,BEA
+3,3. Forging & Foundries,2040,6604.732189072573,Forecast,Moody,-2.9306271611566697,Lightcast
+3,3. Forging & Foundries,2041,1062.7750395330231,Forecast,Moody,-2.932122817339202,BEA
+3,3. Forging & Foundries,2041,6411.07332953263,Forecast,Moody,-2.932122817339202,Lightcast
+3,3. Forging & Foundries,2042,1031.0519342948653,Forecast,Moody,-2.9849313408882026,BEA
+3,3. Forging & Foundries,2042,6219.707192432086,Forecast,Moody,-2.9849313408882026,Lightcast
+3,3. Forging & Foundries,2043,999.3007433485574,Forecast,Moody,-3.079494823703765,BEA
+3,3. Forging & Foundries,2043,6028.1716313916095,Forecast,Moody,-3.079494823703765,Lightcast
+3,3. Forging & Foundries,2044,968.4995132862092,Forecast,Moody,-3.082278309844592,BEA
+3,3. Forging & Foundries,2044,5842.366604717021,Forecast,Moody,-3.082278309844592,Lightcast
+3,3. Forging & Foundries,2045,939.0591201989652,Forecast,Moody,-3.039794308966663,BEA
+3,3. Forging & Foundries,2045,5664.770677157864,Forecast,Moody,-3.039794308966663,Lightcast
+3,3. Forging & Foundries,2046,910.785982447189,Forecast,Moody,-3.01079422409376,BEA
+3,3. Forging & Foundries,2046,5494.216088801838,Forecast,Moody,-3.01079422409376,Lightcast
+3,3. Forging & Foundries,2047,883.1561900381492,Forecast,Moody,-3.0336207343465293,BEA
+3,3. Forging & Foundries,2047,5327.542410342142,Forecast,Moody,-3.0336207343465293,Lightcast
+3,3. Forging & Foundries,2048,855.8951877592152,Forecast,Moody,-3.0867702209907413,BEA
+3,3. Forging & Foundries,2048,5163.0934177090485,Forecast,Moody,-3.0867702209907413,Lightcast
+3,3. Forging & Foundries,2049,829.5826075236033,Forecast,Moody,-3.0742759875189587,BEA
+3,3. Forging & Foundries,2049,5004.365676555247,Forecast,Moody,-3.0742759875189587,Lightcast
+3,3. Forging & Foundries,2050,804.7627264367904,Forecast,Moody,-2.991851668744956,BEA
+3,3. Forging & Foundries,2050,4854.642478551129,Forecast,Moody,-2.991851668744956,Lightcast
+3,3. Forging & Foundries,2051,781.1516144603991,Forecast,Moody,-2.933922161247853,BEA
+3,3. Forging & Foundries,2051,4712.211047023566,Forecast,Moody,-2.933922161247853,Lightcast
+3,3. Forging & Foundries,2052,758.3322305177655,Forecast,Moody,-2.921249027744324,BEA
+3,3. Forging & Foundries,2052,4574.555627627129,Forecast,Moody,-2.921249027744324,Lightcast
+3,3. Forging & Foundries,2053,735.8400409235945,Forecast,Moody,-2.9660073367597835,BEA
+3,3. Forging & Foundries,2053,4438.873972087551,Forecast,Moody,-2.9660073367597835,Lightcast
+3,3. Forging & Foundries,2054,713.4827719374689,Forecast,Moody,-3.038332754774227,BEA
+3,3. Forging & Foundries,2054,4304.006210250467,Forecast,Moody,-3.038332754774227,Lightcast
+3,3. Forging & Foundries,2055,691.5508095737614,Forecast,Moody,-3.0739301951399587,BEA
+3,3. Forging & Foundries,2055,4171.704063752879,Forecast,Moody,-3.0739301951399587,Lightcast
+4,4. Parts & Machining,2001,2588.359843235,QCEW,,,BEA
+4,4. Parts & Machining,2001,21927.42,QCEW,,,Lightcast
+4,4. Parts & Machining,2002,2469.40101547,QCEW,,,BEA
+4,4. Parts & Machining,2002,20911.01,QCEW,,,Lightcast
+4,4. Parts & Machining,2003,2405.676824084,QCEW,,,BEA
+4,4. Parts & Machining,2003,20511.93,QCEW,,,Lightcast
+4,4. Parts & Machining,2004,2412.689953655,QCEW,,,BEA
+4,4. Parts & Machining,2004,20588.15,QCEW,,,Lightcast
+4,4. Parts & Machining,2005,2483.124449475,QCEW,,,BEA
+4,4. Parts & Machining,2005,21456.32,QCEW,,,Lightcast
+4,4. Parts & Machining,2006,2427.602797372,QCEW,,,BEA
+4,4. Parts & Machining,2006,21276.03,QCEW,,,Lightcast
+4,4. Parts & Machining,2007,2321.659168466,QCEW,,,BEA
+4,4. Parts & Machining,2007,20597.18,QCEW,,,Lightcast
+4,4. Parts & Machining,2008,2239.808070523,QCEW,,,BEA
+4,4. Parts & Machining,2008,20079.93,QCEW,,,Lightcast
+4,4. Parts & Machining,2009,1758.127703042,QCEW,,,BEA
+4,4. Parts & Machining,2009,15785.95,QCEW,,,Lightcast
+4,4. Parts & Machining,2010,1903.19401939,QCEW,,,BEA
+4,4. Parts & Machining,2010,17077.25,QCEW,,,Lightcast
+4,4. Parts & Machining,2011,2119.862165676,QCEW,,,BEA
+4,4. Parts & Machining,2011,19246.91,QCEW,,,Lightcast
+4,4. Parts & Machining,2012,2268.222700737,QCEW,,,BEA
+4,4. Parts & Machining,2012,20537.52,QCEW,,,Lightcast
+4,4. Parts & Machining,2013,2305.258247345,QCEW,,,BEA
+4,4. Parts & Machining,2013,20863.15,QCEW,,,Lightcast
+4,4. Parts & Machining,2014,2407.854251039,QCEW,,,BEA
+4,4. Parts & Machining,2014,21819.07,QCEW,,,Lightcast
+4,4. Parts & Machining,2015,2500.028316464,QCEW,,,BEA
+4,4. Parts & Machining,2015,22781.73,QCEW,,,Lightcast
+4,4. Parts & Machining,2016,2470.460455067,QCEW,,,BEA
+4,4. Parts & Machining,2016,22624.47,QCEW,,,Lightcast
+4,4. Parts & Machining,2017,2441.025215881,QCEW,,,BEA
+4,4. Parts & Machining,2017,22360.12,QCEW,,,Lightcast
+4,4. Parts & Machining,2018,2506.596558618,QCEW,,,BEA
+4,4. Parts & Machining,2018,22784.16,QCEW,,,Lightcast
+4,4. Parts & Machining,2019,2436.887998593,QCEW,,,BEA
+4,4. Parts & Machining,2019,22134.31,QCEW,,,Lightcast
+4,4. Parts & Machining,2020,2092.302473926,QCEW,,,BEA
+4,4. Parts & Machining,2020,19111.87,QCEW,,,Lightcast
+4,4. Parts & Machining,2021,2161.38113958,QCEW,,,BEA
+4,4. Parts & Machining,2021,19832.3,QCEW,,,Lightcast
+4,4. Parts & Machining,2022,2211.587985038,QCEW,,,BEA
+4,4. Parts & Machining,2022,20363.77,QCEW,,,Lightcast
+4,4. Parts & Machining,2023,2288.470633163,QCEW,,,BEA
+4,4. Parts & Machining,2023,21241.28,QCEW,,,Lightcast
+4,4. Parts & Machining,2024,2259.292160319,QCEW,,,BEA
+4,4. Parts & Machining,2024,21044.0,QCEW,,,Lightcast
+4,4. Parts & Machining,2025,2256.7230795033383,Forecast,BLS,-0.1137117571947454,BEA
+4,4. Parts & Machining,2025,2219.801867399937,Forecast,Moody,-1.7479055437207316,BEA
+4,4. Parts & Machining,2025,21020.070497815937,Forecast,BLS,-0.1137117571947454,Lightcast
+4,4. Parts & Machining,2025,20676.17075737941,Forecast,Moody,-1.7479055437207316,Lightcast
+4,4. Parts & Machining,2026,2254.156920034616,Forecast,BLS,-0.1137117571947454,BEA
+4,4. Parts & Machining,2026,2213.5877583328424,Forecast,Moody,-0.2799398071672432,BEA
+4,4. Parts & Machining,2026,20996.168206289298,Forecast,BLS,-0.1137117571947454,Lightcast
+4,4. Parts & Machining,2026,20618.28992483163,Forecast,Moody,-0.2799398071672432,Lightcast
+4,4. Parts & Machining,2027,2251.593678590917,Forecast,BLS,-0.1137117571947454,BEA
+4,4. Parts & Machining,2027,2202.990289528754,Forecast,Moody,-0.4787462690013147,BEA
+4,4. Parts & Machining,2027,20972.29309447836,Forecast,BLS,-0.1137117571947454,Lightcast
+4,4. Parts & Machining,2027,20519.580631084627,Forecast,Moody,-0.4787462690013147,Lightcast
+4,4. Parts & Machining,2028,2249.033351854106,Forecast,BLS,-0.1137117571947454,BEA
+4,4. Parts & Machining,2028,2193.188897242825,Forecast,Moody,-0.4449130952830973,BEA
+4,4. Parts & Machining,2028,20948.4451314766,Forecast,BLS,-0.1137117571947454,Lightcast
+4,4. Parts & Machining,2028,20428.28632975976,Forecast,Moody,-0.4449130952830973,Lightcast
+4,4. Parts & Machining,2029,2246.475936509817,Forecast,BLS,-0.1137117571947454,BEA
+4,4. Parts & Machining,2029,2178.5265395151578,Forecast,Moody,-0.6685405778818436,BEA
+4,4. Parts & Machining,2029,20924.624286412614,Forecast,BLS,-0.1137117571947454,Lightcast
+4,4. Parts & Machining,2029,20291.714946279422,Forecast,Moody,-0.6685405778818436,Lightcast
+4,4. Parts & Machining,2030,2243.921429247455,Forecast,BLS,-0.1137117571947454,BEA
+4,4. Parts & Machining,2030,2163.7391541466973,Forecast,Moody,-0.6787792161463146,BEA
+4,4. Parts & Machining,2030,20900.83052845014,Forecast,BLS,-0.1137117571947454,Lightcast
+4,4. Parts & Machining,2030,20153.979002624423,Forecast,Moody,-0.6787792161463146,Lightcast
+4,4. Parts & Machining,2031,2241.369826760188,Forecast,BLS,-0.1137117571947454,BEA
+4,4. Parts & Machining,2031,2144.1793945102345,Forecast,Moody,-0.9039795577474196,BEA
+4,4. Parts & Machining,2031,20877.063826787944,Forecast,BLS,-0.1137117571947454,Lightcast
+4,4. Parts & Machining,2031,19971.79115236799,Forecast,Moody,-0.9039795577474196,Lightcast
+4,4. Parts & Machining,2032,2238.821125744946,Forecast,BLS,-0.1137117571947454,BEA
+4,4. Parts & Machining,2032,2115.6141619671266,Forecast,Moody,-1.3322221366478908,BEA
+4,4. Parts & Machining,2032,20853.324150659835,Forecast,BLS,-0.1137117571947454,Lightcast
+4,4. Parts & Machining,2032,19705.72252955106,Forecast,Moody,-1.3322221366478908,Lightcast
+4,4. Parts & Machining,2033,2236.2753229024142,Forecast,BLS,-0.1137117571947454,BEA
+4,4. Parts & Machining,2033,2079.5465597121115,Forecast,Moody,-1.7048289288004634,BEA
+4,4. Parts & Machining,2033,20829.611469334603,Forecast,BLS,-0.1137117571947454,Lightcast
+4,4. Parts & Machining,2033,19369.773671238127,Forecast,Moody,-1.7048289288004634,Lightcast
+4,4. Parts & Machining,2034,2233.7324149370293,Forecast,BLS,-0.1137117571947454,BEA
+4,4. Parts & Machining,2034,2040.852852788061,Forecast,Moody,-1.860679999846081,BEA
+4,4. Parts & Machining,2034,20805.925752115985,Forecast,BLS,-0.1137117571947454,Lightcast
+4,4. Parts & Machining,2034,19009.364166521947,Forecast,Moody,-1.860679999846081,Lightcast
+4,4. Parts & Machining,2035,2003.9987252931523,Forecast,Moody,-1.8058199269271733,BEA
+4,4. Parts & Machining,2035,18666.08928042074,Forecast,Moody,-1.8058199269271733,Lightcast
+4,4. Parts & Machining,2036,1971.5866957258488,Forecast,Moody,-1.6173677736527676,BEA
+4,4. Parts & Machining,2036,18364.18996779796,Forecast,Moody,-1.6173677736527676,Lightcast
+4,4. Parts & Machining,2037,1941.031483143517,Forecast,Moody,-1.54977778296897,BEA
+4,4. Parts & Machining,2037,18079.58583165481,Forecast,Moody,-1.54977778296897,Lightcast
+4,4. Parts & Machining,2038,1911.1015594694936,Forecast,Moody,-1.5419597226497193,BEA
+4,4. Parts & Machining,2038,17800.805900108808,Forecast,Moody,-1.5419597226497193,Lightcast
+4,4. Parts & Machining,2039,1882.166274291721,Forecast,Moody,-1.5140631869823298,BEA
+4,4. Parts & Machining,2039,17531.290450989083,Forecast,Moody,-1.5140631869823298,Lightcast
+4,4. Parts & Machining,2040,1852.3729496754747,Forecast,Moody,-1.5829273440497658,BEA
+4,4. Parts & Machining,2040,17253.78286067559,Forecast,Moody,-1.5829273440497658,Lightcast
+4,4. Parts & Machining,2041,1822.641393966048,Forecast,Moody,-1.6050523580921148,BEA
+4,4. Parts & Machining,2041,16976.85061201022,Forecast,Moody,-1.6050523580921148,Lightcast
+4,4. Parts & Machining,2042,1793.0089057584516,Forecast,Moody,-1.6257991454433285,BEA
+4,4. Parts & Machining,2042,16700.84111983697,Forecast,Moody,-1.6257991454433285,Lightcast
+4,4. Parts & Machining,2043,1763.4462320533837,Forecast,Moody,-1.6487745046956654,BEA
+4,4. Parts & Machining,2043,16425.48190938337,Forecast,Moody,-1.6487745046956654,Lightcast
+4,4. Parts & Machining,2044,1734.8330590186304,Forecast,Moody,-1.6225713330332538,BEA
+4,4. Parts & Machining,2044,16158.966748609151,Forecast,Moody,-1.6225713330332538,Lightcast
+4,4. Parts & Machining,2045,1707.033665015714,Forecast,Moody,-1.6024247323625491,BEA
+4,4. Parts & Machining,2045,15900.031468935198,Forecast,Moody,-1.6024247323625491,Lightcast
+4,4. Parts & Machining,2046,1680.0323188727125,Forecast,Moody,-1.5817699847620232,BEA
+4,4. Parts & Machining,2046,15648.529543591863,Forecast,Moody,-1.5817699847620232,Lightcast
+4,4. Parts & Machining,2047,1653.2474033602846,Forecast,Moody,-1.594309538664113,BEA
+4,4. Parts & Machining,2047,15399.043544417707,Forecast,Moody,-1.594309538664113,Lightcast
+4,4. Parts & Machining,2048,1626.003628719464,Forecast,Moody,-1.6478945973510537,BEA
+4,4. Parts & Machining,2048,15145.283537805512,Forecast,Moody,-1.6478945973510537,Lightcast
+4,4. Parts & Machining,2049,1599.24415952018,Forecast,Moody,-1.6457201402654813,BEA
+4,4. Parts & Machining,2049,14896.034556323531,Forecast,Moody,-1.6457201402654813,Lightcast
+4,4. Parts & Machining,2050,1573.8613311687411,Forecast,Moody,-1.5871765546453225,BEA
+4,4. Parts & Machining,2050,14659.608188273702,Forecast,Moody,-1.5871765546453225,Lightcast
+4,4. Parts & Machining,2051,1549.377233611258,Forecast,Moody,-1.5556705710090268,BEA
+4,4. Parts & Machining,2051,14431.552977863495,Forecast,Moody,-1.5556705710090268,Lightcast
+4,4. Parts & Machining,2052,1525.109892907069,Forecast,Moody,-1.566264185231842,BEA
+4,4. Parts & Machining,2052,14205.51673219846,Forecast,Moody,-1.566264185231842,Lightcast
+4,4. Parts & Machining,2053,1500.2801853023973,Forecast,Moody,-1.6280602283251078,BEA
+4,4. Parts & Machining,2053,13974.242364053467,Forecast,Moody,-1.6280602283251078,Lightcast
+4,4. Parts & Machining,2054,1474.5946793158353,Forecast,Moody,-1.7120472721156943,BEA
+4,4. Parts & Machining,2054,13734.996728860857,Forecast,Moody,-1.7120472721156943,Lightcast
+4,4. Parts & Machining,2055,1448.56517469691,Forecast,Moody,-1.7651972426078553,BEA
+4,4. Parts & Machining,2055,13492.546945330729,Forecast,Moody,-1.7651972426078553,Lightcast
+5,5. Component Systems,2001,1102.143751894,QCEW,,,BEA
+5,5. Component Systems,2001,5635.46,QCEW,,,Lightcast
+5,5. Component Systems,2002,1051.884203642,QCEW,,,BEA
+5,5. Component Systems,2002,5451.93,QCEW,,,Lightcast
+5,5. Component Systems,2003,992.329500589,QCEW,,,BEA
+5,5. Component Systems,2003,5183.17,QCEW,,,Lightcast
+5,5. Component Systems,2004,1033.0513117720002,QCEW,,,BEA
+5,5. Component Systems,2004,5361.4,QCEW,,,Lightcast
+5,5. Component Systems,2005,1040.710275723,QCEW,,,BEA
+5,5. Component Systems,2005,5340.84,QCEW,,,Lightcast
+5,5. Component Systems,2006,1010.618139094,QCEW,,,BEA
+5,5. Component Systems,2006,5205.4400000000005,QCEW,,,Lightcast
+5,5. Component Systems,2007,974.867799595,QCEW,,,BEA
+5,5. Component Systems,2007,5041.9800000000005,QCEW,,,Lightcast
+5,5. Component Systems,2008,1024.542376609,QCEW,,,BEA
+5,5. Component Systems,2008,5257.77,QCEW,,,Lightcast
+5,5. Component Systems,2009,890.411307353,QCEW,,,BEA
+5,5. Component Systems,2009,4558.69,QCEW,,,Lightcast
+5,5. Component Systems,2010,856.097663245,QCEW,,,BEA
+5,5. Component Systems,2010,4425.67,QCEW,,,Lightcast
+5,5. Component Systems,2011,946.426010468,QCEW,,,BEA
+5,5. Component Systems,2011,5097.8,QCEW,,,Lightcast
+5,5. Component Systems,2012,981.206092022,QCEW,,,BEA
+5,5. Component Systems,2012,5311.21,QCEW,,,Lightcast
+5,5. Component Systems,2013,960.787099751,QCEW,,,BEA
+5,5. Component Systems,2013,5180.95,QCEW,,,Lightcast
+5,5. Component Systems,2014,990.798404587,QCEW,,,BEA
+5,5. Component Systems,2014,5312.68,QCEW,,,Lightcast
+5,5. Component Systems,2015,1059.533999468,QCEW,,,BEA
+5,5. Component Systems,2015,5771.22,QCEW,,,Lightcast
+5,5. Component Systems,2016,1033.787138826,QCEW,,,BEA
+5,5. Component Systems,2016,5688.89,QCEW,,,Lightcast
+5,5. Component Systems,2017,1037.40970107,QCEW,,,BEA
+5,5. Component Systems,2017,5774.27,QCEW,,,Lightcast
+5,5. Component Systems,2018,1079.763610932,QCEW,,,BEA
+5,5. Component Systems,2018,6049.1900000000005,QCEW,,,Lightcast
+5,5. Component Systems,2019,1139.732288841,QCEW,,,BEA
+5,5. Component Systems,2019,6458.639999999999,QCEW,,,Lightcast
+5,5. Component Systems,2020,1044.5324331850002,QCEW,,,BEA
+5,5. Component Systems,2020,6013.7,QCEW,,,Lightcast
+5,5. Component Systems,2021,1095.156412386,QCEW,,,BEA
+5,5. Component Systems,2021,6184.49,QCEW,,,Lightcast
+5,5. Component Systems,2022,1139.265913107,QCEW,,,BEA
+5,5. Component Systems,2022,6522.13,QCEW,,,Lightcast
+5,5. Component Systems,2023,1196.26568673,QCEW,,,BEA
+5,5. Component Systems,2023,6881.83,QCEW,,,Lightcast
+5,5. Component Systems,2024,1178.535164647,QCEW,,,BEA
+5,5. Component Systems,2024,6667.8,QCEW,,,Lightcast
+5,5. Component Systems,2025,1188.346376234308,Forecast,BLS,0.8324920529839686,BEA
+5,5. Component Systems,2025,1166.3243328854155,Forecast,Moody,-1.036102453951134,BEA
+5,5. Component Systems,2025,6723.3089051088655,Forecast,BLS,0.8324920529839686,Lightcast
+5,5. Component Systems,2025,6598.714760575446,Forecast,Moody,-1.036102453951134,Lightcast
+5,5. Component Systems,2026,1198.239265378381,Forecast,BLS,0.8324920529839686,BEA
+5,5. Component Systems,2026,1161.2994888089756,Forecast,Moody,-0.4308273380534551,BEA
+5,5. Component Systems,2026,6779.27991744146,Forecast,BLS,0.8324920529839686,Lightcast
+5,5. Component Systems,2026,6570.285693426719,Forecast,Moody,-0.4308273380534551,Lightcast
+5,5. Component Systems,2027,1208.2145120383898,Forecast,BLS,0.8324920529839686,BEA
+5,5. Component Systems,2027,1162.2583951338297,Forecast,Moody,0.0825718373334892,BEA
+5,5. Component Systems,2027,6835.716884003698,Forecast,BLS,0.8324920529839686,Lightcast
+5,5. Component Systems,2027,6575.710899041841,Forecast,Moody,0.0825718373334892,Lightcast
+5,5. Component Systems,2028,1218.2728018341083,Forecast,BLS,0.8324920529839686,BEA
+5,5. Component Systems,2028,1161.3653236884809,Forecast,Moody,-0.0768393198180449,BEA
+5,5. Component Systems,2028,6892.623683827513,Forecast,BLS,0.8324920529839686,Lightcast
+5,5. Component Systems,2028,6570.658167513816,Forecast,Moody,-0.0768393198180449,Lightcast
+5,5. Component Systems,2029,1228.4148260930424,Forecast,BLS,0.8324920529839686,BEA
+5,5. Component Systems,2029,1157.848572371587,Forecast,Moody,-0.3028118065144967,BEA
+5,5. Component Systems,2029,6950.004228237468,Forecast,BLS,0.8324920529839686,Lightcast
+5,5. Component Systems,2029,6550.761438816875,Forecast,Moody,-0.3028118065144967,Lightcast
+5,5. Component Systems,2030,1238.6412818979438,Forecast,BLS,0.8324920529839686,BEA
+5,5. Component Systems,2030,1154.529641688849,Forecast,Moody,-0.2866463509938527,BEA
+5,5. Component Systems,2030,7007.862461119595,Forecast,BLS,0.8324920529839686,Lightcast
+5,5. Component Systems,2030,6531.983920190193,Forecast,Moody,-0.2866463509938527,Lightcast
+5,5. Component Systems,2031,1248.952872134723,Forecast,BLS,0.8324920529839686,BEA
+5,5. Component Systems,2031,1149.9927332915522,Forecast,Moody,-0.3929659519750716,BEA
+5,5. Component Systems,2031,7066.202359192462,Forecast,BLS,0.8324920529839686,Lightcast
+5,5. Component Systems,2031,6506.315447395359,Forecast,Moody,-0.3929659519750716,Lightcast
+5,5. Component Systems,2032,1259.3503055407596,Forecast,BLS,0.8324920529839686,BEA
+5,5. Component Systems,2032,1142.250919726054,Forecast,Moody,-0.6732054335108042,BEA
+5,5. Component Systems,2032,7125.0279322805045,Forecast,BLS,0.8324920529839686,Lightcast
+5,5. Component Systems,2032,6462.514578282141,Forecast,Moody,-0.6732054335108042,Lightcast
+5,5. Component Systems,2033,1269.8342967536155,Forecast,BLS,0.8324920529839686,BEA
+5,5. Component Systems,2033,1131.9107734077384,Forecast,Moody,-0.905242984684629,BEA
+5,5. Component Systems,2033,7184.343223589628,Forecast,BLS,0.8324920529839686,Lightcast
+5,5. Component Systems,2033,6404.013118428021,Forecast,Moody,-0.905242984684629,Lightcast
+5,5. Component Systems,2034,1280.4055663601544,Forecast,BLS,0.8324920529839686,BEA
+5,5. Component Systems,2034,1120.455001111458,Forecast,Moody,-1.0120737928654493,BEA
+5,5. Component Systems,2034,7244.152309985104,Forecast,BLS,0.8324920529839686,Lightcast
+5,5. Component Systems,2034,6339.199779964745,Forecast,Moody,-1.0120737928654493,Lightcast
+5,5. Component Systems,2035,1109.7186421006172,Forecast,Moody,-0.9582142076380158,BEA
+5,5. Component Systems,2035,6278.456667022565,Forecast,Moody,-0.9582142076380158,Lightcast
+5,5. Component Systems,2036,1100.6756585526095,Forecast,Moody,-0.8148897571811524,BEA
+5,5. Component Systems,2036,6227.294166733941,Forecast,Moody,-0.8148897571811524,Lightcast
+5,5. Component Systems,2037,1092.2595780947554,Forecast,Moody,-0.76462856178007,BEA
+5,5. Component Systems,2037,6179.6784969090295,Forecast,Moody,-0.76462856178007,Lightcast
+5,5. Component Systems,2038,1083.865204836598,Forecast,Moody,-0.7685328127586442,BEA
+5,5. Component Systems,2038,6132.185639937293,Forecast,Moody,-0.7685328127586442,Lightcast
+5,5. Component Systems,2039,1075.9455427535486,Forecast,Moody,-0.7306869938908359,BEA
+5,5. Component Systems,2039,6087.378557025029,Forecast,Moody,-0.7306869938908359,Lightcast
+5,5. Component Systems,2040,1067.6462808407666,Forecast,Moody,-0.7713459076694967,BEA
+5,5. Component Systems,2040,6040.423811641066,Forecast,Moody,-0.7713459076694967,Lightcast
+5,5. Component Systems,2041,1059.36331017781,Forecast,Moody,-0.7758159993245837,BEA
+5,5. Component Systems,2041,5993.561237283343,Forecast,Moody,-0.7758159993245837,Lightcast
+5,5. Component Systems,2042,1051.0860668413954,Forecast,Moody,-0.7813413261428953,BEA
+5,5. Component Systems,2042,5946.731066428767,Forecast,Moody,-0.7813413261428953,Lightcast
+5,5. Component Systems,2043,1042.762841899235,Forecast,Moody,-0.7918690205049052,BEA
+5,5. Component Systems,2043,5899.640745380976,Forecast,Moody,-0.7918690205049052,Lightcast
+5,5. Component Systems,2044,1034.5707004232768,Forecast,Moody,-0.785618852800446,BEA
+5,5. Component Systems,2044,5853.292055437767,Forecast,Moody,-0.785618852800446,Lightcast
+5,5. Component Systems,2045,1026.1560240323136,Forecast,Moody,-0.813349574612989,BEA
+5,5. Component Systems,2045,5805.684329404008,Forecast,Moody,-0.813349574612989,Lightcast
+5,5. Component Systems,2046,1017.5071971156892,Forecast,Moody,-0.8428374159553581,BEA
+5,5. Component Systems,2046,5756.751849623534,Forecast,Moody,-0.8428374159553581,Lightcast
+5,5. Component Systems,2047,1008.5902465733092,Forecast,Moody,-0.8763525769308651,BEA
+5,5. Component Systems,2047,5706.302406441843,Forecast,Moody,-0.8763525769308651,Lightcast
+5,5. Component Systems,2048,999.2257316992294,Forecast,Moody,-0.928475652614696,BEA
+5,5. Component Systems,2048,5653.320777933464,Forecast,Moody,-0.928475652614696,Lightcast
+5,5. Component Systems,2049,989.7220540295796,Forecast,Moody,-0.9511041767797912,BEA
+5,5. Component Systems,2049,5599.551807887779,Forecast,Moody,-0.9511041767797912,Lightcast
+5,5. Component Systems,2050,980.3706027735066,Forecast,Moody,-0.9448563076875248,BEA
+5,5. Component Systems,2050,5546.644089428721,Forecast,Moody,-0.9448563076875248,Lightcast
+5,5. Component Systems,2051,971.0701489525512,Forecast,Moody,-0.9486671463469064,BEA
+5,5. Component Systems,2051,5494.024899227518,Forecast,Moody,-0.9486671463469064,Lightcast
+5,5. Component Systems,2052,961.564047442444,Forecast,Moody,-0.9789304635057648,BEA
+5,5. Component Systems,2052,5440.242215816388,Forecast,Moody,-0.9789304635057648,Lightcast
+5,5. Component Systems,2053,951.3808489147598,Forecast,Moody,-1.0590244669368851,BEA
+5,5. Component Systems,2053,5382.628719690263,Forecast,Moody,-1.0590244669368851,Lightcast
+5,5. Component Systems,2054,940.4146702369164,Forecast,Moody,-1.1526591785353384,BEA
+5,5. Component Systems,2054,5320.585355706274,Forecast,Moody,-1.1526591785353384,Lightcast
+5,5. Component Systems,2055,928.8902775982722,Forecast,Moody,-1.225458619838509,BEA
+5,5. Component Systems,2055,5255.383783838906,Forecast,Moody,-1.225458619838509,Lightcast
+6,6. Engineering & Design,2001,227.217147131,QCEW,,,BEA
+6,6. Engineering & Design,2001,4495.570000000001,QCEW,,,Lightcast
+6,6. Engineering & Design,2002,226.75808675,QCEW,,,BEA
+6,6. Engineering & Design,2002,4217.700000000001,QCEW,,,Lightcast
+6,6. Engineering & Design,2003,221.699551827,QCEW,,,BEA
+6,6. Engineering & Design,2003,4026.81,QCEW,,,Lightcast
+6,6. Engineering & Design,2004,218.080293171,QCEW,,,BEA
+6,6. Engineering & Design,2004,3967.61,QCEW,,,Lightcast
+6,6. Engineering & Design,2005,217.237573631,QCEW,,,BEA
+6,6. Engineering & Design,2005,3951.89,QCEW,,,Lightcast
+6,6. Engineering & Design,2006,211.81090333,QCEW,,,BEA
+6,6. Engineering & Design,2006,3817.18,QCEW,,,Lightcast
+6,6. Engineering & Design,2007,206.73240926,QCEW,,,BEA
+6,6. Engineering & Design,2007,3772.000000000001,QCEW,,,Lightcast
+6,6. Engineering & Design,2008,197.092141259,QCEW,,,BEA
+6,6. Engineering & Design,2008,3625.89,QCEW,,,Lightcast
+6,6. Engineering & Design,2009,172.480295325,QCEW,,,BEA
+6,6. Engineering & Design,2009,3157.3900000000003,QCEW,,,Lightcast
+6,6. Engineering & Design,2010,178.92266443999998,QCEW,,,BEA
+6,6. Engineering & Design,2010,3277.44,QCEW,,,Lightcast
+6,6. Engineering & Design,2011,192.046912434,QCEW,,,BEA
+6,6. Engineering & Design,2011,3565.1400000000003,QCEW,,,Lightcast
+6,6. Engineering & Design,2012,207.085020857,QCEW,,,BEA
+6,6. Engineering & Design,2012,3859.39,QCEW,,,Lightcast
+6,6. Engineering & Design,2013,219.164740158,QCEW,,,BEA
+6,6. Engineering & Design,2013,4082.46,QCEW,,,Lightcast
+6,6. Engineering & Design,2014,228.252805092,QCEW,,,BEA
+6,6. Engineering & Design,2014,4269.200000000001,QCEW,,,Lightcast
+6,6. Engineering & Design,2015,260.69972506499994,QCEW,,,BEA
+6,6. Engineering & Design,2015,4879.55,QCEW,,,Lightcast
+6,6. Engineering & Design,2016,270.206932086,QCEW,,,BEA
+6,6. Engineering & Design,2016,5064.820000000001,QCEW,,,Lightcast
+6,6. Engineering & Design,2017,252.197128443,QCEW,,,BEA
+6,6. Engineering & Design,2017,4816.41,QCEW,,,Lightcast
+6,6. Engineering & Design,2018,258.799170734,QCEW,,,BEA
+6,6. Engineering & Design,2018,4974.14,QCEW,,,Lightcast
+6,6. Engineering & Design,2019,262.447259269,QCEW,,,BEA
+6,6. Engineering & Design,2019,5032.67,QCEW,,,Lightcast
+6,6. Engineering & Design,2020,255.927271249,QCEW,,,BEA
+6,6. Engineering & Design,2020,4863.27,QCEW,,,Lightcast
+6,6. Engineering & Design,2021,264.975417889,QCEW,,,BEA
+6,6. Engineering & Design,2021,5028.870000000001,QCEW,,,Lightcast
+6,6. Engineering & Design,2022,271.453269932,QCEW,,,BEA
+6,6. Engineering & Design,2022,5114.92,QCEW,,,Lightcast
+6,6. Engineering & Design,2023,273.021171813,QCEW,,,BEA
+6,6. Engineering & Design,2023,5143.79,QCEW,,,Lightcast
+6,6. Engineering & Design,2024,266.581020381,QCEW,,,BEA
+6,6. Engineering & Design,2024,4998.47,QCEW,,,Lightcast
+6,6. Engineering & Design,2025,267.99186896229605,Forecast,BLS,0.5292381953072578,BEA
+6,6. Engineering & Design,2025,263.350643600821,Forecast,Moody,-1.2117804844328768,BEA
+6,6. Engineering & Design,2025,5024.923812420975,Forecast,BLS,0.5292381953072578,Lightcast
+6,6. Engineering & Design,2025,4937.899516019768,Forecast,Moody,-1.2117804844328768,Lightcast
+6,6. Engineering & Design,2026,269.4101842931623,Forecast,BLS,0.5292381953072578,BEA
+6,6. Engineering & Design,2026,264.8042010624437,Forecast,Moody,0.5519475638062209,BEA
+6,6. Engineering & Design,2026,5051.517628521397,Forecast,BLS,0.5292381953072578,Lightcast
+6,6. Engineering & Design,2026,4965.154132101638,Forecast,Moody,0.5519475638062209,Lightcast
+6,6. Engineering & Design,2027,270.8360058904894,Forecast,BLS,0.5292381953072578,BEA
+6,6. Engineering & Design,2027,267.6387988511171,Forecast,Moody,1.0704504601137157,BEA
+6,6. Engineering & Design,2027,5078.252189254211,Forecast,BLS,0.5292381953072578,Lightcast
+6,6. Engineering & Design,2027,5018.303647354075,Forecast,Moody,1.0704504601137157,Lightcast
+6,6. Engineering & Design,2028,272.26937348030646,Forecast,BLS,0.5292381953072578,BEA
+6,6. Engineering & Design,2028,270.694704593863,Forecast,Moody,1.1418022184615484,BEA
+6,6. Engineering & Design,2028,5105.128239493771,Forecast,BLS,0.5292381953072578,Lightcast
+6,6. Engineering & Design,2028,5075.6027497287005,Forecast,Moody,1.1418022184615484,Lightcast
+6,6. Engineering & Design,2029,273.71032699888804,Forecast,BLS,0.5292381953072578,BEA
+6,6. Engineering & Design,2029,273.44233366791514,Forecast,Moody,1.0150287491491918,BEA
+6,6. Engineering & Design,2029,5132.146528056589,Forecast,BLS,0.5292381953072578,Lightcast
+6,6. Engineering & Design,2029,5127.121576831053,Forecast,Moody,1.0150287491491918,Lightcast
+6,6. Engineering & Design,2030,275.15890659386656,Forecast,BLS,0.5292381953072578,BEA
+6,6. Engineering & Design,2030,276.18658781430804,Forecast,Moody,1.003595203998554,BEA
+6,6. Engineering & Design,2030,5159.3078077222,Forecast,BLS,0.5292381953072578,Lightcast
+6,6. Engineering & Design,2030,5178.577123079304,Forecast,Moody,1.003595203998554,Lightcast
+6,6. Engineering & Design,2031,276.6151526253512,Forecast,BLS,0.5292381953072578,BEA
+6,6. Engineering & Design,2031,278.5935349850206,Forecast,Moody,0.8714931415608396,BEA
+6,6. Engineering & Design,2031,5186.612835254136,Forecast,BLS,0.5292381953072578,Lightcast
+6,6. Engineering & Design,2031,5223.708067537379,Forecast,Moody,0.8714931415608396,Lightcast
+6,6. Engineering & Design,2032,278.079105667052,Forecast,BLS,0.5292381953072578,BEA
+6,6. Engineering & Design,2032,280.1157213238806,Forecast,Moody,0.5463825063068575,BEA
+6,6. Engineering & Design,2032,5214.062371421009,Forecast,BLS,0.5292381953072578,Lightcast
+6,6. Engineering & Design,2032,5252.249494598943,Forecast,Moody,0.5463825063068575,Lightcast
+6,6. Engineering & Design,2033,279.55080650741087,Forecast,BLS,0.5292381953072578,BEA
+6,6. Engineering & Design,2033,280.98718123058944,Forecast,Moody,0.3111071033750272,BEA
+6,6. Engineering & Design,2033,5241.657181017712,Forecast,BLS,0.5292381953072578,Lightcast
+6,6. Engineering & Design,2033,5268.58961586362,Forecast,Moody,0.3111071033750272,Lightcast
+6,6. Engineering & Design,2034,281.0302961507376,Forecast,BLS,0.5292381953072578,BEA
+6,6. Engineering & Design,2034,281.79665658471583,Forecast,Moody,0.2880826629105594,BEA
+6,6. Engineering & Design,2034,5269.398032886724,Forecast,BLS,0.5292381953072578,Lightcast
+6,6. Engineering & Design,2034,5283.767509126829,Forecast,Moody,0.2880826629105594,Lightcast
+6,6. Engineering & Design,2035,282.8125546109388,Forecast,Moody,0.3605074802998893,BEA
+6,6. Engineering & Design,2035,5302.815886238887,Forecast,Moody,0.3605074802998893,Lightcast
+6,6. Engineering & Design,2036,284.17413064131625,Forecast,Moody,0.4814411553442571,BEA
+6,6. Engineering & Design,2036,5328.345824307375,Forecast,Moody,0.4814411553442571,Lightcast
+6,6. Engineering & Design,2037,285.5205542570434,Forecast,Moody,0.4738023171527117,BEA
+6,6. Engineering & Design,2037,5353.591650288852,Forecast,Moody,0.4738023171527117,Lightcast
+6,6. Engineering & Design,2038,286.75145503933146,Forecast,Moody,0.4311075906570097,BEA
+6,6. Engineering & Design,2038,5376.671390266028,Forecast,Moody,0.4311075906570097,Lightcast
+6,6. Engineering & Design,2039,288.01216348297334,Forecast,Moody,0.4396519778666683,BEA
+6,6. Engineering & Design,2039,5400.310032376723,Forecast,Moody,0.4396519778666683,Lightcast
+6,6. Engineering & Design,2040,289.2130119586994,Forecast,Moody,0.4169436669632283,BEA
+6,6. Engineering & Design,2040,5422.8262830530975,Forecast,Moody,0.4169436669632283,Lightcast
+6,6. Engineering & Design,2041,290.44974979718927,Forecast,Moody,0.42762178302908,BEA
+6,6. Engineering & Design,2041,5446.015469495259,Forecast,Moody,0.42762178302908,Lightcast
+6,6. Engineering & Design,2042,291.64714520893057,Forecast,Moody,0.412255618253206,BEA
+6,6. Engineering & Design,2042,5468.466974239192,Forecast,Moody,0.412255618253206,Lightcast
+6,6. Engineering & Design,2043,292.7819339741638,Forecast,Moody,0.3890964762985344,BEA
+6,6. Engineering & Design,2043,5489.744586543506,Forecast,Moody,0.3890964762985344,Lightcast
+6,6. Engineering & Design,2044,293.8827099338322,Forecast,Moody,0.3759712714260382,BEA
+6,6. Engineering & Design,2044,5510.384449063575,Forecast,Moody,0.3759712714260382,Lightcast
+6,6. Engineering & Design,2045,294.9257525065415,Forecast,Moody,0.3549179783132446,BEA
+6,6. Engineering & Design,2045,5529.941794147479,Forecast,Moody,0.3549179783132446,Lightcast
+6,6. Engineering & Design,2046,295.8654777064579,Forecast,Moody,0.318631110348879,BEA
+6,6. Engineering & Design,2046,5547.561909087818,Forecast,Moody,0.318631110348879,Lightcast
+6,6. Engineering & Design,2047,296.6168305323317,Forecast,Moody,0.2539508264695849,BEA
+6,6. Engineering & Design,2047,5561.649988404859,Forecast,Moody,0.2539508264695849,Lightcast
+6,6. Engineering & Design,2048,297.2859078341401,Forecast,Moody,0.2255695675149779,BEA
+6,6. Engineering & Design,2048,5574.195378230401,Forecast,Moody,0.2255695675149779,Lightcast
+6,6. Engineering & Design,2049,297.9587033263197,Forecast,Moody,0.2263126083174204,BEA
+6,6. Engineering & Design,2049,5586.810485183583,Forecast,Moody,0.2263126083174204,Lightcast
+6,6. Engineering & Design,2050,298.64197149663164,Forecast,Moody,0.2293163994486891,BEA
+6,6. Engineering & Design,2050,5599.621957832229,Forecast,Moody,0.2293163994486891,Lightcast
+6,6. Engineering & Design,2051,299.28797377994675,Forecast,Moody,0.2163132931642836,BEA
+6,6. Engineering & Design,2051,5611.734684493967,Forecast,Moody,0.2163132931642836,Lightcast
+6,6. Engineering & Design,2052,299.8293729454052,Forecast,Moody,0.180895730162703,BEA
+6,6. Engineering & Design,2052,5621.886072926276,Forecast,Moody,0.180895730162703,Lightcast
+6,6. Engineering & Design,2053,300.1412713962121,Forecast,Moody,0.1040253153795364,BEA
+6,6. Engineering & Design,2053,5627.734257643916,Forecast,Moody,0.1040253153795364,Lightcast
+6,6. Engineering & Design,2054,300.1817425450782,Forecast,Moody,0.0134840332613365,BEA
+6,6. Engineering & Design,2054,5628.493103203076,Forecast,Moody,0.0134840332613365,Lightcast
+6,6. Engineering & Design,2055,300.05373327700613,Forecast,Moody,-0.0426439219743019,BEA
+6,6. Engineering & Design,2055,5626.092892995817,Forecast,Moody,-0.0426439219743019,Lightcast
+7,7. Core Automotive,2001,304333.0,QCEW,,,BEA
+7,7. Core Automotive,2001,304333.0,QCEW,,,Lightcast
+7,7. Core Automotive,2002,283180.0,QCEW,,,BEA
+7,7. Core Automotive,2002,283180.0,QCEW,,,Lightcast
+7,7. Core Automotive,2003,261958.0,QCEW,,,BEA
+7,7. Core Automotive,2003,261958.0,QCEW,,,Lightcast
+7,7. Core Automotive,2004,249612.0,QCEW,,,BEA
+7,7. Core Automotive,2004,249612.0,QCEW,,,Lightcast
+7,7. Core Automotive,2005,232083.0,QCEW,,,BEA
+7,7. Core Automotive,2005,232083.0,QCEW,,,Lightcast
+7,7. Core Automotive,2006,213893.0,QCEW,,,BEA
+7,7. Core Automotive,2006,213893.0,QCEW,,,Lightcast
+7,7. Core Automotive,2007,198068.0,QCEW,,,BEA
+7,7. Core Automotive,2007,198068.0,QCEW,,,Lightcast
+7,7. Core Automotive,2008,167000.0,QCEW,,,BEA
+7,7. Core Automotive,2008,167000.0,QCEW,,,Lightcast
+7,7. Core Automotive,2009,122598.0,QCEW,,,BEA
+7,7. Core Automotive,2009,122598.0,QCEW,,,Lightcast
+7,7. Core Automotive,2010,126033.0,QCEW,,,BEA
+7,7. Core Automotive,2010,126033.0,QCEW,,,Lightcast
+7,7. Core Automotive,2011,137663.0,QCEW,,,BEA
+7,7. Core Automotive,2011,137663.0,QCEW,,,Lightcast
+7,7. Core Automotive,2012,150169.0,QCEW,,,BEA
+7,7. Core Automotive,2012,150169.0,QCEW,,,Lightcast
+7,7. Core Automotive,2013,160593.0,QCEW,,,BEA
+7,7. Core Automotive,2013,160593.0,QCEW,,,Lightcast
+7,7. Core Automotive,2014,170363.0,QCEW,,,BEA
+7,7. Core Automotive,2014,170363.0,QCEW,,,Lightcast
+7,7. Core Automotive,2015,166670.0,QCEW,,,BEA
+7,7. Core Automotive,2015,166670.0,QCEW,,,Lightcast
+7,7. Core Automotive,2016,173344.0,QCEW,,,BEA
+7,7. Core Automotive,2016,173344.0,QCEW,,,Lightcast
+7,7. Core Automotive,2017,180711.0,QCEW,,,BEA
+7,7. Core Automotive,2017,180711.0,QCEW,,,Lightcast
+7,7. Core Automotive,2018,182995.0,QCEW,,,BEA
+7,7. Core Automotive,2018,182995.0,QCEW,,,Lightcast
+7,7. Core Automotive,2019,180821.0,QCEW,,,BEA
+7,7. Core Automotive,2019,180821.0,QCEW,,,Lightcast
+7,7. Core Automotive,2020,154727.0,QCEW,,,BEA
+7,7. Core Automotive,2020,154727.0,QCEW,,,Lightcast
+7,7. Core Automotive,2021,174869.0,QCEW,,,BEA
+7,7. Core Automotive,2021,174869.0,QCEW,,,Lightcast
+7,7. Core Automotive,2022,177138.0,QCEW,,,BEA
+7,7. Core Automotive,2022,177138.0,QCEW,,,Lightcast
+7,7. Core Automotive,2023,179115.0,QCEW,,,BEA
+7,7. Core Automotive,2023,179115.0,QCEW,,,Lightcast
+7,7. Core Automotive,2024,173082.0,QCEW,,,BEA
+7,7. Core Automotive,2024,173082.0,QCEW,,,Lightcast
+7,7. Core Automotive,2025,171260.1256123112,Forecast,BLS,-1.0526076586177655,BEA
+7,7. Core Automotive,2025,167821.10456417745,Forecast,Moody,-3.039539314210919,BEA
+7,7. Core Automotive,2025,171260.1256123112,Forecast,BLS,-1.0526076586177655,Lightcast
+7,7. Core Automotive,2025,167821.10456417745,Forecast,Moody,-3.039539314210919,Lightcast
+7,7. Core Automotive,2026,169457.42841395762,Forecast,BLS,-1.0526076586177655,BEA
+7,7. Core Automotive,2026,167965.04865941935,Forecast,Moody,0.0857723440777607,BEA
+7,7. Core Automotive,2026,169457.42841395762,Forecast,BLS,-1.0526076586177655,Lightcast
+7,7. Core Automotive,2026,167965.04865941935,Forecast,Moody,0.0857723440777607,Lightcast
+7,7. Core Automotive,2027,167673.70654437557,Forecast,BLS,-1.0526076586177655,BEA
+7,7. Core Automotive,2027,169532.3074998636,Forecast,Moody,0.93308628964954,BEA
+7,7. Core Automotive,2027,167673.70654437557,Forecast,BLS,-1.0526076586177655,Lightcast
+7,7. Core Automotive,2027,169532.3074998636,Forecast,Moody,0.93308628964954,Lightcast
+7,7. Core Automotive,2028,165908.7602678012,Forecast,BLS,-1.0526076586177655,BEA
+7,7. Core Automotive,2028,171430.41505860293,Forecast,Moody,1.11961406455868,BEA
+7,7. Core Automotive,2028,165908.7602678012,Forecast,BLS,-1.0526076586177655,Lightcast
+7,7. Core Automotive,2028,171430.41505860293,Forecast,Moody,1.11961406455868,Lightcast
+7,7. Core Automotive,2029,164162.39195090454,Forecast,BLS,-1.0526076586177655,BEA
+7,7. Core Automotive,2029,173122.12780404664,Forecast,Moody,0.9868218220584696,BEA
+7,7. Core Automotive,2029,164162.39195090454,Forecast,BLS,-1.0526076586177655,Lightcast
+7,7. Core Automotive,2029,173122.12780404664,Forecast,Moody,0.9868218220584696,Lightcast
+7,7. Core Automotive,2030,162434.4060406592,Forecast,BLS,-1.0526076586177655,BEA
+7,7. Core Automotive,2030,174991.50579309932,Forecast,Moody,1.0798030342883644,BEA
+7,7. Core Automotive,2030,162434.4060406592,Forecast,BLS,-1.0526076586177655,Lightcast
+7,7. Core Automotive,2030,174991.50579309932,Forecast,Moody,1.0798030342883644,Lightcast
+7,7. Core Automotive,2031,160724.60904244494,Forecast,BLS,-1.0526076586177655,BEA
+7,7. Core Automotive,2031,175941.17114149057,Forecast,Moody,0.5426922547395546,BEA
+7,7. Core Automotive,2031,160724.60904244494,Forecast,BLS,-1.0526076586177655,Lightcast
+7,7. Core Automotive,2031,175941.17114149057,Forecast,Moody,0.5426922547395546,Lightcast
+7,7. Core Automotive,2032,159032.8094983807,Forecast,BLS,-1.0526076586177655,BEA
+7,7. Core Automotive,2032,175503.72144894183,Forecast,Moody,-0.2486340688257361,BEA
+7,7. Core Automotive,2032,159032.8094983807,Forecast,BLS,-1.0526076586177655,Lightcast
+7,7. Core Automotive,2032,175503.72144894183,Forecast,Moody,-0.2486340688257361,Lightcast
+7,7. Core Automotive,2033,157358.81796588574,Forecast,BLS,-1.0526076586177655,BEA
+7,7. Core Automotive,2033,174176.75066175894,Forecast,Moody,-0.7560926778233188,BEA
+7,7. Core Automotive,2033,157358.81796588574,Forecast,BLS,-1.0526076586177655,Lightcast
+7,7. Core Automotive,2033,174176.75066175894,Forecast,Moody,-0.7560926778233188,Lightcast
+7,7. Core Automotive,2034,155702.44699646643,Forecast,BLS,-1.0526076586177655,BEA
+7,7. Core Automotive,2034,172439.9563355564,Forecast,Moody,-0.9971447507223794,BEA
+7,7. Core Automotive,2034,155702.44699646643,Forecast,BLS,-1.0526076586177655,Lightcast
+7,7. Core Automotive,2034,172439.9563355564,Forecast,Moody,-0.9971447507223794,Lightcast
+7,7. Core Automotive,2035,170998.62737033868,Forecast,Moody,-0.8358439632245019,BEA
+7,7. Core Automotive,2035,170998.62737033868,Forecast,Moody,-0.8358439632245019,Lightcast
+7,7. Core Automotive,2036,170169.56904649115,Forecast,Moody,-0.4848333209435823,BEA
+7,7. Core Automotive,2036,170169.56904649115,Forecast,Moody,-0.4848333209435823,Lightcast
+7,7. Core Automotive,2037,169574.5237051697,Forecast,Moody,-0.3496778799262657,BEA
+7,7. Core Automotive,2037,169574.5237051697,Forecast,Moody,-0.3496778799262657,Lightcast
+7,7. Core Automotive,2038,168911.9536418978,Forecast,Moody,-0.3907250032580898,BEA
+7,7. Core Automotive,2038,168911.9536418978,Forecast,Moody,-0.3907250032580898,Lightcast
+7,7. Core Automotive,2039,168043.00313128476,Forecast,Moody,-0.514439914924718,BEA
+7,7. Core Automotive,2039,168043.00313128476,Forecast,Moody,-0.514439914924718,Lightcast
+7,7. Core Automotive,2040,166925.00494416195,Forecast,Moody,-0.6653048126314257,BEA
+7,7. Core Automotive,2040,166925.00494416195,Forecast,Moody,-0.6653048126314257,Lightcast
+7,7. Core Automotive,2041,165687.42739455585,Forecast,Moody,-0.7413973418901973,BEA
+7,7. Core Automotive,2041,165687.42739455585,Forecast,Moody,-0.7413973418901973,Lightcast
+7,7. Core Automotive,2042,164557.62785273674,Forecast,Moody,-0.6818861029984473,BEA
+7,7. Core Automotive,2042,164557.62785273674,Forecast,Moody,-0.6818861029984473,Lightcast
+7,7. Core Automotive,2043,163490.5014088428,Forecast,Moody,-0.6484819074135707,BEA
+7,7. Core Automotive,2043,163490.5014088428,Forecast,Moody,-0.6484819074135707,Lightcast
+7,7. Core Automotive,2044,162482.4919551138,Forecast,Moody,-0.6165553625701139,BEA
+7,7. Core Automotive,2044,162482.4919551138,Forecast,Moody,-0.6165553625701139,Lightcast
+7,7. Core Automotive,2045,161524.39256770274,Forecast,Moody,-0.5896631544004948,BEA
+7,7. Core Automotive,2045,161524.39256770274,Forecast,Moody,-0.5896631544004948,Lightcast
+7,7. Core Automotive,2046,160608.99263284705,Forecast,Moody,-0.5667255083296561,BEA
+7,7. Core Automotive,2046,160608.99263284705,Forecast,Moody,-0.5667255083296561,Lightcast
+7,7. Core Automotive,2047,159671.4241791918,Forecast,Moody,-0.5837583800793518,BEA
+7,7. Core Automotive,2047,159671.4241791918,Forecast,Moody,-0.5837583800793518,Lightcast
+7,7. Core Automotive,2048,158687.4386389302,Forecast,Moody,-0.6162565063347252,BEA
+7,7. Core Automotive,2048,158687.4386389302,Forecast,Moody,-0.6162565063347252,Lightcast
+7,7. Core Automotive,2049,157757.18389532669,Forecast,Moody,-0.586218261245095,BEA
+7,7. Core Automotive,2049,157757.18389532669,Forecast,Moody,-0.586218261245095,Lightcast
+7,7. Core Automotive,2050,156885.95825556075,Forecast,Moody,-0.5522573478137078,BEA
+7,7. Core Automotive,2050,156885.95825556075,Forecast,Moody,-0.5522573478137078,Lightcast
+7,7. Core Automotive,2051,156034.98344303135,Forecast,Moody,-0.5424161741378907,BEA
+7,7. Core Automotive,2051,156034.98344303135,Forecast,Moody,-0.5424161741378907,Lightcast
+7,7. Core Automotive,2052,155184.89106496124,Forecast,Moody,-0.5448088366545588,BEA
+7,7. Core Automotive,2052,155184.89106496124,Forecast,Moody,-0.5448088366545588,Lightcast
+7,7. Core Automotive,2053,154302.17005915096,Forecast,Moody,-0.5688189099805913,BEA
+7,7. Core Automotive,2053,154302.17005915096,Forecast,Moody,-0.5688189099805913,Lightcast
+7,7. Core Automotive,2054,153328.29093838835,Forecast,Moody,-0.6311506315104135,BEA
+7,7. Core Automotive,2054,153328.29093838835,Forecast,Moody,-0.6311506315104135,Lightcast
+7,7. Core Automotive,2055,152276.4256011645,Forecast,Moody,-0.6860216929219835,BEA
+7,7. Core Automotive,2055,152276.4256011645,Forecast,Moody,-0.6860216929219835,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2001,107590.17649841309,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2001,107590.17649841309,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2002,104826.7277730306,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2002,104826.7277730306,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2003,102056.9299837748,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2003,102056.9299837748,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2004,100039.40278879802,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2004,100039.40278879802,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2005,99441.06699625652,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2005,99441.06699625652,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2006,98829.07436879475,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2006,98829.07436879475,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2007,97215.68500010172,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2007,97215.68500010172,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2008,95828.59295272829,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2008,95828.59295272829,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2009,87246.23037465413,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2009,87246.23037465413,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2010,89086.81250254312,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2010,89086.81250254312,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2011,92585.61084620158,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2011,92585.61084620158,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2012,95608.29066594444,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2012,95608.29066594444,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2013,98503.9054781596,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2013,98503.9054781596,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2014,102424.88727823892,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2014,102424.88727823892,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2015,104833.71697362264,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2015,104833.71697362264,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2016,105625.18589528404,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2016,105625.18589528404,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2017,107098.9301846822,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2017,107098.9301846822,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2018,110520.07780456544,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2018,110520.07780456544,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2019,111801.66566467284,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2019,111801.66566467284,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2020,103058.23542785645,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2020,103058.23542785645,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2021,105546.62362289429,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2021,105546.62362289429,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2022,110573.0,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2022,110573.0,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2023,114410.0,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2023,114410.0,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2024,115340.0,QCEW,,,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2024,115340.0,QCEW,,,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2025,115308.03729262804,Forecast,BLS,-0.0277117282572736,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2025,116325.19780394826,Forecast,Moody,0.8541683751935631,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2025,115308.03729262804,Forecast,BLS,-0.0277117282572736,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2025,116325.19780394826,Forecast,Moody,0.8541683751935631,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2026,115276.08344267472,Forecast,BLS,-0.0277117282572736,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2026,116284.3984565416,Forecast,Moody,-0.035073525063272,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2026,115276.08344267472,Forecast,BLS,-0.0277117282572736,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2026,116284.3984565416,Forecast,Moody,-0.035073525063272,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2027,115244.13844768547,Forecast,BLS,-0.0277117282572736,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2027,116349.02348905474,Forecast,Moody,0.055574981141858,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2027,115244.13844768547,Forecast,BLS,-0.0277117282572736,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2027,116349.02348905474,Forecast,Moody,0.055574981141858,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2028,115212.20230520642,Forecast,BLS,-0.0277117282572736,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2028,116569.03391507178,Forecast,Moody,0.1890952063192237,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2028,115212.20230520642,Forecast,BLS,-0.0277117282572736,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2028,116569.03391507178,Forecast,Moody,0.1890952063192237,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2029,115180.27501278438,Forecast,BLS,-0.0277117282572736,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2029,116752.6304652046,Forecast,Moody,0.157500275988035,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2029,115180.27501278438,Forecast,BLS,-0.0277117282572736,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2029,116752.6304652046,Forecast,Moody,0.157500275988035,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2030,115148.35656796684,Forecast,BLS,-0.0277117282572736,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2030,116953.03647959676,Forecast,Moody,0.1716501063775938,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2030,115148.35656796684,Forecast,BLS,-0.0277117282572736,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2030,116953.03647959676,Forecast,Moody,0.1716501063775938,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2031,115116.44696830204,Forecast,BLS,-0.0277117282572736,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2031,117005.1399715128,Forecast,Moody,0.0445507816508191,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2031,115116.44696830204,Forecast,BLS,-0.0277117282572736,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2031,117005.1399715128,Forecast,Moody,0.0445507816508191,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2032,115084.54621133876,Forecast,BLS,-0.0277117282572736,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2032,116683.172135592,Forecast,Moody,-0.2751740957697885,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2032,115084.54621133876,Forecast,BLS,-0.0277117282572736,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2032,116683.172135592,Forecast,Moody,-0.2751740957697885,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2033,115052.65429462654,Forecast,BLS,-0.0277117282572736,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2033,116001.60877324623,Forecast,Moody,-0.5841145298601835,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2033,115052.65429462654,Forecast,BLS,-0.0277117282572736,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2033,116001.60877324623,Forecast,Moody,-0.5841145298601835,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,115020.77121571563,Forecast,BLS,-0.0277117282572736,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,115181.74128762457,Forecast,Moody,-0.7067725131504965,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,115020.77121571563,Forecast,BLS,-0.0277117282572736,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,115181.74128762457,Forecast,Moody,-0.7067725131504965,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2035,114379.70036777743,Forecast,Moody,-0.6963264410496346,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2035,114379.70036777743,Forecast,Moody,-0.6963264410496346,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2036,113661.22789099142,Forecast,Moody,-0.6281468429064279,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2036,113661.22789099142,Forecast,Moody,-0.6281468429064279,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2037,112944.91243241724,Forecast,Moody,-0.6302197080442952,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2037,112944.91243241724,Forecast,Moody,-0.6302197080442952,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2038,112211.73159170493,Forecast,Moody,-0.6491490629567249,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2038,112211.73159170493,Forecast,Moody,-0.6491490629567249,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2039,111502.26915211504,Forecast,Moody,-0.6322533566912114,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2039,111502.26915211504,Forecast,Moody,-0.6322533566912114,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2040,110709.52090120992,Forecast,Moody,-0.7109705093298302,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2040,110709.52090120992,Forecast,Moody,-0.7109705093298302,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2041,109838.29345960666,Forecast,Moody,-0.7869489764847627,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2041,109838.29345960666,Forecast,Moody,-0.7869489764847627,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2042,108893.27214469512,Forecast,Moody,-0.8603750888200687,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2042,108893.27214469512,Forecast,Moody,-0.8603750888200687,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2043,107887.35030865972,Forecast,Moody,-0.9237685820467946,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2043,107887.35030865972,Forecast,Moody,-0.9237685820467946,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2044,106858.76652273977,Forecast,Moody,-0.9533868270721678,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2044,106858.76652273977,Forecast,Moody,-0.9533868270721678,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2045,105796.96213602315,Forecast,Moody,-0.9936521085433316,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2045,105796.96213602315,Forecast,Moody,-0.9936521085433316,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2046,104692.5626550777,Forecast,Moody,-1.043885815478849,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2046,104692.5626550777,Forecast,Moody,-1.043885815478849,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2047,103543.94092044629,Forecast,Moody,-1.0971378534458918,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2047,103543.94092044629,Forecast,Moody,-1.0971378534458918,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2048,102380.04275443118,Forecast,Moody,-1.124062070333335,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2048,102380.04275443118,Forecast,Moody,-1.124062070333335,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2049,101242.34154993392,Forecast,Moody,-1.1112529101263977,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2049,101242.34154993392,Forecast,Moody,-1.1112529101263977,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2050,100125.0110056251,Forecast,Moody,-1.103619816771763,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2050,100125.0110056251,Forecast,Moody,-1.103619816771763,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2051,99019.71087557846,Forecast,Moody,-1.103920108417808,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2051,99019.71087557846,Forecast,Moody,-1.103920108417808,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2052,97906.31217022028,Forecast,Moody,-1.1244212849269923,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2052,97906.31217022028,Forecast,Moody,-1.1244212849269923,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2053,96723.72206626956,Forecast,Moody,-1.2078793264061225,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2053,96723.72206626956,Forecast,Moody,-1.2078793264061225,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2054,95458.64267002646,Forecast,Moody,-1.307930845937005,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2054,95458.64267002646,Forecast,Moody,-1.307930845937005,Lightcast
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2055,94147.9899808236,Forecast,Moody,-1.373005788206537,BEA
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2055,94147.9899808236,Forecast,Moody,-1.373005788206537,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2001,75615.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2001,75615.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2002,76404.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2002,76404.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2003,74642.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2003,74642.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2004,74365.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2004,74365.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2005,71952.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2005,71952.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2006,68884.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2006,68884.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2007,66333.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2007,66333.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2008,63843.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2008,63843.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2009,58528.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2009,58528.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2010,57415.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2010,57415.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2011,58514.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2011,58514.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2012,60173.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2012,60173.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2013,61157.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2013,61157.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2014,64200.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2014,64200.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2015,66784.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2015,66784.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2016,68358.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2016,68358.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2017,68500.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2017,68500.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2018,68540.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2018,68540.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2019,68868.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2019,68868.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2020,62425.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2020,62425.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2021,66198.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2021,66198.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2022,67706.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2022,67706.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2023,69189.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2023,69189.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2024,69600.0,QCEW,,,BEA
+9,"9. Dealers, Maintenance, & Repair",2024,69600.0,QCEW,,,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2025,69751.8816473937,Forecast,BLS,0.2182207577495765,BEA
+9,"9. Dealers, Maintenance, & Repair",2025,70613.61899632038,Forecast,Moody,1.456349132644235,BEA
+9,"9. Dealers, Maintenance, & Repair",2025,69751.8816473937,Forecast,BLS,0.2182207577495765,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2025,70613.61899632038,Forecast,Moody,1.456349132644235,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2026,69904.09473206924,Forecast,BLS,0.2182207577495765,BEA
+9,"9. Dealers, Maintenance, & Repair",2026,70745.45787826246,Forecast,Moody,0.1867046099831677,BEA
+9,"9. Dealers, Maintenance, & Repair",2026,69904.09473206924,Forecast,BLS,0.2182207577495765,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2026,70745.45787826246,Forecast,Moody,0.1867046099831677,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2027,70056.63997729153,Forecast,BLS,0.2182207577495765,BEA
+9,"9. Dealers, Maintenance, & Repair",2027,70682.10716513656,Forecast,Moody,-0.0895473929010441,BEA
+9,"9. Dealers, Maintenance, & Repair",2027,70056.63997729153,Forecast,BLS,0.2182207577495765,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2027,70682.10716513656,Forecast,Moody,-0.0895473929010441,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2028,70209.51810790387,Forecast,BLS,0.2182207577495765,BEA
+9,"9. Dealers, Maintenance, & Repair",2028,70820.29503462861,Forecast,Moody,0.1955061542933316,BEA
+9,"9. Dealers, Maintenance, & Repair",2028,70209.51810790387,Forecast,BLS,0.2182207577495765,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2028,70820.29503462861,Forecast,Moody,0.1955061542933316,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2029,70362.72985033126,Forecast,BLS,0.2182207577495765,BEA
+9,"9. Dealers, Maintenance, & Repair",2029,71139.72557623545,Forecast,Moody,0.4510437882963548,BEA
+9,"9. Dealers, Maintenance, & Repair",2029,70362.72985033126,Forecast,BLS,0.2182207577495765,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2029,71139.72557623545,Forecast,Moody,0.4510437882963548,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2030,70516.27593258394,Forecast,BLS,0.2182207577495765,BEA
+9,"9. Dealers, Maintenance, & Repair",2030,71674.33809275547,Forecast,Moody,0.7514964560091119,BEA
+9,"9. Dealers, Maintenance, & Repair",2030,70516.27593258394,Forecast,BLS,0.2182207577495765,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2030,71674.33809275547,Forecast,Moody,0.7514964560091119,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2031,70670.1570842608,Forecast,BLS,0.2182207577495765,BEA
+9,"9. Dealers, Maintenance, & Repair",2031,72136.41281244112,Forecast,Moody,0.6446864135496653,BEA
+9,"9. Dealers, Maintenance, & Repair",2031,70670.1570842608,Forecast,BLS,0.2182207577495765,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2031,72136.41281244112,Forecast,Moody,0.6446864135496653,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2032,70824.3740365529,Forecast,BLS,0.2182207577495765,BEA
+9,"9. Dealers, Maintenance, & Repair",2032,72256.6330553502,Forecast,Moody,0.1666568078754754,BEA
+9,"9. Dealers, Maintenance, & Repair",2032,70824.3740365529,Forecast,BLS,0.2182207577495765,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2032,72256.6330553502,Forecast,Moody,0.1666568078754754,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2033,70978.92752224686,Forecast,BLS,0.2182207577495765,BEA
+9,"9. Dealers, Maintenance, & Repair",2033,72094.0050186121,Forecast,Moody,-0.2250700452836352,BEA
+9,"9. Dealers, Maintenance, & Repair",2033,70978.92752224686,Forecast,BLS,0.2182207577495765,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2033,72094.0050186121,Forecast,Moody,-0.2250700452836352,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2034,71133.81827572842,Forecast,BLS,0.2182207577495765,BEA
+9,"9. Dealers, Maintenance, & Repair",2034,71807.35362729855,Forecast,Moody,-0.3976078055859746,BEA
+9,"9. Dealers, Maintenance, & Repair",2034,71133.81827572842,Forecast,BLS,0.2182207577495765,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2034,71807.35362729855,Forecast,Moody,-0.3976078055859746,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2035,71556.60413716959,Forecast,Moody,-0.3491975089771868,BEA
+9,"9. Dealers, Maintenance, & Repair",2035,71556.60413716959,Forecast,Moody,-0.3491975089771868,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2036,71428.20680578821,Forecast,Moody,-0.1794346349014097,BEA
+9,"9. Dealers, Maintenance, & Repair",2036,71428.20680578821,Forecast,Moody,-0.1794346349014097,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2037,71304.57369435696,Forecast,Moody,-0.1730872395654561,BEA
+9,"9. Dealers, Maintenance, & Repair",2037,71304.57369435696,Forecast,Moody,-0.1730872395654561,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2038,71154.83701049673,Forecast,Moody,-0.2099959036317469,BEA
+9,"9. Dealers, Maintenance, & Repair",2038,71154.83701049673,Forecast,Moody,-0.2099959036317469,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2039,71006.12158251976,Forecast,Moody,-0.2090025558698714,BEA
+9,"9. Dealers, Maintenance, & Repair",2039,71006.12158251976,Forecast,Moody,-0.2090025558698714,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2040,70810.26857260588,Forecast,Moody,-0.2758255282064108,BEA
+9,"9. Dealers, Maintenance, & Repair",2040,70810.26857260588,Forecast,Moody,-0.2758255282064108,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2041,70558.3980390912,Forecast,Moody,-0.3556977520236806,BEA
+9,"9. Dealers, Maintenance, & Repair",2041,70558.3980390912,Forecast,Moody,-0.3556977520236806,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2042,70283.29629450307,Forecast,Moody,-0.3898922767998782,BEA
+9,"9. Dealers, Maintenance, & Repair",2042,70283.29629450307,Forecast,Moody,-0.3898922767998782,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2043,70006.46083638692,Forecast,Moody,-0.3938851373108042,BEA
+9,"9. Dealers, Maintenance, & Repair",2043,70006.46083638692,Forecast,Moody,-0.3938851373108042,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2044,69735.72070109582,Forecast,Moody,-0.3867359270223007,BEA
+9,"9. Dealers, Maintenance, & Repair",2044,69735.72070109582,Forecast,Moody,-0.3867359270223007,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2045,69440.41977938481,Forecast,Moody,-0.4234571877112031,BEA
+9,"9. Dealers, Maintenance, & Repair",2045,69440.41977938481,Forecast,Moody,-0.4234571877112031,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2046,69111.74790418876,Forecast,Moody,-0.473314931332871,BEA
+9,"9. Dealers, Maintenance, & Repair",2046,69111.74790418876,Forecast,Moody,-0.473314931332871,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2047,68733.94349079297,Forecast,Moody,-0.5466572975690703,BEA
+9,"9. Dealers, Maintenance, & Repair",2047,68733.94349079297,Forecast,Moody,-0.5466572975690703,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2048,68337.75742133489,Forecast,Moody,-0.5764052654874178,BEA
+9,"9. Dealers, Maintenance, & Repair",2048,68337.75742133489,Forecast,Moody,-0.5764052654874178,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2049,67965.76773684633,Forecast,Moody,-0.5443399059689026,BEA
+9,"9. Dealers, Maintenance, & Repair",2049,67965.76773684633,Forecast,Moody,-0.5443399059689026,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2050,67614.62038770545,Forecast,Moody,-0.5166532518259546,BEA
+9,"9. Dealers, Maintenance, & Repair",2050,67614.62038770545,Forecast,Moody,-0.5166532518259546,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2051,67266.286828518,Forecast,Moody,-0.5151749091987642,BEA
+9,"9. Dealers, Maintenance, & Repair",2051,67266.286828518,Forecast,Moody,-0.5151749091987642,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2052,66905.76623964972,Forecast,Moody,-0.5359602943259772,BEA
+9,"9. Dealers, Maintenance, & Repair",2052,66905.76623964972,Forecast,Moody,-0.5359602943259772,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2053,66487.37793751142,Forecast,Moody,-0.625339676463257,BEA
+9,"9. Dealers, Maintenance, & Repair",2053,66487.37793751142,Forecast,Moody,-0.625339676463257,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2054,66005.61537411732,Forecast,Moody,-0.7245925141564453,BEA
+9,"9. Dealers, Maintenance, & Repair",2054,66005.61537411732,Forecast,Moody,-0.7245925141564453,Lightcast
+9,"9. Dealers, Maintenance, & Repair",2055,65487.46666568472,Forecast,Moody,-0.7850070111395152,BEA
+9,"9. Dealers, Maintenance, & Repair",2055,65487.46666568472,Forecast,Moody,-0.7850070111395152,Lightcast
+10,10. Logistics,2001,36463.0,QCEW,,,BEA
+10,10. Logistics,2001,7900.27,QCEW,,,Lightcast
+10,10. Logistics,2002,35744.0,QCEW,,,BEA
+10,10. Logistics,2002,7741.18,QCEW,,,Lightcast
+10,10. Logistics,2003,34947.0,QCEW,,,BEA
+10,10. Logistics,2003,7572.57,QCEW,,,Lightcast
+10,10. Logistics,2004,36028.0,QCEW,,,BEA
+10,10. Logistics,2004,7816.67,QCEW,,,Lightcast
+10,10. Logistics,2005,37382.0,QCEW,,,BEA
+10,10. Logistics,2005,8114.78,QCEW,,,Lightcast
+10,10. Logistics,2006,38765.0,QCEW,,,BEA
+10,10. Logistics,2006,8415.98,QCEW,,,Lightcast
+10,10. Logistics,2007,40761.0,QCEW,,,BEA
+10,10. Logistics,2007,8841.98,QCEW,,,Lightcast
+10,10. Logistics,2008,38940.0,QCEW,,,BEA
+10,10. Logistics,2008,8448.83,QCEW,,,Lightcast
+10,10. Logistics,2009,33872.0,QCEW,,,BEA
+10,10. Logistics,2009,7356.179999999999,QCEW,,,Lightcast
+10,10. Logistics,2010,34234.0,QCEW,,,BEA
+10,10. Logistics,2010,7442.15,QCEW,,,Lightcast
+10,10. Logistics,2011,36615.0,QCEW,,,BEA
+10,10. Logistics,2011,7962.0,QCEW,,,Lightcast
+10,10. Logistics,2012,38488.0,QCEW,,,BEA
+10,10. Logistics,2012,8371.47,QCEW,,,Lightcast
+10,10. Logistics,2013,40737.0,QCEW,,,BEA
+10,10. Logistics,2013,8862.95,QCEW,,,Lightcast
+10,10. Logistics,2014,43426.0,QCEW,,,BEA
+10,10. Logistics,2014,9448.8,QCEW,,,Lightcast
+10,10. Logistics,2015,45930.0,QCEW,,,BEA
+10,10. Logistics,2015,9995.06,QCEW,,,Lightcast
+10,10. Logistics,2016,46900.0,QCEW,,,BEA
+10,10. Logistics,2016,10205.27,QCEW,,,Lightcast
+10,10. Logistics,2017,46723.0,QCEW,,,BEA
+10,10. Logistics,2017,10166.38,QCEW,,,Lightcast
+10,10. Logistics,2018,47502.0,QCEW,,,BEA
+10,10. Logistics,2018,10335.87,QCEW,,,Lightcast
+10,10. Logistics,2019,48382.0,QCEW,,,BEA
+10,10. Logistics,2019,10528.81,QCEW,,,Lightcast
+10,10. Logistics,2020,44778.0,QCEW,,,BEA
+10,10. Logistics,2020,9746.28,QCEW,,,Lightcast
+10,10. Logistics,2021,46770.0,QCEW,,,BEA
+10,10. Logistics,2021,10180.03,QCEW,,,Lightcast
+10,10. Logistics,2022,49197.0,QCEW,,,BEA
+10,10. Logistics,2022,10710.830000000002,QCEW,,,Lightcast
+10,10. Logistics,2023,49037.0,QCEW,,,BEA
+10,10. Logistics,2023,10674.65,QCEW,,,Lightcast
+10,10. Logistics,2024,46889.0,QCEW,,,BEA
+10,10. Logistics,2024,10199.18,QCEW,,,Lightcast
+10,10. Logistics,2025,46953.29331480044,Forecast,BLS,0.1371181189627313,BEA
+10,10. Logistics,2025,47030.4916302288,Forecast,Moody,0.3017586858939158,BEA
+10,10. Logistics,2025,10213.164923765624,Forecast,BLS,0.1371181189627313,Lightcast
+10,10. Logistics,2025,10229.956911539954,Forecast,Moody,0.3017586858939158,Lightcast
+10,10. Logistics,2026,47017.67478738475,Forecast,BLS,0.1371181189627313,BEA
+10,10. Logistics,2026,46069.60614571269,Forecast,Moody,-2.043111715843715,BEA
+10,10. Logistics,2026,10227.169023395652,Forecast,BLS,0.1371181189627313,Lightcast
+10,10. Logistics,2026,10020.947463354516,Forecast,Moody,-2.043111715843715,Lightcast
+10,10. Logistics,2027,47082.14453863323,Forecast,BLS,0.1371181189627313,BEA
+10,10. Logistics,2027,44883.74778242976,Forecast,Moody,-2.574057958151855,BEA
+10,10. Logistics,2027,10241.192325183672,Forecast,BLS,0.1371181189627313,Lightcast
+10,10. Logistics,2027,9763.002467691822,Forecast,Moody,-2.574057958151855,Lightcast
+10,10. Logistics,2028,47146.70268959192,Forecast,BLS,0.1371181189627313,BEA
+10,10. Logistics,2028,43783.5973833421,Forecast,Moody,-2.4511108217178017,BEA
+10,10. Logistics,2028,10255.23485545932,Forecast,BLS,0.1371181189627313,Lightcast
+10,10. Logistics,2028,9523.70045768165,Forecast,Moody,-2.4511108217178017,Lightcast
+10,10. Logistics,2029,47211.34936147284,Forecast,BLS,0.1371181189627313,BEA
+10,10. Logistics,2029,42726.7571393755,Forecast,Moody,-2.413781203754376,BEA
+10,10. Logistics,2029,10269.296640588334,Forecast,BLS,0.1371181189627313,Lightcast
+10,10. Logistics,2029,9293.819166132262,Forecast,Moody,-2.413781203754376,Lightcast
+10,10. Logistics,2030,47276.08467565421,Forecast,BLS,0.1371181189627313,BEA
+10,10. Logistics,2030,41737.4359193133,Forecast,Moody,-2.3154605832476647,BEA
+10,10. Logistics,2030,10283.377706972611,Forecast,BLS,0.1371181189627313,Lightcast
+10,10. Logistics,2030,9078.624446662152,Forecast,Moody,-2.3154605832476647,Lightcast
+10,10. Logistics,2031,47340.90875368069,Forecast,BLS,0.1371181189627313,BEA
+10,10. Logistics,2031,40694.32560158463,Forecast,Moody,-2.4992199323053934,BEA
+10,10. Logistics,2031,10297.478081050249,Forecast,BLS,0.1371181189627313,Lightcast
+10,10. Logistics,2031,8851.72965491202,Forecast,Moody,-2.4992199323053934,Lightcast
+10,10. Logistics,2032,47405.8217172636,Forecast,BLS,0.1371181189627313,BEA
+10,10. Logistics,2032,39528.36286468817,Forecast,Moody,-2.865172772026615,BEA
+10,10. Logistics,2032,10311.597789295583,Forecast,BLS,0.1371181189627313,Lightcast
+10,10. Logistics,2032,8598.112306986075,Forecast,Moody,-2.865172772026615,Lightcast
+10,10. Logistics,2033,47470.82368828114,Forecast,BLS,0.1371181189627313,BEA
+10,10. Logistics,2033,38310.81380552051,Forecast,Moody,-3.080190958921123,BEA
+10,10. Logistics,2033,10325.736858219268,Forecast,BLS,0.1371181189627313,Lightcast
+10,10. Logistics,2033,8333.274029068405,Forecast,Moody,-3.080190958921123,Lightcast
+10,10. Logistics,2034,47535.914788778624,Forecast,BLS,0.1371181189627313,BEA
+10,10. Logistics,2034,37128.89580587428,Forecast,Moody,-3.085076724410175,BEA
+10,10. Logistics,2034,10339.8953143683,Forecast,BLS,0.1371181189627313,Lightcast
+10,10. Logistics,2034,8076.186131616298,Forecast,Moody,-3.085076724410175,Lightcast
+10,10. Logistics,2035,36047.4612125592,Forecast,Moody,-2.9126494872599515,BEA
+10,10. Logistics,2035,7840.955137663616,Forecast,Moody,-2.9126494872599515,Lightcast
+10,10. Logistics,2036,35075.3473244559,Forecast,Moody,-2.696761035045118,BEA
+10,10. Logistics,2036,7629.503314735736,Forecast,Moody,-2.696761035045118,Lightcast
+10,10. Logistics,2037,34182.97645319225,Forecast,Moody,-2.544154055009036,BEA
+10,10. Logistics,2037,7435.396996776838,Forecast,Moody,-2.544154055009036,Lightcast
+10,10. Logistics,2038,33349.74803540482,Forecast,Moody,-2.4375537306658983,BEA
+10,10. Logistics,2038,7254.155199892084,Forecast,Moody,-2.4375537306658983,Lightcast
+10,10. Logistics,2039,32569.60169700421,Forecast,Moody,-2.339287054200194,BEA
+10,10. Logistics,2039,7084.459686409418,Forecast,Moody,-2.339287054200194,Lightcast
+10,10. Logistics,2040,31820.559314681646,Forecast,Moody,-2.29982051758238,BEA
+10,10. Logistics,2040,6921.529828981522,Forecast,Moody,-2.29982051758238,Lightcast
+10,10. Logistics,2041,31115.552570910957,Forecast,Moody,-2.2155699301156253,BEA
+10,10. Logistics,2041,6768.178495386624,Forecast,Moody,-2.2155699301156253,Lightcast
+10,10. Logistics,2042,30457.849908535787,Forecast,Moody,-2.113742511486155,BEA
+10,10. Logistics,2042,6625.116629276373,Forecast,Moody,-2.113742511486155,Lightcast
+10,10. Logistics,2043,29852.92641399665,Forecast,Moody,-1.9861004514622889,BEA
+10,10. Logistics,2043,6493.535157992412,Forecast,Moody,-1.9861004514622889,Lightcast
+10,10. Logistics,2044,29307.14442829413,Forecast,Moody,-1.828236127117589,BEA
+10,10. Logistics,2044,6374.818002306913,Forecast,Moody,-1.828236127117589,Lightcast
+10,10. Logistics,2045,28817.30883832269,Forecast,Moody,-1.6713862763734093,BEA
+10,10. Logistics,2045,6268.2701690725735,Forecast,Moody,-1.6713862763734093,Lightcast
+10,10. Logistics,2046,28378.978531477056,Forecast,Moody,-1.521066069371187,BEA
+10,10. Logistics,2046,6172.925638394295,Forecast,Moody,-1.521066069371187,Lightcast
+10,10. Logistics,2047,27976.559429336,Forecast,Moody,-1.4180182760796114,BEA
+10,10. Logistics,2047,6085.392424673059,Forecast,Moody,-1.4180182760796114,Lightcast
+10,10. Logistics,2048,27618.14483262397,Forecast,Moody,-1.2811246415676356,BEA
+10,10. Logistics,2048,6007.430962784483,Forecast,Moody,-1.2811246415676356,Lightcast
+10,10. Logistics,2049,27313.061431617905,Forecast,Moody,-1.104648421734977,BEA
+10,10. Logistics,2049,5941.069971467266,Forecast,Moody,-1.104648421734977,Lightcast
+10,10. Logistics,2050,27059.02907911628,Forecast,Moody,-0.9300764512891716,BEA
+10,10. Logistics,2050,5885.813478708037,Forecast,Moody,-0.9300764512891716,Lightcast
+10,10. Logistics,2051,26847.30314571495,Forecast,Moody,-0.7824594621716823,BEA
+10,10. Logistics,2051,5839.75937421811,Forecast,Moody,-0.7824594621716823,Lightcast
+10,10. Logistics,2052,26674.82950781945,Forecast,Moody,-0.6424244437491388,BEA
+10,10. Logistics,2052,5802.243332542002,Forecast,Moody,-0.6424244437491388,Lightcast
+10,10. Logistics,2053,26533.540706316875,Forecast,Moody,-0.5296708699155969,BEA
+10,10. Logistics,2053,5771.510539807907,Forecast,Moody,-0.5296708699155969,Lightcast
+10,10. Logistics,2054,26422.80419270432,Forecast,Moody,-0.4173454076040196,BEA
+10,10. Logistics,2054,5747.423405620637,Forecast,Moody,-0.4173454076040196,Lightcast
+10,10. Logistics,2055,26350.279348444725,Forecast,Moody,-0.2744782261968195,BEA
+10,10. Logistics,2055,5731.647979804869,Forecast,Moody,-0.2744782261968195,Lightcast
+0,Total (All Segments),2025,415138.40302051586,Forecast,BLS,,BEA
+0,Total (All Segments),2025,413448.9132059715,Forecast,Moody,,BEA
+0,Total (All Segments),2025,451070.849798646,Forecast,BLS,,Lightcast
+0,Total (All Segments),2025,448038.7584019916,Forecast,Moody,,Lightcast
+0,Total (All Segments),2026,413516.55711882596,Forecast,BLS,,BEA
+0,Total (All Segments),2026,412679.0010258531,Forecast,Moody,,BEA
+0,Total (All Segments),2026,449381.3020174282,Forecast,BLS,,Lightcast
+0,Total (All Segments),2026,447770.7478525826,Forecast,Moody,,Lightcast
+0,Total (All Segments),2027,411914.4312746143,Forecast,BLS,,BEA
+0,Total (All Segments),2027,412994.6252642651,Forecast,Moody,,BEA
+0,Total (All Segments),2027,447713.0662194425,Forecast,BLS,,Lightcast
+0,Total (All Segments),2027,448673.1043875594,Forecast,Moody,,Lightcast
+0,Total (All Segments),2028,410331.82504320296,Forecast,BLS,,BEA
+0,Total (All Segments),2028,414090.03021721315,Forecast,Moody,,BEA
+0,Total (All Segments),2028,446065.9342847869,Forecast,BLS,,Lightcast
+0,Total (All Segments),2028,450325.4627658221,Forecast,Moody,,Lightcast
+0,Total (All Segments),2029,408768.5401153664,Forecast,BLS,,BEA
+0,Total (All Segments),2029,415141.589649381,Forecast,Moody,,BEA
+0,Total (All Segments),2029,444439.7003867851,Forecast,BLS,,Lightcast
+0,Total (All Segments),2029,451744.946430195,Forecast,Moody,,Lightcast
+0,Total (All Segments),2030,407224.3802949742,Forecast,BLS,,BEA
+0,Total (All Segments),2030,416673.1769917735,Forecast,Moody,,BEA
+0,Total (All Segments),2030,442834.1609684668,Forecast,BLS,,Lightcast
+0,Total (All Segments),2030,453606.70166914514,Forecast,Moody,,Lightcast
+0,Total (All Segments),2031,405699.1514768707,Forecast,BLS,,BEA
+0,Total (All Segments),2031,416989.6396402031,Forecast,Moody,,BEA
+0,Total (All Segments),2031,441249.11471930187,Forecast,BLS,,Lightcast
+0,Total (All Segments),2031,454167.4879233975,Forecast,Moody,,Lightcast
+0,Total (All Segments),2032,404192.6616249882,Forecast,BLS,,BEA
+0,Total (All Segments),2032,415035.8531988006,Forecast,Moody,,BEA
+0,Total (All Segments),2032,439684.36255218595,Forecast,BLS,,Lightcast
+0,Total (All Segments),2032,452283.9298249727,Forecast,Moody,,Lightcast
+0,Total (All Segments),2033,402704.72075069207,Forecast,BLS,,BEA
+0,Total (All Segments),2033,411462.82740166027,Forecast,Moody,,BEA
+0,Total (All Segments),2033,438139.7075806742,Forecast,BLS,,Lightcast
+0,Total (All Segments),2033,448606.2180186257,Forecast,Moody,,Lightcast
+0,Total (All Segments),2034,401235.14089135465,Forecast,BLS,,BEA
+0,Total (All Segments),2034,407242.75802008633,Forecast,Moody,,BEA
+0,Total (All Segments),2034,436614.95509646134,Forecast,BLS,,Lightcast
+0,Total (All Segments),2034,444189.1541028314,Forecast,Moody,,Lightcast
+0,Total (All Segments),2035,403483.7137523157,Forecast,Moody,,BEA
+0,Total (All Segments),2035,440221.7582534072,Forecast,Moody,,Lightcast
+0,Total (All Segments),2036,400675.42317040556,Forecast,Moody,,BEA
+0,Total (All Segments),2036,437261.08732769126,Forecast,Moody,,Lightcast
+0,Total (All Segments),2037,398197.4132597947,Forecast,Moody,,BEA
+0,Total (All Segments),2037,434625.17623300647,Forecast,Moody,,Lightcast
+0,Total (All Segments),2038,395670.6464928352,Forecast,Moody,,BEA
+0,Total (All Segments),2038,431907.5841726979,Forecast,Moody,,Lightcast
+0,Total (All Segments),2039,393021.4221231877,Forecast,Moody,,BEA
+0,Total (All Segments),2039,429060.11633413105,Forecast,Moody,,Lightcast
+0,Total (All Segments),2040,390020.32340967795,Forecast,Moody,,BEA
+0,Total (All Segments),2040,425813.83496739645,Forecast,Moody,,Lightcast
+0,Total (All Segments),2041,386809.89619809727,Forecast,Moody,,BEA
+0,Total (All Segments),2041,422327.2350070653,Forecast,Moody,,Lightcast
+0,Total (All Segments),2042,383657.98197656416,Forecast,Moody,,BEA
+0,Total (All Segments),2042,418865.0076361718,Forecast,Moody,,Lightcast
+0,Total (All Segments),2043,380558.7750573017,Forecast,Moody,,BEA
+0,Total (All Segments),2043,415414.0136640322,Forecast,Moody,,Lightcast
+0,Total (All Segments),2044,377565.79015678033,Forecast,Moody,,BEA
+0,Total (All Segments),2044,412050.3248609546,Forecast,Moody,,Lightcast
+0,Total (All Segments),2045,374625.441735156,Forecast,Moody,,BEA
+0,Total (All Segments),2045,408721.30034814036,Forecast,Moody,,Lightcast
+0,Total (All Segments),2046,371707.6281115797,Forecast,Moody,,BEA
+0,Total (All Segments),2046,405398.0196689249,Forecast,Moody,,Lightcast
+0,Total (All Segments),2047,368711.49923826294,Forecast,Moody,,BEA
+0,Total (All Segments),2047,401974.3495516185,Forecast,Moody,,Lightcast
+0,Total (All Segments),2048,365677.88892100967,Forecast,Moody,,BEA
+0,Total (All Segments),2048,398469.3407887421,Forecast,Moody,,Lightcast
+0,Total (All Segments),2049,362805.03299448075,Forecast,Moody,,BEA
+0,Total (All Segments),2049,395101.56377649587,Forecast,Moody,,Lightcast
+0,Total (All Segments),2050,360090.7460368321,Forecast,Moody,,BEA
+0,Total (All Segments),2050,391894.897490381,Forecast,Moody,,Lightcast
+0,Total (All Segments),2051,357459.0822618133,Forecast,Moody,,BEA
+0,Total (All Segments),2051,388767.4409759761,Forecast,Moody,,Lightcast
+0,Total (All Segments),2052,354848.91891952156,Forecast,Moody,,BEA
+0,Total (All Segments),2052,385638.8290423537,Forecast,Moody,,Lightcast
+0,Total (All Segments),2053,352107.6925354409,Forecast,Moody,,BEA
+0,Total (All Segments),2053,382337.00772410765,Forecast,Moody,,Lightcast
+0,Total (All Segments),2054,349155.54594299203,Forecast,Moody,,BEA
+0,Total (All Segments),2054,378771.13195861015,Forecast,Moody,,Lightcast
+0,Total (All Segments),2055,346079.57035815984,Forecast,Moody,,BEA
+0,Total (All Segments),2055,375037.20244877395,Forecast,Moody,,Lightcast

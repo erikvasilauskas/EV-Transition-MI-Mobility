@@ -1,0 +1,551 @@
+segment_id,segment_name,year,employment_qcew,value_type,forecast_source,applied_yoy_pct
+1,1. Materials & Processing,2001,96567.0,QCEW,,
+1,1. Materials & Processing,2002,90158.0,QCEW,,
+1,1. Materials & Processing,2003,88475.0,QCEW,,
+1,1. Materials & Processing,2004,87072.0,QCEW,,
+1,1. Materials & Processing,2005,88546.0,QCEW,,
+1,1. Materials & Processing,2006,85620.0,QCEW,,
+1,1. Materials & Processing,2007,82139.0,QCEW,,
+1,1. Materials & Processing,2008,77593.0,QCEW,,
+1,1. Materials & Processing,2009,59620.0,QCEW,,
+1,1. Materials & Processing,2010,64137.0,QCEW,,
+1,1. Materials & Processing,2011,69846.0,QCEW,,
+1,1. Materials & Processing,2012,72219.0,QCEW,,
+1,1. Materials & Processing,2013,74741.0,QCEW,,
+1,1. Materials & Processing,2014,78687.0,QCEW,,
+1,1. Materials & Processing,2015,79982.0,QCEW,,
+1,1. Materials & Processing,2016,81235.0,QCEW,,
+1,1. Materials & Processing,2017,82226.0,QCEW,,
+1,1. Materials & Processing,2018,83724.0,QCEW,,
+1,1. Materials & Processing,2019,83591.0,QCEW,,
+1,1. Materials & Processing,2020,70950.0,QCEW,,
+1,1. Materials & Processing,2021,72517.0,QCEW,,
+1,1. Materials & Processing,2022,73289.0,QCEW,,
+1,1. Materials & Processing,2023,73569.0,QCEW,,
+1,1. Materials & Processing,2024,72604.0,QCEW,,
+1,1. Materials & Processing,2025,71811.6726242255,Forecast,Moody,-1.091299895011983
+1,1. Materials & Processing,2026,72001.37813518822,Forecast,Moody,0.2641708569516452
+1,1. Materials & Processing,2027,71807.110928279,Forecast,Moody,-0.2698104007738087
+1,1. Materials & Processing,2028,71649.25756938706,Forecast,Moody,-0.2198297032860793
+1,1. Materials & Processing,2029,71300.56229891059,Forecast,Moody,-0.4866697608677741
+1,1. Materials & Processing,2030,70938.74761457105,Forecast,Moody,-0.5074499732873294
+1,1. Materials & Processing,2031,70405.7371577838,Forecast,Moody,-0.7513671649282917
+1,1. Materials & Processing,2032,69533.73649419917,Forecast,Moody,-1.238536373293585
+1,1. Materials & Processing,2033,68375.42304410427,Forecast,Moody,-1.66582943545904
+1,1. Materials & Processing,2034,67142.4387979788,Forecast,Moody,-1.8032564790570311
+1,1. Materials & Processing,2035,65982.21363869419,Forecast,Moody,-1.728005684713881
+1,1. Materials & Processing,2036,64962.84711262861,Forecast,Moody,-1.5449110750473267
+1,1. Materials & Processing,2037,63997.15506537683,Forecast,Moody,-1.48652974765334
+1,1. Materials & Processing,2038,63050.12303338516,Forecast,Moody,-1.4798033303577536
+1,1. Materials & Processing,2039,62144.35518583186,Forecast,Moody,-1.4365837907623078
+1,1. Materials & Processing,2040,61210.00957884597,Forecast,Moody,-1.5035084106865289
+1,1. Materials & Processing,2041,60276.49622856123,Forecast,Moody,-1.525099173660916
+1,1. Materials & Processing,2042,59337.287296824616,Forecast,Moody,-1.5581677610709892
+1,1. Materials & Processing,2043,58390.24741981248,Forecast,Moody,-1.5960282651189206
+1,1. Materials & Processing,2044,57464.820799875466,Forecast,Moody,-1.5848992953967207
+1,1. Materials & Processing,2045,56571.41264924391,Forecast,Moody,-1.5547044925849474
+1,1. Materials & Processing,2046,55712.60343138186,Forecast,Moody,-1.5180975295541377
+1,1. Materials & Processing,2047,54858.29447475116,Forecast,Moody,-1.5334213517465758
+1,1. Materials & Processing,2048,53992.12776269365,Forecast,Moody,-1.5789165892792465
+1,1. Materials & Processing,2049,53155.44625567245,Forecast,Moody,-1.5496361075055065
+1,1. Materials & Processing,2050,52370.03415982808,Forecast,Moody,-1.477575961015581
+1,1. Materials & Processing,2051,51621.9123391912,Forecast,Moody,-1.428530327770438
+1,1. Materials & Processing,2052,50885.28191543149,Forecast,Moody,-1.4269723657650295
+1,1. Materials & Processing,2053,50130.91998789134,Forecast,Moody,-1.4824756769430092
+1,1. Materials & Processing,2054,49344.662968006145,Forecast,Moody,-1.5684073224171953
+1,1. Materials & Processing,2055,48543.07405138888,Forecast,Moody,-1.6244693314391327
+2,2. Equipment Manufacturing,2001,69888.0,QCEW,,
+2,2. Equipment Manufacturing,2002,61235.0,QCEW,,
+2,2. Equipment Manufacturing,2003,58385.0,QCEW,,
+2,2. Equipment Manufacturing,2004,56958.0,QCEW,,
+2,2. Equipment Manufacturing,2005,55729.0,QCEW,,
+2,2. Equipment Manufacturing,2006,54338.0,QCEW,,
+2,2. Equipment Manufacturing,2007,51185.0,QCEW,,
+2,2. Equipment Manufacturing,2008,49109.0,QCEW,,
+2,2. Equipment Manufacturing,2009,39495.0,QCEW,,
+2,2. Equipment Manufacturing,2010,40126.0,QCEW,,
+2,2. Equipment Manufacturing,2011,44416.0,QCEW,,
+2,2. Equipment Manufacturing,2012,48753.0,QCEW,,
+2,2. Equipment Manufacturing,2013,50347.0,QCEW,,
+2,2. Equipment Manufacturing,2014,51620.0,QCEW,,
+2,2. Equipment Manufacturing,2015,52970.0,QCEW,,
+2,2. Equipment Manufacturing,2016,53396.0,QCEW,,
+2,2. Equipment Manufacturing,2017,54519.0,QCEW,,
+2,2. Equipment Manufacturing,2018,55424.0,QCEW,,
+2,2. Equipment Manufacturing,2019,53502.0,QCEW,,
+2,2. Equipment Manufacturing,2020,48267.0,QCEW,,
+2,2. Equipment Manufacturing,2021,48420.0,QCEW,,
+2,2. Equipment Manufacturing,2022,48839.0,QCEW,,
+2,2. Equipment Manufacturing,2023,48876.0,QCEW,,
+2,2. Equipment Manufacturing,2024,47550.0,QCEW,,
+2,2. Equipment Manufacturing,2025,46396.195457924594,Forecast,Moody,-2.4265079749219898
+2,2. Equipment Manufacturing,2026,46039.50892723582,Forecast,Moody,-0.7687840073271605
+2,2. Equipment Manufacturing,2027,45943.43136990988,Forecast,Moody,-0.2086850176394977
+2,2. Equipment Manufacturing,2028,45846.074248568475,Forecast,Moody,-0.2119065085877901
+2,2. Equipment Manufacturing,2029,45614.94933662009,Forecast,Moody,-0.5041323946195976
+2,2. Equipment Manufacturing,2030,45398.68600488919,Forecast,Moody,-0.4741062631352788
+2,2. Equipment Manufacturing,2031,45101.3227889237,Forecast,Moody,-0.6550040147273427
+2,2. Equipment Manufacturing,2032,44646.409371543654,Forecast,Moody,-1.0086476166321432
+2,2. Equipment Manufacturing,2033,44092.441807764684,Forecast,Moody,-1.240788613410989
+2,2. Equipment Manufacturing,2034,43492.186628321084,Forecast,Moody,-1.3613561754202943
+2,2. Equipment Manufacturing,2035,42928.21052761904,Forecast,Moody,-1.2967296988806662
+2,2. Equipment Manufacturing,2036,42472.46004883759,Forecast,Moody,-1.0616572952376688
+2,2. Equipment Manufacturing,2037,42064.979905552784,Forecast,Moody,-0.9593984968524476
+2,2. Equipment Manufacturing,2038,41656.837591249176,Forecast,Moody,-0.9702662766510188
+2,2. Equipment Manufacturing,2039,41254.885572074556,Forecast,Moody,-0.9649124667568544
+2,2. Equipment Manufacturing,2040,40827.48477426778,Forecast,Moody,-1.036000444262745
+2,2. Equipment Manufacturing,2041,40389.73627607915,Forecast,Moody,-1.0721907083155169
+2,2. Equipment Manufacturing,2042,39961.36090550279,Forecast,Moody,-1.0606045249918166
+2,2. Equipment Manufacturing,2043,39544.39044151344,Forecast,Moody,-1.043434093687069
+2,2. Equipment Manufacturing,2044,39157.330164654464,Forecast,Moody,-0.978799451799462
+2,2. Equipment Manufacturing,2045,38786.93827204897,Forecast,Moody,-0.945906912059696
+2,2. Equipment Manufacturing,2046,38429.11977337348,Forecast,Moody,-0.9225231859389696
+2,2. Equipment Manufacturing,2047,38086.84289420247,Forecast,Moody,-0.8906706195445189
+2,2. Equipment Manufacturing,2048,37743.4020243105,Forecast,Moody,-0.901731001558674
+2,2. Equipment Manufacturing,2049,37403.75168015947,Forecast,Moody,-0.8998932950777897
+2,2. Equipment Manufacturing,2050,37090.108843914975,Forecast,Moody,-0.8385330940234579
+2,2. Equipment Manufacturing,2051,36795.734201586034,Forecast,Moody,-0.7936742476754309
+2,2. Equipment Manufacturing,2052,36507.23673178359,Forecast,Moody,-0.7840514017791003
+2,2. Equipment Manufacturing,2053,36211.00009087407,Forecast,Moody,-0.811446352639483
+2,2. Equipment Manufacturing,2054,35897.681861447796,Forecast,Moody,-0.8652570452071962
+2,2. Equipment Manufacturing,2055,35571.99241603166,Forecast,Moody,-0.907271524309512
+3,3. Forging & Foundries,2001,22569.0,QCEW,,
+3,3. Forging & Foundries,2002,20853.0,QCEW,,
+3,3. Forging & Foundries,2003,20120.0,QCEW,,
+3,3. Forging & Foundries,2004,21836.0,QCEW,,
+3,3. Forging & Foundries,2005,21459.0,QCEW,,
+3,3. Forging & Foundries,2006,20882.0,QCEW,,
+3,3. Forging & Foundries,2007,19764.0,QCEW,,
+3,3. Forging & Foundries,2008,17934.0,QCEW,,
+3,3. Forging & Foundries,2009,13152.0,QCEW,,
+3,3. Forging & Foundries,2010,14405.0,QCEW,,
+3,3. Forging & Foundries,2011,16777.0,QCEW,,
+3,3. Forging & Foundries,2012,17730.0,QCEW,,
+3,3. Forging & Foundries,2013,17469.0,QCEW,,
+3,3. Forging & Foundries,2014,17851.0,QCEW,,
+3,3. Forging & Foundries,2015,18047.0,QCEW,,
+3,3. Forging & Foundries,2016,18194.0,QCEW,,
+3,3. Forging & Foundries,2017,18552.0,QCEW,,
+3,3. Forging & Foundries,2018,19277.0,QCEW,,
+3,3. Forging & Foundries,2019,19271.0,QCEW,,
+3,3. Forging & Foundries,2020,15883.0,QCEW,,
+3,3. Forging & Foundries,2021,16199.0,QCEW,,
+3,3. Forging & Foundries,2022,16746.0,QCEW,,
+3,3. Forging & Foundries,2023,17055.0,QCEW,,
+3,3. Forging & Foundries,2024,16337.0,QCEW,,
+3,3. Forging & Foundries,2025,15765.900640097052,Forecast,Moody,-3.495741934889806
+3,3. Forging & Foundries,2026,15463.158269611053,Forecast,Moody,-1.9202351796892647
+3,3. Forging & Foundries,2027,15046.063315700523,Forecast,Moody,-2.697346471129536
+3,3. Forging & Foundries,2028,14675.110645140485,Forecast,Moody,-2.4654466937737243
+3,3. Forging & Foundries,2029,14298.999221993794,Forecast,Moody,-2.562920527425371
+3,3. Forging & Foundries,2030,13951.374834992514,Forecast,Moody,-2.431109909192716
+3,3. Forging & Foundries,2031,13598.943875758063,Forecast,Moody,-2.5261378423472105
+3,3. Forging & Foundries,2032,13211.012848074404,Forecast,Moody,-2.852655553459538
+3,3. Forging & Foundries,2033,12794.318471659537,Forecast,Moody,-3.1541440554696267
+3,3. Forging & Foundries,2034,12375.658301705103,Forecast,Moody,-3.2722350227704533
+3,3. Forging & Foundries,2035,11981.353234428445,Forecast,Moody,-3.186134084053796
+3,3. Forging & Foundries,2036,11621.49867522151,Forecast,Moody,-3.003455053581861
+3,3. Forging & Foundries,2037,11279.218295463677,Forecast,Moody,-2.94523442563924
+3,3. Forging & Foundries,2038,10945.572744405166,Forecast,Moody,-2.95805562334669
+3,3. Forging & Foundries,2039,10628.565450322392,Forecast,Moody,-2.8962147663292703
+3,3. Forging & Foundries,2040,10317.08182439393,Forecast,Moody,-2.9306271611566697
+3,3. Forging & Foundries,2041,10014.57231413732,Forecast,Moody,-2.932122817339202
+3,3. Forging & Foundries,2042,9715.644206476723,Forecast,Moody,-2.9849313408882026
+3,3. Forging & Foundries,2043,9416.451446048797,Forecast,Moody,-3.079494823703765
+3,3. Forging & Foundries,2044,9126.210205570187,Forecast,Moody,-3.082278309844592
+3,3. Forging & Foundries,2045,8848.792187116931,Forecast,Moody,-3.039794308966663
+3,3. Forging & Foundries,2046,8582.373263045154,Forecast,Moody,-3.0107942240937597
+3,3. Forging & Foundries,2047,8322.016608238404,Forecast,Moody,-3.0336207343465293
+3,3. Forging & Foundries,2048,8065.135077789397,Forecast,Moody,-3.0867702209907413
+3,3. Forging & Foundries,2049,7817.190566731949,Forecast,Moody,-3.0742759875189587
+3,3. Forging & Foundries,2050,7583.311820312206,Forecast,Moody,-2.991851668744956
+3,3. Forging & Foundries,2051,7360.823354259538,Forecast,Moody,-2.933922161247853
+3,3. Forging & Foundries,2052,7145.795373589254,Forecast,Moody,-2.921249027744324
+3,3. Forging & Foundries,2053,6933.850558538756,Forecast,Moody,-2.9660073367597835
+3,3. Forging & Foundries,2054,6723.177105851577,Forecast,Moody,-3.038332754774227
+3,3. Forging & Foundries,2055,6516.511334722069,Forecast,Moody,-3.0739301951399587
+4,4. Parts & Machining,2001,53878.0,QCEW,,
+4,4. Parts & Machining,2002,50874.0,QCEW,,
+4,4. Parts & Machining,2003,49178.0,QCEW,,
+4,4. Parts & Machining,2004,49248.0,QCEW,,
+4,4. Parts & Machining,2005,50724.0,QCEW,,
+4,4. Parts & Machining,2006,50064.0,QCEW,,
+4,4. Parts & Machining,2007,48225.0,QCEW,,
+4,4. Parts & Machining,2008,46965.0,QCEW,,
+4,4. Parts & Machining,2009,37232.0,QCEW,,
+4,4. Parts & Machining,2010,40120.0,QCEW,,
+4,4. Parts & Machining,2011,44729.0,QCEW,,
+4,4. Parts & Machining,2012,47604.0,QCEW,,
+4,4. Parts & Machining,2013,48091.0,QCEW,,
+4,4. Parts & Machining,2014,50307.0,QCEW,,
+4,4. Parts & Machining,2015,52603.0,QCEW,,
+4,4. Parts & Machining,2016,52458.0,QCEW,,
+4,4. Parts & Machining,2017,52257.0,QCEW,,
+4,4. Parts & Machining,2018,53718.0,QCEW,,
+4,4. Parts & Machining,2019,52591.0,QCEW,,
+4,4. Parts & Machining,2020,45730.0,QCEW,,
+4,4. Parts & Machining,2021,47346.0,QCEW,,
+4,4. Parts & Machining,2022,48605.0,QCEW,,
+4,4. Parts & Machining,2023,50818.0,QCEW,,
+4,4. Parts & Machining,2024,50443.0,QCEW,,
+4,4. Parts & Machining,2025,49561.304006580955,Forecast,Moody,-1.7479055437207316
+4,4. Parts & Machining,2026,49422.56218771536,Forecast,Moody,-0.2799398071672432
+4,4. Parts & Machining,2027,49185.953515196816,Forecast,Moody,-0.4787462690013147
+4,4. Parts & Machining,2028,48967.11876696785,Forecast,Moody,-0.4449130952830973
+4,4. Parts & Machining,2029,48639.75370819107,Forecast,Moody,-0.6685405778818436
+4,4. Parts & Machining,2030,48309.59716923511,Forecast,Moody,-0.6787792161463146
+4,4. Parts & Machining,2031,47872.8882863951,Forecast,Moody,-0.9039795577474196
+4,4. Parts & Machining,2032,47235.11507119103,Forecast,Moody,-1.3322221366478908
+4,4. Parts & Machining,2033,46429.83716490518,Forecast,Moody,-1.7048289288004634
+4,4. Parts & Machining,2034,45565.92647081668,Forecast,Moody,-1.860679999846081
+4,4. Parts & Machining,2035,44743.08789071769,Forecast,Moody,-1.8058199269271733
+4,4. Parts & Machining,2036,44019.42760623609,Forecast,Moody,-1.6173677736527676
+4,4. Parts & Machining,2037,43337.224297004526,Forecast,Moody,-1.54977778296897
+4,4. Parts & Machining,2038,42668.98175343035,Forecast,Moody,-1.5419597226497193
+4,4. Parts & Machining,2039,42022.94640844146,Forecast,Moody,-1.5140631869823298
+4,4. Parts & Machining,2040,41357.75369896686,Forecast,Moody,-1.5829273440497658
+4,4. Parts & Machining,2041,40693.94009796766,Forecast,Moody,-1.6050523580921148
+4,4. Parts & Machining,2042,40032.33836760768,Forecast,Moody,-1.6257991454433285
+4,4. Parts & Machining,2043,39372.295378969065,Forecast,Moody,-1.6487745046956654
+4,4. Parts & Machining,2044,38733.45180099274,Forecast,Moody,-1.6225713330332538
+4,4. Parts & Machining,2045,38112.77738963591,Forecast,Moody,-1.6024247323625491
+4,4. Parts & Machining,2046,37509.92091652748,Forecast,Moody,-1.5817699847620232
+4,4. Parts & Machining,2047,36911.896669409914,Forecast,Moody,-1.594309538664113
+4,4. Parts & Machining,2048,36303.627518414905,Forecast,Moody,-1.6478945973510537
+4,4. Parts & Machining,2049,35706.17140869739,Forecast,Moody,-1.6457201402654813
+4,4. Parts & Machining,2050,35139.451427537075,Forecast,Moody,-1.5871765546453225
+4,4. Parts & Machining,2051,34592.79732286487,Forecast,Moody,-1.5556705710090268
+4,4. Parts & Machining,2052,34050.982727726994,Forecast,Moody,-1.566264185231842
+4,4. Parts & Machining,2053,33496.61222058302,Forecast,Moody,-1.6280602283251078
+4,4. Parts & Machining,2054,32923.13438480935,Forecast,Moody,-1.7120472721156943
+4,4. Parts & Machining,2055,32341.97612446862,Forecast,Moody,-1.7651972426078553
+5,5. Component Systems,2001,16198.0,QCEW,,
+5,5. Component Systems,2002,15254.0,QCEW,,
+5,5. Component Systems,2003,14725.0,QCEW,,
+5,5. Component Systems,2004,14908.0,QCEW,,
+5,5. Component Systems,2005,15615.0,QCEW,,
+5,5. Component Systems,2006,15814.0,QCEW,,
+5,5. Component Systems,2007,15751.0,QCEW,,
+5,5. Component Systems,2008,15865.0,QCEW,,
+5,5. Component Systems,2009,13865.0,QCEW,,
+5,5. Component Systems,2010,13189.0,QCEW,,
+5,5. Component Systems,2011,14492.0,QCEW,,
+5,5. Component Systems,2012,15170.0,QCEW,,
+5,5. Component Systems,2013,15239.0,QCEW,,
+5,5. Component Systems,2014,15439.0,QCEW,,
+5,5. Component Systems,2015,16676.0,QCEW,,
+5,5. Component Systems,2016,16542.0,QCEW,,
+5,5. Component Systems,2017,16794.0,QCEW,,
+5,5. Component Systems,2018,17376.0,QCEW,,
+5,5. Component Systems,2019,18237.0,QCEW,,
+5,5. Component Systems,2020,16885.0,QCEW,,
+5,5. Component Systems,2021,17142.0,QCEW,,
+5,5. Component Systems,2022,17979.0,QCEW,,
+5,5. Component Systems,2023,18726.0,QCEW,,
+5,5. Component Systems,2024,18283.0,QCEW,,
+5,5. Component Systems,2025,18093.569388344113,Forecast,Moody,-1.036102453951134
+5,5. Component Systems,2026,18015.617344989456,Forecast,Moody,-0.4308273380534551
+5,5. Component Systems,2027,18030.493171238184,Forecast,Moody,0.0825718373334892
+5,5. Component Systems,2028,18016.638662925565,Forecast,Moody,-0.0768393198180449
+5,5. Component Systems,2029,17962.08215391717,Forecast,Moody,-0.3028118065144967
+5,5. Component Systems,2030,17910.594500860447,Forecast,Moody,-0.2866463509938527
+5,5. Component Systems,2031,17840.211962675745,Forecast,Moody,-0.3929659519750716
+5,5. Component Systems,2032,17720.110686393167,Forecast,Moody,-0.6732054335108042
+5,5. Component Systems,2033,17559.700627526243,Forecast,Moody,-0.905242984684629
+5,5. Component Systems,2034,17381.98349936942,Forecast,Moody,-1.0120737928654493
+5,5. Component Systems,2035,17215.426863909168,Forecast,Moody,-0.9582142076380158
+5,5. Component Systems,2036,17075.14011374016,Forecast,Moody,-0.8148897571811524
+5,5. Component Systems,2037,16944.578715466538,Forecast,Moody,-0.76462856178007
+5,5. Component Systems,2038,16814.35406805446,Forecast,Moody,-0.7685328127586442
+5,5. Component Systems,2039,16691.49376977243,Forecast,Moody,-0.7306869938908359
+5,5. Component Systems,2040,16562.744615650383,Forecast,Moody,-0.7713459076694967
+5,5. Component Systems,2041,16434.248192994895,Forecast,Moody,-0.7758159993245837
+5,5. Component Systems,2042,16305.840620222134,Forecast,Moody,-0.7813413261428953
+5,5. Component Systems,2043,16176.71971981769,Forecast,Moody,-0.7918690205049052
+5,5. Component Systems,2044,16049.632359934114,Forecast,Moody,-0.785618852800446
+5,5. Component Systems,2045,15919.092743407642,Forecast,Moody,-0.813349574612989
+5,5. Component Systems,2046,15784.920673485569,Forecast,Moody,-0.8428374159553581
+5,5. Component Systems,2047,15646.589114396986,Forecast,Moody,-0.8763525769308651
+5,5. Component Systems,2048,15501.31434400515,Forecast,Moody,-0.928475652614696
+5,5. Component Systems,2049,15353.880695823551,Forecast,Moody,-0.9511041767797912
+5,5. Component Systems,2050,15208.808585594245,Forecast,Moody,-0.9448563076875248
+5,5. Component Systems,2051,15064.527615191924,Forecast,Moody,-0.9486671463469064
+5,5. Component Systems,2052,14917.056365183571,Forecast,Moody,-0.9789304635057648
+5,5. Component Systems,2053,14759.08108852951,Forecast,Moody,-1.0590244669368851
+5,5. Component Systems,2054,14588.959185695101,Forecast,Moody,-1.1526591785353384
+5,5. Component Systems,2055,14410.17752780928,Forecast,Moody,-1.225458619838509
+6,6. Engineering & Design,2001,102457.0,QCEW,,
+6,6. Engineering & Design,2002,102250.0,QCEW,,
+6,6. Engineering & Design,2003,99969.0,QCEW,,
+6,6. Engineering & Design,2004,98337.0,QCEW,,
+6,6. Engineering & Design,2005,97957.0,QCEW,,
+6,6. Engineering & Design,2006,95510.0,QCEW,,
+6,6. Engineering & Design,2007,93220.0,QCEW,,
+6,6. Engineering & Design,2008,88873.0,QCEW,,
+6,6. Engineering & Design,2009,77775.0,QCEW,,
+6,6. Engineering & Design,2010,80680.0,QCEW,,
+6,6. Engineering & Design,2011,86598.0,QCEW,,
+6,6. Engineering & Design,2012,93379.0,QCEW,,
+6,6. Engineering & Design,2013,98826.0,QCEW,,
+6,6. Engineering & Design,2014,102924.0,QCEW,,
+6,6. Engineering & Design,2015,117555.0,QCEW,,
+6,6. Engineering & Design,2016,121842.0,QCEW,,
+6,6. Engineering & Design,2017,113721.0,QCEW,,
+6,6. Engineering & Design,2018,116698.0,QCEW,,
+6,6. Engineering & Design,2019,118343.0,QCEW,,
+6,6. Engineering & Design,2020,115403.0,QCEW,,
+6,6. Engineering & Design,2021,119483.0,QCEW,,
+6,6. Engineering & Design,2022,122404.0,QCEW,,
+6,6. Engineering & Design,2023,123111.0,QCEW,,
+6,6. Engineering & Design,2024,120207.0,QCEW,,
+6,6. Engineering & Design,2025,118750.35503307777,Forecast,Moody,-1.2117804844328768
+6,6. Engineering & Design,2026,119405.79472469406,Forecast,Moody,0.5519475638062209
+6,6. Engineering & Design,2027,120683.97460372698,Forecast,Moody,1.0704504601137157
+6,6. Engineering & Design,2028,122061.9469030799,Forecast,Moody,1.1418022184615484
+6,6. Engineering & Design,2029,123300.91075591737,Forecast,Moody,1.0150287491491918
+6,6. Engineering & Design,2030,124538.3527827503,Forecast,Moody,1.003595203998554
+6,6. Engineering & Design,2031,125623.6959858648,Forecast,Moody,0.8714931415608396
+6,6. Engineering & Design,2032,126310.08188450767,Forecast,Moody,0.5463825063068575
+6,6. Engineering & Design,2033,126703.04152152919,Forecast,Moody,0.3111071033750272
+6,6. Engineering & Design,2034,127068.05101753309,Forecast,Moody,0.2880826629105594
+6,6. Engineering & Design,2035,127526.14084652258,Forecast,Moody,0.3605074802998893
+6,6. Engineering & Design,2036,128140.10417238002,Forecast,Moody,0.4814411553442571
+6,6. Engineering & Design,2037,128747.23495515065,Forecast,Moody,0.4738023171527117
+6,6. Engineering & Design,2038,129302.27405780331,Forecast,Moody,0.4311075906570097
+6,6. Engineering & Design,2039,129870.75406312502,Forecast,Moody,0.4396519778666683
+6,6. Engineering & Design,2040,130412.24194742861,Forecast,Moody,0.4169436669632283
+6,6. Engineering & Design,2041,130969.91310173241,Forecast,Moody,0.42762178302908
+6,6. Engineering & Design,2042,131509.84392671564,Forecast,Moody,0.412255618253206
+6,6. Engineering & Design,2043,132021.5440954202,Forecast,Moody,0.3890964762985344
+6,6. Engineering & Design,2044,132517.90717331204,Forecast,Moody,0.3759712714260382
+6,6. Engineering & Design,2045,132988.23705035457,Forecast,Moody,0.3549179783132446
+6,6. Engineering & Design,2046,133411.97894670154,Forecast,Moody,0.318631110348879
+6,6. Engineering & Design,2047,133750.77976984612,Forecast,Moody,0.2539508264695849
+6,6. Engineering & Design,2048,134052.48082532088,Forecast,Moody,0.2255695675149779
+6,6. Engineering & Design,2049,134355.85849119088,Forecast,Moody,0.2263126083174204
+6,6. Engineering & Design,2050,134663.95850833127,Forecast,Moody,0.2293163994486891
+6,6. Engineering & Design,2051,134955.25455168603,Forecast,Moody,0.2163132931642836
+6,6. Engineering & Design,2052,135199.38284480025,Forecast,Moody,0.180895730162703
+6,6. Engineering & Design,2053,135340.02442919574,Forecast,Moody,0.1040253153795364
+6,6. Engineering & Design,2054,135358.27372310567,Forecast,Moody,0.0134840332613365
+6,6. Engineering & Design,2055,135300.5516464734,Forecast,Moody,-0.0426439219743019
+7,7. Core Automotive,2001,304333.0,QCEW,,
+7,7. Core Automotive,2002,283180.0,QCEW,,
+7,7. Core Automotive,2003,261958.0,QCEW,,
+7,7. Core Automotive,2004,249612.0,QCEW,,
+7,7. Core Automotive,2005,232083.0,QCEW,,
+7,7. Core Automotive,2006,213893.0,QCEW,,
+7,7. Core Automotive,2007,198068.0,QCEW,,
+7,7. Core Automotive,2008,167000.0,QCEW,,
+7,7. Core Automotive,2009,122598.0,QCEW,,
+7,7. Core Automotive,2010,126033.0,QCEW,,
+7,7. Core Automotive,2011,137663.0,QCEW,,
+7,7. Core Automotive,2012,150169.0,QCEW,,
+7,7. Core Automotive,2013,160593.0,QCEW,,
+7,7. Core Automotive,2014,170363.0,QCEW,,
+7,7. Core Automotive,2015,166670.0,QCEW,,
+7,7. Core Automotive,2016,173344.0,QCEW,,
+7,7. Core Automotive,2017,180711.0,QCEW,,
+7,7. Core Automotive,2018,182995.0,QCEW,,
+7,7. Core Automotive,2019,180821.0,QCEW,,
+7,7. Core Automotive,2020,154727.0,QCEW,,
+7,7. Core Automotive,2021,174869.0,QCEW,,
+7,7. Core Automotive,2022,177138.0,QCEW,,
+7,7. Core Automotive,2023,179115.0,QCEW,,
+7,7. Core Automotive,2024,173082.0,QCEW,,
+7,7. Core Automotive,2025,167821.10456417745,Forecast,Moody,-3.039539314210919
+7,7. Core Automotive,2026,167965.04865941935,Forecast,Moody,0.0857723440777607
+7,7. Core Automotive,2027,169532.3074998636,Forecast,Moody,0.93308628964954
+7,7. Core Automotive,2028,171430.41505860293,Forecast,Moody,1.11961406455868
+7,7. Core Automotive,2029,173122.12780404664,Forecast,Moody,0.9868218220584696
+7,7. Core Automotive,2030,174991.50579309932,Forecast,Moody,1.0798030342883644
+7,7. Core Automotive,2031,175941.17114149057,Forecast,Moody,0.5426922547395546
+7,7. Core Automotive,2032,175503.72144894183,Forecast,Moody,-0.2486340688257361
+7,7. Core Automotive,2033,174176.75066175894,Forecast,Moody,-0.7560926778233188
+7,7. Core Automotive,2034,172439.9563355564,Forecast,Moody,-0.9971447507223794
+7,7. Core Automotive,2035,170998.62737033868,Forecast,Moody,-0.8358439632245019
+7,7. Core Automotive,2036,170169.56904649115,Forecast,Moody,-0.4848333209435823
+7,7. Core Automotive,2037,169574.5237051697,Forecast,Moody,-0.3496778799262657
+7,7. Core Automotive,2038,168911.9536418978,Forecast,Moody,-0.3907250032580898
+7,7. Core Automotive,2039,168043.00313128476,Forecast,Moody,-0.514439914924718
+7,7. Core Automotive,2040,166925.00494416195,Forecast,Moody,-0.6653048126314257
+7,7. Core Automotive,2041,165687.42739455585,Forecast,Moody,-0.7413973418901973
+7,7. Core Automotive,2042,164557.62785273674,Forecast,Moody,-0.6818861029984473
+7,7. Core Automotive,2043,163490.5014088428,Forecast,Moody,-0.6484819074135707
+7,7. Core Automotive,2044,162482.4919551138,Forecast,Moody,-0.6165553625701139
+7,7. Core Automotive,2045,161524.39256770274,Forecast,Moody,-0.5896631544004948
+7,7. Core Automotive,2046,160608.99263284705,Forecast,Moody,-0.5667255083296561
+7,7. Core Automotive,2047,159671.4241791918,Forecast,Moody,-0.5837583800793518
+7,7. Core Automotive,2048,158687.4386389302,Forecast,Moody,-0.6162565063347252
+7,7. Core Automotive,2049,157757.18389532669,Forecast,Moody,-0.586218261245095
+7,7. Core Automotive,2050,156885.95825556075,Forecast,Moody,-0.5522573478137078
+7,7. Core Automotive,2051,156034.98344303135,Forecast,Moody,-0.5424161741378907
+7,7. Core Automotive,2052,155184.89106496124,Forecast,Moody,-0.5448088366545588
+7,7. Core Automotive,2053,154302.17005915096,Forecast,Moody,-0.5688189099805913
+7,7. Core Automotive,2054,153328.29093838835,Forecast,Moody,-0.6311506315104135
+7,7. Core Automotive,2055,152276.4256011645,Forecast,Moody,-0.6860216929219835
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2001,107590.17649841309,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2002,104826.7277730306,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2003,102056.9299837748,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2004,100039.40278879802,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2005,99441.06699625652,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2006,98829.07436879475,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2007,97215.68500010172,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2008,95828.59295272829,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2009,87246.23037465413,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2010,89086.81250254312,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2011,92585.61084620158,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2012,95608.29066594444,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2013,98503.9054781596,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2014,102424.88727823892,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2015,104833.71697362264,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2016,105625.18589528404,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2017,107098.9301846822,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2018,110520.07780456544,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2019,111801.66566467284,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2020,103058.23542785645,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2021,105546.62362289429,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2022,110573.0,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2023,114410.0,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2024,115340.0,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2025,116325.19780394826,Forecast,Moody,0.8541683751935631
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2026,116284.3984565416,Forecast,Moody,-0.035073525063272
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2027,116349.02348905474,Forecast,Moody,0.055574981141858
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2028,116569.03391507178,Forecast,Moody,0.1890952063192237
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2029,116752.63046520461,Forecast,Moody,0.157500275988035
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2030,116953.03647959676,Forecast,Moody,0.1716501063775938
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2031,117005.13997151279,Forecast,Moody,0.0445507816508191
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2032,116683.172135592,Forecast,Moody,-0.2751740957697885
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2033,116001.60877324625,Forecast,Moody,-0.5841145298601835
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,115181.74128762457,Forecast,Moody,-0.7067725131504965
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2035,114379.70036777745,Forecast,Moody,-0.6963264410496346
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2036,113661.22789099142,Forecast,Moody,-0.6281468429064279
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2037,112944.91243241724,Forecast,Moody,-0.6302197080442952
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2038,112211.73159170491,Forecast,Moody,-0.6491490629567249
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2039,111502.26915211503,Forecast,Moody,-0.6322533566912114
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2040,110709.52090120991,Forecast,Moody,-0.7109705093298302
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2041,109838.29345960666,Forecast,Moody,-0.7869489764847627
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2042,108893.27214469513,Forecast,Moody,-0.8603750888200687
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2043,107887.35030865973,Forecast,Moody,-0.9237685820467946
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2044,106858.76652273977,Forecast,Moody,-0.9533868270721678
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2045,105796.96213602317,Forecast,Moody,-0.9936521085433316
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2046,104692.5626550777,Forecast,Moody,-1.043885815478849
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2047,103543.94092044627,Forecast,Moody,-1.0971378534458918
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2048,102380.04275443118,Forecast,Moody,-1.124062070333335
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2049,101242.34154993392,Forecast,Moody,-1.1112529101263977
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2050,100125.0110056251,Forecast,Moody,-1.103619816771763
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2051,99019.71087557846,Forecast,Moody,-1.103920108417808
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2052,97906.31217022029,Forecast,Moody,-1.1244212849269923
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2053,96723.72206626956,Forecast,Moody,-1.2078793264061225
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2054,95458.64267002646,Forecast,Moody,-1.307930845937005
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2055,94147.9899808236,Forecast,Moody,-1.373005788206537
+9,"9. Dealers, Maintenance, & Repair",2001,75615.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2002,76404.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2003,74642.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2004,74365.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2005,71952.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2006,68884.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2007,66333.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2008,63843.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2009,58528.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2010,57415.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2011,58514.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2012,60173.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2013,61157.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2014,64200.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2015,66784.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2016,68358.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2017,68500.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2018,68540.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2019,68868.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2020,62425.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2021,66198.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2022,67706.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2023,69189.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2024,69600.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2025,70613.61899632038,Forecast,Moody,1.456349132644235
+9,"9. Dealers, Maintenance, & Repair",2026,70745.45787826246,Forecast,Moody,0.1867046099831677
+9,"9. Dealers, Maintenance, & Repair",2027,70682.10716513656,Forecast,Moody,-0.0895473929010441
+9,"9. Dealers, Maintenance, & Repair",2028,70820.29503462861,Forecast,Moody,0.1955061542933316
+9,"9. Dealers, Maintenance, & Repair",2029,71139.72557623545,Forecast,Moody,0.4510437882963548
+9,"9. Dealers, Maintenance, & Repair",2030,71674.33809275547,Forecast,Moody,0.7514964560091119
+9,"9. Dealers, Maintenance, & Repair",2031,72136.41281244112,Forecast,Moody,0.6446864135496653
+9,"9. Dealers, Maintenance, & Repair",2032,72256.6330553502,Forecast,Moody,0.1666568078754754
+9,"9. Dealers, Maintenance, & Repair",2033,72094.0050186121,Forecast,Moody,-0.2250700452836352
+9,"9. Dealers, Maintenance, & Repair",2034,71807.35362729855,Forecast,Moody,-0.3976078055859746
+9,"9. Dealers, Maintenance, & Repair",2035,71556.60413716959,Forecast,Moody,-0.3491975089771868
+9,"9. Dealers, Maintenance, & Repair",2036,71428.20680578821,Forecast,Moody,-0.1794346349014097
+9,"9. Dealers, Maintenance, & Repair",2037,71304.57369435696,Forecast,Moody,-0.1730872395654561
+9,"9. Dealers, Maintenance, & Repair",2038,71154.83701049673,Forecast,Moody,-0.2099959036317469
+9,"9. Dealers, Maintenance, & Repair",2039,71006.12158251976,Forecast,Moody,-0.2090025558698714
+9,"9. Dealers, Maintenance, & Repair",2040,70810.26857260588,Forecast,Moody,-0.2758255282064108
+9,"9. Dealers, Maintenance, & Repair",2041,70558.3980390912,Forecast,Moody,-0.3556977520236806
+9,"9. Dealers, Maintenance, & Repair",2042,70283.29629450307,Forecast,Moody,-0.3898922767998782
+9,"9. Dealers, Maintenance, & Repair",2043,70006.46083638692,Forecast,Moody,-0.3938851373108042
+9,"9. Dealers, Maintenance, & Repair",2044,69735.72070109582,Forecast,Moody,-0.3867359270223007
+9,"9. Dealers, Maintenance, & Repair",2045,69440.41977938481,Forecast,Moody,-0.4234571877112031
+9,"9. Dealers, Maintenance, & Repair",2046,69111.74790418876,Forecast,Moody,-0.473314931332871
+9,"9. Dealers, Maintenance, & Repair",2047,68733.94349079297,Forecast,Moody,-0.5466572975690703
+9,"9. Dealers, Maintenance, & Repair",2048,68337.75742133489,Forecast,Moody,-0.5764052654874178
+9,"9. Dealers, Maintenance, & Repair",2049,67965.76773684633,Forecast,Moody,-0.5443399059689026
+9,"9. Dealers, Maintenance, & Repair",2050,67614.62038770545,Forecast,Moody,-0.5166532518259546
+9,"9. Dealers, Maintenance, & Repair",2051,67266.286828518,Forecast,Moody,-0.5151749091987642
+9,"9. Dealers, Maintenance, & Repair",2052,66905.76623964972,Forecast,Moody,-0.5359602943259772
+9,"9. Dealers, Maintenance, & Repair",2053,66487.37793751142,Forecast,Moody,-0.625339676463257
+9,"9. Dealers, Maintenance, & Repair",2054,66005.61537411732,Forecast,Moody,-0.7245925141564453
+9,"9. Dealers, Maintenance, & Repair",2055,65487.46666568472,Forecast,Moody,-0.7850070111395152
+10,10. Logistics,2001,36463.0,QCEW,,
+10,10. Logistics,2002,35744.0,QCEW,,
+10,10. Logistics,2003,34947.0,QCEW,,
+10,10. Logistics,2004,36028.0,QCEW,,
+10,10. Logistics,2005,37382.0,QCEW,,
+10,10. Logistics,2006,38765.0,QCEW,,
+10,10. Logistics,2007,40761.0,QCEW,,
+10,10. Logistics,2008,38940.0,QCEW,,
+10,10. Logistics,2009,33872.0,QCEW,,
+10,10. Logistics,2010,34234.0,QCEW,,
+10,10. Logistics,2011,36615.0,QCEW,,
+10,10. Logistics,2012,38488.0,QCEW,,
+10,10. Logistics,2013,40737.0,QCEW,,
+10,10. Logistics,2014,43426.0,QCEW,,
+10,10. Logistics,2015,45930.0,QCEW,,
+10,10. Logistics,2016,46900.0,QCEW,,
+10,10. Logistics,2017,46723.0,QCEW,,
+10,10. Logistics,2018,47502.0,QCEW,,
+10,10. Logistics,2019,48382.0,QCEW,,
+10,10. Logistics,2020,44778.0,QCEW,,
+10,10. Logistics,2021,46770.0,QCEW,,
+10,10. Logistics,2022,49197.0,QCEW,,
+10,10. Logistics,2023,49037.0,QCEW,,
+10,10. Logistics,2024,46889.0,QCEW,,
+10,10. Logistics,2025,47030.4916302288,Forecast,Moody,0.3017586858939158
+10,10. Logistics,2026,46069.60614571269,Forecast,Moody,-2.043111715843715
+10,10. Logistics,2027,44883.74778242976,Forecast,Moody,-2.574057958151855
+10,10. Logistics,2028,43783.5973833421,Forecast,Moody,-2.4511108217178017
+10,10. Logistics,2029,42726.7571393755,Forecast,Moody,-2.413781203754376
+10,10. Logistics,2030,41737.4359193133,Forecast,Moody,-2.3154605832476647
+10,10. Logistics,2031,40694.32560158463,Forecast,Moody,-2.4992199323053934
+10,10. Logistics,2032,39528.36286468817,Forecast,Moody,-2.865172772026615
+10,10. Logistics,2033,38310.81380552051,Forecast,Moody,-3.080190958921123
+10,10. Logistics,2034,37128.89580587428,Forecast,Moody,-3.085076724410175
+10,10. Logistics,2035,36047.461212559196,Forecast,Moody,-2.9126494872599515
+10,10. Logistics,2036,35075.3473244559,Forecast,Moody,-2.696761035045118
+10,10. Logistics,2037,34182.97645319225,Forecast,Moody,-2.544154055009036
+10,10. Logistics,2038,33349.74803540482,Forecast,Moody,-2.4375537306658983
+10,10. Logistics,2039,32569.60169700421,Forecast,Moody,-2.339287054200194
+10,10. Logistics,2040,31820.559314681646,Forecast,Moody,-2.29982051758238
+10,10. Logistics,2041,31115.552570910953,Forecast,Moody,-2.2155699301156253
+10,10. Logistics,2042,30457.849908535787,Forecast,Moody,-2.113742511486155
+10,10. Logistics,2043,29852.92641399665,Forecast,Moody,-1.9861004514622889
+10,10. Logistics,2044,29307.144428294134,Forecast,Moody,-1.8282361271175895
+10,10. Logistics,2045,28817.30883832269,Forecast,Moody,-1.6713862763734093
+10,10. Logistics,2046,28378.978531477056,Forecast,Moody,-1.521066069371187
+10,10. Logistics,2047,27976.559429336,Forecast,Moody,-1.4180182760796114
+10,10. Logistics,2048,27618.144832623966,Forecast,Moody,-1.2811246415676356
+10,10. Logistics,2049,27313.061431617905,Forecast,Moody,-1.104648421734977
+10,10. Logistics,2050,27059.02907911628,Forecast,Moody,-0.9300764512891716
+10,10. Logistics,2051,26847.30314571495,Forecast,Moody,-0.7824594621716823
+10,10. Logistics,2052,26674.829507819446,Forecast,Moody,-0.6424244437491388
+10,10. Logistics,2053,26533.540706316875,Forecast,Moody,-0.5296708699155969
+10,10. Logistics,2054,26422.80419270432,Forecast,Moody,-0.4173454076040196
+10,10. Logistics,2055,26350.279348444725,Forecast,Moody,-0.2744782261968195

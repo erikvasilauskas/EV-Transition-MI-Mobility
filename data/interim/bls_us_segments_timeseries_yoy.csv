@@ -1,0 +1,101 @@
+segment_id,segment_name,year,employment_yoy_pct
+1,1. Materials & Processing,2025,0.1703274740729066
+1,1. Materials & Processing,2026,0.1703274740729066
+1,1. Materials & Processing,2027,0.1703274740729066
+1,1. Materials & Processing,2028,0.1703274740729066
+1,1. Materials & Processing,2029,0.1703274740729066
+1,1. Materials & Processing,2030,0.1703274740729066
+1,1. Materials & Processing,2031,0.1703274740729066
+1,1. Materials & Processing,2032,0.1703274740729066
+1,1. Materials & Processing,2033,0.1703274740729066
+1,1. Materials & Processing,2034,0.1703274740729066
+2,2. Equipment Manufacturing,2025,-0.07600894817736403
+2,2. Equipment Manufacturing,2026,-0.07600894817736403
+2,2. Equipment Manufacturing,2027,-0.07600894817736403
+2,2. Equipment Manufacturing,2028,-0.07600894817736403
+2,2. Equipment Manufacturing,2029,-0.07600894817736403
+2,2. Equipment Manufacturing,2030,-0.07600894817736403
+2,2. Equipment Manufacturing,2031,-0.07600894817736403
+2,2. Equipment Manufacturing,2032,-0.07600894817736403
+2,2. Equipment Manufacturing,2033,-0.07600894817736403
+2,2. Equipment Manufacturing,2034,-0.07600894817736403
+3,3. Forging & Foundries,2025,-1.1022418158305736
+3,3. Forging & Foundries,2026,-1.1022418158305736
+3,3. Forging & Foundries,2027,-1.1022418158305736
+3,3. Forging & Foundries,2028,-1.1022418158305736
+3,3. Forging & Foundries,2029,-1.1022418158305736
+3,3. Forging & Foundries,2030,-1.1022418158305736
+3,3. Forging & Foundries,2031,-1.1022418158305736
+3,3. Forging & Foundries,2032,-1.1022418158305736
+3,3. Forging & Foundries,2033,-1.1022418158305736
+3,3. Forging & Foundries,2034,-1.1022418158305736
+4,4. Parts & Machining,2025,-0.11371175719474547
+4,4. Parts & Machining,2026,-0.11371175719474547
+4,4. Parts & Machining,2027,-0.11371175719474547
+4,4. Parts & Machining,2028,-0.11371175719474547
+4,4. Parts & Machining,2029,-0.11371175719474547
+4,4. Parts & Machining,2030,-0.11371175719474547
+4,4. Parts & Machining,2031,-0.11371175719474547
+4,4. Parts & Machining,2032,-0.11371175719474547
+4,4. Parts & Machining,2033,-0.11371175719474547
+4,4. Parts & Machining,2034,-0.11371175719474547
+5,5. Component Systems,2025,0.8324920529839686
+5,5. Component Systems,2026,0.8324920529839686
+5,5. Component Systems,2027,0.8324920529839686
+5,5. Component Systems,2028,0.8324920529839686
+5,5. Component Systems,2029,0.8324920529839686
+5,5. Component Systems,2030,0.8324920529839686
+5,5. Component Systems,2031,0.8324920529839686
+5,5. Component Systems,2032,0.8324920529839686
+5,5. Component Systems,2033,0.8324920529839686
+5,5. Component Systems,2034,0.8324920529839686
+6,6. Engineering & Design,2025,0.5292381953072578
+6,6. Engineering & Design,2026,0.5292381953072578
+6,6. Engineering & Design,2027,0.5292381953072578
+6,6. Engineering & Design,2028,0.5292381953072578
+6,6. Engineering & Design,2029,0.5292381953072578
+6,6. Engineering & Design,2030,0.5292381953072578
+6,6. Engineering & Design,2031,0.5292381953072578
+6,6. Engineering & Design,2032,0.5292381953072578
+6,6. Engineering & Design,2033,0.5292381953072578
+6,6. Engineering & Design,2034,0.5292381953072578
+7,7. Core Automotive,2025,-1.0526076586177657
+7,7. Core Automotive,2026,-1.0526076586177657
+7,7. Core Automotive,2027,-1.0526076586177657
+7,7. Core Automotive,2028,-1.0526076586177657
+7,7. Core Automotive,2029,-1.0526076586177657
+7,7. Core Automotive,2030,-1.0526076586177657
+7,7. Core Automotive,2031,-1.0526076586177657
+7,7. Core Automotive,2032,-1.0526076586177657
+7,7. Core Automotive,2033,-1.0526076586177657
+7,7. Core Automotive,2034,-1.0526076586177657
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2025,-0.027711728257273638
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2026,-0.027711728257273638
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2027,-0.027711728257273638
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2028,-0.027711728257273638
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2029,-0.027711728257273638
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2030,-0.027711728257273638
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2031,-0.027711728257273638
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2032,-0.027711728257273638
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2033,-0.027711728257273638
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,-0.027711728257273638
+9,"9. Dealers, Maintenance, & Repair",2025,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2026,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2027,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2028,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2029,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2030,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2031,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2032,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2033,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2034,0.2182207577495765
+10,10. Logistics,2025,0.1371181189627313
+10,10. Logistics,2026,0.1371181189627313
+10,10. Logistics,2027,0.1371181189627313
+10,10. Logistics,2028,0.1371181189627313
+10,10. Logistics,2029,0.1371181189627313
+10,10. Logistics,2030,0.1371181189627313
+10,10. Logistics,2031,0.1371181189627313
+10,10. Logistics,2032,0.1371181189627313
+10,10. Logistics,2033,0.1371181189627313
+10,10. Logistics,2034,0.1371181189627313

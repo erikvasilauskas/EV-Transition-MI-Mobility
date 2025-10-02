@@ -1,0 +1,39 @@
+Stage,Sector,naics4,naics_name,naics_title,num_to_set,denom_total,share_to_set
+Upstream,1. Materials & Processing - Coatings & Surface Treatments,3255,"Paint, Coating, and Adhesive Manufacturing","""Paint, Coating, and Adhesive Manufacturing""",721888419,1287336837,0.56
+Upstream,1. Materials & Processing - Coatings & Surface Treatments,3328,"Coating, Engraving, Heat Treating, and Allied Activities","""Coating, Engraving, Heat Treating, and Allied Activities""",273916509.5,807906169.5,0.34
+Upstream,1. Materials & Processing - Metals,3311,Iron and Steel Mills and Ferroalloy Manufacturing,"""Iron and Steel Mills and Ferroalloy Manufacturing""",1829540238,3383571692,0.54
+Upstream,1. Materials & Processing - Metals,3312,Steel Product Manufacturing from Purchased Steel,"""Steel Product Manufacturing from Purchased Steel""",269876002.9,591519606.5,0.46
+Upstream,1. Materials & Processing - Metals,3313,Alumina and Aluminum Production and Processing,"""Alumina and Aluminum Production and Processing""",253965113.5,682148565.8,0.37
+Upstream,1. Materials & Processing - Metals,3314,Nonferrous Metal (except Aluminum) Production and Processing,"""Nonferrous Metal (except Aluminum) Production and Processing""",114010482.8,294215293.1,0.39
+Upstream,1. Materials & Processing - Non-Metals,3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing","""Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing""",193541610.2,2245137971,0.09
+Upstream,1. Materials & Processing - Non-Metals,3261,Plastics Product Manufacturing,"""Plastics Product Manufacturing""",982784872.6,3178537014,0.31
+Upstream,1. Materials & Processing - Non-Metals,3262,Rubber Product Manufacturing,"""Rubber Product Manufacturing""",287731402.9,431785085.7,0.67
+Upstream,1. Materials & Processing - Non-Metals,3272,Glass and Glass Product Manufacturing,"""Glass and Glass Product Manufacturing""",247156799.2,424908409.2,0.58
+Downstream,10. Logistics,4841,General Freight Trucking,"""General Freight Trucking""",1257170663,5746270334,0.22
+Downstream,10. Logistics,4842,NA,"""Specialized Freight Trucking",290465856.7,1414841188,0.21
+Upstream,2. Equipment Manufacturing,3335,Metalworking Machinery Manufacturing,"""Metalworking Machinery Manufacturing""",169593714.8,681557973,0.25
+Upstream,2. Equipment Manufacturing,3339,Other General Purpose Machinery Manufacturing,"""Other General Purpose Machinery Manufacturing""",355470882.9,865209665.8,0.41
+Upstream,3. Forging & Foundries,3315,Foundries,"""Foundries""",1008236512,1383272756,0.73
+Upstream,3. Forging & Foundries,3321,Forging and Stamping,"""Forging and Stamping""",777379157.1,1485069062,0.52
+Upstream,4. Parts & Machining,3326,Spring and Wire Product Manufacturing,"""Spring and Wire Product Manufacturing""",78908990.45,193274168.2,0.41
+Upstream,4. Parts & Machining,3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing","""Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing""",1389761009,2699159047,0.51
+Upstream,4. Parts & Machining,3329,Other Fabricated Metal Product Manufacturing,"""Other Fabricated Metal Product Manufacturing""",237053311.9,976686437,0.24
+Upstream,4. Parts & Machining,3344,Semiconductor and Other Electronic Component Manufacturing,"""Semiconductor and Other Electronic Component Manufacturing""",387206186.7,993250060.1,0.39
+Upstream,5. Component Systems,3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing","""Engine, Turbine, and Power Transmission Equipment Manufacturing""",974987466,1149662789,0.85
+Upstream,5. Component Systems,3345,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing","""Navigational, Measuring, Electro medical, and Control Instruments Manufacturing""",18089036.38,217943698.3,0.08
+Upstream,5. Component Systems,3359,Other Electrical Equipment and Component Manufacturing,"""Other Electrical Equipment and Component Manufacturing""",127456997.7,324927617.5,0.39
+OEM,6. Engineering & Design,5413,"Architectural, Engineering, and Related Services","""Architectural, Engineering, and Related Services""",204964611.4,4423533704,0.05
+OEM,6. Engineering & Design,5414,Specialized Design Services,"""Industrial design""",39472738.28,770646064.4,0.05
+OEM,6. Engineering & Design,5417,Scientific Research and Development Services,"""Scientific Research and Development """,1180057.165,83831336.5,0.01
+OEM,7. Core Automotive,3361,Motor Vehicle Manufacturing,"""Motor Vehicle Manufacturing""",136927926.9,162068822,1
+OEM,7. Core Automotive,3362,Motor Vehicle Body and Trailer Manufacturing,"""Motor Vehicle Body and Trailer Manufacturing""",869239055.4,884522273.2,1
+OEM,7. Core Automotive,3363,Motor Vehicle Parts Manufacturing,"""Motor Vehicle Parts Manufacturing""",19656287205,21743718586,1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,"""Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers""",4478439354,4892408036,1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,"""Metal and Mineral (except Petroleum) Merchant Wholesalers""",325975651.3,933259237.5,1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4238,NA,"""Machinery, Equipment, and Supplies Merchant Wholesalers""",1332062648,2969193875,1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4239,NA,"""Miscellaneous Durable Goods Merchant Wholesalers""",552787716.1,1692439755,1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4247,Petroleum and Petroleum Products Merchant Wholesalers,"""Petroleum and Petroleum Products Merchant Wholesalers""",39109950.78,1494215213,1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4413,"Automotive Parts, Accessories, and Tire Stores","""Automotive Parts, Accessories, and Tire Retailers""",126906693.9,298114084.8,1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4571,Gasoline Stations,"""Gasoline Stations""",5985656.033,345475794.7,1
+Downstream,"9. Dealers, Maintenance, & Repair",4411,Automobile Dealers,"""Automobile Dealers""",414330403.1,967976930.6,1
+Downstream,"9. Dealers, Maintenance, & Repair",8111,Automotive Repair and Maintenance,"""Automotive Repair and Maintenance""",87381090.24,1457309620,1

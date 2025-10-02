@@ -1,0 +1,341 @@
+segment_id,segment_name,year,employment_qcew,value_type,forecast_source,applied_yoy_pct
+1,1. Materials & Processing,2001,96567.0,QCEW,,
+1,1. Materials & Processing,2002,90158.0,QCEW,,
+1,1. Materials & Processing,2003,88475.0,QCEW,,
+1,1. Materials & Processing,2004,87072.0,QCEW,,
+1,1. Materials & Processing,2005,88546.0,QCEW,,
+1,1. Materials & Processing,2006,85620.0,QCEW,,
+1,1. Materials & Processing,2007,82139.0,QCEW,,
+1,1. Materials & Processing,2008,77593.0,QCEW,,
+1,1. Materials & Processing,2009,59620.0,QCEW,,
+1,1. Materials & Processing,2010,64137.0,QCEW,,
+1,1. Materials & Processing,2011,69846.0,QCEW,,
+1,1. Materials & Processing,2012,72219.0,QCEW,,
+1,1. Materials & Processing,2013,74741.0,QCEW,,
+1,1. Materials & Processing,2014,78687.0,QCEW,,
+1,1. Materials & Processing,2015,79982.0,QCEW,,
+1,1. Materials & Processing,2016,81235.0,QCEW,,
+1,1. Materials & Processing,2017,82226.0,QCEW,,
+1,1. Materials & Processing,2018,83724.0,QCEW,,
+1,1. Materials & Processing,2019,83591.0,QCEW,,
+1,1. Materials & Processing,2020,70950.0,QCEW,,
+1,1. Materials & Processing,2021,72517.0,QCEW,,
+1,1. Materials & Processing,2022,73289.0,QCEW,,
+1,1. Materials & Processing,2023,73569.0,QCEW,,
+1,1. Materials & Processing,2024,72604.0,QCEW,,
+1,1. Materials & Processing,2025,72727.66455927589,Forecast,BLS,0.1703274740729066
+1,1. Materials & Processing,2026,72851.53975327192,Forecast,BLS,0.1703274740729066
+1,1. Materials & Processing,2027,72975.62594075689,Forecast,BLS,0.1703274740729066
+1,1. Materials & Processing,2028,73099.92348111067,Forecast,BLS,0.1703274740729066
+1,1. Materials & Processing,2029,73224.43273432528,Forecast,BLS,0.1703274740729066
+1,1. Materials & Processing,2030,73349.15406100587,Forecast,BLS,0.1703274740729066
+1,1. Materials & Processing,2031,73474.08782237183,Forecast,BLS,0.1703274740729066
+1,1. Materials & Processing,2032,73599.23438025778,Forecast,BLS,0.1703274740729066
+1,1. Materials & Processing,2033,73724.59409711468,Forecast,BLS,0.1703274740729066
+1,1. Materials & Processing,2034,73850.1673360108,Forecast,BLS,0.1703274740729066
+2,2. Equipment Manufacturing,2001,69888.0,QCEW,,
+2,2. Equipment Manufacturing,2002,61235.0,QCEW,,
+2,2. Equipment Manufacturing,2003,58385.0,QCEW,,
+2,2. Equipment Manufacturing,2004,56958.0,QCEW,,
+2,2. Equipment Manufacturing,2005,55729.0,QCEW,,
+2,2. Equipment Manufacturing,2006,54338.0,QCEW,,
+2,2. Equipment Manufacturing,2007,51185.0,QCEW,,
+2,2. Equipment Manufacturing,2008,49109.0,QCEW,,
+2,2. Equipment Manufacturing,2009,39495.0,QCEW,,
+2,2. Equipment Manufacturing,2010,40126.0,QCEW,,
+2,2. Equipment Manufacturing,2011,44416.0,QCEW,,
+2,2. Equipment Manufacturing,2012,48753.0,QCEW,,
+2,2. Equipment Manufacturing,2013,50347.0,QCEW,,
+2,2. Equipment Manufacturing,2014,51620.0,QCEW,,
+2,2. Equipment Manufacturing,2015,52970.0,QCEW,,
+2,2. Equipment Manufacturing,2016,53396.0,QCEW,,
+2,2. Equipment Manufacturing,2017,54519.0,QCEW,,
+2,2. Equipment Manufacturing,2018,55424.0,QCEW,,
+2,2. Equipment Manufacturing,2019,53502.0,QCEW,,
+2,2. Equipment Manufacturing,2020,48267.0,QCEW,,
+2,2. Equipment Manufacturing,2021,48420.0,QCEW,,
+2,2. Equipment Manufacturing,2022,48839.0,QCEW,,
+2,2. Equipment Manufacturing,2023,48876.0,QCEW,,
+2,2. Equipment Manufacturing,2024,47550.0,QCEW,,
+2,2. Equipment Manufacturing,2025,47513.857745141664,Forecast,BLS,-0.076008948177364
+2,2. Equipment Manufacturing,2026,47477.74296163109,Forecast,BLS,-0.076008948177364
+2,2. Equipment Manufacturing,2027,47441.6556285876,Forecast,BLS,-0.076008948177364
+2,2. Equipment Manufacturing,2028,47405.595725146384,Forecast,BLS,-0.076008948177364
+2,2. Equipment Manufacturing,2029,47369.56323045849,Forecast,BLS,-0.076008948177364
+2,2. Equipment Manufacturing,2030,47333.558123690804,Forecast,BLS,-0.076008948177364
+2,2. Equipment Manufacturing,2031,47297.58038402606,Forecast,BLS,-0.076008948177364
+2,2. Equipment Manufacturing,2032,47261.62999066282,Forecast,BLS,-0.076008948177364
+2,2. Equipment Manufacturing,2033,47225.706922815436,Forecast,BLS,-0.076008948177364
+2,2. Equipment Manufacturing,2034,47189.81115971408,Forecast,BLS,-0.076008948177364
+3,3. Forging & Foundries,2001,22569.0,QCEW,,
+3,3. Forging & Foundries,2002,20853.0,QCEW,,
+3,3. Forging & Foundries,2003,20120.0,QCEW,,
+3,3. Forging & Foundries,2004,21836.0,QCEW,,
+3,3. Forging & Foundries,2005,21459.0,QCEW,,
+3,3. Forging & Foundries,2006,20882.0,QCEW,,
+3,3. Forging & Foundries,2007,19764.0,QCEW,,
+3,3. Forging & Foundries,2008,17934.0,QCEW,,
+3,3. Forging & Foundries,2009,13152.0,QCEW,,
+3,3. Forging & Foundries,2010,14405.0,QCEW,,
+3,3. Forging & Foundries,2011,16777.0,QCEW,,
+3,3. Forging & Foundries,2012,17730.0,QCEW,,
+3,3. Forging & Foundries,2013,17469.0,QCEW,,
+3,3. Forging & Foundries,2014,17851.0,QCEW,,
+3,3. Forging & Foundries,2015,18047.0,QCEW,,
+3,3. Forging & Foundries,2016,18194.0,QCEW,,
+3,3. Forging & Foundries,2017,18552.0,QCEW,,
+3,3. Forging & Foundries,2018,19277.0,QCEW,,
+3,3. Forging & Foundries,2019,19271.0,QCEW,,
+3,3. Forging & Foundries,2020,15883.0,QCEW,,
+3,3. Forging & Foundries,2021,16199.0,QCEW,,
+3,3. Forging & Foundries,2022,16746.0,QCEW,,
+3,3. Forging & Foundries,2023,17055.0,QCEW,,
+3,3. Forging & Foundries,2024,16337.0,QCEW,,
+3,3. Forging & Foundries,2025,16156.92675454776,Forecast,BLS,-1.1022418158305736
+3,3. Forging & Foundries,2026,15978.838351706017,Forecast,BLS,-1.1022418158305736
+3,3. Forging & Foundries,2027,15802.712913709542,Forecast,BLS,-1.1022418158305736
+3,3. Forging & Foundries,2028,15628.528803938978,Forecast,BLS,-1.1022418158305736
+3,3. Forging & Foundries,2029,15456.264624262836,Forecast,BLS,-1.1022418158305736
+3,3. Forging & Foundries,2030,15285.899212408784,Forecast,BLS,-1.1022418158305736
+3,3. Forging & Foundries,2031,15117.411639363898,Forecast,BLS,-1.1022418158305736
+3,3. Forging & Foundries,2032,14950.781206803591,Forecast,BLS,-1.1022418158305736
+3,3. Forging & Foundries,2033,14785.987444548862,Forecast,BLS,-1.1022418158305736
+3,3. Forging & Foundries,2034,14623.010108051587,Forecast,BLS,-1.1022418158305736
+4,4. Parts & Machining,2001,53878.0,QCEW,,
+4,4. Parts & Machining,2002,50874.0,QCEW,,
+4,4. Parts & Machining,2003,49178.0,QCEW,,
+4,4. Parts & Machining,2004,49248.0,QCEW,,
+4,4. Parts & Machining,2005,50724.0,QCEW,,
+4,4. Parts & Machining,2006,50064.0,QCEW,,
+4,4. Parts & Machining,2007,48225.0,QCEW,,
+4,4. Parts & Machining,2008,46965.0,QCEW,,
+4,4. Parts & Machining,2009,37232.0,QCEW,,
+4,4. Parts & Machining,2010,40120.0,QCEW,,
+4,4. Parts & Machining,2011,44729.0,QCEW,,
+4,4. Parts & Machining,2012,47604.0,QCEW,,
+4,4. Parts & Machining,2013,48091.0,QCEW,,
+4,4. Parts & Machining,2014,50307.0,QCEW,,
+4,4. Parts & Machining,2015,52603.0,QCEW,,
+4,4. Parts & Machining,2016,52458.0,QCEW,,
+4,4. Parts & Machining,2017,52257.0,QCEW,,
+4,4. Parts & Machining,2018,53718.0,QCEW,,
+4,4. Parts & Machining,2019,52591.0,QCEW,,
+4,4. Parts & Machining,2020,45730.0,QCEW,,
+4,4. Parts & Machining,2021,47346.0,QCEW,,
+4,4. Parts & Machining,2022,48605.0,QCEW,,
+4,4. Parts & Machining,2023,50818.0,QCEW,,
+4,4. Parts & Machining,2024,50443.0,QCEW,,
+4,4. Parts & Machining,2025,50385.640378318254,Forecast,BLS,-0.1137117571947454
+4,4. Parts & Machining,2026,50328.34598127024,Forecast,BLS,-0.1137117571947454
+4,4. Parts & Machining,2027,50271.11673468789,Forecast,BLS,-0.1137117571947454
+4,4. Parts & Machining,2028,50213.95256448745,Forecast,BLS,-0.1137117571947454
+4,4. Parts & Machining,2029,50156.85339666944,Forecast,BLS,-0.1137117571947454
+4,4. Parts & Machining,2030,50099.819157318496,Forecast,BLS,-0.1137117571947454
+4,4. Parts & Machining,2031,50042.84977260332,Forecast,BLS,-0.1137117571947454
+4,4. Parts & Machining,2032,49985.94516877656,Forecast,BLS,-0.1137117571947454
+4,4. Parts & Machining,2033,49929.10527217474,Forecast,BLS,-0.1137117571947454
+4,4. Parts & Machining,2034,49872.33000921814,Forecast,BLS,-0.1137117571947454
+5,5. Component Systems,2001,16198.0,QCEW,,
+5,5. Component Systems,2002,15254.0,QCEW,,
+5,5. Component Systems,2003,14725.0,QCEW,,
+5,5. Component Systems,2004,14908.0,QCEW,,
+5,5. Component Systems,2005,15615.0,QCEW,,
+5,5. Component Systems,2006,15814.0,QCEW,,
+5,5. Component Systems,2007,15751.0,QCEW,,
+5,5. Component Systems,2008,15865.0,QCEW,,
+5,5. Component Systems,2009,13865.0,QCEW,,
+5,5. Component Systems,2010,13189.0,QCEW,,
+5,5. Component Systems,2011,14492.0,QCEW,,
+5,5. Component Systems,2012,15170.0,QCEW,,
+5,5. Component Systems,2013,15239.0,QCEW,,
+5,5. Component Systems,2014,15439.0,QCEW,,
+5,5. Component Systems,2015,16676.0,QCEW,,
+5,5. Component Systems,2016,16542.0,QCEW,,
+5,5. Component Systems,2017,16794.0,QCEW,,
+5,5. Component Systems,2018,17376.0,QCEW,,
+5,5. Component Systems,2019,18237.0,QCEW,,
+5,5. Component Systems,2020,16885.0,QCEW,,
+5,5. Component Systems,2021,17142.0,QCEW,,
+5,5. Component Systems,2022,17979.0,QCEW,,
+5,5. Component Systems,2023,18726.0,QCEW,,
+5,5. Component Systems,2024,18283.0,QCEW,,
+5,5. Component Systems,2025,18435.204522047057,Forecast,BLS,0.8324920529839686
+5,5. Component Systems,2026,18588.67613464444,Forecast,BLS,0.8324920529839686
+5,5. Component Systems,2027,18743.425386220282,Forecast,BLS,0.8324920529839686
+5,5. Component Systems,2028,18899.462913017545,Forecast,BLS,0.8324920529839686
+5,5. Component Systems,2029,19056.79943982507,Forecast,BLS,0.8324920529839686
+5,5. Component Systems,2030,19215.44578071471,Forecast,BLS,0.8324920529839686
+5,5. Component Systems,2031,19375.4128397846,Forecast,BLS,0.8324920529839686
+5,5. Component Systems,2032,19536.711611908642,Forecast,BLS,0.8324920529839686
+5,5. Component Systems,2033,19699.353183492178,Forecast,BLS,0.8324920529839686
+5,5. Component Systems,2034,19863.348733233994,Forecast,BLS,0.8324920529839686
+6,6. Engineering & Design,2001,102457.0,QCEW,,
+6,6. Engineering & Design,2002,102250.0,QCEW,,
+6,6. Engineering & Design,2003,99969.0,QCEW,,
+6,6. Engineering & Design,2004,98337.0,QCEW,,
+6,6. Engineering & Design,2005,97957.0,QCEW,,
+6,6. Engineering & Design,2006,95510.0,QCEW,,
+6,6. Engineering & Design,2007,93220.0,QCEW,,
+6,6. Engineering & Design,2008,88873.0,QCEW,,
+6,6. Engineering & Design,2009,77775.0,QCEW,,
+6,6. Engineering & Design,2010,80680.0,QCEW,,
+6,6. Engineering & Design,2011,86598.0,QCEW,,
+6,6. Engineering & Design,2012,93379.0,QCEW,,
+6,6. Engineering & Design,2013,98826.0,QCEW,,
+6,6. Engineering & Design,2014,102924.0,QCEW,,
+6,6. Engineering & Design,2015,117555.0,QCEW,,
+6,6. Engineering & Design,2016,121842.0,QCEW,,
+6,6. Engineering & Design,2017,113721.0,QCEW,,
+6,6. Engineering & Design,2018,116698.0,QCEW,,
+6,6. Engineering & Design,2019,118343.0,QCEW,,
+6,6. Engineering & Design,2020,115403.0,QCEW,,
+6,6. Engineering & Design,2021,119483.0,QCEW,,
+6,6. Engineering & Design,2022,122404.0,QCEW,,
+6,6. Engineering & Design,2023,123111.0,QCEW,,
+6,6. Engineering & Design,2024,120207.0,QCEW,,
+6,6. Engineering & Design,2025,120843.181357433,Forecast,BLS,0.5292381953072578
+6,6. Engineering & Design,2026,121482.72962960096,Forecast,BLS,0.5292381953072578
+6,6. Engineering & Design,2027,122125.66263550265,Forecast,BLS,0.5292381953072578
+6,6. Engineering & Design,2028,122771.99828844181,Forecast,BLS,0.5292381953072578
+6,6. Engineering & Design,2029,123421.75459652623,Forecast,BLS,0.5292381953072578
+6,6. Engineering & Design,2030,124074.94966316943,Forecast,BLS,0.5292381953072578
+6,6. Engineering & Design,2031,124731.60168759518,Forecast,BLS,0.5292381953072578
+6,6. Engineering & Design,2032,125391.72896534445,Forecast,BLS,0.5292381953072578
+6,6. Engineering & Design,2033,126055.3498887852,Forecast,BLS,0.5292381953072578
+6,6. Engineering & Design,2034,126722.48294762486,Forecast,BLS,0.5292381953072578
+7,7. Core Automotive,2001,304333.0,QCEW,,
+7,7. Core Automotive,2002,283180.0,QCEW,,
+7,7. Core Automotive,2003,261958.0,QCEW,,
+7,7. Core Automotive,2004,249612.0,QCEW,,
+7,7. Core Automotive,2005,232083.0,QCEW,,
+7,7. Core Automotive,2006,213893.0,QCEW,,
+7,7. Core Automotive,2007,198068.0,QCEW,,
+7,7. Core Automotive,2008,167000.0,QCEW,,
+7,7. Core Automotive,2009,122598.0,QCEW,,
+7,7. Core Automotive,2010,126033.0,QCEW,,
+7,7. Core Automotive,2011,137663.0,QCEW,,
+7,7. Core Automotive,2012,150169.0,QCEW,,
+7,7. Core Automotive,2013,160593.0,QCEW,,
+7,7. Core Automotive,2014,170363.0,QCEW,,
+7,7. Core Automotive,2015,166670.0,QCEW,,
+7,7. Core Automotive,2016,173344.0,QCEW,,
+7,7. Core Automotive,2017,180711.0,QCEW,,
+7,7. Core Automotive,2018,182995.0,QCEW,,
+7,7. Core Automotive,2019,180821.0,QCEW,,
+7,7. Core Automotive,2020,154727.0,QCEW,,
+7,7. Core Automotive,2021,174869.0,QCEW,,
+7,7. Core Automotive,2022,177138.0,QCEW,,
+7,7. Core Automotive,2023,179115.0,QCEW,,
+7,7. Core Automotive,2024,173082.0,QCEW,,
+7,7. Core Automotive,2025,171260.1256123112,Forecast,BLS,-1.0526076586177655
+7,7. Core Automotive,2026,169457.42841395762,Forecast,BLS,-1.0526076586177655
+7,7. Core Automotive,2027,167673.70654437557,Forecast,BLS,-1.0526076586177655
+7,7. Core Automotive,2028,165908.7602678012,Forecast,BLS,-1.0526076586177655
+7,7. Core Automotive,2029,164162.39195090454,Forecast,BLS,-1.0526076586177655
+7,7. Core Automotive,2030,162434.4060406592,Forecast,BLS,-1.0526076586177655
+7,7. Core Automotive,2031,160724.60904244494,Forecast,BLS,-1.0526076586177655
+7,7. Core Automotive,2032,159032.8094983807,Forecast,BLS,-1.0526076586177655
+7,7. Core Automotive,2033,157358.81796588574,Forecast,BLS,-1.0526076586177655
+7,7. Core Automotive,2034,155702.44699646643,Forecast,BLS,-1.0526076586177655
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2001,107590.17649841309,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2002,104826.7277730306,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2003,102056.9299837748,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2004,100039.40278879802,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2005,99441.06699625652,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2006,98829.07436879475,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2007,97215.68500010172,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2008,95828.59295272829,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2009,87246.23037465413,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2010,89086.81250254312,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2011,92585.61084620158,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2012,95608.29066594444,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2013,98503.9054781596,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2014,102424.88727823892,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2015,104833.71697362264,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2016,105625.18589528404,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2017,107098.9301846822,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2018,110520.07780456544,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2019,111801.66566467284,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2020,103058.23542785645,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2021,105546.62362289429,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2022,110573.0,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2023,114410.0,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2024,115340.0,QCEW,,
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2025,115308.03729262805,Forecast,BLS,-0.0277117282572736
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2026,115276.08344267473,Forecast,BLS,-0.0277117282572736
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2027,115244.13844768547,Forecast,BLS,-0.0277117282572736
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2028,115212.20230520642,Forecast,BLS,-0.0277117282572736
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2029,115180.27501278438,Forecast,BLS,-0.0277117282572736
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2030,115148.35656796685,Forecast,BLS,-0.0277117282572736
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2031,115116.44696830203,Forecast,BLS,-0.0277117282572736
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2032,115084.54621133875,Forecast,BLS,-0.0277117282572736
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2033,115052.65429462654,Forecast,BLS,-0.0277117282572736
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,115020.77121571563,Forecast,BLS,-0.0277117282572736
+9,"9. Dealers, Maintenance, & Repair",2001,75615.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2002,76404.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2003,74642.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2004,74365.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2005,71952.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2006,68884.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2007,66333.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2008,63843.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2009,58528.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2010,57415.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2011,58514.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2012,60173.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2013,61157.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2014,64200.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2015,66784.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2016,68358.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2017,68500.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2018,68540.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2019,68868.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2020,62425.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2021,66198.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2022,67706.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2023,69189.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2024,69600.0,QCEW,,
+9,"9. Dealers, Maintenance, & Repair",2025,69751.8816473937,Forecast,BLS,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2026,69904.09473206924,Forecast,BLS,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2027,70056.63997729153,Forecast,BLS,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2028,70209.51810790387,Forecast,BLS,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2029,70362.72985033126,Forecast,BLS,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2030,70516.27593258394,Forecast,BLS,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2031,70670.1570842608,Forecast,BLS,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2032,70824.3740365529,Forecast,BLS,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2033,70978.92752224686,Forecast,BLS,0.2182207577495765
+9,"9. Dealers, Maintenance, & Repair",2034,71133.81827572842,Forecast,BLS,0.2182207577495765
+10,10. Logistics,2001,36463.0,QCEW,,
+10,10. Logistics,2002,35744.0,QCEW,,
+10,10. Logistics,2003,34947.0,QCEW,,
+10,10. Logistics,2004,36028.0,QCEW,,
+10,10. Logistics,2005,37382.0,QCEW,,
+10,10. Logistics,2006,38765.0,QCEW,,
+10,10. Logistics,2007,40761.0,QCEW,,
+10,10. Logistics,2008,38940.0,QCEW,,
+10,10. Logistics,2009,33872.0,QCEW,,
+10,10. Logistics,2010,34234.0,QCEW,,
+10,10. Logistics,2011,36615.0,QCEW,,
+10,10. Logistics,2012,38488.0,QCEW,,
+10,10. Logistics,2013,40737.0,QCEW,,
+10,10. Logistics,2014,43426.0,QCEW,,
+10,10. Logistics,2015,45930.0,QCEW,,
+10,10. Logistics,2016,46900.0,QCEW,,
+10,10. Logistics,2017,46723.0,QCEW,,
+10,10. Logistics,2018,47502.0,QCEW,,
+10,10. Logistics,2019,48382.0,QCEW,,
+10,10. Logistics,2020,44778.0,QCEW,,
+10,10. Logistics,2021,46770.0,QCEW,,
+10,10. Logistics,2022,49197.0,QCEW,,
+10,10. Logistics,2023,49037.0,QCEW,,
+10,10. Logistics,2024,46889.0,QCEW,,
+10,10. Logistics,2025,46953.29331480044,Forecast,BLS,0.1371181189627313
+10,10. Logistics,2026,47017.67478738475,Forecast,BLS,0.1371181189627313
+10,10. Logistics,2027,47082.14453863323,Forecast,BLS,0.1371181189627313
+10,10. Logistics,2028,47146.70268959192,Forecast,BLS,0.1371181189627313
+10,10. Logistics,2029,47211.349361472836,Forecast,BLS,0.1371181189627313
+10,10. Logistics,2030,47276.08467565421,Forecast,BLS,0.1371181189627313
+10,10. Logistics,2031,47340.90875368069,Forecast,BLS,0.1371181189627313
+10,10. Logistics,2032,47405.8217172636,Forecast,BLS,0.1371181189627313
+10,10. Logistics,2033,47470.82368828114,Forecast,BLS,0.1371181189627313
+10,10. Logistics,2034,47535.914788778624,Forecast,BLS,0.1371181189627313

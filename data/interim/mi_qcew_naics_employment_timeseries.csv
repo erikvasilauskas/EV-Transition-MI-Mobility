@@ -1,0 +1,913 @@
+series_id,year,employment,naics_code,segment_id,segment_name,stage,segment_label
+ENU260001053252,2001,4283.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2001,4166.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2001,39596.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2001,6288.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2001,8879.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2001,7341.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2001,3124.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2001,2167.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2001,2746.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2001,16071.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2001,17977.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2001,49161.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2001,20727.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2001,6498.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2001,4191.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2001,26164.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2001,15390.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2001,8133.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2001,4912.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2001,9488.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2001,1798.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2001,83373.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2001,3402.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2001,15682.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2001,90361.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2001,10139.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2001,203833.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2001,20063.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2001,7797.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2001,26299.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2001,6498.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2001,3190.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2001,13540.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2001,30203.17649841309,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2001,42508.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2001,33107.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2001,24304.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2001,12159.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2002,3978.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2002,4122.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2002,37337.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2002,5751.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2002,8436.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2002,7068.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2002,2591.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2002,1742.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2002,2347.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2002,14575.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2002,16786.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2002,43233.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2002,18002.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2002,6278.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2002,3598.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2002,26087.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2002,14215.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2002,6974.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2002,4690.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2002,8563.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2002,2001.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2002,76342.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2002,3538.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2002,22370.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2002,81572.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2002,10090.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2002,191518.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2002,19374.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2002,7855.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2002,25009.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2002,6452.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2002,3097.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2002,14431.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2002,28608.7277730306,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2002,43335.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2002,33069.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2002,23494.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2002,12250.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2003,3895.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2003,4023.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2003,37603.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2003,5552.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2003,8200.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2003,6615.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2003,2399.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2003,1861.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2003,2260.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2003,13733.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2003,16067.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2003,41612.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2003,16773.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2003,6387.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2003,3333.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2003,26700.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2003,12921.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2003,6224.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2003,4377.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2003,8300.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2003,2048.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2003,72059.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2003,3619.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2003,24291.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2003,75378.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2003,9389.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2003,177191.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2003,19484.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2003,7574.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2003,23935.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2003,6462.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2003,3074.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2003,14244.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2003,27283.92998377482,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2003,42098.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2003,32544.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2003,23370.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2003,11577.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2004,3832.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2004,3984.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2004,37601.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2004,5594.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2004,7302.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2004,5963.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2004,2547.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2004,1893.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2004,2335.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2004,14910.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2004,16021.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2004,40652.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2004,16306.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2004,6926.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2004,3091.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2004,27123.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2004,12901.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2004,6133.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2004,4612.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2004,8304.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2004,1992.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2004,70855.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2004,3751.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2004,23731.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2004,70844.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2004,9813.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2004,168955.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2004,19648.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2004,7382.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2004,23510.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2004,6562.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2004,2889.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2004,14136.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2004,25912.40278879802,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2004,41803.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2004,32562.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2004,25079.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2004,10949.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2005,6830.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2005,3423.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2005,37192.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2005,5446.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2005,7177.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2005,5776.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2005,2632.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2005,1658.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2005,2336.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2005,14620.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2005,16076.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2005,39706.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2005,16023.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2005,6839.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2005,3217.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2005,28816.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2005,12322.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2005,6369.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2005,4598.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2005,9239.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2005,1778.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2005,69943.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2005,4365.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2005,23649.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2005,65509.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2005,8972.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2005,157602.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2005,19348.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2005,6993.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2005,23707.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2005,6859.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2005,2915.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2005,13778.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2005,25841.06699625651,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2005,41033.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2005,30919.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2005,26456.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2005,10926.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2006,6783.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2006,3299.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2006,36426.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2006,5353.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2006,6099.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2006,5754.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2006,2454.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2006,1713.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2006,2184.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2006,13857.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2006,15555.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2006,38592.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2006,15746.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2006,7025.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2006,3114.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2006,28487.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2006,11531.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2006,6932.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2006,4389.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2006,9616.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2006,1809.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2006,67009.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2006,4543.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2006,23958.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2006,59006.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2006,8904.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2006,145983.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2006,19424.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2006,7099.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2006,23770.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2006,6929.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2006,2931.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2006,13224.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2006,25452.07436879476,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2006,39677.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2006,29207.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2006,27533.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2006,11232.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2007,6779.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2007,3260.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2007,34146.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2007,4864.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2007,5640.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2007,5937.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2007,2379.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2007,1731.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2007,2105.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2007,12652.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2007,15298.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2007,36126.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2007,15059.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2007,7112.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2007,2953.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2007,27591.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2007,10537.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2007,7144.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2007,4174.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2007,9745.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2007,1832.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2007,66272.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2007,4723.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2007,22225.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2007,58574.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2007,8837.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2007,130657.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2007,19086.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2007,6898.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2007,23795.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2007,7008.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2007,2805.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2007,13006.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2007,24617.685000101726,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2007,38163.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2007,28170.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2007,28217.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2007,12544.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2008,6769.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2008,3024.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2008,32035.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2008,4552.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2008,5326.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2008,5965.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2008,1953.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2008,1727.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2008,1920.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2008,11614.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2008,14322.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2008,34551.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2008,14558.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2008,6320.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2008,2709.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2008,26725.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2008,9984.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2008,7547.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2008,4473.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2008,9636.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2008,1756.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2008,63802.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2008,4627.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2008,20444.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2008,48823.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2008,7411.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2008,110766.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2008,18168.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2008,6855.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2008,23681.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2008,7058.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2008,2711.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2008,13036.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2008,24319.59295272827,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2008,36768.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2008,27075.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2008,27143.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2008,11797.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2009,6523.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2009,2493.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2009,23383.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2009,3601.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2009,4334.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2009,4547.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2009,1366.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2009,1624.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2009,1357.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2009,8174.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2009,10392.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2009,27570.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2009,11925.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2009,4978.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2009,2144.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2009,20427.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2009,8191.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2009,6470.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2009,3882.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2009,8498.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2009,1485.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2009,55412.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2009,4079.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2009,18284.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2009,35196.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2009,6034.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2009,81368.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2009,15653.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2009,5564.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2009,20902.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2009,6144.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2009,2672.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2009,13018.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2009,23293.23037465413,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2009,33083.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2009,25445.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2009,24306.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2009,9566.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2010,6533.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2010,2425.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2010,25893.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2010,4054.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2010,4258.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2010,5155.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2010,1450.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2010,1652.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2010,1387.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2010,8648.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2010,11330.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2010,28820.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2010,11306.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2010,5757.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2010,2206.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2010,22459.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2010,8725.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2010,6730.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2010,3736.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2010,7860.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2010,1593.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2010,57576.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2010,4190.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2010,18914.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2010,35239.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2010,6268.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2010,84526.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2010,15600.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2010,5434.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2010,20420.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2010,6461.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2010,2642.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2010,14658.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2010,23871.81250254313,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2010,31994.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2010,25421.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2010,25301.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2010,8933.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2011,6916.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2011,2788.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2011,27933.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2011,4131.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2011,4210.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2011,6303.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2011,1561.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2011,1817.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2011,1412.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2011,9823.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2011,12775.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2011,32010.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2011,12406.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2011,6954.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2011,2344.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2011,25851.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2011,8976.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2011,7558.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2011,4083.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2011,7846.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2011,2563.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2011,62819.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2011,4660.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2011,19119.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2011,37578.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2011,6284.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2011,93801.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2011,16930.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2011,5909.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2011,20725.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2011,7006.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2011,2707.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2011,15135.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2011,24173.61084620158,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2011,32734.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2011,25780.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2011,27285.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2011,9330.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2012,7097.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2012,3204.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2012,29702.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2012,4533.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2012,3022.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2012,6107.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2012,1604.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2012,1807.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2012,1366.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2012,10489.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2012,13777.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2012,35272.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2012,13481.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2012,7241.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2012,2712.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2012,27761.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2012,9424.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2012,7707.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2012,4210.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2012,8199.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2012,2761.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2012,68257.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2012,4883.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2012,20239.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2012,39789.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2012,6424.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2012,103956.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2012,17912.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2012,6338.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2012,21625.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2012,7468.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2012,2759.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2012,15808.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2012,23698.29066594442,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2012,33882.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2012,26291.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2012,28899.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2012,9589.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2013,6984.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2013,3434.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2013,30912.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2013,5260.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2013,2881.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2013,5981.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2013,1617.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2013,2343.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2013,1393.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2013,10106.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2013,13936.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2013,35902.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2013,14445.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2013,7363.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2013,2852.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2013,28616.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2013,9222.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2013,7401.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2013,4086.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2013,8522.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2013,2631.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2013,72045.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2013,5310.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2013,21471.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2013,44163.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2013,6643.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2013,109787.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2013,18589.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2013,6423.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2013,22228.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2013,7458.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2013,2716.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2013,16435.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2013,24654.90547815959,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2013,34662.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2013,26495.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2013,30818.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2013,9919.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2014,6953.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2014,4088.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2014,33179.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2014,5416.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2014,3055.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2014,6002.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2014,1671.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2014,2498.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2014,1406.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2014,10415.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2014,14419.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2014,36405.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2014,15215.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2014,7436.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2014,3065.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2014,29807.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2014,9592.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2014,7843.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2014,4252.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2014,8595.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2014,2592.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2014,76039.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2014,4960.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2014,21925.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2014,45929.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2014,7242.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2014,117192.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2014,19759.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2014,6734.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2014,22852.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2014,7555.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2014,2787.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2014,17049.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2014,25688.887278238926,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2014,36317.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2014,27883.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2014,32934.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2014,10492.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2015,6829.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2015,4233.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2015,34248.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2015,5464.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2015,3310.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2015,5523.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2015,1747.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2015,3148.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2015,1398.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2015,10312.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2015,14082.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2015,37169.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2015,15801.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2015,7735.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2015,3198.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2015,30775.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2015,9936.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2015,8694.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2015,4504.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2015,9046.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2015,3126.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2015,85007.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2015,7593.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2015,24955.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2015,36677.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2015,8161.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2015,121832.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2015,20564.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2015,6571.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2015,23367.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2015,7409.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2015,2968.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2015,17572.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2015,26382.71697362264,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2015,38115.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2015,28669.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2015,34976.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2015,10954.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2016,6811.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2016,4529.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2016,35966.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2016,5602.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2016,3049.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2016,5258.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2016,1751.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2016,3229.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2016,1353.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2016,10321.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2016,13687.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2016,37389.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2016,16007.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2016,7873.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2016,3327.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2016,29903.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2016,9927.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2016,9301.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2016,4349.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2016,8913.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2016,3280.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2016,88247.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2016,7913.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2016,25682.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2016,37501.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2016,8600.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2016,127243.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2016,20828.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2016,6662.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2016,23625.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2016,7263.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2016,2960.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2016,17729.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2016,26558.18589528402,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2016,39018.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2016,29340.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2016,35627.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2016,11273.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2017,6837.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2017,4730.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2017,36296.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2017,5926.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2017,2970.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2017,5169.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2017,1789.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2017,3434.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2017,1376.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2017,10442.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2017,13699.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2017,38120.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2017,16399.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2017,8110.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2017,3425.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2017,28752.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2017,10259.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2017,9821.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2017,4325.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2017,8919.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2017,3550.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2017,83516.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2017,8464.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2017,21741.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2017,40857.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2017,8708.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2017,131146.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2017,20945.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2017,6491.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2017,24386.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2017,7557.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2017,3334.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2017,17346.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2017,27039.93018468221,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2017,39699.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2017,28801.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2017,35455.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2017,11268.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2018,7265.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2018,4874.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2018,36820.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2018,6003.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2018,3185.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2018,5228.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2018,1790.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2018,3436.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2018,1414.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2018,10846.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2018,13709.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2018,38331.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2018,17093.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2018,8431.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2018,3444.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2018,28818.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2018,11286.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2018,10170.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2018,4502.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2018,9027.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2018,3847.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2018,86547.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2018,8632.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2018,21519.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2018,39490.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2018,9041.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2018,134464.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2018,22017.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2018,7191.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2018,25165.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2018,7792.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2018,3442.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2018,17572.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2018,27341.077804565433,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2018,39716.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2018,28824.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2018,36045.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2018,11457.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2019,7361.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2019,5075.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2019,36932.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2019,5560.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2019,3279.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2019,5155.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2019,1745.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2019,3361.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2019,1425.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2019,10665.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2019,13698.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2019,36498.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2019,17004.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2019,8606.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2019,3431.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2019,27275.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2019,11452.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2019,10433.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2019,4743.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2019,9147.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2019,4347.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2019,88076.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2019,8155.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2019,22112.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2019,38974.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2019,9047.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2019,132800.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2019,22848.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2019,7116.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2019,25229.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2019,7737.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2019,3529.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2019,17717.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2019,27625.665664672848,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2019,39798.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2019,29070.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2019,36859.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2019,11523.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2020,6140.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2020,4665.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2020,31852.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2020,4805.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2020,2788.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2020,3763.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2020,1711.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2020,2706.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2020,1246.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2020,8861.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2020,11274.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2020,31959.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2020,16308.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2020,7022.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2020,2963.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2020,22818.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2020,10135.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2020,9814.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2020,4302.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2020,8227.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2020,4356.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2020,84620.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2020,8111.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2020,22672.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2020,34317.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2020,7740.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2020,112670.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2020,21013.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2020,6290.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2020,23247.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2020,7019.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2020,3423.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2020,16380.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2020,25686.23542785645,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2020,36431.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2020,25994.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2020,34290.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2020,10488.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2021,5947.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2021,4581.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2021,33451.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2021,5111.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2021,2848.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2021,3358.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2021,1747.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2021,2811.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2021,1183.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2021,8973.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2021,11480.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2021,31751.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2021,16669.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2021,7226.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2021,3376.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2021,23522.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2021,10152.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2021,10296.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2021,4605.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2021,8449.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2021,4088.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2021,87418.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2021,8433.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2021,23632.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2021,45057.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2021,8038.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2021,121774.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2021,23938.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2021,6053.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2021,22266.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2021,7625.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2021,3481.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2021,16774.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2021,25409.623622894287,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2021,37638.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2021,28560.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2021,35833.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2021,10937.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2022,5713.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2022,4616.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2022,34540.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2022,5066.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2022,2815.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2022,3270.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2022,1824.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2022,2851.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2022,1203.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2022,9464.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2022,11391.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2022,31037.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2022,17802.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2022,7282.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2022,3047.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2022,24314.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2022,10472.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2022,10772.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2022,4750.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2022,8628.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2022,4601.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2022,88549.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2022,8723.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2022,25132.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2022,44847.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2022,8377.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2022,123914.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2022,24911.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2022,6245.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2022,22812.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2022,8447.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2022,3686.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2022,17753.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2022,26719.0,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2022,37963.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2022,29743.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2022,37946.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2022,11251.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2023,5346.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2023,4502.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2023,34599.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2023,5350.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2023,2803.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2023,3369.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2023,1965.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2023,2719.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2023,1218.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2023,9659.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2023,11698.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2023,30603.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2023,18273.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2023,7396.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2023,3073.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2023,24940.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2023,10880.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2023,11925.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2023,4995.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2023,8771.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2023,4960.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2023,88654.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2023,9163.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2023,25294.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2023,48746.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2023,8544.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2023,121825.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2023,25506.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2023,6517.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2023,24017.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2023,8805.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2023,3855.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2023,18165.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2023,27545.0,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2023,38350.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2023,30839.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2023,37688.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2023,11349.0,4842,10,Logistics,Downstream,10. Logistics
+ENU260001053252,2024,5524.0,3252,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053255,2024,4347.0,3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053261,2024,34371.0,3261,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053262,2024,5147.0,3262,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053272,2024,2802.0,3272,1,Materials & Processing - Non-Metals,Upstream,1. Materials & Processing
+ENU260001053311,2024,3258.0,3311,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053312,2024,1974.0,3312,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053313,2024,2698.0,3313,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053314,2024,1262.0,3314,1,Materials & Processing - Metals,Upstream,1. Materials & Processing
+ENU260001053315,2024,9349.0,3315,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053328,2024,11221.0,3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,1. Materials & Processing
+ENU260001053335,2024,29604.0,3335,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053339,2024,17946.0,3339,2,Equipment Manufacturing,Upstream,2. Equipment Manufacturing
+ENU260001053321,2024,6988.0,3321,3,Forging & Foundries,Upstream,3. Forging & Foundries
+ENU260001053326,2024,2869.0,3326,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053327,2024,24530.0,3327,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053329,2024,10865.0,3329,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053344,2024,12179.0,3344,4,Parts & Machining,Upstream,4. Parts & Machining
+ENU260001053336,2024,4970.0,3336,5,Component Systems,Upstream,5. Component Systems
+ENU260001053345,2024,8867.0,3345,5,Component Systems,Upstream,5. Component Systems
+ENU260001053359,2024,4446.0,3359,5,Component Systems,Upstream,5. Component Systems
+ENU260001055413,2024,84452.0,5413,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055414,2024,10458.0,5414,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001055417,2024,25297.0,5417,6,Engineering & Design,OEM,6. Engineering & Design
+ENU260001053361,2024,48138.0,3361,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053362,2024,7921.0,3362,7,Core Automotive,OEM,7. Core Automotive
+ENU260001053363,2024,117023.0,3363,7,Core Automotive,OEM,7. Core Automotive
+ENU260001054231,2024,25978.0,4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054235,2024,6359.0,4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054238,2024,24407.0,4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054239,2024,8732.0,4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054247,2024,3846.0,4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054413,2024,18192.0,4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054571,2024,27826.0,4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales"
+ENU260001054411,2024,38262.0,4411,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001058111,2024,31338.0,8111,9,"Dealers, Maintenance, & Repair",Downstream,"9. Dealers, Maintenance, & Repair"
+ENU260001054841,2024,35249.0,4841,10,Logistics,Downstream,10. Logistics
+ENU260001054842,2024,11640.0,4842,10,Logistics,Downstream,10. Logistics

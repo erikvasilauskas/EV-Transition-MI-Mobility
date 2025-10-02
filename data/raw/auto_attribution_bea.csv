@@ -1,0 +1,39 @@
+Stage,Sector,NAICS,NAICS Title,bea_share_to_set
+Upstream,1. Materials & Processing - Coatings & Surface Treatments,3255,"""Paint, Coating, and Adhesive Manufacturing""",0.012321176
+Upstream,1. Materials & Processing - Coatings & Surface Treatments,3328,"""Coating, Engraving, Heat Treating, and Allied Activities""",0.053466266
+Upstream,1. Materials & Processing - Metals,3311,"""Iron and Steel Mills and Ferroalloy Manufacturing""",0.145481535
+Upstream,1. Materials & Processing - Metals,3312,"""Steel Product Manufacturing from Purchased Steel""",0.145481535
+Upstream,1. Materials & Processing - Metals,3313,"""Alumina and Aluminum Production and Processing""",0.145481535
+Upstream,1. Materials & Processing - Metals,3314,"""Nonferrous Metal (except Aluminum) Production and Processing""",0.145481535
+Upstream,1. Materials & Processing - Non-Metals,3252,"""Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing""",0.012321176
+Upstream,1. Materials & Processing - Non-Metals,3261,"""Plastics Product Manufacturing""",0.060836224
+Upstream,1. Materials & Processing - Non-Metals,3262,"""Rubber Product Manufacturing""",0.060836224
+Upstream,1. Materials & Processing - Non-Metals,3272,"""Glass and Glass Product Manufacturing""",0.035458353
+Upstream,2. Equipment Manufacturing,3335,"""Metalworking Machinery Manufacturing""",0.039300112
+Upstream,2. Equipment Manufacturing,3339,"""Other General Purpose Machinery Manufacturing""",0.039300112
+Upstream,3. Forging & Foundries,3315,"""Foundries""",0.145481535
+Upstream,3. Forging & Foundries,3321,"""Forging and Stamping""",0.053466266
+Upstream,4. Parts & Machining,3326,"""Spring and Wire Product Manufacturing""",0.053466266
+Upstream,4. Parts & Machining,3327,"""Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing""",0.053466266
+Upstream,4. Parts & Machining,3329,"""Other Fabricated Metal Product Manufacturing""",0.053466266
+Upstream,4. Parts & Machining,3344,"""Semiconductor and Other Electronic Component Manufacturing""",0.017526805
+Upstream,5. Component Systems,3336,"""Engine, Turbine, and Power Transmission Equipment Manufacturing""",0.179901049
+Upstream,5. Component Systems,3345,"""Navigational, Measuring, Electro medical, and Control Instruments Manufacturing""",0.017526805
+Upstream,5. Component Systems,3359,"""Other Electrical Equipment and Component Manufacturing""",0.029018617
+OEM,6. Engineering & Design,5413,"""Architectural, Engineering, and Related Services""",0.002217683
+OEM,6. Engineering & Design,5414,"""Industrial design""",0.002217683
+OEM,6. Engineering & Design,5417,"""Scientific Research and Development """,0.002217683
+OEM,7. Core Automotive,3361,"""Motor Vehicle Manufacturing""",1
+OEM,7. Core Automotive,3362,"""Motor Vehicle Body and Trailer Manufacturing""",1
+OEM,7. Core Automotive,3363,"""Motor Vehicle Parts Manufacturing""",1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4231,"""Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers""",1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4235,"""Metal and Mineral (except Petroleum) Merchant Wholesalers""",1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4238,"""Machinery, Equipment, and Supplies Merchant Wholesalers""",1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4239,"""Miscellaneous Durable Goods Merchant Wholesalers""",1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4247,"""Petroleum and Petroleum Products Merchant Wholesalers""",1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4413,"""Automotive Parts, Accessories, and Tire Retailers""",1
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4571,"""Gasoline Stations""",1
+Downstream,"9. Dealers, Maintenance, & Repair",4411,"""Automobile Dealers""",1
+Downstream,"9. Dealers, Maintenance, & Repair",8111,"""Automotive Repair and Maintenance""",1
+Downstream,10. Logistics,4841,"""General Freight Trucking""",1
+Downstream,10. Logistics,4842,"""Specialized Freight Trucking ",1

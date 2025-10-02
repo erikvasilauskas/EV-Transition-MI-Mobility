@@ -1,0 +1,241 @@
+segment_id,segment_name,year,employment_qcew
+1,1. Materials & Processing,2001,37742.06
+1,1. Materials & Processing,2002,35262.55
+1,1. Materials & Processing,2003,34444.590000000004
+1,1. Materials & Processing,2004,33665.21
+1,1. Materials & Processing,2005,33192.68
+1,1. Materials & Processing,2006,31884.17
+1,1. Materials & Processing,2007,30514.11
+1,1. Materials & Processing,2008,28749.170000000002
+1,1. Materials & Processing,2009,21905.4
+1,1. Materials & Processing,2010,23613.690000000002
+1,1. Materials & Processing,2011,25740.670000000002
+1,1. Materials & Processing,2012,26351.590000000004
+1,1. Materials & Processing,2013,27451.48
+1,1. Materials & Processing,2014,28985.96
+1,1. Materials & Processing,2015,29466.55
+1,1. Materials & Processing,2016,29841.21
+1,1. Materials & Processing,2017,30287.99
+1,1. Materials & Processing,2018,30797.160000000003
+1,1. Materials & Processing,2019,30623.47
+1,1. Materials & Processing,2020,26014.910000000003
+1,1. Materials & Processing,2021,26568.19
+1,1. Materials & Processing,2022,26835.27
+1,1. Materials & Processing,2023,27119.72
+1,1. Materials & Processing,2024,26633.08
+2,2. Equipment Manufacturing,2001,20788.32
+2,2. Equipment Manufacturing,2002,18189.07
+2,2. Equipment Manufacturing,2003,17279.93
+2,2. Equipment Manufacturing,2004,16848.46
+2,2. Equipment Manufacturing,2005,16495.93
+2,2. Equipment Manufacturing,2006,16103.86
+2,2. Equipment Manufacturing,2007,15205.689999999999
+2,2. Equipment Manufacturing,2008,14606.529999999999
+2,2. Equipment Manufacturing,2009,11781.75
+2,2. Equipment Manufacturing,2010,11840.46
+2,2. Equipment Manufacturing,2011,13088.96
+2,2. Equipment Manufacturing,2012,14345.21
+2,2. Equipment Manufacturing,2013,14897.95
+2,2. Equipment Manufacturing,2014,15339.4
+2,2. Equipment Manufacturing,2015,15770.66
+2,2. Equipment Manufacturing,2016,15910.119999999999
+2,2. Equipment Manufacturing,2017,16253.59
+2,2. Equipment Manufacturing,2018,16590.879999999997
+2,2. Equipment Manufacturing,2019,16096.14
+2,2. Equipment Manufacturing,2020,14676.029999999999
+2,2. Equipment Manufacturing,2021,14772.04
+2,2. Equipment Manufacturing,2022,15058.07
+2,2. Equipment Manufacturing,2023,15142.68
+2,2. Equipment Manufacturing,2024,14758.86
+3,3. Forging & Foundries,2001,15110.79
+3,3. Forging & Foundries,2002,13904.31
+3,3. Forging & Foundries,2003,13346.33
+3,3. Forging & Foundries,2004,14485.82
+3,3. Forging & Foundries,2005,14228.880000000001
+3,3. Forging & Foundries,2006,13768.61
+3,3. Forging & Foundries,2007,12934.199999999999
+3,3. Forging & Foundries,2008,11764.619999999999
+3,3. Forging & Foundries,2009,8555.58
+3,3. Forging & Foundries,2010,9306.68
+3,3. Forging & Foundries,2011,10786.869999999999
+3,3. Forging & Foundries,2012,11422.29
+3,3. Forging & Foundries,2013,11206.14
+3,3. Forging & Foundries,2014,11469.67
+3,3. Forging & Foundries,2015,11549.960000000001
+3,3. Forging & Foundries,2016,11628.29
+3,3. Forging & Foundries,2017,11839.86
+3,3. Forging & Foundries,2018,12301.7
+3,3. Forging & Foundries,2019,12260.57
+3,3. Forging & Foundries,2020,10119.97
+3,3. Forging & Foundries,2021,10307.81
+3,3. Forging & Foundries,2022,10695.36
+3,3. Forging & Foundries,2023,10896.99
+3,3. Forging & Foundries,2024,10458.529999999999
+4,4. Parts & Machining,2001,21927.42
+4,4. Parts & Machining,2002,20911.010000000002
+4,4. Parts & Machining,2003,20511.93
+4,4. Parts & Machining,2004,20588.149999999998
+4,4. Parts & Machining,2005,21456.32
+4,4. Parts & Machining,2006,21276.03
+4,4. Parts & Machining,2007,20597.18
+4,4. Parts & Machining,2008,20079.93
+4,4. Parts & Machining,2009,15785.95
+4,4. Parts & Machining,2010,17077.25
+4,4. Parts & Machining,2011,19246.91
+4,4. Parts & Machining,2012,20537.52
+4,4. Parts & Machining,2013,20863.149999999998
+4,4. Parts & Machining,2014,21819.07
+4,4. Parts & Machining,2015,22781.73
+4,4. Parts & Machining,2016,22624.47
+4,4. Parts & Machining,2017,22360.12
+4,4. Parts & Machining,2018,22784.16
+4,4. Parts & Machining,2019,22134.309999999998
+4,4. Parts & Machining,2020,19111.87
+4,4. Parts & Machining,2021,19832.3
+4,4. Parts & Machining,2022,20363.77
+4,4. Parts & Machining,2023,21241.28
+4,4. Parts & Machining,2024,21044.0
+5,5. Component Systems,2001,5635.46
+5,5. Component Systems,2002,5451.93
+5,5. Component Systems,2003,5183.17
+5,5. Component Systems,2004,5361.4
+5,5. Component Systems,2005,5340.84
+5,5. Component Systems,2006,5205.4400000000005
+5,5. Component Systems,2007,5041.9800000000005
+5,5. Component Systems,2008,5257.7699999999995
+5,5. Component Systems,2009,4558.69
+5,5. Component Systems,2010,4425.67
+5,5. Component Systems,2011,5097.8
+5,5. Component Systems,2012,5311.21
+5,5. Component Systems,2013,5180.95
+5,5. Component Systems,2014,5312.68
+5,5. Component Systems,2015,5771.22
+5,5. Component Systems,2016,5688.89
+5,5. Component Systems,2017,5774.27
+5,5. Component Systems,2018,6049.1900000000005
+5,5. Component Systems,2019,6458.639999999999
+5,5. Component Systems,2020,6013.7
+5,5. Component Systems,2021,6184.49
+5,5. Component Systems,2022,6522.13
+5,5. Component Systems,2023,6881.83
+5,5. Component Systems,2024,6667.8
+6,6. Engineering & Design,2001,4495.570000000001
+6,6. Engineering & Design,2002,4217.700000000001
+6,6. Engineering & Design,2003,4026.8100000000004
+6,6. Engineering & Design,2004,3967.61
+6,6. Engineering & Design,2005,3951.8900000000003
+6,6. Engineering & Design,2006,3817.1800000000003
+6,6. Engineering & Design,2007,3772.0000000000005
+6,6. Engineering & Design,2008,3625.8900000000003
+6,6. Engineering & Design,2009,3157.3900000000003
+6,6. Engineering & Design,2010,3277.44
+6,6. Engineering & Design,2011,3565.1400000000003
+6,6. Engineering & Design,2012,3859.3900000000003
+6,6. Engineering & Design,2013,4082.46
+6,6. Engineering & Design,2014,4269.200000000001
+6,6. Engineering & Design,2015,4879.55
+6,6. Engineering & Design,2016,5064.820000000001
+6,6. Engineering & Design,2017,4816.41
+6,6. Engineering & Design,2018,4974.14
+6,6. Engineering & Design,2019,5032.67
+6,6. Engineering & Design,2020,4863.27
+6,6. Engineering & Design,2021,5028.870000000001
+6,6. Engineering & Design,2022,5114.92
+6,6. Engineering & Design,2023,5143.79
+6,6. Engineering & Design,2024,4998.47
+7,7. Core Automotive,2001,304333.0
+7,7. Core Automotive,2002,283180.0
+7,7. Core Automotive,2003,261958.0
+7,7. Core Automotive,2004,249612.0
+7,7. Core Automotive,2005,232083.0
+7,7. Core Automotive,2006,213893.0
+7,7. Core Automotive,2007,198068.0
+7,7. Core Automotive,2008,167000.0
+7,7. Core Automotive,2009,122598.0
+7,7. Core Automotive,2010,126033.0
+7,7. Core Automotive,2011,137663.0
+7,7. Core Automotive,2012,150169.0
+7,7. Core Automotive,2013,160593.0
+7,7. Core Automotive,2014,170363.0
+7,7. Core Automotive,2015,166670.0
+7,7. Core Automotive,2016,173344.0
+7,7. Core Automotive,2017,180711.0
+7,7. Core Automotive,2018,182995.0
+7,7. Core Automotive,2019,180821.0
+7,7. Core Automotive,2020,154727.0
+7,7. Core Automotive,2021,174869.0
+7,7. Core Automotive,2022,177138.0
+7,7. Core Automotive,2023,179115.0
+7,7. Core Automotive,2024,173082.0
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2001,107590.17649841309
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2002,104826.72777303061
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2003,102056.92998377481
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2004,100039.40278879802
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2005,99441.06699625652
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2006,98829.07436879477
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2007,97215.68500010173
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2008,95828.59295272827
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2009,87246.23037465413
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2010,89086.81250254312
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2011,92585.61084620158
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2012,95608.29066594443
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2013,98503.90547815959
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2014,102424.88727823892
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2015,104833.71697362264
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2016,105625.18589528403
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2017,107098.9301846822
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2018,110520.07780456543
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2019,111801.66566467285
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2020,103058.23542785645
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2021,105546.62362289429
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2022,110573.0
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2023,114410.0
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2024,115340.0
+9,"9. Dealers, Maintenance, & Repair",2001,75615.0
+9,"9. Dealers, Maintenance, & Repair",2002,76404.0
+9,"9. Dealers, Maintenance, & Repair",2003,74642.0
+9,"9. Dealers, Maintenance, & Repair",2004,74365.0
+9,"9. Dealers, Maintenance, & Repair",2005,71952.0
+9,"9. Dealers, Maintenance, & Repair",2006,68884.0
+9,"9. Dealers, Maintenance, & Repair",2007,66333.0
+9,"9. Dealers, Maintenance, & Repair",2008,63843.0
+9,"9. Dealers, Maintenance, & Repair",2009,58528.0
+9,"9. Dealers, Maintenance, & Repair",2010,57415.0
+9,"9. Dealers, Maintenance, & Repair",2011,58514.0
+9,"9. Dealers, Maintenance, & Repair",2012,60173.0
+9,"9. Dealers, Maintenance, & Repair",2013,61157.0
+9,"9. Dealers, Maintenance, & Repair",2014,64200.0
+9,"9. Dealers, Maintenance, & Repair",2015,66784.0
+9,"9. Dealers, Maintenance, & Repair",2016,68358.0
+9,"9. Dealers, Maintenance, & Repair",2017,68500.0
+9,"9. Dealers, Maintenance, & Repair",2018,68540.0
+9,"9. Dealers, Maintenance, & Repair",2019,68868.0
+9,"9. Dealers, Maintenance, & Repair",2020,62425.0
+9,"9. Dealers, Maintenance, & Repair",2021,66198.0
+9,"9. Dealers, Maintenance, & Repair",2022,67706.0
+9,"9. Dealers, Maintenance, & Repair",2023,69189.0
+9,"9. Dealers, Maintenance, & Repair",2024,69600.0
+10,10. Logistics,2001,7900.27
+10,10. Logistics,2002,7741.18
+10,10. Logistics,2003,7572.57
+10,10. Logistics,2004,7816.67
+10,10. Logistics,2005,8114.78
+10,10. Logistics,2006,8415.98
+10,10. Logistics,2007,8841.98
+10,10. Logistics,2008,8448.83
+10,10. Logistics,2009,7356.179999999999
+10,10. Logistics,2010,7442.15
+10,10. Logistics,2011,7962.0
+10,10. Logistics,2012,8371.47
+10,10. Logistics,2013,8862.95
+10,10. Logistics,2014,9448.8
+10,10. Logistics,2015,9995.06
+10,10. Logistics,2016,10205.27
+10,10. Logistics,2017,10166.380000000001
+10,10. Logistics,2018,10335.869999999999
+10,10. Logistics,2019,10528.810000000001
+10,10. Logistics,2020,9746.28
+10,10. Logistics,2021,10180.03
+10,10. Logistics,2022,10710.830000000002
+10,10. Logistics,2023,10674.650000000001
+10,10. Logistics,2024,10199.18

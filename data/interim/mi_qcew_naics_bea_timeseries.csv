@@ -1,0 +1,913 @@
+naics_code,segment_id,segment_name,stage,year,employment_qcew_raw,bea_share_to_set,employment_adj
+3252,1,Materials & Processing - Non-Metals,Upstream,2001,4283.0,0.012321176,52.771596808
+3252,1,Materials & Processing - Non-Metals,Upstream,2002,3978.0,0.012321176,49.013638128
+3252,1,Materials & Processing - Non-Metals,Upstream,2003,3895.0,0.012321176,47.99098052
+3252,1,Materials & Processing - Non-Metals,Upstream,2004,3832.0,0.012321176,47.214746432
+3252,1,Materials & Processing - Non-Metals,Upstream,2005,6830.0,0.012321176,84.15363208
+3252,1,Materials & Processing - Non-Metals,Upstream,2006,6783.0,0.012321176,83.57453680799999
+3252,1,Materials & Processing - Non-Metals,Upstream,2007,6779.0,0.012321176,83.525252104
+3252,1,Materials & Processing - Non-Metals,Upstream,2008,6769.0,0.012321176,83.402040344
+3252,1,Materials & Processing - Non-Metals,Upstream,2009,6523.0,0.012321176,80.37103104799999
+3252,1,Materials & Processing - Non-Metals,Upstream,2010,6533.0,0.012321176,80.494242808
+3252,1,Materials & Processing - Non-Metals,Upstream,2011,6916.0,0.012321176,85.213253216
+3252,1,Materials & Processing - Non-Metals,Upstream,2012,7097.0,0.012321176,87.443386072
+3252,1,Materials & Processing - Non-Metals,Upstream,2013,6984.0,0.012321176,86.051093184
+3252,1,Materials & Processing - Non-Metals,Upstream,2014,6953.0,0.012321176,85.669136728
+3252,1,Materials & Processing - Non-Metals,Upstream,2015,6829.0,0.012321176,84.141310904
+3252,1,Materials & Processing - Non-Metals,Upstream,2016,6811.0,0.012321176,83.919529736
+3252,1,Materials & Processing - Non-Metals,Upstream,2017,6837.0,0.012321176,84.239880312
+3252,1,Materials & Processing - Non-Metals,Upstream,2018,7265.0,0.012321176,89.51334364
+3252,1,Materials & Processing - Non-Metals,Upstream,2019,7361.0,0.012321176,90.696176536
+3252,1,Materials & Processing - Non-Metals,Upstream,2020,6140.0,0.012321176,75.65202064
+3252,1,Materials & Processing - Non-Metals,Upstream,2021,5947.0,0.012321176,73.274033672
+3252,1,Materials & Processing - Non-Metals,Upstream,2022,5713.0,0.012321176,70.390878488
+3252,1,Materials & Processing - Non-Metals,Upstream,2023,5346.0,0.012321176,65.869006896
+3252,1,Materials & Processing - Non-Metals,Upstream,2024,5524.0,0.012321176,68.062176224
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2001,4166.0,0.012321176,51.330019216
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2002,4122.0,0.012321176,50.787887472
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2003,4023.0,0.012321176,49.568091048
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2004,3984.0,0.012321176,49.087565184
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2005,3423.0,0.012321176,42.175385448
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2006,3299.0,0.012321176,40.647559623999996
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2007,3260.0,0.012321176,40.167033759999995
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2008,3024.0,0.012321176,37.259236224
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2009,2493.0,0.012321176,30.716691768
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2010,2425.0,0.012321176,29.8788518
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2011,2788.0,0.012321176,34.351438688
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2012,3204.0,0.012321176,39.477047903999996
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2013,3434.0,0.012321176,42.310918384
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2014,4088.0,0.012321176,50.368967487999996
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2015,4233.0,0.012321176,52.155538008
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2016,4529.0,0.012321176,55.802606104
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2017,4730.0,0.012321176,58.27916248
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2018,4874.0,0.012321176,60.053411824
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2019,5075.0,0.012321176,62.5299682
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2020,4665.0,0.012321176,57.47828604
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2021,4581.0,0.012321176,56.443307256
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2022,4616.0,0.012321176,56.874548415999996
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2023,4502.0,0.012321176,55.469934351999996
+3255,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2024,4347.0,0.012321176,53.560152072
+3261,1,Materials & Processing - Non-Metals,Upstream,2001,39596.0,0.060836224,2408.8711255040002
+3261,1,Materials & Processing - Non-Metals,Upstream,2002,37337.0,0.060836224,2271.442095488
+3261,1,Materials & Processing - Non-Metals,Upstream,2003,37603.0,0.060836224,2287.624531072
+3261,1,Materials & Processing - Non-Metals,Upstream,2004,37601.0,0.060836224,2287.502858624
+3261,1,Materials & Processing - Non-Metals,Upstream,2005,37192.0,0.060836224,2262.620843008
+3261,1,Materials & Processing - Non-Metals,Upstream,2006,36426.0,0.060836224,2216.020295424
+3261,1,Materials & Processing - Non-Metals,Upstream,2007,34146.0,0.060836224,2077.313704704
+3261,1,Materials & Processing - Non-Metals,Upstream,2008,32035.0,0.060836224,1948.88843584
+3261,1,Materials & Processing - Non-Metals,Upstream,2009,23383.0,0.060836224,1422.5334257920001
+3261,1,Materials & Processing - Non-Metals,Upstream,2010,25893.0,0.060836224,1575.2323480320001
+3261,1,Materials & Processing - Non-Metals,Upstream,2011,27933.0,0.060836224,1699.338244992
+3261,1,Materials & Processing - Non-Metals,Upstream,2012,29702.0,0.060836224,1806.9575252480001
+3261,1,Materials & Processing - Non-Metals,Upstream,2013,30912.0,0.060836224,1880.569356288
+3261,1,Materials & Processing - Non-Metals,Upstream,2014,33179.0,0.060836224,2018.485076096
+3261,1,Materials & Processing - Non-Metals,Upstream,2015,34248.0,0.060836224,2083.518999552
+3261,1,Materials & Processing - Non-Metals,Upstream,2016,35966.0,0.060836224,2188.035632384
+3261,1,Materials & Processing - Non-Metals,Upstream,2017,36296.0,0.060836224,2208.111586304
+3261,1,Materials & Processing - Non-Metals,Upstream,2018,36820.0,0.060836224,2239.98976768
+3261,1,Materials & Processing - Non-Metals,Upstream,2019,36932.0,0.060836224,2246.8034247680002
+3261,1,Materials & Processing - Non-Metals,Upstream,2020,31852.0,0.060836224,1937.7554068480001
+3261,1,Materials & Processing - Non-Metals,Upstream,2021,33451.0,0.060836224,2035.032529024
+3261,1,Materials & Processing - Non-Metals,Upstream,2022,34540.0,0.060836224,2101.28317696
+3261,1,Materials & Processing - Non-Metals,Upstream,2023,34599.0,0.060836224,2104.872514176
+3261,1,Materials & Processing - Non-Metals,Upstream,2024,34371.0,0.060836224,2091.0018551040002
+3262,1,Materials & Processing - Non-Metals,Upstream,2001,6288.0,0.060836224,382.538176512
+3262,1,Materials & Processing - Non-Metals,Upstream,2002,5751.0,0.060836224,349.869124224
+3262,1,Materials & Processing - Non-Metals,Upstream,2003,5552.0,0.060836224,337.762715648
+3262,1,Materials & Processing - Non-Metals,Upstream,2004,5594.0,0.060836224,340.31783705600003
+3262,1,Materials & Processing - Non-Metals,Upstream,2005,5446.0,0.060836224,331.314075904
+3262,1,Materials & Processing - Non-Metals,Upstream,2006,5353.0,0.060836224,325.656307072
+3262,1,Materials & Processing - Non-Metals,Upstream,2007,4864.0,0.060836224,295.90739353600003
+3262,1,Materials & Processing - Non-Metals,Upstream,2008,4552.0,0.060836224,276.926491648
+3262,1,Materials & Processing - Non-Metals,Upstream,2009,3601.0,0.060836224,219.071242624
+3262,1,Materials & Processing - Non-Metals,Upstream,2010,4054.0,0.060836224,246.63005209600001
+3262,1,Materials & Processing - Non-Metals,Upstream,2011,4131.0,0.060836224,251.31444134400002
+3262,1,Materials & Processing - Non-Metals,Upstream,2012,4533.0,0.060836224,275.770603392
+3262,1,Materials & Processing - Non-Metals,Upstream,2013,5260.0,0.060836224,319.99853824
+3262,1,Materials & Processing - Non-Metals,Upstream,2014,5416.0,0.060836224,329.488989184
+3262,1,Materials & Processing - Non-Metals,Upstream,2015,5464.0,0.060836224,332.409127936
+3262,1,Materials & Processing - Non-Metals,Upstream,2016,5602.0,0.060836224,340.804526848
+3262,1,Materials & Processing - Non-Metals,Upstream,2017,5926.0,0.060836224,360.515463424
+3262,1,Materials & Processing - Non-Metals,Upstream,2018,6003.0,0.060836224,365.199852672
+3262,1,Materials & Processing - Non-Metals,Upstream,2019,5560.0,0.060836224,338.24940544000003
+3262,1,Materials & Processing - Non-Metals,Upstream,2020,4805.0,0.060836224,292.31805632
+3262,1,Materials & Processing - Non-Metals,Upstream,2021,5111.0,0.060836224,310.933940864
+3262,1,Materials & Processing - Non-Metals,Upstream,2022,5066.0,0.060836224,308.196310784
+3262,1,Materials & Processing - Non-Metals,Upstream,2023,5350.0,0.060836224,325.4737984
+3262,1,Materials & Processing - Non-Metals,Upstream,2024,5147.0,0.060836224,313.124044928
+3272,1,Materials & Processing - Non-Metals,Upstream,2001,8879.0,0.035458353,314.834716287
+3272,1,Materials & Processing - Non-Metals,Upstream,2002,8436.0,0.035458353,299.126665908
+3272,1,Materials & Processing - Non-Metals,Upstream,2003,8200.0,0.035458353,290.7584946
+3272,1,Materials & Processing - Non-Metals,Upstream,2004,7302.0,0.035458353,258.916893606
+3272,1,Materials & Processing - Non-Metals,Upstream,2005,7177.0,0.035458353,254.48459948099998
+3272,1,Materials & Processing - Non-Metals,Upstream,2006,6099.0,0.035458353,216.26049494699998
+3272,1,Materials & Processing - Non-Metals,Upstream,2007,5640.0,0.035458353,199.98511091999998
+3272,1,Materials & Processing - Non-Metals,Upstream,2008,5326.0,0.035458353,188.85118807799998
+3272,1,Materials & Processing - Non-Metals,Upstream,2009,4334.0,0.035458353,153.67650190199998
+3272,1,Materials & Processing - Non-Metals,Upstream,2010,4258.0,0.035458353,150.981667074
+3272,1,Materials & Processing - Non-Metals,Upstream,2011,4210.0,0.035458353,149.27966612999998
+3272,1,Materials & Processing - Non-Metals,Upstream,2012,3022.0,0.035458353,107.155142766
+3272,1,Materials & Processing - Non-Metals,Upstream,2013,2881.0,0.035458353,102.155514993
+3272,1,Materials & Processing - Non-Metals,Upstream,2014,3055.0,0.035458353,108.325268415
+3272,1,Materials & Processing - Non-Metals,Upstream,2015,3310.0,0.035458353,117.36714843
+3272,1,Materials & Processing - Non-Metals,Upstream,2016,3049.0,0.035458353,108.112518297
+3272,1,Materials & Processing - Non-Metals,Upstream,2017,2970.0,0.035458353,105.31130841
+3272,1,Materials & Processing - Non-Metals,Upstream,2018,3185.0,0.035458353,112.93485430499999
+3272,1,Materials & Processing - Non-Metals,Upstream,2019,3279.0,0.035458353,116.26793948699999
+3272,1,Materials & Processing - Non-Metals,Upstream,2020,2788.0,0.035458353,98.85788816399999
+3272,1,Materials & Processing - Non-Metals,Upstream,2021,2848.0,0.035458353,100.985389344
+3272,1,Materials & Processing - Non-Metals,Upstream,2022,2815.0,0.035458353,99.815263695
+3272,1,Materials & Processing - Non-Metals,Upstream,2023,2803.0,0.035458353,99.389763459
+3272,1,Materials & Processing - Non-Metals,Upstream,2024,2802.0,0.035458353,99.354305106
+3311,1,Materials & Processing - Metals,Upstream,2001,7341.0,0.145481535,1067.9799484349999
+3311,1,Materials & Processing - Metals,Upstream,2002,7068.0,0.145481535,1028.26348938
+3311,1,Materials & Processing - Metals,Upstream,2003,6615.0,0.145481535,962.360354025
+3311,1,Materials & Processing - Metals,Upstream,2004,5963.0,0.145481535,867.506393205
+3311,1,Materials & Processing - Metals,Upstream,2005,5776.0,0.145481535,840.30134616
+3311,1,Materials & Processing - Metals,Upstream,2006,5754.0,0.145481535,837.10075239
+3311,1,Materials & Processing - Metals,Upstream,2007,5937.0,0.145481535,863.723873295
+3311,1,Materials & Processing - Metals,Upstream,2008,5965.0,0.145481535,867.797356275
+3311,1,Materials & Processing - Metals,Upstream,2009,4547.0,0.145481535,661.504539645
+3311,1,Materials & Processing - Metals,Upstream,2010,5155.0,0.145481535,749.957312925
+3311,1,Materials & Processing - Metals,Upstream,2011,6303.0,0.145481535,916.970115105
+3311,1,Materials & Processing - Metals,Upstream,2012,6107.0,0.145481535,888.4557342449999
+3311,1,Materials & Processing - Metals,Upstream,2013,5981.0,0.145481535,870.125060835
+3311,1,Materials & Processing - Metals,Upstream,2014,6002.0,0.145481535,873.18017307
+3311,1,Materials & Processing - Metals,Upstream,2015,5523.0,0.145481535,803.494517805
+3311,1,Materials & Processing - Metals,Upstream,2016,5258.0,0.145481535,764.94191103
+3311,1,Materials & Processing - Metals,Upstream,2017,5169.0,0.145481535,751.9940544149999
+3311,1,Materials & Processing - Metals,Upstream,2018,5228.0,0.145481535,760.57746498
+3311,1,Materials & Processing - Metals,Upstream,2019,5155.0,0.145481535,749.957312925
+3311,1,Materials & Processing - Metals,Upstream,2020,3763.0,0.145481535,547.447016205
+3311,1,Materials & Processing - Metals,Upstream,2021,3358.0,0.145481535,488.52699452999997
+3311,1,Materials & Processing - Metals,Upstream,2022,3270.0,0.145481535,475.72461945
+3311,1,Materials & Processing - Metals,Upstream,2023,3369.0,0.145481535,490.127291415
+3311,1,Materials & Processing - Metals,Upstream,2024,3258.0,0.145481535,473.97884103
+3312,1,Materials & Processing - Metals,Upstream,2001,3124.0,0.145481535,454.48431533999997
+3312,1,Materials & Processing - Metals,Upstream,2002,2591.0,0.145481535,376.942657185
+3312,1,Materials & Processing - Metals,Upstream,2003,2399.0,0.145481535,349.01020246499996
+3312,1,Materials & Processing - Metals,Upstream,2004,2547.0,0.145481535,370.541469645
+3312,1,Materials & Processing - Metals,Upstream,2005,2632.0,0.145481535,382.90740012
+3312,1,Materials & Processing - Metals,Upstream,2006,2454.0,0.145481535,357.01168688999996
+3312,1,Materials & Processing - Metals,Upstream,2007,2379.0,0.145481535,346.100571765
+3312,1,Materials & Processing - Metals,Upstream,2008,1953.0,0.145481535,284.125437855
+3312,1,Materials & Processing - Metals,Upstream,2009,1366.0,0.145481535,198.72777681
+3312,1,Materials & Processing - Metals,Upstream,2010,1450.0,0.145481535,210.94822575
+3312,1,Materials & Processing - Metals,Upstream,2011,1561.0,0.145481535,227.096676135
+3312,1,Materials & Processing - Metals,Upstream,2012,1604.0,0.145481535,233.35238214
+3312,1,Materials & Processing - Metals,Upstream,2013,1617.0,0.145481535,235.24364209499998
+3312,1,Materials & Processing - Metals,Upstream,2014,1671.0,0.145481535,243.099644985
+3312,1,Materials & Processing - Metals,Upstream,2015,1747.0,0.145481535,254.156241645
+3312,1,Materials & Processing - Metals,Upstream,2016,1751.0,0.145481535,254.738167785
+3312,1,Materials & Processing - Metals,Upstream,2017,1789.0,0.145481535,260.266466115
+3312,1,Materials & Processing - Metals,Upstream,2018,1790.0,0.145481535,260.41194765
+3312,1,Materials & Processing - Metals,Upstream,2019,1745.0,0.145481535,253.865278575
+3312,1,Materials & Processing - Metals,Upstream,2020,1711.0,0.145481535,248.91890638499999
+3312,1,Materials & Processing - Metals,Upstream,2021,1747.0,0.145481535,254.156241645
+3312,1,Materials & Processing - Metals,Upstream,2022,1824.0,0.145481535,265.35831984
+3312,1,Materials & Processing - Metals,Upstream,2023,1965.0,0.145481535,285.871216275
+3312,1,Materials & Processing - Metals,Upstream,2024,1974.0,0.145481535,287.18055009
+3313,1,Materials & Processing - Metals,Upstream,2001,2167.0,0.145481535,315.258486345
+3313,1,Materials & Processing - Metals,Upstream,2002,1742.0,0.145481535,253.42883397
+3313,1,Materials & Processing - Metals,Upstream,2003,1861.0,0.145481535,270.741136635
+3313,1,Materials & Processing - Metals,Upstream,2004,1893.0,0.145481535,275.396545755
+3313,1,Materials & Processing - Metals,Upstream,2005,1658.0,0.145481535,241.20838503
+3313,1,Materials & Processing - Metals,Upstream,2006,1713.0,0.145481535,249.209869455
+3313,1,Materials & Processing - Metals,Upstream,2007,1731.0,0.145481535,251.828537085
+3313,1,Materials & Processing - Metals,Upstream,2008,1727.0,0.145481535,251.246610945
+3313,1,Materials & Processing - Metals,Upstream,2009,1624.0,0.145481535,236.26201283999998
+3313,1,Materials & Processing - Metals,Upstream,2010,1652.0,0.145481535,240.33549582
+3313,1,Materials & Processing - Metals,Upstream,2011,1817.0,0.145481535,264.339949095
+3313,1,Materials & Processing - Metals,Upstream,2012,1807.0,0.145481535,262.885133745
+3313,1,Materials & Processing - Metals,Upstream,2013,2343.0,0.145481535,340.863236505
+3313,1,Materials & Processing - Metals,Upstream,2014,2498.0,0.145481535,363.41287443
+3313,1,Materials & Processing - Metals,Upstream,2015,3148.0,0.145481535,457.97587218
+3313,1,Materials & Processing - Metals,Upstream,2016,3229.0,0.145481535,469.759876515
+3313,1,Materials & Processing - Metals,Upstream,2017,3434.0,0.145481535,499.58359119
+3313,1,Materials & Processing - Metals,Upstream,2018,3436.0,0.145481535,499.87455425999997
+3313,1,Materials & Processing - Metals,Upstream,2019,3361.0,0.145481535,488.963439135
+3313,1,Materials & Processing - Metals,Upstream,2020,2706.0,0.145481535,393.67303370999997
+3313,1,Materials & Processing - Metals,Upstream,2021,2811.0,0.145481535,408.948594885
+3313,1,Materials & Processing - Metals,Upstream,2022,2851.0,0.145481535,414.767856285
+3313,1,Materials & Processing - Metals,Upstream,2023,2719.0,0.145481535,395.564293665
+3313,1,Materials & Processing - Metals,Upstream,2024,2698.0,0.145481535,392.50918143
+3314,1,Materials & Processing - Metals,Upstream,2001,2746.0,0.145481535,399.49229511
+3314,1,Materials & Processing - Metals,Upstream,2002,2347.0,0.145481535,341.445162645
+3314,1,Materials & Processing - Metals,Upstream,2003,2260.0,0.145481535,328.7882691
+3314,1,Materials & Processing - Metals,Upstream,2004,2335.0,0.145481535,339.699384225
+3314,1,Materials & Processing - Metals,Upstream,2005,2336.0,0.145481535,339.84486576
+3314,1,Materials & Processing - Metals,Upstream,2006,2184.0,0.145481535,317.73167244
+3314,1,Materials & Processing - Metals,Upstream,2007,2105.0,0.145481535,306.23863117499997
+3314,1,Materials & Processing - Metals,Upstream,2008,1920.0,0.145481535,279.3245472
+3314,1,Materials & Processing - Metals,Upstream,2009,1357.0,0.145481535,197.418442995
+3314,1,Materials & Processing - Metals,Upstream,2010,1387.0,0.145481535,201.782889045
+3314,1,Materials & Processing - Metals,Upstream,2011,1412.0,0.145481535,205.41992742
+3314,1,Materials & Processing - Metals,Upstream,2012,1366.0,0.145481535,198.72777681
+3314,1,Materials & Processing - Metals,Upstream,2013,1393.0,0.145481535,202.655778255
+3314,1,Materials & Processing - Metals,Upstream,2014,1406.0,0.145481535,204.54703820999998
+3314,1,Materials & Processing - Metals,Upstream,2015,1398.0,0.145481535,203.38318593
+3314,1,Materials & Processing - Metals,Upstream,2016,1353.0,0.145481535,196.83651685499999
+3314,1,Materials & Processing - Metals,Upstream,2017,1376.0,0.145481535,200.18259215999998
+3314,1,Materials & Processing - Metals,Upstream,2018,1414.0,0.145481535,205.71089049
+3314,1,Materials & Processing - Metals,Upstream,2019,1425.0,0.145481535,207.311187375
+3314,1,Materials & Processing - Metals,Upstream,2020,1246.0,0.145481535,181.26999261
+3314,1,Materials & Processing - Metals,Upstream,2021,1183.0,0.145481535,172.104655905
+3314,1,Materials & Processing - Metals,Upstream,2022,1203.0,0.145481535,175.014286605
+3314,1,Materials & Processing - Metals,Upstream,2023,1218.0,0.145481535,177.19650962999998
+3314,1,Materials & Processing - Metals,Upstream,2024,1262.0,0.145481535,183.59769717
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2001,17977.0,0.053466266,961.163063882
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2002,16786.0,0.053466266,897.484741076
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2003,16067.0,0.053466266,859.042495822
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2004,16021.0,0.053466266,856.583047586
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2005,16076.0,0.053466266,859.523692216
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2006,15555.0,0.053466266,831.66776763
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2007,15298.0,0.053466266,817.926937268
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2008,14322.0,0.053466266,765.743861652
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2009,10392.0,0.053466266,555.621436272
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2010,11330.0,0.053466266,605.77279378
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2011,12775.0,0.053466266,683.0315481499999
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2012,13777.0,0.053466266,736.6047466819999
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2013,13936.0,0.053466266,745.105882976
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2014,14419.0,0.053466266,770.9300894539999
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2015,14082.0,0.053466266,752.911957812
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2016,13687.0,0.053466266,731.792782742
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2017,13699.0,0.053466266,732.4343779339999
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2018,13709.0,0.053466266,732.969040594
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2019,13698.0,0.053466266,732.380911668
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2020,11274.0,0.053466266,602.778682884
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2021,11480.0,0.053466266,613.79273368
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2022,11391.0,0.053466266,609.034236006
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2023,11698.0,0.053466266,625.448379668
+3328,1,Materials & Processing - Coatings & Surface Treatments,Upstream,2024,11221.0,0.053466266,599.944970786
+3335,2,Equipment Manufacturing,Upstream,2001,49161.0,0.039300112,1932.0328060319998
+3335,2,Equipment Manufacturing,Upstream,2002,43233.0,0.039300112,1699.061742096
+3335,2,Equipment Manufacturing,Upstream,2003,41612.0,0.039300112,1635.356260544
+3335,2,Equipment Manufacturing,Upstream,2004,40652.0,0.039300112,1597.6281530239999
+3335,2,Equipment Manufacturing,Upstream,2005,39706.0,0.039300112,1560.450247072
+3335,2,Equipment Manufacturing,Upstream,2006,38592.0,0.039300112,1516.669922304
+3335,2,Equipment Manufacturing,Upstream,2007,36126.0,0.039300112,1419.755846112
+3335,2,Equipment Manufacturing,Upstream,2008,34551.0,0.039300112,1357.8581697119998
+3335,2,Equipment Manufacturing,Upstream,2009,27570.0,0.039300112,1083.50408784
+3335,2,Equipment Manufacturing,Upstream,2010,28820.0,0.039300112,1132.6292278399999
+3335,2,Equipment Manufacturing,Upstream,2011,32010.0,0.039300112,1257.99658512
+3335,2,Equipment Manufacturing,Upstream,2012,35272.0,0.039300112,1386.1935504639998
+3335,2,Equipment Manufacturing,Upstream,2013,35902.0,0.039300112,1410.9526210239999
+3335,2,Equipment Manufacturing,Upstream,2014,36405.0,0.039300112,1430.7205773599999
+3335,2,Equipment Manufacturing,Upstream,2015,37169.0,0.039300112,1460.745862928
+3335,2,Equipment Manufacturing,Upstream,2016,37389.0,0.039300112,1469.391887568
+3335,2,Equipment Manufacturing,Upstream,2017,38120.0,0.039300112,1498.12026944
+3335,2,Equipment Manufacturing,Upstream,2018,38331.0,0.039300112,1506.412593072
+3335,2,Equipment Manufacturing,Upstream,2019,36498.0,0.039300112,1434.375487776
+3335,2,Equipment Manufacturing,Upstream,2020,31959.0,0.039300112,1255.9922794079998
+3335,2,Equipment Manufacturing,Upstream,2021,31751.0,0.039300112,1247.8178561119998
+3335,2,Equipment Manufacturing,Upstream,2022,31037.0,0.039300112,1219.757576144
+3335,2,Equipment Manufacturing,Upstream,2023,30603.0,0.039300112,1202.701327536
+3335,2,Equipment Manufacturing,Upstream,2024,29604.0,0.039300112,1163.440515648
+3339,2,Equipment Manufacturing,Upstream,2001,20727.0,0.039300112,814.573421424
+3339,2,Equipment Manufacturing,Upstream,2002,18002.0,0.039300112,707.480616224
+3339,2,Equipment Manufacturing,Upstream,2003,16773.0,0.039300112,659.180778576
+3339,2,Equipment Manufacturing,Upstream,2004,16306.0,0.039300112,640.827626272
+3339,2,Equipment Manufacturing,Upstream,2005,16023.0,0.039300112,629.7056945759999
+3339,2,Equipment Manufacturing,Upstream,2006,15746.0,0.039300112,618.819563552
+3339,2,Equipment Manufacturing,Upstream,2007,15059.0,0.039300112,591.8203866079999
+3339,2,Equipment Manufacturing,Upstream,2008,14558.0,0.039300112,572.131030496
+3339,2,Equipment Manufacturing,Upstream,2009,11925.0,0.039300112,468.6538356
+3339,2,Equipment Manufacturing,Upstream,2010,11306.0,0.039300112,444.32706627199997
+3339,2,Equipment Manufacturing,Upstream,2011,12406.0,0.039300112,487.557189472
+3339,2,Equipment Manufacturing,Upstream,2012,13481.0,0.039300112,529.804809872
+3339,2,Equipment Manufacturing,Upstream,2013,14445.0,0.039300112,567.69011784
+3339,2,Equipment Manufacturing,Upstream,2014,15215.0,0.039300112,597.95120408
+3339,2,Equipment Manufacturing,Upstream,2015,15801.0,0.039300112,620.981069712
+3339,2,Equipment Manufacturing,Upstream,2016,16007.0,0.039300112,629.0768927839999
+3339,2,Equipment Manufacturing,Upstream,2017,16399.0,0.039300112,644.482536688
+3339,2,Equipment Manufacturing,Upstream,2018,17093.0,0.039300112,671.756814416
+3339,2,Equipment Manufacturing,Upstream,2019,17004.0,0.039300112,668.259104448
+3339,2,Equipment Manufacturing,Upstream,2020,16308.0,0.039300112,640.9062264959999
+3339,2,Equipment Manufacturing,Upstream,2021,16669.0,0.039300112,655.093566928
+3339,2,Equipment Manufacturing,Upstream,2022,17802.0,0.039300112,699.6205938239999
+3339,2,Equipment Manufacturing,Upstream,2023,18273.0,0.039300112,718.1309465759999
+3339,2,Equipment Manufacturing,Upstream,2024,17946.0,0.039300112,705.2798099519999
+3315,3,Forging & Foundries,Upstream,2001,16071.0,0.145481535,2338.033748985
+3315,3,Forging & Foundries,Upstream,2002,14575.0,0.145481535,2120.3933726249998
+3315,3,Forging & Foundries,Upstream,2003,13733.0,0.145481535,1997.8979201549998
+3315,3,Forging & Foundries,Upstream,2004,14910.0,0.145481535,2169.12968685
+3315,3,Forging & Foundries,Upstream,2005,14620.0,0.145481535,2126.9400416999997
+3315,3,Forging & Foundries,Upstream,2006,13857.0,0.145481535,2015.937630495
+3315,3,Forging & Foundries,Upstream,2007,12652.0,0.145481535,1840.63238082
+3315,3,Forging & Foundries,Upstream,2008,11614.0,0.145481535,1689.62254749
+3315,3,Forging & Foundries,Upstream,2009,8174.0,0.145481535,1189.16606709
+3315,3,Forging & Foundries,Upstream,2010,8648.0,0.145481535,1258.12431468
+3315,3,Forging & Foundries,Upstream,2011,9823.0,0.145481535,1429.065118305
+3315,3,Forging & Foundries,Upstream,2012,10489.0,0.145481535,1525.955820615
+3315,3,Forging & Foundries,Upstream,2013,10106.0,0.145481535,1470.23639271
+3315,3,Forging & Foundries,Upstream,2014,10415.0,0.145481535,1515.190187025
+3315,3,Forging & Foundries,Upstream,2015,10312.0,0.145481535,1500.2055889199999
+3315,3,Forging & Foundries,Upstream,2016,10321.0,0.145481535,1501.514922735
+3315,3,Forging & Foundries,Upstream,2017,10442.0,0.145481535,1519.11818847
+3315,3,Forging & Foundries,Upstream,2018,10846.0,0.145481535,1577.89272861
+3315,3,Forging & Foundries,Upstream,2019,10665.0,0.145481535,1551.5605707749999
+3315,3,Forging & Foundries,Upstream,2020,8861.0,0.145481535,1289.111881635
+3315,3,Forging & Foundries,Upstream,2021,8973.0,0.145481535,1305.405813555
+3315,3,Forging & Foundries,Upstream,2022,9464.0,0.145481535,1376.83724724
+3315,3,Forging & Foundries,Upstream,2023,9659.0,0.145481535,1405.206146565
+3315,3,Forging & Foundries,Upstream,2024,9349.0,0.145481535,1360.106870715
+3321,3,Forging & Foundries,Upstream,2001,6498.0,0.053466266,347.423796468
+3321,3,Forging & Foundries,Upstream,2002,6278.0,0.053466266,335.661217948
+3321,3,Forging & Foundries,Upstream,2003,6387.0,0.053466266,341.489040942
+3321,3,Forging & Foundries,Upstream,2004,6926.0,0.053466266,370.307358316
+3321,3,Forging & Foundries,Upstream,2005,6839.0,0.053466266,365.655793174
+3321,3,Forging & Foundries,Upstream,2006,7025.0,0.053466266,375.60051864999997
+3321,3,Forging & Foundries,Upstream,2007,7112.0,0.053466266,380.252083792
+3321,3,Forging & Foundries,Upstream,2008,6320.0,0.053466266,337.90680112
+3321,3,Forging & Foundries,Upstream,2009,4978.0,0.053466266,266.155072148
+3321,3,Forging & Foundries,Upstream,2010,5757.0,0.053466266,307.805293362
+3321,3,Forging & Foundries,Upstream,2011,6954.0,0.053466266,371.804413764
+3321,3,Forging & Foundries,Upstream,2012,7241.0,0.053466266,387.149232106
+3321,3,Forging & Foundries,Upstream,2013,7363.0,0.053466266,393.67211655799997
+3321,3,Forging & Foundries,Upstream,2014,7436.0,0.053466266,397.57515397599997
+3321,3,Forging & Foundries,Upstream,2015,7735.0,0.053466266,413.56156751
+3321,3,Forging & Foundries,Upstream,2016,7873.0,0.053466266,420.93991221799996
+3321,3,Forging & Foundries,Upstream,2017,8110.0,0.053466266,433.61141726
+3321,3,Forging & Foundries,Upstream,2018,8431.0,0.053466266,450.774088646
+3321,3,Forging & Foundries,Upstream,2019,8606.0,0.053466266,460.130685196
+3321,3,Forging & Foundries,Upstream,2020,7022.0,0.053466266,375.440119852
+3321,3,Forging & Foundries,Upstream,2021,7226.0,0.053466266,386.34723811599997
+3321,3,Forging & Foundries,Upstream,2022,7282.0,0.053466266,389.34134901199997
+3321,3,Forging & Foundries,Upstream,2023,7396.0,0.053466266,395.436503336
+3321,3,Forging & Foundries,Upstream,2024,6988.0,0.053466266,373.622266808
+3326,4,Parts & Machining,Upstream,2001,4191.0,0.053466266,224.07712080599998
+3326,4,Parts & Machining,Upstream,2002,3598.0,0.053466266,192.371625068
+3326,4,Parts & Machining,Upstream,2003,3333.0,0.053466266,178.20306457799998
+3326,4,Parts & Machining,Upstream,2004,3091.0,0.053466266,165.26422820599998
+3326,4,Parts & Machining,Upstream,2005,3217.0,0.053466266,172.000977722
+3326,4,Parts & Machining,Upstream,2006,3114.0,0.053466266,166.493952324
+3326,4,Parts & Machining,Upstream,2007,2953.0,0.053466266,157.885883498
+3326,4,Parts & Machining,Upstream,2008,2709.0,0.053466266,144.840114594
+3326,4,Parts & Machining,Upstream,2009,2144.0,0.053466266,114.631674304
+3326,4,Parts & Machining,Upstream,2010,2206.0,0.053466266,117.946582796
+3326,4,Parts & Machining,Upstream,2011,2344.0,0.053466266,125.324927504
+3326,4,Parts & Machining,Upstream,2012,2712.0,0.053466266,145.000513392
+3326,4,Parts & Machining,Upstream,2013,2852.0,0.053466266,152.485790632
+3326,4,Parts & Machining,Upstream,2014,3065.0,0.053466266,163.87410529
+3326,4,Parts & Machining,Upstream,2015,3198.0,0.053466266,170.98511866799998
+3326,4,Parts & Machining,Upstream,2016,3327.0,0.053466266,177.882266982
+3326,4,Parts & Machining,Upstream,2017,3425.0,0.053466266,183.12196104999998
+3326,4,Parts & Machining,Upstream,2018,3444.0,0.053466266,184.13782010399999
+3326,4,Parts & Machining,Upstream,2019,3431.0,0.053466266,183.442758646
+3326,4,Parts & Machining,Upstream,2020,2963.0,0.053466266,158.420546158
+3326,4,Parts & Machining,Upstream,2021,3376.0,0.053466266,180.502114016
+3326,4,Parts & Machining,Upstream,2022,3047.0,0.053466266,162.911712502
+3326,4,Parts & Machining,Upstream,2023,3073.0,0.053466266,164.301835418
+3326,4,Parts & Machining,Upstream,2024,2869.0,0.053466266,153.394717154
+3327,4,Parts & Machining,Upstream,2001,26164.0,0.053466266,1398.891383624
+3327,4,Parts & Machining,Upstream,2002,26087.0,0.053466266,1394.774481142
+3327,4,Parts & Machining,Upstream,2003,26700.0,0.053466266,1427.5493022
+3327,4,Parts & Machining,Upstream,2004,27123.0,0.053466266,1450.165532718
+3327,4,Parts & Machining,Upstream,2005,28816.0,0.053466266,1540.683921056
+3327,4,Parts & Machining,Upstream,2006,28487.0,0.053466266,1523.093519542
+3327,4,Parts & Machining,Upstream,2007,27591.0,0.053466266,1475.187745206
+3327,4,Parts & Machining,Upstream,2008,26725.0,0.053466266,1428.88595885
+3327,4,Parts & Machining,Upstream,2009,20427.0,0.053466266,1092.155415582
+3327,4,Parts & Machining,Upstream,2010,22459.0,0.053466266,1200.798868094
+3327,4,Parts & Machining,Upstream,2011,25851.0,0.053466266,1382.156442366
+3327,4,Parts & Machining,Upstream,2012,27761.0,0.053466266,1484.277010426
+3327,4,Parts & Machining,Upstream,2013,28616.0,0.053466266,1529.9906678559998
+3327,4,Parts & Machining,Upstream,2014,29807.0,0.053466266,1593.668990662
+3327,4,Parts & Machining,Upstream,2015,30775.0,0.053466266,1645.42433615
+3327,4,Parts & Machining,Upstream,2016,29903.0,0.053466266,1598.801752198
+3327,4,Parts & Machining,Upstream,2017,28752.0,0.053466266,1537.2620800319999
+3327,4,Parts & Machining,Upstream,2018,28818.0,0.053466266,1540.790853588
+3327,4,Parts & Machining,Upstream,2019,27275.0,0.053466266,1458.29240515
+3327,4,Parts & Machining,Upstream,2020,22818.0,0.053466266,1219.993257588
+3327,4,Parts & Machining,Upstream,2021,23522.0,0.053466266,1257.633508852
+3327,4,Parts & Machining,Upstream,2022,24314.0,0.053466266,1299.978791524
+3327,4,Parts & Machining,Upstream,2023,24940.0,0.053466266,1333.44867404
+3327,4,Parts & Machining,Upstream,2024,24530.0,0.053466266,1311.52750498
+3329,4,Parts & Machining,Upstream,2001,15390.0,0.053466266,822.84583374
+3329,4,Parts & Machining,Upstream,2002,14215.0,0.053466266,760.02297119
+3329,4,Parts & Machining,Upstream,2003,12921.0,0.053466266,690.8376229859999
+3329,4,Parts & Machining,Upstream,2004,12901.0,0.053466266,689.768297666
+3329,4,Parts & Machining,Upstream,2005,12322.0,0.053466266,658.8113296519999
+3329,4,Parts & Machining,Upstream,2006,11531.0,0.053466266,616.519513246
+3329,4,Parts & Machining,Upstream,2007,10537.0,0.053466266,563.374044842
+3329,4,Parts & Machining,Upstream,2008,9984.0,0.053466266,533.807199744
+3329,4,Parts & Machining,Upstream,2009,8191.0,0.053466266,437.942184806
+3329,4,Parts & Machining,Upstream,2010,8725.0,0.053466266,466.49317085
+3329,4,Parts & Machining,Upstream,2011,8976.0,0.053466266,479.913203616
+3329,4,Parts & Machining,Upstream,2012,9424.0,0.053466266,503.866090784
+3329,4,Parts & Machining,Upstream,2013,9222.0,0.053466266,493.065905052
+3329,4,Parts & Machining,Upstream,2014,9592.0,0.053466266,512.848423472
+3329,4,Parts & Machining,Upstream,2015,9936.0,0.053466266,531.240818976
+3329,4,Parts & Machining,Upstream,2016,9927.0,0.053466266,530.759622582
+3329,4,Parts & Machining,Upstream,2017,10259.0,0.053466266,548.5104228939999
+3329,4,Parts & Machining,Upstream,2018,11286.0,0.053466266,603.4202780759999
+3329,4,Parts & Machining,Upstream,2019,11452.0,0.053466266,612.295678232
+3329,4,Parts & Machining,Upstream,2020,10135.0,0.053466266,541.88060591
+3329,4,Parts & Machining,Upstream,2021,10152.0,0.053466266,542.789532432
+3329,4,Parts & Machining,Upstream,2022,10472.0,0.053466266,559.898737552
+3329,4,Parts & Machining,Upstream,2023,10880.0,0.053466266,581.71297408
+3329,4,Parts & Machining,Upstream,2024,10865.0,0.053466266,580.91098009
+3344,4,Parts & Machining,Upstream,2001,8133.0,0.017526805,142.545505065
+3344,4,Parts & Machining,Upstream,2002,6974.0,0.017526805,122.23193807
+3344,4,Parts & Machining,Upstream,2003,6224.0,0.017526805,109.08683432
+3344,4,Parts & Machining,Upstream,2004,6133.0,0.017526805,107.491895065
+3344,4,Parts & Machining,Upstream,2005,6369.0,0.017526805,111.628221045
+3344,4,Parts & Machining,Upstream,2006,6932.0,0.017526805,121.49581226
+3344,4,Parts & Machining,Upstream,2007,7144.0,0.017526805,125.21149491999999
+3344,4,Parts & Machining,Upstream,2008,7547.0,0.017526805,132.274797335
+3344,4,Parts & Machining,Upstream,2009,6470.0,0.017526805,113.39842835
+3344,4,Parts & Machining,Upstream,2010,6730.0,0.017526805,117.95539765
+3344,4,Parts & Machining,Upstream,2011,7558.0,0.017526805,132.46759219
+3344,4,Parts & Machining,Upstream,2012,7707.0,0.017526805,135.07908613499998
+3344,4,Parts & Machining,Upstream,2013,7401.0,0.017526805,129.715883805
+3344,4,Parts & Machining,Upstream,2014,7843.0,0.017526805,137.462731615
+3344,4,Parts & Machining,Upstream,2015,8694.0,0.017526805,152.37804266999999
+3344,4,Parts & Machining,Upstream,2016,9301.0,0.017526805,163.016813305
+3344,4,Parts & Machining,Upstream,2017,9821.0,0.017526805,172.13075190499998
+3344,4,Parts & Machining,Upstream,2018,10170.0,0.017526805,178.24760684999998
+3344,4,Parts & Machining,Upstream,2019,10433.0,0.017526805,182.857156565
+3344,4,Parts & Machining,Upstream,2020,9814.0,0.017526805,172.00806427
+3344,4,Parts & Machining,Upstream,2021,10296.0,0.017526805,180.45598428
+3344,4,Parts & Machining,Upstream,2022,10772.0,0.017526805,188.79874346
+3344,4,Parts & Machining,Upstream,2023,11925.0,0.017526805,209.00714962499998
+3344,4,Parts & Machining,Upstream,2024,12179.0,0.017526805,213.45895809499999
+3336,5,Component Systems,Upstream,2001,4912.0,0.179901049,883.673952688
+3336,5,Component Systems,Upstream,2002,4690.0,0.179901049,843.73591981
+3336,5,Component Systems,Upstream,2003,4377.0,0.179901049,787.4268914730001
+3336,5,Component Systems,Upstream,2004,4612.0,0.179901049,829.7036379880001
+3336,5,Component Systems,Upstream,2005,4598.0,0.179901049,827.185023302
+3336,5,Component Systems,Upstream,2006,4389.0,0.179901049,789.585704061
+3336,5,Component Systems,Upstream,2007,4174.0,0.179901049,750.906978526
+3336,5,Component Systems,Upstream,2008,4473.0,0.179901049,804.697392177
+3336,5,Component Systems,Upstream,2009,3882.0,0.179901049,698.375872218
+3336,5,Component Systems,Upstream,2010,3736.0,0.179901049,672.110319064
+3336,5,Component Systems,Upstream,2011,4083.0,0.179901049,734.5359830670001
+3336,5,Component Systems,Upstream,2012,4210.0,0.179901049,757.38341629
+3336,5,Component Systems,Upstream,2013,4086.0,0.179901049,735.075686214
+3336,5,Component Systems,Upstream,2014,4252.0,0.179901049,764.9392603480001
+3336,5,Component Systems,Upstream,2015,4504.0,0.179901049,810.274324696
+3336,5,Component Systems,Upstream,2016,4349.0,0.179901049,782.389662101
+3336,5,Component Systems,Upstream,2017,4325.0,0.179901049,778.072036925
+3336,5,Component Systems,Upstream,2018,4502.0,0.179901049,809.9145225980001
+3336,5,Component Systems,Upstream,2019,4743.0,0.179901049,853.270675407
+3336,5,Component Systems,Upstream,2020,4302.0,0.179901049,773.9343127980001
+3336,5,Component Systems,Upstream,2021,4605.0,0.179901049,828.444330645
+3336,5,Component Systems,Upstream,2022,4750.0,0.179901049,854.52998275
+3336,5,Component Systems,Upstream,2023,4995.0,0.179901049,898.6057397550001
+3336,5,Component Systems,Upstream,2024,4970.0,0.179901049,894.1082135300001
+3345,5,Component Systems,Upstream,2001,9488.0,0.017526805,166.29432584
+3345,5,Component Systems,Upstream,2002,8563.0,0.017526805,150.082031215
+3345,5,Component Systems,Upstream,2003,8300.0,0.017526805,145.4724815
+3345,5,Component Systems,Upstream,2004,8304.0,0.017526805,145.54258872
+3345,5,Component Systems,Upstream,2005,9239.0,0.017526805,161.930151395
+3345,5,Component Systems,Upstream,2006,9616.0,0.017526805,168.53775688
+3345,5,Component Systems,Upstream,2007,9745.0,0.017526805,170.798714725
+3345,5,Component Systems,Upstream,2008,9636.0,0.017526805,168.88829298
+3345,5,Component Systems,Upstream,2009,8498.0,0.017526805,148.94278889
+3345,5,Component Systems,Upstream,2010,7860.0,0.017526805,137.7606873
+3345,5,Component Systems,Upstream,2011,7846.0,0.017526805,137.51531203
+3345,5,Component Systems,Upstream,2012,8199.0,0.017526805,143.702274195
+3345,5,Component Systems,Upstream,2013,8522.0,0.017526805,149.36343220999998
+3345,5,Component Systems,Upstream,2014,8595.0,0.017526805,150.642888975
+3345,5,Component Systems,Upstream,2015,9046.0,0.017526805,158.54747803
+3345,5,Component Systems,Upstream,2016,8913.0,0.017526805,156.216412965
+3345,5,Component Systems,Upstream,2017,8919.0,0.017526805,156.321573795
+3345,5,Component Systems,Upstream,2018,9027.0,0.017526805,158.214468735
+3345,5,Component Systems,Upstream,2019,9147.0,0.017526805,160.317685335
+3345,5,Component Systems,Upstream,2020,8227.0,0.017526805,144.193024735
+3345,5,Component Systems,Upstream,2021,8449.0,0.017526805,148.083975445
+3345,5,Component Systems,Upstream,2022,8628.0,0.017526805,151.22127354
+3345,5,Component Systems,Upstream,2023,8771.0,0.017526805,153.727606655
+3345,5,Component Systems,Upstream,2024,8867.0,0.017526805,155.410179935
+3359,5,Component Systems,Upstream,2001,1798.0,0.029018617,52.175473366
+3359,5,Component Systems,Upstream,2002,2001.0,0.029018617,58.066252617
+3359,5,Component Systems,Upstream,2003,2048.0,0.029018617,59.430127616
+3359,5,Component Systems,Upstream,2004,1992.0,0.029018617,57.805085064000004
+3359,5,Component Systems,Upstream,2005,1778.0,0.029018617,51.595101026
+3359,5,Component Systems,Upstream,2006,1809.0,0.029018617,52.494678153
+3359,5,Component Systems,Upstream,2007,1832.0,0.029018617,53.162106344
+3359,5,Component Systems,Upstream,2008,1756.0,0.029018617,50.956691452
+3359,5,Component Systems,Upstream,2009,1485.0,0.029018617,43.092646245
+3359,5,Component Systems,Upstream,2010,1593.0,0.029018617,46.226656881
+3359,5,Component Systems,Upstream,2011,2563.0,0.029018617,74.374715371
+3359,5,Component Systems,Upstream,2012,2761.0,0.029018617,80.120401537
+3359,5,Component Systems,Upstream,2013,2631.0,0.029018617,76.347981327
+3359,5,Component Systems,Upstream,2014,2592.0,0.029018617,75.216255264
+3359,5,Component Systems,Upstream,2015,3126.0,0.029018617,90.712196742
+3359,5,Component Systems,Upstream,2016,3280.0,0.029018617,95.18106376
+3359,5,Component Systems,Upstream,2017,3550.0,0.029018617,103.01609035
+3359,5,Component Systems,Upstream,2018,3847.0,0.029018617,111.634619599
+3359,5,Component Systems,Upstream,2019,4347.0,0.029018617,126.14392809900001
+3359,5,Component Systems,Upstream,2020,4356.0,0.029018617,126.405095652
+3359,5,Component Systems,Upstream,2021,4088.0,0.029018617,118.628106296
+3359,5,Component Systems,Upstream,2022,4601.0,0.029018617,133.514656817
+3359,5,Component Systems,Upstream,2023,4960.0,0.029018617,143.93234032
+3359,5,Component Systems,Upstream,2024,4446.0,0.029018617,129.016771182
+5413,6,Engineering & Design,OEM,2001,83373.0,0.002217683,184.89488475899998
+5413,6,Engineering & Design,OEM,2002,76342.0,0.002217683,169.30235558599998
+5413,6,Engineering & Design,OEM,2003,72059.0,0.002217683,159.804019297
+5413,6,Engineering & Design,OEM,2004,70855.0,0.002217683,157.133928965
+5413,6,Engineering & Design,OEM,2005,69943.0,0.002217683,155.11140206899998
+5413,6,Engineering & Design,OEM,2006,67009.0,0.002217683,148.604720147
+5413,6,Engineering & Design,OEM,2007,66272.0,0.002217683,146.970287776
+5413,6,Engineering & Design,OEM,2008,63802.0,0.002217683,141.49261076599998
+5413,6,Engineering & Design,OEM,2009,55412.0,0.002217683,122.886250396
+5413,6,Engineering & Design,OEM,2010,57576.0,0.002217683,127.68531640799999
+5413,6,Engineering & Design,OEM,2011,62819.0,0.002217683,139.31262837699998
+5413,6,Engineering & Design,OEM,2012,68257.0,0.002217683,151.37238853099998
+5413,6,Engineering & Design,OEM,2013,72045.0,0.002217683,159.772971735
+5413,6,Engineering & Design,OEM,2014,76039.0,0.002217683,168.630397637
+5413,6,Engineering & Design,OEM,2015,85007.0,0.002217683,188.51857878099997
+5413,6,Engineering & Design,OEM,2016,88247.0,0.002217683,195.703871701
+5413,6,Engineering & Design,OEM,2017,83516.0,0.002217683,185.21201342799998
+5413,6,Engineering & Design,OEM,2018,86547.0,0.002217683,191.93381060099998
+5413,6,Engineering & Design,OEM,2019,88076.0,0.002217683,195.32464790799997
+5413,6,Engineering & Design,OEM,2020,84620.0,0.002217683,187.66033545999997
+5413,6,Engineering & Design,OEM,2021,87418.0,0.002217683,193.86541249399997
+5413,6,Engineering & Design,OEM,2022,88549.0,0.002217683,196.373611967
+5413,6,Engineering & Design,OEM,2023,88654.0,0.002217683,196.60646868199998
+5413,6,Engineering & Design,OEM,2024,84452.0,0.002217683,187.28776471599997
+5414,6,Engineering & Design,OEM,2001,3402.0,0.002217683,7.544557565999999
+5414,6,Engineering & Design,OEM,2002,3538.0,0.002217683,7.846162453999999
+5414,6,Engineering & Design,OEM,2003,3619.0,0.002217683,8.025794777
+5414,6,Engineering & Design,OEM,2004,3751.0,0.002217683,8.318528933
+5414,6,Engineering & Design,OEM,2005,4365.0,0.002217683,9.680186294999999
+5414,6,Engineering & Design,OEM,2006,4543.0,0.002217683,10.074933868999999
+5414,6,Engineering & Design,OEM,2007,4723.0,0.002217683,10.474116809
+5414,6,Engineering & Design,OEM,2008,4627.0,0.002217683,10.261219241
+5414,6,Engineering & Design,OEM,2009,4079.0,0.002217683,9.045928957
+5414,6,Engineering & Design,OEM,2010,4190.0,0.002217683,9.292091769999999
+5414,6,Engineering & Design,OEM,2011,4660.0,0.002217683,10.33440278
+5414,6,Engineering & Design,OEM,2012,4883.0,0.002217683,10.828946088999999
+5414,6,Engineering & Design,OEM,2013,5310.0,0.002217683,11.77589673
+5414,6,Engineering & Design,OEM,2014,4960.0,0.002217683,10.999707679999998
+5414,6,Engineering & Design,OEM,2015,7593.0,0.002217683,16.838867019
+5414,6,Engineering & Design,OEM,2016,7913.0,0.002217683,17.548525579
+5414,6,Engineering & Design,OEM,2017,8464.0,0.002217683,18.770468912
+5414,6,Engineering & Design,OEM,2018,8632.0,0.002217683,19.143039656
+5414,6,Engineering & Design,OEM,2019,8155.0,0.002217683,18.085204864999998
+5414,6,Engineering & Design,OEM,2020,8111.0,0.002217683,17.987626813
+5414,6,Engineering & Design,OEM,2021,8433.0,0.002217683,18.701720739
+5414,6,Engineering & Design,OEM,2022,8723.0,0.002217683,19.344848809
+5414,6,Engineering & Design,OEM,2023,9163.0,0.002217683,20.320629329
+5414,6,Engineering & Design,OEM,2024,10458.0,0.002217683,23.192528814
+5417,6,Engineering & Design,OEM,2001,15682.0,0.002217683,34.777704805999996
+5417,6,Engineering & Design,OEM,2002,22370.0,0.002217683,49.60956871
+5417,6,Engineering & Design,OEM,2003,24291.0,0.002217683,53.869737752999995
+5417,6,Engineering & Design,OEM,2004,23731.0,0.002217683,52.627835272999995
+5417,6,Engineering & Design,OEM,2005,23649.0,0.002217683,52.445985267
+5417,6,Engineering & Design,OEM,2006,23958.0,0.002217683,53.131249313999994
+5417,6,Engineering & Design,OEM,2007,22225.0,0.002217683,49.288004674999996
+5417,6,Engineering & Design,OEM,2008,20444.0,0.002217683,45.338311252
+5417,6,Engineering & Design,OEM,2009,18284.0,0.002217683,40.548115972
+5417,6,Engineering & Design,OEM,2010,18914.0,0.002217683,41.945256261999994
+5417,6,Engineering & Design,OEM,2011,19119.0,0.002217683,42.399881277
+5417,6,Engineering & Design,OEM,2012,20239.0,0.002217683,44.883686237
+5417,6,Engineering & Design,OEM,2013,21471.0,0.002217683,47.615871692999995
+5417,6,Engineering & Design,OEM,2014,21925.0,0.002217683,48.622699774999994
+5417,6,Engineering & Design,OEM,2015,24955.0,0.002217683,55.342279264999995
+5417,6,Engineering & Design,OEM,2016,25682.0,0.002217683,56.954534806
+5417,6,Engineering & Design,OEM,2017,21741.0,0.002217683,48.21464610299999
+5417,6,Engineering & Design,OEM,2018,21519.0,0.002217683,47.722320477
+5417,6,Engineering & Design,OEM,2019,22112.0,0.002217683,49.037406495999996
+5417,6,Engineering & Design,OEM,2020,22672.0,0.002217683,50.279308975999996
+5417,6,Engineering & Design,OEM,2021,23632.0,0.002217683,52.40828465599999
+5417,6,Engineering & Design,OEM,2022,25132.0,0.002217683,55.734809156
+5417,6,Engineering & Design,OEM,2023,25294.0,0.002217683,56.094073802
+5417,6,Engineering & Design,OEM,2024,25297.0,0.002217683,56.100726851
+3361,7,Core Automotive,OEM,2001,90361.0,1.0,90361.0
+3361,7,Core Automotive,OEM,2002,81572.0,1.0,81572.0
+3361,7,Core Automotive,OEM,2003,75378.0,1.0,75378.0
+3361,7,Core Automotive,OEM,2004,70844.0,1.0,70844.0
+3361,7,Core Automotive,OEM,2005,65509.0,1.0,65509.0
+3361,7,Core Automotive,OEM,2006,59006.0,1.0,59006.0
+3361,7,Core Automotive,OEM,2007,58574.0,1.0,58574.0
+3361,7,Core Automotive,OEM,2008,48823.0,1.0,48823.0
+3361,7,Core Automotive,OEM,2009,35196.0,1.0,35196.0
+3361,7,Core Automotive,OEM,2010,35239.0,1.0,35239.0
+3361,7,Core Automotive,OEM,2011,37578.0,1.0,37578.0
+3361,7,Core Automotive,OEM,2012,39789.0,1.0,39789.0
+3361,7,Core Automotive,OEM,2013,44163.0,1.0,44163.0
+3361,7,Core Automotive,OEM,2014,45929.0,1.0,45929.0
+3361,7,Core Automotive,OEM,2015,36677.0,1.0,36677.0
+3361,7,Core Automotive,OEM,2016,37501.0,1.0,37501.0
+3361,7,Core Automotive,OEM,2017,40857.0,1.0,40857.0
+3361,7,Core Automotive,OEM,2018,39490.0,1.0,39490.0
+3361,7,Core Automotive,OEM,2019,38974.0,1.0,38974.0
+3361,7,Core Automotive,OEM,2020,34317.0,1.0,34317.0
+3361,7,Core Automotive,OEM,2021,45057.0,1.0,45057.0
+3361,7,Core Automotive,OEM,2022,44847.0,1.0,44847.0
+3361,7,Core Automotive,OEM,2023,48746.0,1.0,48746.0
+3361,7,Core Automotive,OEM,2024,48138.0,1.0,48138.0
+3362,7,Core Automotive,OEM,2001,10139.0,1.0,10139.0
+3362,7,Core Automotive,OEM,2002,10090.0,1.0,10090.0
+3362,7,Core Automotive,OEM,2003,9389.0,1.0,9389.0
+3362,7,Core Automotive,OEM,2004,9813.0,1.0,9813.0
+3362,7,Core Automotive,OEM,2005,8972.0,1.0,8972.0
+3362,7,Core Automotive,OEM,2006,8904.0,1.0,8904.0
+3362,7,Core Automotive,OEM,2007,8837.0,1.0,8837.0
+3362,7,Core Automotive,OEM,2008,7411.0,1.0,7411.0
+3362,7,Core Automotive,OEM,2009,6034.0,1.0,6034.0
+3362,7,Core Automotive,OEM,2010,6268.0,1.0,6268.0
+3362,7,Core Automotive,OEM,2011,6284.0,1.0,6284.0
+3362,7,Core Automotive,OEM,2012,6424.0,1.0,6424.0
+3362,7,Core Automotive,OEM,2013,6643.0,1.0,6643.0
+3362,7,Core Automotive,OEM,2014,7242.0,1.0,7242.0
+3362,7,Core Automotive,OEM,2015,8161.0,1.0,8161.0
+3362,7,Core Automotive,OEM,2016,8600.0,1.0,8600.0
+3362,7,Core Automotive,OEM,2017,8708.0,1.0,8708.0
+3362,7,Core Automotive,OEM,2018,9041.0,1.0,9041.0
+3362,7,Core Automotive,OEM,2019,9047.0,1.0,9047.0
+3362,7,Core Automotive,OEM,2020,7740.0,1.0,7740.0
+3362,7,Core Automotive,OEM,2021,8038.0,1.0,8038.0
+3362,7,Core Automotive,OEM,2022,8377.0,1.0,8377.0
+3362,7,Core Automotive,OEM,2023,8544.0,1.0,8544.0
+3362,7,Core Automotive,OEM,2024,7921.0,1.0,7921.0
+3363,7,Core Automotive,OEM,2001,203833.0,1.0,203833.0
+3363,7,Core Automotive,OEM,2002,191518.0,1.0,191518.0
+3363,7,Core Automotive,OEM,2003,177191.0,1.0,177191.0
+3363,7,Core Automotive,OEM,2004,168955.0,1.0,168955.0
+3363,7,Core Automotive,OEM,2005,157602.0,1.0,157602.0
+3363,7,Core Automotive,OEM,2006,145983.0,1.0,145983.0
+3363,7,Core Automotive,OEM,2007,130657.0,1.0,130657.0
+3363,7,Core Automotive,OEM,2008,110766.0,1.0,110766.0
+3363,7,Core Automotive,OEM,2009,81368.0,1.0,81368.0
+3363,7,Core Automotive,OEM,2010,84526.0,1.0,84526.0
+3363,7,Core Automotive,OEM,2011,93801.0,1.0,93801.0
+3363,7,Core Automotive,OEM,2012,103956.0,1.0,103956.0
+3363,7,Core Automotive,OEM,2013,109787.0,1.0,109787.0
+3363,7,Core Automotive,OEM,2014,117192.0,1.0,117192.0
+3363,7,Core Automotive,OEM,2015,121832.0,1.0,121832.0
+3363,7,Core Automotive,OEM,2016,127243.0,1.0,127243.0
+3363,7,Core Automotive,OEM,2017,131146.0,1.0,131146.0
+3363,7,Core Automotive,OEM,2018,134464.0,1.0,134464.0
+3363,7,Core Automotive,OEM,2019,132800.0,1.0,132800.0
+3363,7,Core Automotive,OEM,2020,112670.0,1.0,112670.0
+3363,7,Core Automotive,OEM,2021,121774.0,1.0,121774.0
+3363,7,Core Automotive,OEM,2022,123914.0,1.0,123914.0
+3363,7,Core Automotive,OEM,2023,121825.0,1.0,121825.0
+3363,7,Core Automotive,OEM,2024,117023.0,1.0,117023.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2001,20063.0,1.0,20063.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2002,19374.0,1.0,19374.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2003,19484.0,1.0,19484.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2004,19648.0,1.0,19648.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2005,19348.0,1.0,19348.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2006,19424.0,1.0,19424.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2007,19086.0,1.0,19086.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2008,18168.0,1.0,18168.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2009,15653.0,1.0,15653.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2010,15600.0,1.0,15600.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2011,16930.0,1.0,16930.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2012,17912.0,1.0,17912.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2013,18589.0,1.0,18589.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2014,19759.0,1.0,19759.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2015,20564.0,1.0,20564.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2016,20828.0,1.0,20828.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2017,20945.0,1.0,20945.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2018,22017.0,1.0,22017.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2019,22848.0,1.0,22848.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2020,21013.0,1.0,21013.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2021,23938.0,1.0,23938.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2022,24911.0,1.0,24911.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2023,25506.0,1.0,25506.0
+4231,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2024,25978.0,1.0,25978.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2001,7797.0,1.0,7797.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2002,7855.0,1.0,7855.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2003,7574.0,1.0,7574.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2004,7382.0,1.0,7382.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2005,6993.0,1.0,6993.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2006,7099.0,1.0,7099.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2007,6898.0,1.0,6898.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2008,6855.0,1.0,6855.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2009,5564.0,1.0,5564.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2010,5434.0,1.0,5434.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2011,5909.0,1.0,5909.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2012,6338.0,1.0,6338.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2013,6423.0,1.0,6423.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2014,6734.0,1.0,6734.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2015,6571.0,1.0,6571.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2016,6662.0,1.0,6662.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2017,6491.0,1.0,6491.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2018,7191.0,1.0,7191.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2019,7116.0,1.0,7116.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2020,6290.0,1.0,6290.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2021,6053.0,1.0,6053.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2022,6245.0,1.0,6245.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2023,6517.0,1.0,6517.0
+4235,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2024,6359.0,1.0,6359.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2001,26299.0,1.0,26299.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2002,25009.0,1.0,25009.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2003,23935.0,1.0,23935.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2004,23510.0,1.0,23510.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2005,23707.0,1.0,23707.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2006,23770.0,1.0,23770.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2007,23795.0,1.0,23795.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2008,23681.0,1.0,23681.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2009,20902.0,1.0,20902.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2010,20420.0,1.0,20420.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2011,20725.0,1.0,20725.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2012,21625.0,1.0,21625.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2013,22228.0,1.0,22228.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2014,22852.0,1.0,22852.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2015,23367.0,1.0,23367.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2016,23625.0,1.0,23625.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2017,24386.0,1.0,24386.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2018,25165.0,1.0,25165.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2019,25229.0,1.0,25229.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2020,23247.0,1.0,23247.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2021,22266.0,1.0,22266.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2022,22812.0,1.0,22812.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2023,24017.0,1.0,24017.0
+4238,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2024,24407.0,1.0,24407.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2001,6498.0,1.0,6498.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2002,6452.0,1.0,6452.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2003,6462.0,1.0,6462.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2004,6562.0,1.0,6562.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2005,6859.0,1.0,6859.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2006,6929.0,1.0,6929.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2007,7008.0,1.0,7008.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2008,7058.0,1.0,7058.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2009,6144.0,1.0,6144.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2010,6461.0,1.0,6461.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2011,7006.0,1.0,7006.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2012,7468.0,1.0,7468.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2013,7458.0,1.0,7458.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2014,7555.0,1.0,7555.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2015,7409.0,1.0,7409.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2016,7263.0,1.0,7263.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2017,7557.0,1.0,7557.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2018,7792.0,1.0,7792.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2019,7737.0,1.0,7737.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2020,7019.0,1.0,7019.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2021,7625.0,1.0,7625.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2022,8447.0,1.0,8447.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2023,8805.0,1.0,8805.0
+4239,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2024,8732.0,1.0,8732.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2001,3190.0,1.0,3190.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2002,3097.0,1.0,3097.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2003,3074.0,1.0,3074.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2004,2889.0,1.0,2889.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2005,2915.0,1.0,2915.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2006,2931.0,1.0,2931.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2007,2805.0,1.0,2805.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2008,2711.0,1.0,2711.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2009,2672.0,1.0,2672.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2010,2642.0,1.0,2642.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2011,2707.0,1.0,2707.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2012,2759.0,1.0,2759.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2013,2716.0,1.0,2716.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2014,2787.0,1.0,2787.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2015,2968.0,1.0,2968.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2016,2960.0,1.0,2960.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2017,3334.0,1.0,3334.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2018,3442.0,1.0,3442.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2019,3529.0,1.0,3529.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2020,3423.0,1.0,3423.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2021,3481.0,1.0,3481.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2022,3686.0,1.0,3686.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2023,3855.0,1.0,3855.0
+4247,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2024,3846.0,1.0,3846.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2001,13540.0,1.0,13540.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2002,14431.0,1.0,14431.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2003,14244.0,1.0,14244.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2004,14136.0,1.0,14136.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2005,13778.0,1.0,13778.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2006,13224.0,1.0,13224.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2007,13006.0,1.0,13006.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2008,13036.0,1.0,13036.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2009,13018.0,1.0,13018.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2010,14658.0,1.0,14658.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2011,15135.0,1.0,15135.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2012,15808.0,1.0,15808.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2013,16435.0,1.0,16435.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2014,17049.0,1.0,17049.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2015,17572.0,1.0,17572.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2016,17729.0,1.0,17729.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2017,17346.0,1.0,17346.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2018,17572.0,1.0,17572.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2019,17717.0,1.0,17717.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2020,16380.0,1.0,16380.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2021,16774.0,1.0,16774.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2022,17753.0,1.0,17753.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2023,18165.0,1.0,18165.0
+4413,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2024,18192.0,1.0,18192.0
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2001,30203.17649841309,1.0,30203.17649841309
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2002,28608.7277730306,1.0,28608.7277730306
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2003,27283.92998377482,1.0,27283.92998377482
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2004,25912.40278879802,1.0,25912.40278879802
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2005,25841.06699625651,1.0,25841.06699625651
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2006,25452.07436879476,1.0,25452.07436879476
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2007,24617.685000101726,1.0,24617.685000101726
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2008,24319.59295272827,1.0,24319.59295272827
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2009,23293.23037465413,1.0,23293.23037465413
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2010,23871.81250254313,1.0,23871.81250254313
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2011,24173.61084620158,1.0,24173.61084620158
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2012,23698.29066594442,1.0,23698.29066594442
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2013,24654.90547815959,1.0,24654.90547815959
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2014,25688.887278238926,1.0,25688.887278238926
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2015,26382.71697362264,1.0,26382.71697362264
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2016,26558.18589528402,1.0,26558.18589528402
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2017,27039.93018468221,1.0,27039.93018468221
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2018,27341.077804565433,1.0,27341.077804565433
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2019,27625.665664672848,1.0,27625.665664672848
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2020,25686.23542785645,1.0,25686.23542785645
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2021,25409.623622894287,1.0,25409.623622894287
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2022,26719.0,1.0,26719.0
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2023,27545.0,1.0,27545.0
+4571,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,2024,27826.0,1.0,27826.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2001,42508.0,1.0,42508.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2002,43335.0,1.0,43335.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2003,42098.0,1.0,42098.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2004,41803.0,1.0,41803.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2005,41033.0,1.0,41033.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2006,39677.0,1.0,39677.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2007,38163.0,1.0,38163.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2008,36768.0,1.0,36768.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2009,33083.0,1.0,33083.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2010,31994.0,1.0,31994.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2011,32734.0,1.0,32734.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2012,33882.0,1.0,33882.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2013,34662.0,1.0,34662.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2014,36317.0,1.0,36317.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2015,38115.0,1.0,38115.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2016,39018.0,1.0,39018.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2017,39699.0,1.0,39699.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2018,39716.0,1.0,39716.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2019,39798.0,1.0,39798.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2020,36431.0,1.0,36431.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2021,37638.0,1.0,37638.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2022,37963.0,1.0,37963.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2023,38350.0,1.0,38350.0
+4411,9,"Dealers, Maintenance, & Repair",Downstream,2024,38262.0,1.0,38262.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2001,33107.0,1.0,33107.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2002,33069.0,1.0,33069.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2003,32544.0,1.0,32544.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2004,32562.0,1.0,32562.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2005,30919.0,1.0,30919.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2006,29207.0,1.0,29207.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2007,28170.0,1.0,28170.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2008,27075.0,1.0,27075.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2009,25445.0,1.0,25445.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2010,25421.0,1.0,25421.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2011,25780.0,1.0,25780.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2012,26291.0,1.0,26291.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2013,26495.0,1.0,26495.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2014,27883.0,1.0,27883.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2015,28669.0,1.0,28669.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2016,29340.0,1.0,29340.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2017,28801.0,1.0,28801.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2018,28824.0,1.0,28824.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2019,29070.0,1.0,29070.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2020,25994.0,1.0,25994.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2021,28560.0,1.0,28560.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2022,29743.0,1.0,29743.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2023,30839.0,1.0,30839.0
+8111,9,"Dealers, Maintenance, & Repair",Downstream,2024,31338.0,1.0,31338.0
+4841,10,Logistics,Downstream,2001,24304.0,1.0,24304.0
+4841,10,Logistics,Downstream,2002,23494.0,1.0,23494.0
+4841,10,Logistics,Downstream,2003,23370.0,1.0,23370.0
+4841,10,Logistics,Downstream,2004,25079.0,1.0,25079.0
+4841,10,Logistics,Downstream,2005,26456.0,1.0,26456.0
+4841,10,Logistics,Downstream,2006,27533.0,1.0,27533.0
+4841,10,Logistics,Downstream,2007,28217.0,1.0,28217.0
+4841,10,Logistics,Downstream,2008,27143.0,1.0,27143.0
+4841,10,Logistics,Downstream,2009,24306.0,1.0,24306.0
+4841,10,Logistics,Downstream,2010,25301.0,1.0,25301.0
+4841,10,Logistics,Downstream,2011,27285.0,1.0,27285.0
+4841,10,Logistics,Downstream,2012,28899.0,1.0,28899.0
+4841,10,Logistics,Downstream,2013,30818.0,1.0,30818.0
+4841,10,Logistics,Downstream,2014,32934.0,1.0,32934.0
+4841,10,Logistics,Downstream,2015,34976.0,1.0,34976.0
+4841,10,Logistics,Downstream,2016,35627.0,1.0,35627.0
+4841,10,Logistics,Downstream,2017,35455.0,1.0,35455.0
+4841,10,Logistics,Downstream,2018,36045.0,1.0,36045.0
+4841,10,Logistics,Downstream,2019,36859.0,1.0,36859.0
+4841,10,Logistics,Downstream,2020,34290.0,1.0,34290.0
+4841,10,Logistics,Downstream,2021,35833.0,1.0,35833.0
+4841,10,Logistics,Downstream,2022,37946.0,1.0,37946.0
+4841,10,Logistics,Downstream,2023,37688.0,1.0,37688.0
+4841,10,Logistics,Downstream,2024,35249.0,1.0,35249.0
+4842,10,Logistics,Downstream,2001,12159.0,1.0,12159.0
+4842,10,Logistics,Downstream,2002,12250.0,1.0,12250.0
+4842,10,Logistics,Downstream,2003,11577.0,1.0,11577.0
+4842,10,Logistics,Downstream,2004,10949.0,1.0,10949.0
+4842,10,Logistics,Downstream,2005,10926.0,1.0,10926.0
+4842,10,Logistics,Downstream,2006,11232.0,1.0,11232.0
+4842,10,Logistics,Downstream,2007,12544.0,1.0,12544.0
+4842,10,Logistics,Downstream,2008,11797.0,1.0,11797.0
+4842,10,Logistics,Downstream,2009,9566.0,1.0,9566.0
+4842,10,Logistics,Downstream,2010,8933.0,1.0,8933.0
+4842,10,Logistics,Downstream,2011,9330.0,1.0,9330.0
+4842,10,Logistics,Downstream,2012,9589.0,1.0,9589.0
+4842,10,Logistics,Downstream,2013,9919.0,1.0,9919.0
+4842,10,Logistics,Downstream,2014,10492.0,1.0,10492.0
+4842,10,Logistics,Downstream,2015,10954.0,1.0,10954.0
+4842,10,Logistics,Downstream,2016,11273.0,1.0,11273.0
+4842,10,Logistics,Downstream,2017,11268.0,1.0,11268.0
+4842,10,Logistics,Downstream,2018,11457.0,1.0,11457.0
+4842,10,Logistics,Downstream,2019,11523.0,1.0,11523.0
+4842,10,Logistics,Downstream,2020,10488.0,1.0,10488.0
+4842,10,Logistics,Downstream,2021,10937.0,1.0,10937.0
+4842,10,Logistics,Downstream,2022,11251.0,1.0,11251.0
+4842,10,Logistics,Downstream,2023,11349.0,1.0,11349.0
+4842,10,Logistics,Downstream,2024,11640.0,1.0,11640.0
