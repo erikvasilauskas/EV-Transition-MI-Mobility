@@ -50,6 +50,55 @@ def normalize_segment_totals(path: Path) -> pd.DataFrame:
     return df[["segment_id", "segment_name", "year", "methodology", "employment_qcew"]]
 
 
+
+def expand_base_year_methods(segment_totals: pd.DataFrame) -> pd.DataFrame:
+    """Duplicate base-year rows across forecast methodologies."""
+    if segment_totals.empty:
+        return segment_totals
+
+    base_year = int(segment_totals["year"].min())
+
+    future_methods = (
+        segment_totals[segment_totals["year"] > base_year]["methodology"]
+        .dropna()
+        .unique()
+    )
+
+    prefix_map: dict[str, set[str]] = {}
+    for method in future_methods:
+        method_str = str(method)
+        if not method_str:
+            continue
+        prefix = method_str.split("_")[0]
+        prefix_map.setdefault(prefix, set()).add(method_str)
+
+    base_rows = segment_totals[segment_totals["year"] == base_year].copy()
+    if base_rows.empty:
+        return segment_totals
+
+    expanded_rows: list[pd.Series] = []
+    for _, row in base_rows.iterrows():
+        method_str = str(row["methodology"])
+        prefix = method_str.split("_")[0]
+        target_methods = sorted(prefix_map.get(prefix, []))
+        if not target_methods:
+            target_methods = [method_str]
+        for target_method in target_methods:
+            new_row = row.copy()
+            new_row["methodology"] = target_method
+            expanded_rows.append(new_row)
+
+    if not expanded_rows:
+        return segment_totals
+
+    expanded_df = pd.DataFrame(expanded_rows)
+    remainder = segment_totals[segment_totals["year"] > base_year]
+    combined = pd.concat([expanded_df, remainder], ignore_index=True)
+    combined = combined.sort_values(["segment_id", "year", "methodology"]).reset_index(drop=True)
+    return combined
+
+
+
 def load_mcda_shares(path: Path) -> pd.DataFrame:
     df = pd.read_csv(path)
 
@@ -112,49 +161,83 @@ def load_us_shares(path: Path) -> pd.DataFrame:
     return df[["segment_id", "occcd", "share_2024_bls", "share_2034_bls"]]
 
 
+
 def interpolate_shares(base: pd.DataFrame, target: Optional[pd.DataFrame], years: list[int]) -> pd.DataFrame:
     if target is None:
-        target = pd.DataFrame(columns=["segment_id", "occcd", "share_2034_bls"])
+        target = pd.DataFrame(columns=["segment_id", "occcd", "share_2024_bls", "share_2034_bls"])
 
     shares = base.merge(target, on=["segment_id", "occcd"], how="left")
-    shares["share_2034_bls"] = shares["share_2034_bls"].fillna(shares["share_2024"])
 
-    records = []
-    for _, row in shares.iterrows():
-        seg_id = row["segment_id"]
-        seg_name = row["segment_name"]
-        occ = row["occcd"]
-        title = row["soctitle"]
-        edu = row["ep_edu_grouped"]
-        entry = row["ep_entry_education"]
-        work = row["ep_work_experience"]
-        training = row["ep_on_the_job_training"]
-        s0 = float(row["share_2024"])
-        s1 = float(row["share_2034_bls"])
+    shares["share_2024"] = pd.to_numeric(shares["share_2024"], errors="coerce").fillna(0.0)
 
-        for year in years:
-            if year <= 2024:
-                share = s0
-            elif year >= 2034:
-                share = s1
-            else:
-                t = (year - 2024) / (2034 - 2024)
-                share = s0 + (s1 - s0) * t
-            records.append({
-                "segment_id": seg_id,
-                "segment_name": seg_name,
-                "occcd": occ,
-                "soctitle": title,
-                "year": year,
-                "share": share,
-                "share_2024": s0,
-                "share_2034": s1,
-                "ep_entry_education": entry,
-                "ep_work_experience": work,
-                "ep_on_the_job_training": training,
-                "ep_edu_grouped": edu,
-            })
-    return pd.DataFrame(records)
+    if "share_2024_bls" in shares.columns:
+        shares["share_2024_bls"] = pd.to_numeric(shares["share_2024_bls"], errors="coerce")
+    else:
+        shares["share_2024_bls"] = np.nan
+    if "share_2034_bls" in shares.columns:
+        shares["share_2034_bls"] = pd.to_numeric(shares["share_2034_bls"], errors="coerce")
+    else:
+        shares["share_2034_bls"] = np.nan
+
+    base_totals = shares.groupby("segment_id")["share_2024"].transform("sum")
+    shares["base_share"] = shares["share_2024"] / base_totals
+    shares["base_share"] = shares["base_share"].fillna(0.0)
+
+    shares["share_2024_bls"] = shares["share_2024_bls"].fillna(shares["share_2034_bls"])
+    shares["share_2024_bls"] = shares["share_2024_bls"].fillna(shares["base_share"])
+    shares["share_2034_bls"] = shares["share_2034_bls"].fillna(shares["share_2024_bls"])
+
+    shares["growth_factor"] = 1.0
+    mask = shares["share_2024_bls"] > 0
+    shares.loc[mask, "growth_factor"] = shares.loc[mask, "share_2034_bls"] / shares.loc[mask, "share_2024_bls"]
+    shares["growth_factor"] = shares["growth_factor"].replace([np.inf, -np.inf], 1.0).fillna(1.0)
+
+    shares["target_share_raw"] = shares["base_share"] * shares["growth_factor"]
+    target_totals = shares.groupby("segment_id")["target_share_raw"].transform("sum")
+    shares["target_share"] = shares["target_share_raw"] / target_totals
+    shares["target_share"] = shares["target_share"].replace([np.inf, -np.inf], np.nan).fillna(shares["base_share"])
+    shares = shares.drop(columns=["target_share_raw"])
+
+    results = []
+    result_cols = [
+        "segment_id",
+        "segment_name",
+        "occcd",
+        "soctitle",
+        "year",
+        "share",
+        "share_2024",
+        "share_2034",
+        "ep_entry_education",
+        "ep_work_experience",
+        "ep_on_the_job_training",
+        "ep_edu_grouped",
+    ]
+
+    for year in years:
+        if year <= 2024:
+            progress = 0.0
+        elif year >= 2034:
+            progress = 1.0
+        else:
+            progress = (year - 2024) / (2034 - 2024)
+
+        temp = shares.copy()
+        temp["share"] = temp["base_share"] * (1 + (temp["growth_factor"] - 1) * progress)
+        totals = temp.groupby("segment_id")["share"].transform("sum")
+        temp["share"] = temp["share"] / totals
+        temp["share"] = temp["share"].replace([np.inf, -np.inf], np.nan).fillna(temp["base_share"])
+
+        temp["year"] = int(year)
+        temp["share_2024"] = temp["base_share"]
+        temp["share_2034"] = temp["target_share"]
+
+        results.append(temp[result_cols])
+
+    if not results:
+        return pd.DataFrame(columns=result_cols)
+
+    return pd.concat(results, ignore_index=True)
 
 
 def build_forecasts(segment_totals: pd.DataFrame, share_df: pd.DataFrame) -> pd.DataFrame:
@@ -200,14 +283,58 @@ def main() -> None:
     args = parser.parse_args()
 
     segment_totals = normalize_segment_totals(args.compare_path)
+    segment_totals = expand_base_year_methods(segment_totals)
     years = sorted(segment_totals["year"].unique())
+    base_year = years[0]
+    target_year = years[-1]
 
     mcda = load_mcda_shares(args.mcda_path)
     us_shares = load_us_shares(args.us_summary_path)
 
+
     share_df = interpolate_shares(mcda, us_shares, years)
 
     forecasts = build_forecasts(segment_totals, share_df)
+
+    # Append aggregated totals across all segments as segment 0
+    segment_meta_cols = [
+        "occcd",
+        "soctitle",
+        "methodology",
+        "year",
+        "ep_entry_education",
+        "ep_work_experience",
+        "ep_on_the_job_training",
+        "ep_edu_grouped",
+    ]
+    aggregated = forecasts.groupby(segment_meta_cols, as_index=False)["employment"].sum()
+    aggregated["segment_id"] = 0
+    aggregated["segment_name"] = "0. All Segments"
+
+    year_group_totals = aggregated.groupby(["methodology", "year"])["employment"].transform("sum")
+    aggregated["share"] = np.where(year_group_totals > 0, aggregated["employment"] / year_group_totals, np.nan)
+
+    share_lookup = forecasts[["methodology", "occcd", "share_2024", "share_2034"]].drop_duplicates(subset=["methodology", "occcd"])
+    aggregated = aggregated.merge(share_lookup, on=["methodology", "occcd"], how="left")
+
+    aggregated = aggregated[[
+        "segment_id",
+        "segment_name",
+        "year",
+        "methodology",
+        "occcd",
+        "soctitle",
+        "employment",
+        "share",
+        "share_2024",
+        "share_2034",
+        "ep_entry_education",
+        "ep_work_experience",
+        "ep_on_the_job_training",
+        "ep_edu_grouped",
+    ]]
+
+    forecasts = pd.concat([forecasts, aggregated], ignore_index=True)
     forecasts = forecasts.sort_values(["segment_id", "occcd", "year", "methodology"])
 
     out_dir = Path("data/processed")
