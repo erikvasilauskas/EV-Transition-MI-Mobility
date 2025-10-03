@@ -65,7 +65,7 @@ def render_method_card(
         <div style=\"background-color:#F5F9FA;padding:16px;border-radius:10px;border-left:4px solid {TEAL};\">
             <div style=\"font-size:0.85rem;color:#4A5568;margin-bottom:4px;\">{method_name}</div>
             <div style=\"font-size:2rem;font-weight:600;color:#1A202C;\">{format_number(latest)}<span style=\"font-size:1rem;font-weight:400;color:#718096;\"> ({latest_year})</span></div>
-            <div style=\"font-size:0.95rem;font-weight:500;color:{TEAL};margin-top:6px;\">Δ {format_number(delta)}{pct_text}</div>
+            <div style=\"font-size:0.95rem;font-weight:500;color:{TEAL};margin-top:6px;\">&Delta; {format_number(delta)}{pct_text}</div>
             <div style=\"font-size:0.8rem;color:#718096;margin-top:4px;\">Baseline {base_year}: {format_number(base)}</div>
         </div>
         """,
@@ -127,6 +127,15 @@ def build_year_selector(years: List[int], label: str, default: int | None = None
 
 def layout_overview(df: pd.DataFrame, selected_methods: List[str]) -> None:
     st.subheader("Key Highlights")
+    st.markdown("""
+**Objectives**: Provide a quick read on how Michigan's automotive workforce evolves under alternative growth assumptions.
+
+**Methods**: Each methodology blends a segment attribution source (BEA or Lightcast) with a growth path (Moody or BLS). Employment totals are aggregated across all segments for comparability.
+
+**Data Inputs**: Occupation-level forecasts generated via `scripts/occupation_forecasts_from_segment_totals.py`, seeded by MCDA staffing shares and Moody/BLS adjustments.
+
+**Use Case**: Scan for scenarios with material deviations to guide scenario planning and stakeholder communications.
+""")
     latest_year = df["year"].max()
     base_year = df["year"].min()
 
@@ -193,6 +202,15 @@ def layout_overview(df: pd.DataFrame, selected_methods: List[str]) -> None:
 
 def layout_segments(df: pd.DataFrame, selected_methods: List[str], years: List[int]) -> None:
     st.subheader("Segment-Level View")
+    st.markdown("""
+**Objectives**: Understand which parts of the automotive supply chain gain or lose employment.
+
+**Methods**: Segment totals reflect the selected methodologies; baseline (2024) shares stay constant per segment, while growth follows Moody/BLS rates. Segment 0 (statewide total) is intentionally excluded for clarity.
+
+**Data Inputs**: `mi_occ_segment_totals_2024_2034.csv` aggregates tied to MCDA staffing shares.
+
+**Use Case**: Compare bars to highlight sensitivity by scenario; use the detailed table to capture absolute levels for reporting.
+""")
     seg_year = build_year_selector(years, "Select year for segment snapshot", default=max(years))
     seg_data = aggregate_by_segment(df[df["methodology"].isin(selected_methods)], seg_year)
     seg_data = seg_data[seg_data["segment_id"] != 0]
@@ -230,6 +248,15 @@ def layout_segments(df: pd.DataFrame, selected_methods: List[str], years: List[i
 
 def layout_time_series(df: pd.DataFrame, selected_methods: List[str], core_df: pd.DataFrame) -> None:
     st.subheader("Stage / Time Horizon View")
+    st.markdown("""
+**Objectives**: Track the time path of employment under selected methodologies and connect to historical benchmarks.
+
+**Methods**: Forecast trajectories cover 2024-2034, while the extended chart joins historical QCEW data (2001 onward) with Moody/BLS growth projections for core automotive segments.
+
+**Data Inputs**: Occupation forecasts (`mi_occ_segment_totals_2024_2034.csv`) plus core series (`mi_qcew_segment_employment_timeseries_coreauto_extended_compare.csv`).
+
+**Use Case**: Diagnose inflection points, validate reasonableness against history, and communicate long-run trends to partners.
+""")
     stage_choice = st.selectbox(
         "Aggregate by",
         ["All segments", "Individual segment"],
@@ -304,6 +331,15 @@ def layout_time_series(df: pd.DataFrame, selected_methods: List[str], core_df: p
 
 def layout_occupation_insights(df: pd.DataFrame, selected_methods: List[str]) -> None:
     st.subheader("Occupation Explorer")
+    st.markdown("""
+**Objectives**: Dive into occupation-level stories to support talent, training, and education conversations.
+
+**Methods**: Occupation forecasts inherit segment totals, MCDA staffing shares, and BLS shift adjustments. Methodology filters expose sensitivities, while the table consolidates change metrics.
+
+**Data Inputs**: Detailed SOC-level outputs from `mi_occ_segment_totals_2024_2034.csv`.
+
+**Use Case**: Identify high-growth or at-risk occupations, share with workforce boards, and target reskilling strategies.
+""")
 
     occ_options = (
         df[["occcd", "soctitle"]]
@@ -437,6 +473,15 @@ def layout_occupation_insights(df: pd.DataFrame, selected_methods: List[str]) ->
 
 def layout_data_access(df: pd.DataFrame, core_df: pd.DataFrame) -> None:
     st.subheader("Data Access & Notes")
+    st.markdown("""
+**Objectives**: Provide transparent access to datasets, lineage, and documentation supporting the forecasts.
+
+**Methods**: All files derive from reproducible scripts in the repository; exports retain segment, methodology, and occupation metadata for downstream analysis.
+
+**Data Inputs**: Key processed CSVs and Python scripts noted below.
+
+**Use Case**: Enable collaborators and clients to download, audit, and integrate the data into their own tools.
+""")
     st.markdown(
         textwrap.dedent(
             """
