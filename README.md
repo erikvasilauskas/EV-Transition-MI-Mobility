@@ -66,7 +66,7 @@ The analysis framework divides the automotive ecosystem into **3 stages** and **
 | **QCEW** | BLS via MI Dept of Labor | Michigan employment by NAICS (2001-2024) | Annual |
 | **OEWS** | BLS via MCDA | Michigan occupational staffing patterns | Annual |
 | **Moody's Analytics** | Moody's Economy.com | Long-range employment/GDP forecasts (1970-2055) | Quarterly |
-| **BLS Employment Projections** | BLS Table 1.9 | US industry×occupation matrices (2024-2034) | Biennial |
+| **BLS Employment Projections** | BLS Table 1.9 | US industry×occupation matrices (2024-2034) | Annual |
 | **BEA/Lightcast Attribution** | Project analysis | Auto-industry share allocations | As needed |
 | **MCDA Staffing Patterns** | MI Center for Data & Analytics | Aggregated 10-segment staffing patterns | On demand |
 
