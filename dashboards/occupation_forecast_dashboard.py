@@ -19,6 +19,7 @@ import streamlit as st
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = REPO_ROOT / "data" / "processed" / "mi_occ_segment_totals_2024_2034.csv"
 CORE_SERIES_PATH = REPO_ROOT / "data" / "processed" / "mi_qcew_segment_employment_timeseries_coreauto_extended_compare.csv"
+LOOKUP_PATH = REPO_ROOT / "data" / "lookups" / "segment_assignments.csv"
 COLORS_PATH = REPO_ROOT / "config" / "colors.json"
 DEFAULT_METHOD = "lightcast_moody"
 
@@ -46,6 +47,16 @@ def load_core_series() -> pd.DataFrame:
     return df
 
 
+@st.cache_data(show_spinner=False)
+def load_segment_lookup() -> pd.DataFrame:
+    df = pd.read_csv(LOOKUP_PATH)
+    df["segment_id"] = pd.to_numeric(df["segment_id"], errors='coerce').fillna(0).astype(int)
+    df["segment_name"] = df["segment_name"].astype(str)
+    df["stage"] = df["stage"].astype(str)
+    df["naics_code"] = df["naics_code"].astype(str)
+    return df
+
+
 def format_number(value: float, suffix: str = "") -> str:
     if pd.isna(value):
         return "-"
@@ -62,11 +73,11 @@ def render_method_card(
     pct_text = f" ({delta_pct:.1f}%)" if not np.isnan(delta_pct) else ""
     container.markdown(
         f"""
-        <div style=\"background-color:#F5F9FA;padding:16px;border-radius:10px;border-left:4px solid {TEAL};\">
-            <div style=\"font-size:0.85rem;color:#4A5568;margin-bottom:4px;\">{method_name}</div>
-            <div style=\"font-size:2rem;font-weight:600;color:#1A202C;\">{format_number(latest)}<span style=\"font-size:1rem;font-weight:400;color:#718096;\"> ({latest_year})</span></div>
-            <div style=\"font-size:0.95rem;font-weight:500;color:{TEAL};margin-top:6px;\">Δ {format_number(delta)}{pct_text}</div>
-            <div style=\"font-size:0.8rem;color:#718096;margin-top:4px;\">Baseline {base_year}: {format_number(base)}</div>
+        <div style="background-color:#F5F9FA;padding:20px;border-radius:12px;border-left:5px solid {TEAL};">
+            <div style="font-size:1rem;color:#2D3748;margin-bottom:8px;text-transform:uppercase;letter-spacing:0.05em;">{method_name}</div>
+            <div style="font-size:2.6rem;font-weight:600;color:#1A202C;line-height:1.1;">{format_number(latest)}<span style="font-size:1.2rem;font-weight:400;color:#718096;"> ({latest_year})</span></div>
+            <div style="font-size:1.2rem;font-weight:600;color:{TEAL};margin-top:10px;">Δ {format_number(delta)}{pct_text}</div>
+            <div style="font-size:0.95rem;color:#4A5568;margin-top:6px;">Baseline {base_year}: {format_number(base)}</div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -127,10 +138,31 @@ def build_year_selector(years: List[int], label: str, default: int | None = None
 
 def layout_overview(df: pd.DataFrame, selected_methods: List[str]) -> None:
     st.subheader("Key Highlights")
-    latest_year = df["year"].max()
-    base_year = df["year"].min()
+    years = sorted(df["year"].unique())
+    base_year = 2024 if 2024 in years else years[0]
+    latest_year = 2030 if 2030 in years else years[-1]
 
     method_metrics = []
+
+    def _render_highlight_section(title: str, metrics: list[dict[str, float]]) -> None:
+        if not metrics:
+            st.info(f"No data available for {title.lower()}.")
+            return
+        st.markdown(f"#### {title}")
+        cards_per_row = 3 if len(metrics) > 2 else len(metrics)
+        for idx, metric in enumerate(metrics):
+            if idx % cards_per_row == 0:
+                cols = st.columns(cards_per_row)
+            render_method_card(
+                cols[idx % cards_per_row],
+                metric["method"],
+                metric["latest"],
+                metric["base"],
+                metric["delta"],
+                metric["pct"],
+                base_year,
+                latest_year,
+            )
     for method in selected_methods:
         method_df = df[df["methodology"] == method]
         base_total = method_df[method_df["year"] == base_year]["employment"].sum()
@@ -151,20 +183,19 @@ def layout_overview(df: pd.DataFrame, selected_methods: List[str]) -> None:
         st.info("Select at least one methodology to view results.")
         return
 
-    cards_per_row = 3 if len(method_metrics) > 2 else len(method_metrics)
-    for idx, metric in enumerate(method_metrics):
-        if idx % cards_per_row == 0:
-            cols = st.columns(cards_per_row)
-        render_method_card(
-            cols[idx % cards_per_row],
-            metric["method"],
-            metric["latest"],
-            metric["base"],
-            metric["delta"],
-            metric["pct"],
-            base_year,
-            latest_year,
-        )
+    _render_highlight_section("All Segments", method_metrics)
+
+    upstream_df = df[~df["segment_id"].isin([0, 8, 9, 10])]
+    upstream_metrics = []
+    for method in selected_methods:
+        method_df = upstream_df[upstream_df["methodology"] == method]
+        base_total = method_df[method_df["year"] == base_year]["employment"].sum()
+        latest_total = method_df[method_df["year"] == latest_year]["employment"].sum()
+        delta_abs = latest_total - base_total
+        delta_pct = (delta_abs / base_total * 100) if base_total else np.nan
+        upstream_metrics.append({"method": method, "base": base_total, "latest": latest_total, "delta": delta_abs, "pct": delta_pct})
+
+    _render_highlight_section("Upstream & Core Auto (Segments 1-7)", upstream_metrics)
 
     summary_df = pd.DataFrame(method_metrics)
     summary_df = summary_df.assign(
@@ -184,9 +215,6 @@ def layout_overview(df: pd.DataFrame, selected_methods: List[str]) -> None:
     summary_df["% change"] = summary_df["% change"].apply(
         lambda v: f"{v:.1f}%" if not np.isnan(v) else "-"
     )
-
-    with st.expander("Methodology comparison", expanded=False):
-        st.dataframe(summary_df.set_index("Methodology"), use_container_width=True)
 
     st.caption("Source: data/processed/mi_occ_segment_totals_2024_2034.csv")
 
@@ -258,6 +286,8 @@ def layout_time_series(df: pd.DataFrame, selected_methods: List[str], core_df: p
         st.info("No data available for the selected settings.")
         return
 
+    selected_segment_ids = sorted(stage_df["segment_id"].unique().tolist())
+
     timeline = (
         stage_df.groupby(["year", "methodology"], as_index=False)["employment"].sum()
         .sort_values(["methodology", "year"])
@@ -274,17 +304,14 @@ def layout_time_series(df: pd.DataFrame, selected_methods: List[str], core_df: p
     )
     st.plotly_chart(fig, use_container_width=True)
 
-    st.markdown("### Extended core automotive context (2001-2034)")
-    core_subset = core_df.copy()
-    if seg_id is not None:
-        core_subset = core_subset[core_subset["segment_id"] == seg_id]
+    st.markdown("### Extended context (2001-2055)")
+    core_subset = core_df[core_df["segment_id"].isin(selected_segment_ids)] if selected_segment_ids else core_df.iloc[0:0]
 
     if core_subset.empty:
         st.info("No extended series available for the selected segment.")
     else:
         core_timeline = (
-            core_subset.groupby(["year", "source"], as_index=False)["employment_qcew"]
-            .sum()
+            core_subset.groupby(["year", "source"], as_index=False)["employment_qcew"].sum()
             .sort_values(["source", "year"])
         )
         fig_core = px.line(
@@ -298,7 +325,7 @@ def layout_time_series(df: pd.DataFrame, selected_methods: List[str], core_df: p
         )
         st.plotly_chart(fig_core, use_container_width=True)
         st.caption(
-            "Extended series blends historical QCEW employment (2001 onward) with core automotive projections using BLS- and Moody-based growth paths."
+            "Extended series aligns with the selected segments, blending historical QCEW employment (2001 onward) with core automotive projections using BLS- and Moody-based growth paths."
         )
 
 
@@ -435,6 +462,32 @@ def layout_occupation_insights(df: pd.DataFrame, selected_methods: List[str]) ->
     )
 
 
+def layout_supply_chain(supply_df: pd.DataFrame) -> None:
+    st.subheader("Supply Chain Structure")
+    st.markdown("""
+This table summarizes the Michigan automotive supply chain mapping. Each NAICS industry is assigned to a stage and segment. The employment figures reflect 2024 QCEW levels used as the baseline in the attribution workflow.
+
+- **Segments 1-7** represent upstream and core automotive activities.
+- **Segments 8-10** capture downstream sales, maintenance, and logistics.
+""")
+
+    table = supply_df.copy()
+    table = table.sort_values(["segment_id", "stage", "naics_code"]).reset_index(drop=True)
+    table["Employment 2024"] = table["employment_qcew_2024"].apply(lambda v: format_number(v))
+    display_cols = [
+        "segment_id",
+        "segment_name",
+        "stage",
+        "naics_code",
+        "naics_title",
+        "Employment 2024",
+    ]
+    st.dataframe(
+        table[display_cols].rename(columns={"segment_id": "Segment ID", "segment_name": "Segment", "stage": "Stage", "naics_code": "NAICS", "naics_title": "NAICS Title"}),
+        use_container_width=True,
+    )
+
+
 def layout_data_access(df: pd.DataFrame, core_df: pd.DataFrame) -> None:
     st.subheader("Data Access & Notes")
     st.markdown(
@@ -479,17 +532,19 @@ st.caption(
 
 forecasts = load_forecasts()
 core_series = load_core_series()
+supply_chain_df = load_segment_lookup()
 all_years = sorted(forecasts["year"].unique())
 all_methods = sorted(forecasts["methodology"].unique())
 selected_methods = build_methodology_selector(all_methods)
 filtered_df = forecasts[forecasts["methodology"].isin(selected_methods)]
 
-overview_tab, segment_tab, stage_tab, occupation_tab, data_tab = st.tabs(
+overview_tab, segment_tab, stage_tab, occupation_tab, supply_tab, data_tab = st.tabs(
     [
         "Overview",
         "Segments",
         "Stage / Horizon",
         "Occupation Explorer",
+        "Supply Chain",
         "Data & Notes",
     ]
 )
@@ -505,6 +560,9 @@ with stage_tab:
 
 with occupation_tab:
     layout_occupation_insights(filtered_df, selected_methods)
+
+with supply_tab:
+    layout_supply_chain(supply_chain_df)
 
 with data_tab:
     layout_data_access(filtered_df, core_series)
