@@ -22,6 +22,7 @@ CORE_SERIES_PATH = REPO_ROOT / "data" / "processed" / "mi_qcew_segment_employmen
 LOOKUP_PATH = REPO_ROOT / "data" / "lookups" / "segment_assignments.csv"
 COLORS_PATH = REPO_ROOT / "config" / "colors.json"
 DEFAULT_METHOD = "lightcast_moody"
+CORE_UPSTREAM_SEGMENT_ID = 11
 
 with open(COLORS_PATH, "r", encoding="utf-8") as _f:
     COLORS = json.load(_f)
@@ -164,7 +165,9 @@ def layout_overview(df: pd.DataFrame, selected_methods: List[str]) -> None:
                 latest_year,
             )
     for method in selected_methods:
-        method_df = df[df["methodology"] == method]
+        method_df = df[(df["methodology"] == method) & (df["segment_id"] == 0)]
+        if method_df.empty:
+            method_df = df[(df["methodology"] == method) & (df["segment_id"].ne(CORE_UPSTREAM_SEGMENT_ID))]
         base_total = method_df[method_df["year"] == base_year]["employment"].sum()
         latest_total = method_df[method_df["year"] == latest_year]["employment"].sum()
         delta_abs = latest_total - base_total
@@ -185,7 +188,7 @@ def layout_overview(df: pd.DataFrame, selected_methods: List[str]) -> None:
 
     _render_highlight_section("All Segments", method_metrics)
 
-    upstream_df = df[~df["segment_id"].isin([0, 8, 9, 10])]
+    upstream_df = df[df["segment_id"].isin(range(1, 8))]
     upstream_metrics = []
     for method in selected_methods:
         method_df = upstream_df[upstream_df["methodology"] == method]
@@ -265,7 +268,7 @@ def layout_time_series(df: pd.DataFrame, selected_methods: List[str], core_df: p
     )
 
     stage_df = df[df["methodology"].isin(selected_methods)].copy()
-    stage_df = stage_df[stage_df["segment_id"] != 0]
+    stage_df = stage_df[~stage_df["segment_id"].isin({0, CORE_UPSTREAM_SEGMENT_ID})]
 
     seg_id: int | None = None
     if stage_choice == "Individual segment":
@@ -391,17 +394,24 @@ def layout_occupation_insights(df: pd.DataFrame, selected_methods: List[str]) ->
         .assign(label=lambda d: d["segment_id"].astype(str) + " - " + d["segment_name"])
     )
     segment_labels = segment_options["label"].tolist()
+    default_segment_labels = [
+        label
+        for label in segment_labels
+        if not label.startswith(f"{CORE_UPSTREAM_SEGMENT_ID} ")
+    ]
+    if not default_segment_labels:
+        default_segment_labels = segment_labels
     selected_segment_labels = st.multiselect(
         "Filter segments",
         options=segment_labels,
-        default=segment_labels,
+        default=default_segment_labels,
         help="Limit the table to specific supply segments (defaults to all).",
     )
     if selected_segment_labels:
         segment_ids = {int(label.split(" - ")[0]) for label in selected_segment_labels}
         table_df = table_df[table_df["segment_id"].isin(segment_ids)]
     else:
-        table_df = table_df[table_df["segment_id"] != 0]
+        table_df = table_df[~table_df["segment_id"].isin({0, CORE_UPSTREAM_SEGMENT_ID})]
 
     edu_options = sorted(table_df["ep_edu_grouped"].unique())
     selected_edus = st.multiselect(

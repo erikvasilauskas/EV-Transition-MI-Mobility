@@ -1,0 +1,32 @@
+NAICS,3361MV,T001_Intermediate Inputs,Final Use (GDP),Total Commodity Output,naics_title,segment_id,segment_name,stage,share_of_intermediate_inputs,share_of_total_commodity_output
+3252,2436,95703.0,12724.0,108427.0,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,0.025453747531425347,0.02246672876682007
+3255,6203,35771.0,6564.0,42334.0,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,0.17340862710016494,0.1465252515708414
+3261,8647,184671.0,6654.0,191325.0,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,0.046823810993604845,0.0451953482294525
+3262,6336,39262.0,2867.0,42128.0,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,0.1613774132749223,0.15039878465628562
+3272,2942,24708.0,1519.0,26227.0,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,0.11907074631698235,0.11217447668433293
+3311,14532,123046.0,-21073.0,101973.0,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,0.11810217317100921,0.14250831102350622
+3312,103,11619.0,-2372.0,9247.0,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,0.008864790429468973,0.011138747701957392
+3313,3282,45891.0,-11529.0,34362.0,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,0.07151729097208603,0.09551248472149468
+3314,3417,59327.0,-13364.0,45963.0,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,0.05759603553188262,0.07434240584818223
+3315,10396,28536.0,281.0,28817.0,Foundries,3,Forging & Foundries,Upstream,0.3643117465657415,0.3607592740396294
+3321,5015,30440.0,257.0,30697.0,Forging and Stamping,3,Forging & Foundries,Upstream,0.1647503285151117,0.16337101345408347
+3326,631,6320.0,-675.0,5645.0,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,0.09984177215189874,0.11178033658104518
+3327,8197,66770.0,-616.0,66154.0,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,0.12276471469222705,0.12390785137708982
+3328,1628,25747.0,375.0,26122.0,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,0.06323066765060006,0.06232294617563739
+3329,1757,68542.0,-1060.0,67481.0,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,0.02563391788976102,0.02603695855129592
+3335,469,13661.0,19015.0,32677.0,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,0.03433130810335993,0.014352602748110291
+3336,8440,39287.0,6903.0,46191.0,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,0.21482933285819736,0.18271957740685416
+3339,3265,50479.0,49910.0,100390.0,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,0.06468036213078707,0.03252315967725869
+3344,4063,104290.0,-10004.0,94286.0,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,0.038958672931249404,0.04309229365971618
+3345,455,50219.0,97073.0,147290.0,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,0.009060315816722755,0.003089143865842895
+3359,2976,43236.0,4473.0,47710.0,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,0.06883152928115459,0.06237686019702368
+3361,1176,1956.0,275629.0,277584.0,Motor Vehicle Manufacturing,7,Core Automotive,OEM,0.6012269938650306,0.004236555421061733
+3362,6073,8014.0,35512.0,43526.0,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,0.7577988520089842,0.1395258006708634
+3363,117767,302103.0,-45853.0,256249.0,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,0.3898240004236965,0.45958033006958077
+4231,29686,60518.0,75589.0,136107.0,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,0.4905317426220298,0.2181078122359614
+4238,7811,72610.0,96256.0,168866.0,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,0.10757471422669054,0.04625561095780086
+4247,157,89082.0,72864.0,161947.0,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,0.001762421140073191,0.0009694529691812754
+5413,1250,266697.0,73475.0,340173.0,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,0.004686966857519957,0.0036746008648540596
+5414,202,30211.0,7391.0,37602.0,Industrial design,6,Engineering & Design,OEM,0.006686306312270365,0.005372054677942662
+5417,18,12978.0,603866.0,616844.0,Scientific Research and Development ,6,Engineering & Design,OEM,0.0013869625520110957,2.9180797738163943e-05
+8111,187,29356.0,164930.0,194285.0,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,0.006370077667257119,0.0009625035386159507

@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import argparse
 from pathlib import Path
-from typing import Optional
+from typing import Iterable, Optional
 
 import numpy as np
 import pandas as pd
@@ -20,12 +20,6 @@ SEGMENT_LABELS = {
     9: "9. Dealers, Maintenance, & Repair",
     10: "10. Logistics",
 }
-
-CORE_UPSTREAM_SEGMENT_ID = 11
-CORE_UPSTREAM_SEGMENT_NAME = "Core Auto and Upstream Supply"
-CORE_UPSTREAM_INCLUDED_SEGMENTS: tuple[int, ...] = tuple(
-    seg_id for seg_id in SEGMENT_LABELS if seg_id not in {8, 9, 10}
-)
 
 
 def normalize_segment_totals(path: Path) -> pd.DataFrame:
@@ -391,9 +385,7 @@ def main() -> None:
         "ep_on_the_job_training",
         "ep_edu_grouped",
     ]
-    share_lookup = forecasts[["methodology", "occcd", "share_2024", "share_2034"]].drop_duplicates(subset=["methodology", "occcd"])
-
-    aggregated_all = (
+    aggregated = (
         forecasts.groupby(segment_meta_cols, as_index=False, dropna=False)
         .agg({
             "employment": "sum",
@@ -402,62 +394,38 @@ def main() -> None:
             "empl_2021": "sum",
         })
     )
-    aggregated_all["segment_id"] = 0
-    aggregated_all["segment_name"] = "0. All Segments"
+    aggregated["segment_id"] = 0
+    aggregated["segment_name"] = "0. All Segments"
 
-    totals_all = aggregated_all.groupby(["methodology", "year"])["employment"].transform("sum")
-    aggregated_all["share"] = np.where(totals_all > 0, aggregated_all["employment"] / totals_all, np.nan)
+    year_group_totals = aggregated.groupby(["methodology", "year"])["employment"].transform("sum")
+    aggregated["share"] = np.where(year_group_totals > 0, aggregated["employment"] / year_group_totals, np.nan)
 
-    aggregated_all = aggregated_all.merge(share_lookup, on=["methodology", "occcd"], how="left")
+    share_lookup = forecasts[["methodology", "occcd", "share_2024", "share_2034"]].drop_duplicates(subset=["methodology", "occcd"])
+    aggregated = aggregated.merge(share_lookup, on=["methodology", "occcd"], how="left")
 
-    aggregated_cols = [
-        "segment_id",
-        "segment_name",
-        "year",
-        "methodology",
-        "occcd",
-        "soctitle",
-        "employment",
-        "share",
-        "share_2024",
-        "share_2034",
-        "ep_entry_education",
-        "ep_work_experience",
-        "ep_on_the_job_training",
-        "ep_edu_grouped",
-        "empl_2021",
-        "ep_openings_annual_avg",
-        "openings",
+    aggregated = aggregated[
+        [
+            "segment_id",
+            "segment_name",
+            "year",
+            "methodology",
+            "occcd",
+            "soctitle",
+            "employment",
+            "share",
+            "share_2024",
+            "share_2034",
+            "ep_entry_education",
+            "ep_work_experience",
+            "ep_on_the_job_training",
+            "ep_edu_grouped",
+            "empl_2021",
+            "ep_openings_annual_avg",
+            "openings",
+        ]
     ]
 
-    aggregated_all = aggregated_all[aggregated_cols]
-
-    core_aggregated = pd.DataFrame(columns=aggregated_cols)
-    core_mask = forecasts["segment_id"].isin(CORE_UPSTREAM_INCLUDED_SEGMENTS)
-    if core_mask.any():
-        core_subset = forecasts[core_mask]
-        core_aggregated = (
-            core_subset.groupby(segment_meta_cols, as_index=False, dropna=False)
-            .agg({
-                "employment": "sum",
-                "openings": "sum",
-                "ep_openings_annual_avg": "first",
-                "empl_2021": "sum",
-            })
-        )
-        core_aggregated["segment_id"] = CORE_UPSTREAM_SEGMENT_ID
-        core_aggregated["segment_name"] = CORE_UPSTREAM_SEGMENT_NAME
-
-        core_totals = core_aggregated.groupby(["methodology", "year"])["employment"].transform("sum")
-        core_aggregated["share"] = np.where(core_totals > 0, core_aggregated["employment"] / core_totals, np.nan)
-
-        core_aggregated = core_aggregated.merge(share_lookup, on=["methodology", "occcd"], how="left")
-        core_aggregated = core_aggregated[aggregated_cols]
-
-    append_parts = [forecasts, aggregated_all]
-    if not core_aggregated.empty:
-        append_parts.append(core_aggregated)
-    forecasts = pd.concat(append_parts, ignore_index=True)
+    forecasts = pd.concat([forecasts, aggregated], ignore_index=True)
     forecasts = forecasts.sort_values(["segment_id", "occcd", "year", "methodology"])
 
     out_dir = Path("data/processed")
@@ -470,18 +438,7 @@ def main() -> None:
     snap_path = out_dir / f"{args.out_prefix}_2030.csv"
     snap_2030.to_csv(snap_path, index=False)
 
-    core_segment_ids = set(CORE_UPSTREAM_INCLUDED_SEGMENTS) | {CORE_UPSTREAM_SEGMENT_ID}
-    core_prefix = f"{args.out_prefix}_core_upstream"
-    core_output = forecasts[forecasts["segment_id"].isin(core_segment_ids)].copy()
-    core_full_path = out_dir / f"{core_prefix}_2024_2034.csv"
-    core_output.to_csv(core_full_path, index=False)
-
-    core_snap = core_output[core_output["year"] == 2030].copy()
-    core_snap_path = out_dir / f"{core_prefix}_2030.csv"
-    core_snap.to_csv(core_snap_path, index=False)
-
-    validation_source = forecasts[~forecasts["segment_id"].isin({0, CORE_UPSTREAM_SEGMENT_ID})]
-    occ_totals = validation_source.groupby(["segment_id", "year", "methodology"], as_index=False)["employment"].sum()
+    occ_totals = forecasts.groupby(["segment_id", "year", "methodology"], as_index=False)["employment"].sum()
     validation = occ_totals.merge(segment_totals, on=["segment_id", "year", "methodology"], how="left")
     validation["pct_diff"] = np.where(
         validation["employment_qcew"] > 0,
@@ -493,8 +450,6 @@ def main() -> None:
 
     print("Saved forecasts:", full_path)
     print("Saved 2030 snapshot:", snap_path)
-    print("Saved core-upstream forecasts:", core_full_path)
-    print("Saved core-upstream 2030 snapshot:", core_snap_path)
     print("Saved validation:", val_path)
 
 

@@ -1,0 +1,93 @@
+NAICS,Code,Commodity Description,3361MV,T001_Intermediate Inputs,Final Use (GDP),Total Commodity Output
+3252,325211,Plastics material and resin manufacturing,1830,76307.0,12230.0,88537.0
+3252,3252A0,Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,606,19396.0,494.0,19890.0
+3255,325510,Paint and coating manufacturing,4168,23433.0,3689.0,27121.0
+3255,325520,Adhesive manufacturing,2035,12338.0,2875.0,15213.0
+3261,326110,Plastics packaging materials and unlaminated film and sheet manufacturing,1897,37419.0,2717.0,40136.0
+3261,326120,"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",346,17467.0,290.0,17757.0
+3261,326130,"Laminated plastics plate, sheet (except packaging), and shape manufacturing",166,4500.0,29.0,4529.0
+3261,326140,Polystyrene foam product manufacturing,118,8133.0,801.0,8934.0
+3261,326150,Urethane and other foam product (except polystyrene) manufacturing,924,9898.0,702.0,10600.0
+3261,326160,Plastics bottle manufacturing,0,11616.0,-501.0,11115.0
+3261,326190,Other plastics product manufacturing,5196,95638.0,2616.0,98254.0
+3262,326210,Tire manufacturing,2208,15731.0,3117.0,18847.0
+3262,326220,Rubber and plastics hoses and belting manufacturing,1210,6759.0,-828.0,5931.0
+3262,326290,Other rubber product manufacturing,2918,16772.0,578.0,17350.0
+3272,327200,Glass and glass product manufacturing,2942,24708.0,1519.0,26227.0
+3311,331110,Iron and steel mills and ferroalloy manufacturing,14532,123046.0,-21073.0,101973.0
+3312,331200,Steel product manufacturing from purchased steel,103,11619.0,-2372.0,9247.0
+3313,331313,Alumina refining and primary aluminum production,571,18739.0,-9923.0,8816.0
+3313,33131B,Aluminum product manufacturing from purchased aluminum,2711,27152.0,-1606.0,25546.0
+3314,331410,Nonferrous metal (except aluminum) smelting and refining,516,30136.0,-14664.0,15472.0
+3314,331420,"Copper rolling, drawing, extruding and alloying",2521,20570.0,-640.0,19930.0
+3314,331490,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",380,8621.0,1940.0,10561.0
+3315,331510,Ferrous metal foundries,4438,16237.0,256.0,16493.0
+3315,331520,Nonferrous metal foundries,5958,12299.0,25.0,12324.0
+3321,332114,Custom roll forming,2587,6682.0,30.0,6712.0
+3321,332119,"Metal crown, closure, and other metal stamping (except automotive)",1127,10874.0,69.0,10943.0
+3321,33211A,"All other forging, stamping, and sintering",1301,12884.0,158.0,13042.0
+3326,332600,Spring and wire product manufacturing,631,6320.0,-675.0,5645.0
+3327,332710,Machine shops,3514,35638.0,1406.0,37044.0
+3327,332720,"Turned product and screw, nut, and bolt manufacturing",4683,31132.0,-2022.0,29110.0
+3328,332800,"Coating, engraving, heat treating and allied activities",1628,25747.0,375.0,26122.0
+3329,332913,Plumbing fixture fitting and trim manufacturing,35,5468.0,-998.0,4470.0
+3329,33291A,Valve and fittings other than plumbing,935,28303.0,-4188.0,24115.0
+3329,332991,Ball and roller bearing manufacturing,603,7454.0,-1471.0,5983.0
+3329,332996,Fabricated pipe and pipe fitting manufacturing,4,5311.0,638.0,5949.0
+3329,332999,Other fabricated metal manufacturing,180,16549.0,-2648.0,13901.0
+3329,33299A,"Ammunition, arms, ordnance, and accessories manufacturing",0,5457.0,7607.0,13063.0
+3335,333511,Industrial mold manufacturing,6,2285.0,4100.0,6385.0
+3335,333514,"Special tool, die, jig, and fixture manufacturing",278,2334.0,7973.0,10307.0
+3335,333517,Machine tool manufacturing,77,1987.0,5614.0,7601.0
+3335,33351B,"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",108,7055.0,1328.0,8384.0
+3336,333611,Turbine and turbine generator set units manufacturing,0,3161.0,8903.0,12065.0
+3336,333612,"Speed changer, industrial high-speed drive, and gear manufacturing",53,5132.0,-2101.0,3031.0
+3336,333613,Mechanical power transmission equipment manufacturing,1114,6294.0,-1358.0,4936.0
+3336,333618,Other engine equipment manufacturing,7273,24700.0,1459.0,26159.0
+3339,333912,Air and gas compressor manufacturing,30,2394.0,6498.0,8892.0
+3339,333914,"Measuring, dispensing, and other pumping equipment manufacturing",0,7961.0,9439.0,17400.0
+3339,333920,Material handling equipment manufacturing,83,11138.0,17361.0,28500.0
+3339,333991,Power-driven handtool manufacturing,0,994.0,2007.0,3001.0
+3339,333993,Packaging machinery manufacturing,0,3819.0,2912.0,6731.0
+3339,333994,Industrial process furnace and oven manufacturing,0,759.0,1803.0,2561.0
+3339,33399A,Other general purpose machinery manufacturing,380,10215.0,12434.0,22650.0
+3339,33399B,Fluid power process machinery,2772,13199.0,-2544.0,10655.0
+3344,334413,Semiconductor and related device manufacturing,1767,57111.0,-6656.0,50455.0
+3344,334418,Printed circuit assembly (electronic assembly) manufacturing,818,15835.0,2675.0,18510.0
+3344,33441A,Other electronic component manufacturing,1478,31344.0,-6023.0,25321.0
+3345,334510,Electromedical and electrotherapeutic apparatus manufacturing,0,5950.0,25361.0,31310.0
+3345,334511,"Search, detection, and navigation instruments manufacturing",0,18025.0,31893.0,49918.0
+3345,334512,Automatic environmental control manufacturing,7,3953.0,-1095.0,2857.0
+3345,334513,Industrial process variable instruments manufacturing,10,4939.0,5403.0,10342.0
+3345,334514,Totalizing fluid meter and counting device manufacturing,438,4864.0,272.0,5136.0
+3345,334515,Electricity and signal testing instruments manufacturing,0,4040.0,7189.0,11229.0
+3345,334516,Analytical laboratory instrument manufacturing,0,3516.0,12018.0,15534.0
+3345,334517,Irradiation apparatus manufacturing,0,621.0,8341.0,8962.0
+3345,33451A,"Watch, clock, and other measuring and controlling device manufacturing",0,4311.0,7691.0,12002.0
+3359,335911,Storage battery manufacturing,1291,7379.0,55.0,7434.0
+3359,335912,Primary battery manufacturing,0,47.0,1935.0,1982.0
+3359,335920,Communication and energy wire and cable manufacturing,583,14305.0,-3044.0,11261.0
+3359,335930,Wiring device manufacturing,1070,12955.0,23.0,12979.0
+3359,335991,Carbon and graphite product manufacturing,0,3063.0,237.0,3299.0
+3359,335999,All other miscellaneous electrical equipment and component manufacturing,32,5487.0,5267.0,10755.0
+3361,336111,Automobile manufacturing,14,14.0,32767.0,32781.0
+3361,336112,Light truck and utility vehicle manufacturing,0,1.0,215420.0,215421.0
+3361,336120,Heavy duty truck manufacturing,1162,1941.0,27442.0,29382.0
+3362,336211,Motor vehicle body manufacturing,4385,4515.0,6041.0,10556.0
+3362,336212,Truck trailer manufacturing,33,173.0,10433.0,10606.0
+3362,336213,Motor home manufacturing,10,10.0,6175.0,6185.0
+3362,336214,Travel trailer and camper manufacturing,1645,3316.0,12863.0,16179.0
+3363,336310,Motor vehicle gasoline engine and engine parts manufacturing,12264,45341.0,-7163.0,38178.0
+3363,336320,Motor vehicle electrical and electronic equipment manufacturing,5735,34135.0,-10172.0,23963.0
+3363,336350,Motor vehicle transmission and power train parts manufacturing,15605,49169.0,-7686.0,41482.0
+3363,336360,Motor vehicle seating and interior trim manufacturing,27439,36862.0,-6339.0,30523.0
+3363,336370,Motor vehicle metal stamping,33240,34574.0,980.0,35554.0
+3363,336390,Other motor vehicle parts manufacturing,14729,69361.0,-8151.0,61210.0
+3363,3363A0,"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",8755,32661.0,-7322.0,25339.0
+4231,423100,Motor vehicle and motor vehicle parts and supplies,29686,60518.0,75589.0,136107.0
+4238,423800,"Machinery, equipment, and supplies",7811,72610.0,96256.0,168866.0
+4247,424700,Petroleum and petroleum products,157,89082.0,72864.0,161947.0
+5413,541300,"Architectural, engineering, and related services",1250,266697.0,73475.0,340173.0
+5414,541400,Specialized design services,202,30211.0,7391.0,37602.0
+5417,541700,Scientific research and development services,18,12978.0,603866.0,616844.0
+8111,811100,Automotive repair and maintenance,187,29356.0,164930.0,194285.0

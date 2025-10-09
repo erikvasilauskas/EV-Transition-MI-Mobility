@@ -1,0 +1,39 @@
+NAICS,naics_title,segment_id,segment_name,stage,matched_to_bea
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,True
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,True
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,True
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,True
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,True
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,True
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,True
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,True
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,True
+3315,Foundries,3,Forging & Foundries,Upstream,True
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,True
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,True
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,True
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,True
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,True
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,True
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,True
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,True
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,True
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,True
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,True
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,True
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,True
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,True
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,True
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,False
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,True
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,False
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,True
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,False
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,False
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,False
+4841,General Freight Trucking,10,Logistics,Downstream,False
+4842,Specialized Freight Trucking,10,Logistics,Downstream,False
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,True
+5414,Industrial design,6,Engineering & Design,OEM,True
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,True
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,True
