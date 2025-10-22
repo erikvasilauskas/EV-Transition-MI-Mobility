@@ -1,0 +1,39 @@
+NAICS,NAICS Title,Segment,Segment Name,Stage,Legacy BEA Share of Total Industry Output (Summary Table),BEA Industry Share of Intermediate Inputs (Detailed Table 2017),BEA Industry Share of Total Industry Output (Detailed Table 2017)
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,1.2%,2.7%,2.3%
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,1.2%,17.3%,14.4%
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,6.1%,4.7%,4.5%
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,6.1%,16.4%,14.9%
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,3.5%,11.8%,11.1%
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,14.5%,11.7%,14.1%
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,14.5%,9.1%,11.0%
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,14.5%,7.1%,9.4%
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,14.5%,5.7%,7.4%
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,5.3%,6.4%,6.3%
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,3.9%,5.0%,2.2%
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,3.9%,6.6%,3.2%
+3315,Foundries,3,Forging & Foundries,Upstream,14.5%,36.0%,35.4%
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,5.3%,17.2%,16.9%
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,5.3%,6.4%,7.4%
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,5.3%,12.3%,12.2%
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,5.3%,2.8%,2.8%
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,1.8%,3.9%,3.6%
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,18.0%,21.4%,17.7%
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,1.8%,1.0%,0.3%
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,2.9%,7.2%,6.5%
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,0.2%,0.5%,0.4%
+5414,Industrial design,6,Engineering & Design,OEM,0.2%,0.7%,0.5%
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,0.2%,0.2%,0.0%
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,100.0%,43.1%,0.5%
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,100.0%,72.7%,13.0%
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,100.0%,39.0%,43.9%
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,100.0%,48.5%,21.1%
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,100.0%,,
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,100.0%,10.8%,4.6%
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,100.0%,,
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,100.0%,0.2%,0.1%
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,100.0%,,
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,100.0%,,
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,100.0%,,
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,100.0%,1.1%,0.2%
+4841,General Freight Trucking,10,Logistics,Downstream,100.0%,,
+4842,Specialized Freight Trucking,10,Logistics,Downstream,100.0%,,
