@@ -1,0 +1,39 @@
+Sector,NAICS,NAICS Title,"QCEW MI Employment, 2024",BEA Industry Share of Intermediate Inputs to Core Auto (Detailed Table 2017),BEA Employment Related to Share of Intermediate Inputs to Core Auto,,BEA Industry Share of Total Industry Output to Core Auto (Detailed Table 2017),BEA Employment Related to Share of Total Output to Core Auto
+1. Materials & Processing - Coatings & Surface Treatments,3255,"""Paint, Coating, and Adhesive Manufacturing"""," 4,347 ",2.7%, 115 ,,2.3%, 101 
+1. Materials & Processing - Coatings & Surface Treatments,3328,"""Coating, Engraving, Heat Treating, and Allied Activities"""," 11,221 ",17.3%," 1,937 ",,14.4%," 1,621 "
+1. Materials & Processing - Metals,3311,"""Iron and Steel Mills and Ferroalloy Manufacturing"""," 3,258 ",4.7%, 154 ,,4.5%, 146 
+1. Materials & Processing - Metals,3312,"""Steel Product Manufacturing from Purchased Steel"""," 1,974 ",16.4%, 323 ,,14.9%, 294 
+1. Materials & Processing - Metals,3313,"""Alumina and Aluminum Production and Processing"""," 2,698 ",11.8%, 320 ,,11.1%, 300 
+1. Materials & Processing - Metals,3314,"""Nonferrous Metal (except Aluminum) Production and Processing"""," 1,262 ",11.7%, 148 ,,14.1%, 178 
+1. Materials & Processing - Non-Metals,3252,"""Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing"""," 5,524 ",9.1%, 503 ,,11.0%, 607 
+1. Materials & Processing - Non-Metals,3261,"""Plastics Product Manufacturing"""," 34,371 ",7.1%," 2,437 ",,9.4%," 3,232 "
+1. Materials & Processing - Non-Metals,3262,"""Rubber Product Manufacturing"""," 5,147 ",5.7%, 295 ,,7.4%, 382 
+1. Materials & Processing - Non-Metals,3272,"""Glass and Glass Product Manufacturing"""," 2,802 ",6.4%, 179 ,,6.3%, 176 
+2. Equipment Manufacturing,3335,"""Metalworking Machinery Manufacturing"""," 29,604 ",5.0%," 1,489 ",,2.2%, 650 
+2. Equipment Manufacturing,3339,"""Other General Purpose Machinery Manufacturing"""," 17,946 ",6.6%," 1,179 ",,3.2%, 582 
+3. Forging & Foundries,3315,"""Foundries"""," 9,349 ",36.0%," 3,367 ",,35.4%," 3,305 "
+3. Forging & Foundries,3321,"""Forging and Stamping"""," 6,988 ",17.2%," 1,200 ",,16.9%," 1,180 "
+4. Parts & Machining,3326,"""Spring and Wire Product Manufacturing"""," 2,869 ",6.4%, 183 ,,7.4%, 212 
+4. Parts & Machining,3327,"""Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing"""," 24,530 ",12.3%," 3,019 ",,12.2%," 3,005 "
+4. Parts & Machining,3329,"""Other Fabricated Metal Product Manufacturing"""," 10,865 ",2.8%, 308 ,,2.8%, 307 
+4. Parts & Machining,3344,"""Semiconductor and Other Electronic Component Manufacturing"""," 12,179 ",3.9%, 473 ,,3.6%, 438 
+5. Component Systems,3336,"""Engine, Turbine, and Power Transmission Equipment Manufacturing"""," 4,970 ",21.4%," 1,062 ",,17.7%, 880 
+5. Component Systems,3345,"""Navigational, Measuring, Electro medical, and Control Instruments Manufacturing"""," 8,867 ",1.0%, 86 ,,0.3%, 28 
+5. Component Systems,3359,"""Other Electrical Equipment and Component Manufacturing"""," 4,446 ",7.2%, 320 ,,6.5%, 288 
+6. Engineering & Design,5413,"""Architectural, Engineering, and Related Services"""," 84,452 ",0.5%, 397 ,,0.4%, 309 
+6. Engineering & Design,5414,"""Industrial design"""," 10,458 ",0.7%, 70 ,,0.5%, 56 
+6. Engineering & Design,5417,"""Scientific Research and Development """," 25,297 ",0.2%, 47 ,,0.0%, 1 
+7. Core Automotive,3361,"""Motor Vehicle Manufacturing"""," 48,138 ",100.0%," 48,138 ",,100.0%," 48,138 "
+7. Core Automotive,3362,"""Motor Vehicle Body and Trailer Manufacturing"""," 7,921 ",100.0%," 7,921 ",,100.0%," 7,921 "
+7. Core Automotive,3363,"""Motor Vehicle Parts Manufacturing"""," 117,023 ",100.0%," 117,023 ",,100.0%," 117,023 "
+"8. Motor Vehicle Parts, Materials, & Products Sales",4231,"""Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers"""," 25,978 ",100.0%," 25,978 ",,100.0%," 25,978 "
+"8. Motor Vehicle Parts, Materials, & Products Sales",4235,"""Metal and Mineral (except Petroleum) Merchant Wholesalers"""," 6,359 ",100.0%," 6,359 ",,100.0%," 6,359 "
+"8. Motor Vehicle Parts, Materials, & Products Sales",4238,"""Machinery, Equipment, and Supplies Merchant Wholesalers"""," 24,407 ",100.0%," 24,407 ",,100.0%," 24,407 "
+"8. Motor Vehicle Parts, Materials, & Products Sales",4239,"""Miscellaneous Durable Goods Merchant Wholesalers"""," 8,732 ",100.0%," 8,732 ",,100.0%," 8,732 "
+"8. Motor Vehicle Parts, Materials, & Products Sales",4247,"""Petroleum and Petroleum Products Merchant Wholesalers"""," 3,846 ",100.0%," 3,846 ",,100.0%," 3,846 "
+"8. Motor Vehicle Parts, Materials, & Products Sales",4413,"""Automotive Parts, Accessories, and Tire Retailers"""," 18,192 ",100.0%," 18,192 ",,100.0%," 18,192 "
+"8. Motor Vehicle Parts, Materials, & Products Sales",4571,"""Gasoline Stations"""," 27,826 ",100.0%," 27,826 ",,100.0%," 27,826 "
+"9. Dealers, Maintenance, & Repair",4411,"""Automobile Dealers"""," 38,262 ",100.0%," 38,262 ",,100.0%," 38,262 "
+"9. Dealers, Maintenance, & Repair",8111,"""Automotive Repair and Maintenance"""," 31,338 ",100.0%," 31,338 ",,100.0%," 31,338 "
+10. Logistics,4841,"""General Freight Trucking"""," 35,249 ",100.0%," 35,249 ",,100.0%," 35,249 "
+10. Logistics,4842,"""Specialized Freight Trucking "," 11,640 ",100.0%," 11,640 ",,100.0%," 11,640 "
