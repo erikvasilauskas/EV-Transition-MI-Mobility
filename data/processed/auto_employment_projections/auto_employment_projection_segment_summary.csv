@@ -1,0 +1,337 @@
+share_method,share_label,projection_method,projection_label,segment_id,segment_name,base_employment,auto_base_employment,projected_employment
+sam,SAM (auto_share),moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,15568,4880,4793
+sam,SAM (auto_share),moodys_mi,Moody's MI,1,Materials & Processing - Metals,9192,3382,2874
+sam,SAM (auto_share),moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,47844,12986,11984
+sam,SAM (auto_share),moodys_mi,Moody's MI,2,Equipment Manufacturing,47550,6244,6107
+sam,SAM (auto_share),moodys_mi,Moody's MI,3,Forging & Foundries,16337,9023,7470
+sam,SAM (auto_share),moodys_mi,Moody's MI,4,Parts & Machining,50443,14936,14208
+sam,SAM (auto_share),moodys_mi,Moody's MI,5,Component Systems,18283,5987,5869
+sam,SAM (auto_share),moodys_mi,Moody's MI,6,Engineering & Design,120207,1032,1048
+sam,SAM (auto_share),moodys_mi,Moody's MI,7,Core Automotive,173082,173082,174974
+sam,SAM (auto_share),moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,116955
+sam,SAM (auto_share),moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",69600,69600,71696
+sam,SAM (auto_share),moodys_mi,Moody's MI,10,Logistics,46889,46889,41724
+sam,SAM (auto_share),moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,15568,4880,4894
+sam,SAM (auto_share),moodys_us,Moody's US,1,Materials & Processing - Metals,9192,3382,3000
+sam,SAM (auto_share),moodys_us,Moody's US,1,Materials & Processing - Non-Metals,47844,12986,12376
+sam,SAM (auto_share),moodys_us,Moody's US,2,Equipment Manufacturing,47550,6244,6031
+sam,SAM (auto_share),moodys_us,Moody's US,3,Forging & Foundries,16337,9023,7833
+sam,SAM (auto_share),moodys_us,Moody's US,4,Parts & Machining,50443,14936,14227
+sam,SAM (auto_share),moodys_us,Moody's US,5,Component Systems,18283,5987,5816
+sam,SAM (auto_share),moodys_us,Moody's US,6,Engineering & Design,120207,1032,1087
+sam,SAM (auto_share),moodys_us,Moody's US,7,Core Automotive,173082,173082,182433
+sam,SAM (auto_share),moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,119865
+sam,SAM (auto_share),moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",69600,69600,72531
+sam,SAM (auto_share),moodys_us,Moody's US,10,Logistics,46889,46889,41179
+sam,SAM (auto_share),dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,15568,4880,4829
+sam,SAM (auto_share),dtmb_mi,DTMB MI,1,Materials & Processing - Metals,9192,3382,3217
+sam,SAM (auto_share),dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,47844,12986,12752
+sam,SAM (auto_share),dtmb_mi,DTMB MI,2,Equipment Manufacturing,47550,6244,6131
+sam,SAM (auto_share),dtmb_mi,DTMB MI,3,Forging & Foundries,16337,9023,8644
+sam,SAM (auto_share),dtmb_mi,DTMB MI,4,Parts & Machining,50443,14936,14663
+sam,SAM (auto_share),dtmb_mi,DTMB MI,5,Component Systems,18283,5987,6067
+sam,SAM (auto_share),dtmb_mi,DTMB MI,6,Engineering & Design,120207,1032,1084
+sam,SAM (auto_share),dtmb_mi,DTMB MI,7,Core Automotive,173082,173082,167716
+sam,SAM (auto_share),dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,113557
+sam,SAM (auto_share),dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",69600,69600,69272
+sam,SAM (auto_share),dtmb_mi,DTMB MI,10,Logistics,46889,46889,47498
+sam,SAM (auto_share),bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,15568,4880,4737
+sam,SAM (auto_share),bls_us,BLS US,1,Materials & Processing - Metals,9192,3382,3399
+sam,SAM (auto_share),bls_us,BLS US,1,Materials & Processing - Non-Metals,47844,12986,13241
+sam,SAM (auto_share),bls_us,BLS US,2,Equipment Manufacturing,47550,6244,6164
+sam,SAM (auto_share),bls_us,BLS US,3,Forging & Foundries,16337,9023,8292
+sam,SAM (auto_share),bls_us,BLS US,4,Parts & Machining,50443,14936,14727
+sam,SAM (auto_share),bls_us,BLS US,5,Component Systems,18283,5987,6260
+sam,SAM (auto_share),bls_us,BLS US,6,Engineering & Design,120207,1032,1057
+sam,SAM (auto_share),bls_us,BLS US,7,Core Automotive,173082,173082,158280
+sam,SAM (auto_share),bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,114862
+sam,SAM (auto_share),bls_us,BLS US,9,"Dealers, Maintenance, & Repair",69600,69600,70494
+sam,SAM (auto_share),bls_us,BLS US,10,Logistics,46889,46889,47264
+lightcast,Lightcast,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,15568,6249,6125
+lightcast,Lightcast,moodys_mi,Moody's MI,1,Materials & Processing - Metals,9192,4157,3528
+lightcast,Lightcast,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,47844,16225,14991
+lightcast,Lightcast,moodys_mi,Moody's MI,2,Equipment Manufacturing,47550,14759,14263
+lightcast,Lightcast,moodys_mi,Moody's MI,3,Forging & Foundries,16337,10459,8743
+lightcast,Lightcast,moodys_mi,Moody's MI,4,Parts & Machining,50443,21044,20038
+lightcast,Lightcast,moodys_mi,Moody's MI,5,Component Systems,18283,6667,6494
+lightcast,Lightcast,moodys_mi,Moody's MI,6,Engineering & Design,120207,4999,5127
+lightcast,Lightcast,moodys_mi,Moody's MI,7,Core Automotive,173082,173082,174974
+lightcast,Lightcast,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,116955
+lightcast,Lightcast,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",69600,69600,71696
+lightcast,Lightcast,moodys_mi,Moody's MI,10,Logistics,46889,46889,41724
+lightcast,Lightcast,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,15568,6249,6246
+lightcast,Lightcast,moodys_us,Moody's US,1,Materials & Processing - Metals,9192,4157,3680
+lightcast,Lightcast,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,47844,16225,15488
+lightcast,Lightcast,moodys_us,Moody's US,2,Equipment Manufacturing,47550,14759,14055
+lightcast,Lightcast,moodys_us,Moody's US,3,Forging & Foundries,16337,10459,9150
+lightcast,Lightcast,moodys_us,Moody's US,4,Parts & Machining,50443,21044,20049
+lightcast,Lightcast,moodys_us,Moody's US,5,Component Systems,18283,6667,6486
+lightcast,Lightcast,moodys_us,Moody's US,6,Engineering & Design,120207,4999,5357
+lightcast,Lightcast,moodys_us,Moody's US,7,Core Automotive,173082,173082,182433
+lightcast,Lightcast,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,119865
+lightcast,Lightcast,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",69600,69600,72531
+lightcast,Lightcast,moodys_us,Moody's US,10,Logistics,46889,46889,41179
+lightcast,Lightcast,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,15568,6249,6169
+lightcast,Lightcast,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,9192,4157,3954
+lightcast,Lightcast,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,47844,16225,15933
+lightcast,Lightcast,dtmb_mi,DTMB MI,2,Equipment Manufacturing,47550,14759,14494
+lightcast,Lightcast,dtmb_mi,DTMB MI,3,Forging & Foundries,16337,10459,10031
+lightcast,Lightcast,dtmb_mi,DTMB MI,4,Parts & Machining,50443,21044,20696
+lightcast,Lightcast,dtmb_mi,DTMB MI,5,Component Systems,18283,6667,6711
+lightcast,Lightcast,dtmb_mi,DTMB MI,6,Engineering & Design,120207,4999,5145
+lightcast,Lightcast,dtmb_mi,DTMB MI,7,Core Automotive,173082,173082,167716
+lightcast,Lightcast,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,113557
+lightcast,Lightcast,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",69600,69600,69272
+lightcast,Lightcast,dtmb_mi,DTMB MI,10,Logistics,46889,46889,47498
+lightcast,Lightcast,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,15568,6249,6033
+lightcast,Lightcast,bls_us,BLS US,1,Materials & Processing - Metals,9192,4157,4179
+lightcast,Lightcast,bls_us,BLS US,1,Materials & Processing - Non-Metals,47844,16225,16554
+lightcast,Lightcast,bls_us,BLS US,2,Equipment Manufacturing,47550,14759,14493
+lightcast,Lightcast,bls_us,BLS US,3,Forging & Foundries,16337,10459,9627
+lightcast,Lightcast,bls_us,BLS US,4,Parts & Machining,50443,21044,20843
+lightcast,Lightcast,bls_us,BLS US,5,Component Systems,18283,6667,6847
+lightcast,Lightcast,bls_us,BLS US,6,Engineering & Design,120207,4999,5120
+lightcast,Lightcast,bls_us,BLS US,7,Core Automotive,173082,173082,158280
+lightcast,Lightcast,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,114862
+lightcast,Lightcast,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",69600,69600,70494
+lightcast,Lightcast,bls_us,BLS US,10,Logistics,46889,46889,47264
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,15568,647,628
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,1,Materials & Processing - Metals,9192,1332,1134
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,47844,2575,2400
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,2,Equipment Manufacturing,47550,1855,1773
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,3,Forging & Foundries,16337,1726,1399
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,4,Parts & Machining,50443,2247,2147
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,5,Component Systems,18283,1184,1143
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,6,Engineering & Design,120207,241,251
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,7,Core Automotive,173082,173082,174974
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,116955
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",69600,69600,71696
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,10,Logistics,46889,46889,41724
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,15568,647,637
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,1,Materials & Processing - Metals,9192,1332,1185
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,1,Materials & Processing - Non-Metals,47844,2575,2484
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,2,Equipment Manufacturing,47550,1855,1744
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,3,Forging & Foundries,16337,1726,1474
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,4,Parts & Machining,50443,2247,2154
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,5,Component Systems,18283,1184,1152
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,6,Engineering & Design,120207,241,260
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,7,Core Automotive,173082,173082,182433
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,119865
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",69600,69600,72531
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,10,Logistics,46889,46889,41179
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,15568,647,632
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,1,Materials & Processing - Metals,9192,1332,1267
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,47844,2575,2529
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,2,Equipment Manufacturing,47550,1855,1821
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,3,Forging & Foundries,16337,1726,1650
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,4,Parts & Machining,50443,2247,2198
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,5,Component Systems,18283,1184,1179
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,6,Engineering & Design,120207,241,248
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,7,Core Automotive,173082,173082,167716
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,113557
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",69600,69600,69272
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,10,Logistics,46889,46889,47498
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,15568,647,609
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,1,Materials & Processing - Metals,9192,1332,1337
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,1,Materials & Processing - Non-Metals,47844,2575,2635
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,2,Equipment Manufacturing,47550,1855,1812
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,3,Forging & Foundries,16337,1726,1582
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,4,Parts & Machining,50443,2247,2189
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,5,Component Systems,18283,1184,1182
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,6,Engineering & Design,120207,241,247
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,7,Core Automotive,173082,173082,158280
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,114862
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,9,"Dealers, Maintenance, & Repair",69600,69600,70494
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,10,Logistics,46889,46889,47264
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,15568,1470,1446
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,1,Materials & Processing - Metals,9192,825,699
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,47844,2939,2699
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,2,Equipment Manufacturing,47550,2664,2562
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,3,Forging & Foundries,16337,4568,3747
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,4,Parts & Machining,50443,3980,3762
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,5,Component Systems,18283,1473,1430
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,6,Engineering & Design,120207,546,561
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,7,Core Automotive,173082,173082,174974
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,116955
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",69600,69600,71696
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,10,Logistics,46889,46889,41724
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,15568,1470,1479
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,1,Materials & Processing - Metals,9192,825,729
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,1,Materials & Processing - Non-Metals,47844,2939,2788
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,2,Equipment Manufacturing,47550,2664,2522
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,3,Forging & Foundries,16337,4568,3936
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,4,Parts & Machining,50443,3980,3766
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,5,Component Systems,18283,1473,1431
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,6,Engineering & Design,120207,546,585
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,7,Core Automotive,173082,173082,182433
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,119865
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",69600,69600,72531
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,10,Logistics,46889,46889,41179
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,15568,1470,1457
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,1,Materials & Processing - Metals,9192,825,784
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,47844,2939,2887
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,2,Equipment Manufacturing,47550,2664,2616
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,3,Forging & Foundries,16337,4568,4372
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,4,Parts & Machining,50443,3980,3897
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,5,Component Systems,18283,1473,1475
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,6,Engineering & Design,120207,546,564
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,7,Core Automotive,173082,173082,167716
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,113557
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",69600,69600,69272
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,10,Logistics,46889,46889,47498
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,15568,1470,1433
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,1,Materials & Processing - Metals,9192,825,829
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,1,Materials & Processing - Non-Metals,47844,2939,2994
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,2,Equipment Manufacturing,47550,2664,2610
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,3,Forging & Foundries,16337,4568,4192
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,4,Parts & Machining,50443,3980,3911
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,5,Component Systems,18283,1473,1497
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,6,Engineering & Design,120207,546,560
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,7,Core Automotive,173082,173082,158280
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,114862
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,9,"Dealers, Maintenance, & Repair",69600,69600,70494
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,10,Logistics,46889,46889,47264
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,15568,1333,1309
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,1,Materials & Processing - Metals,9192,1023,868
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,47844,2752,2529
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,2,Equipment Manufacturing,47550,1225,1180
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,3,Forging & Foundries,16337,4491,3683
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,4,Parts & Machining,50443,3947,3730
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,5,Component Systems,18283,1196,1161
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,6,Engineering & Design,120207,390,398
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,7,Core Automotive,173082,173082,174974
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,116955
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",69600,69600,71696
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,10,Logistics,46889,46889,41724
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,15568,1333,1338
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,1,Materials & Processing - Metals,9192,1023,906
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,1,Materials & Processing - Non-Metals,47844,2752,2611
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,2,Equipment Manufacturing,47550,1225,1163
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,3,Forging & Foundries,16337,4491,3871
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,4,Parts & Machining,50443,3947,3735
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,5,Component Systems,18283,1196,1161
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,6,Engineering & Design,120207,390,416
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,7,Core Automotive,173082,173082,182433
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,119865
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",69600,69600,72531
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,10,Logistics,46889,46889,41179
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,15568,1333,1320
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,1,Materials & Processing - Metals,9192,1023,973
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,47844,2752,2703
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,2,Equipment Manufacturing,47550,1225,1203
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,3,Forging & Foundries,16337,4491,4298
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,4,Parts & Machining,50443,3947,3862
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,5,Component Systems,18283,1196,1198
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,6,Engineering & Design,120207,390,402
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,7,Core Automotive,173082,173082,167716
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,113557
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",69600,69600,69272
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,10,Logistics,46889,46889,47498
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,15568,1333,1295
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,1,Materials & Processing - Metals,9192,1023,1028
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,1,Materials & Processing - Non-Metals,47844,2752,2804
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,2,Equipment Manufacturing,47550,1225,1201
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,3,Forging & Foundries,16337,4491,4122
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,4,Parts & Machining,50443,3947,3874
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,5,Component Systems,18283,1196,1219
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,6,Engineering & Design,120207,390,399
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,7,Core Automotive,173082,173082,158280
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,114862
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,9,"Dealers, Maintenance, & Repair",69600,69600,70494
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,10,Logistics,46889,46889,47264
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,15568,1619,1586
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,1,Materials & Processing - Metals,9192,1310,1103
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,47844,3666,3394
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,2,Equipment Manufacturing,47550,771,727
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,3,Forging & Foundries,16337,3525,2940
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,4,Parts & Machining,50443,5251,4960
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,5,Component Systems,18283,515,510
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,6,Engineering & Design,120207,1516,1555
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,7,Core Automotive,173082,173082,174974
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,116955
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",69600,69600,71696
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,10,Logistics,46889,46889,41724
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,15568,1619,1617
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,1,Materials & Processing - Metals,9192,1310,1150
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,47844,3666,3503
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,2,Equipment Manufacturing,47550,771,713
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,3,Forging & Foundries,16337,3525,3078
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,4,Parts & Machining,50443,5251,4972
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,5,Component Systems,18283,515,500
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,6,Engineering & Design,120207,1516,1611
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,7,Core Automotive,173082,173082,182433
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,119865
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",69600,69600,72531
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,10,Logistics,46889,46889,41179
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,15568,1619,1598
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,9192,1310,1246
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,47844,3666,3599
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,2,Equipment Manufacturing,47550,771,757
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,3,Forging & Foundries,16337,3525,3379
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,4,Parts & Machining,50443,5251,5126
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,5,Component Systems,18283,515,528
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,6,Engineering & Design,120207,1516,1587
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,7,Core Automotive,173082,173082,167716
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,113557
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",69600,69600,69272
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,10,Logistics,46889,46889,47498
+mrio_indirect,MRIO Indirect,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,15568,1619,1561
+mrio_indirect,MRIO Indirect,bls_us,BLS US,1,Materials & Processing - Metals,9192,1310,1320
+mrio_indirect,MRIO Indirect,bls_us,BLS US,1,Materials & Processing - Non-Metals,47844,3666,3741
+mrio_indirect,MRIO Indirect,bls_us,BLS US,2,Equipment Manufacturing,47550,771,749
+mrio_indirect,MRIO Indirect,bls_us,BLS US,3,Forging & Foundries,16337,3525,3243
+mrio_indirect,MRIO Indirect,bls_us,BLS US,4,Parts & Machining,50443,5251,5119
+mrio_indirect,MRIO Indirect,bls_us,BLS US,5,Component Systems,18283,515,552
+mrio_indirect,MRIO Indirect,bls_us,BLS US,6,Engineering & Design,120207,1516,1557
+mrio_indirect,MRIO Indirect,bls_us,BLS US,7,Core Automotive,173082,173082,158280
+mrio_indirect,MRIO Indirect,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,114862
+mrio_indirect,MRIO Indirect,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",69600,69600,70494
+mrio_indirect,MRIO Indirect,bls_us,BLS US,10,Logistics,46889,46889,47264
+mrio_total,MRIO Total,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,15568,1731,1694
+mrio_total,MRIO Total,moodys_mi,Moody's MI,1,Materials & Processing - Metals,9192,1310,1103
+mrio_total,MRIO Total,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,47844,3717,3438
+mrio_total,MRIO Total,moodys_mi,Moody's MI,2,Equipment Manufacturing,47550,771,727
+mrio_total,MRIO Total,moodys_mi,Moody's MI,3,Forging & Foundries,16337,3525,2940
+mrio_total,MRIO Total,moodys_mi,Moody's MI,4,Parts & Machining,50443,5387,5094
+mrio_total,MRIO Total,moodys_mi,Moody's MI,5,Component Systems,18283,515,510
+mrio_total,MRIO Total,moodys_mi,Moody's MI,6,Engineering & Design,120207,1874,1934
+mrio_total,MRIO Total,moodys_mi,Moody's MI,7,Core Automotive,173082,173082,174974
+mrio_total,MRIO Total,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,116955
+mrio_total,MRIO Total,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",69600,69600,71696
+mrio_total,MRIO Total,moodys_mi,Moody's MI,10,Logistics,46889,46889,41724
+mrio_total,MRIO Total,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,15568,1731,1727
+mrio_total,MRIO Total,moodys_us,Moody's US,1,Materials & Processing - Metals,9192,1310,1150
+mrio_total,MRIO Total,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,47844,3717,3549
+mrio_total,MRIO Total,moodys_us,Moody's US,2,Equipment Manufacturing,47550,771,713
+mrio_total,MRIO Total,moodys_us,Moody's US,3,Forging & Foundries,16337,3525,3078
+mrio_total,MRIO Total,moodys_us,Moody's US,4,Parts & Machining,50443,5387,5107
+mrio_total,MRIO Total,moodys_us,Moody's US,5,Component Systems,18283,515,500
+mrio_total,MRIO Total,moodys_us,Moody's US,6,Engineering & Design,120207,1874,1998
+mrio_total,MRIO Total,moodys_us,Moody's US,7,Core Automotive,173082,173082,182433
+mrio_total,MRIO Total,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,119865
+mrio_total,MRIO Total,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",69600,69600,72531
+mrio_total,MRIO Total,moodys_us,Moody's US,10,Logistics,46889,46889,41179
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,15568,1731,1707
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,9192,1310,1246
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,47844,3717,3649
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,2,Equipment Manufacturing,47550,771,757
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,3,Forging & Foundries,16337,3525,3379
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,4,Parts & Machining,50443,5387,5258
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,5,Component Systems,18283,515,528
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,6,Engineering & Design,120207,1874,1967
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,7,Core Automotive,173082,173082,167716
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,113557
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",69600,69600,69272
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,10,Logistics,46889,46889,47498
+mrio_total,MRIO Total,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,15568,1731,1666
+mrio_total,MRIO Total,bls_us,BLS US,1,Materials & Processing - Metals,9192,1310,1320
+mrio_total,MRIO Total,bls_us,BLS US,1,Materials & Processing - Non-Metals,47844,3717,3792
+mrio_total,MRIO Total,bls_us,BLS US,2,Equipment Manufacturing,47550,771,749
+mrio_total,MRIO Total,bls_us,BLS US,3,Forging & Foundries,16337,3525,3243
+mrio_total,MRIO Total,bls_us,BLS US,4,Parts & Machining,50443,5387,5247
+mrio_total,MRIO Total,bls_us,BLS US,5,Component Systems,18283,515,552
+mrio_total,MRIO Total,bls_us,BLS US,6,Engineering & Design,120207,1874,1930
+mrio_total,MRIO Total,bls_us,BLS US,7,Core Automotive,173082,173082,158280
+mrio_total,MRIO Total,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",115340,115340,114862
+mrio_total,MRIO Total,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",69600,69600,70494
+mrio_total,MRIO Total,bls_us,BLS US,10,Logistics,46889,46889,47264

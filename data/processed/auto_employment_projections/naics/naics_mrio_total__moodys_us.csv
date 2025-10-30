@@ -1,0 +1,39 @@
+naics_code,naics_title,segment_id,segment_name,stage,share_method,share_label,projection_method,projection_label,base_employment,share_value,share_applied,auto_base_employment,projection_rate,projected_employment
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,5524,0.02,0.02,110,-0.021,108
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,4347,0.14,0.14,609,0.03,627
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,34371,0.07,0.07,2406,-0.025,2346
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,5147,0.13,0.13,669,-0.098,603
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,2802,0.19,0.19,532,-0.076,492
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,3258,0.22,0.22,717,-0.138,618
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,1974,0.2,0.2,395,-0.11,352
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,2698,0.05,0.05,135,-0.071,125
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,1262,0.05,0.05,63,-0.128,55
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,11221,0.1,0.1,1122,-0.02,1100
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,29604,0.02,0.02,592,-0.099,533
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,17946,0.01,0.01,179,0.004,180
+3315,Foundries,3,Forging & Foundries,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,9349,0.25,0.25,2337,-0.179,1919
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,6988,0.17,0.17,1188,-0.024,1159
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,2869,0.15,0.15,430,0.005,432
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,24530,0.17,0.17,4170,-0.065,3899
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,10865,0.05,0.05,543,-0.003,541
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,12179,0.02,0.02,244,-0.038,235
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,4970,0.05,0.05,248,-0.031,240
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,8867,0.0,0.0,0,-0.004,0
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,4446,0.06,0.06,267,-0.027,260
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,84452,0.01,0.01,845,0.078,911
+5414,Industrial design,6,Engineering & Design,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,10458,0.05,0.05,523,-0.002,522
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,25297,0.02,0.02,506,0.1169999999999999,565
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,48138,1.0,1.0,48138,0.316,63350
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,7921,1.0,1.0,7921,0.043,8262
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,117023,1.0,1.0,117023,-0.053,110821
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,25978,0.78,1.0,25978,0.054,27381
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,6359,0.31,1.0,6359,0.063,6760
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,24407,0.44,1.0,24407,0.026,25042
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,8732,0.31,1.0,8732,0.046,9134
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,3846,0.08,1.0,3846,-0.05,3654
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,18192,0.14,1.0,18192,0.045,19011
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,27826,0.08,1.0,27826,0.038,28883
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,38262,0.14,1.0,38262,0.034,39563
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,31338,0.08,1.0,31338,0.052,32968
+4841,General Freight Trucking,10,Logistics,Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,35249,0.22,1.0,35249,-0.124,30878
+4842,Specialized Freight Trucking,10,Logistics,Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,11640,0.22,1.0,11640,-0.115,10301

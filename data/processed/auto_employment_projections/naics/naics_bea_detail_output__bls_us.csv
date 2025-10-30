@@ -1,0 +1,39 @@
+naics_code,naics_title,segment_id,segment_name,stage,share_method,share_label,projection_method,projection_label,base_employment,share_value,share_applied,auto_base_employment,projection_rate,projected_employment
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,5524,0.023,0.023,127,0.013,129
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,4347,0.144,0.144,626,0.013,634
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,34371,0.045,0.045,1547,0.026,1587
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,5147,0.149,0.149,767,0.009,774
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,2802,0.111,0.111,311,0.009,314
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,3258,0.141,0.141,459,0.009,463
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,1974,0.11,0.11,217,0.011,219
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,2698,0.094,0.094,254,-0.009,252
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,1262,0.074,0.074,93,0.011,94
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,11221,0.063,0.063,707,-0.065,661
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,29604,0.022,0.022,651,-0.038,626
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,17946,0.032,0.032,574,0.002,575
+3315,Foundries,3,Forging & Foundries,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,9349,0.354,0.354,3310,-0.091,3009
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,6988,0.1689999999999999,0.1689999999999999,1181,-0.0579999999999999,1113
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,2869,0.074,0.074,212,-0.0579999999999999,200
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,24530,0.122,0.122,2993,-0.024,2921
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,10865,0.0279999999999999,0.0279999999999999,304,-0.0579999999999999,286
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,12179,0.036,0.036,438,0.067,467
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,4970,0.177,0.177,880,-0.0289999999999999,854
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,8867,0.003,0.003,27,0.02,28
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,4446,0.065,0.065,289,0.166,337
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,84452,0.004,0.004,338,0.023,346
+5414,Industrial design,6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,10458,0.005,0.005,52,0.023,53
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,25297,0.0,0.0,0,0.049,0
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,48138,0.005,1.0,48138,0.032,49678
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,7921,0.13,1.0,7921,0.02,8079
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,117023,0.439,1.0,117023,-0.141,100523
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,25978,0.211,1.0,25978,0.027,26679
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,6359,0.0,1.0,6359,0.02,6486
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,24407,0.046,1.0,24407,0.024,24993
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,8732,0.0,1.0,8732,0.02,8907
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,3846,0.001,1.0,3846,0.0069999999999999,3873
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,18192,0.0,1.0,18192,0.018,18519
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,27826,0.0,1.0,27826,-0.087,25405
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,38262,0.0,1.0,38262,0.016,38874
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,31338,0.002,1.0,31338,0.009,31620
+4841,General Freight Trucking,10,Logistics,Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,35249,0.0,1.0,35249,0.008,35531
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,11640,0.0,1.0,11640,0.008,11733

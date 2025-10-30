@@ -1,0 +1,39 @@
+naics_code,naics_title,segment_id,segment_name,stage,share_method,share_label,projection_method,projection_label,base_employment,share_value,share_applied,auto_base_employment,projection_rate,projected_employment
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,5524,0.02,0.02,110,-0.04,106
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,4347,0.14,0.14,609,-0.001,608
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,34371,0.07,0.07,2406,-0.0579999999999999,2266
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,5147,0.12,0.12,618,-0.13,538
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,2802,0.19,0.19,532,-0.091,484
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,3258,0.22,0.22,717,-0.17,595
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,1974,0.2,0.2,395,-0.15,336
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,2698,0.05,0.05,135,-0.1119999999999999,120
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,1262,0.05,0.05,63,-0.1669999999999999,52
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,11221,0.09,0.09,1010,-0.032,978
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,29604,0.02,0.02,592,-0.078,546
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,17946,0.01,0.01,179,0.011,181
+3315,Foundries,3,Forging & Foundries,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,9349,0.25,0.25,2337,-0.2289999999999999,1802
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,6988,0.17,0.17,1188,-0.042,1138
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,2869,0.14,0.14,402,-0.013,397
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,24530,0.17,0.17,4170,-0.066,3895
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,10865,0.04,0.04,435,-0.009,431
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,12179,0.02,0.02,244,-0.03,237
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,4970,0.05,0.05,248,-0.045,237
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,8867,0.0,0.0,0,-0.027,0
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,4446,0.06,0.06,267,0.021,273
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,84452,0.01,0.01,845,0.027,868
+5414,Industrial design,6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,10458,0.04,0.04,418,-0.02,410
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,25297,0.01,0.01,253,0.093,277
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,48138,0.0,1.0,48138,0.272,61232
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,7921,0.0,1.0,7921,0.004,7953
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,117023,0.0,1.0,117023,-0.096,105789
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,25978,0.78,1.0,25978,0.037,26939
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,6359,0.3,1.0,6359,-0.008,6308
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,24407,0.44,1.0,24407,0.01,24651
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,8732,0.3,1.0,8732,0.002,8749
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,3846,0.04,1.0,3846,-0.057,3627
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,18192,0.08,1.0,18192,0.012,18410
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,27826,0.02,1.0,27826,0.016,28271
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,38262,0.08,1.0,38262,0.004,38415
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,31338,0.02,1.0,31338,0.062,33281
+4841,General Freight Trucking,10,Logistics,Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,35249,0.19,1.0,35249,-0.0969999999999999,31830
+4842,Specialized Freight Trucking,10,Logistics,Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,11640,0.19,1.0,11640,-0.15,9894

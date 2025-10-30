@@ -1,0 +1,113 @@
+share_method,share_label,projection_method,projection_label,stage,base_employment,auto_base_employment,projected_employment
+sam,SAM (auto_share),moodys_mi,Moody's MI,Downstream,231829,231829,230375
+sam,SAM (auto_share),moodys_mi,Moody's MI,OEM,293289,174114,176022
+sam,SAM (auto_share),moodys_mi,Moody's MI,Upstream,205217,57438,53305
+sam,SAM (auto_share),moodys_mi,Moody's MI,Upstream+Core,205217,57438,53305
+sam,SAM (auto_share),moodys_us,Moody's US,Downstream,231829,231829,233575
+sam,SAM (auto_share),moodys_us,Moody's US,OEM,293289,174114,183520
+sam,SAM (auto_share),moodys_us,Moody's US,Upstream,205217,57438,54177
+sam,SAM (auto_share),moodys_us,Moody's US,Upstream+Core,205217,57438,54177
+sam,SAM (auto_share),dtmb_mi,DTMB MI,Downstream,231829,231829,230327
+sam,SAM (auto_share),dtmb_mi,DTMB MI,OEM,293289,174114,168800
+sam,SAM (auto_share),dtmb_mi,DTMB MI,Upstream,205217,57438,56303
+sam,SAM (auto_share),dtmb_mi,DTMB MI,Upstream+Core,205217,57438,56303
+sam,SAM (auto_share),bls_us,BLS US,Downstream,231829,231829,232620
+sam,SAM (auto_share),bls_us,BLS US,OEM,293289,174114,159337
+sam,SAM (auto_share),bls_us,BLS US,Upstream,205217,57438,56820
+sam,SAM (auto_share),bls_us,BLS US,Upstream+Core,205217,57438,56820
+lightcast,Lightcast,moodys_mi,Moody's MI,Downstream,231829,231829,230375
+lightcast,Lightcast,moodys_mi,Moody's MI,OEM,293289,178081,180101
+lightcast,Lightcast,moodys_mi,Moody's MI,Upstream,205217,79560,74182
+lightcast,Lightcast,moodys_mi,Moody's MI,Upstream+Core,205217,79560,74182
+lightcast,Lightcast,moodys_us,Moody's US,Downstream,231829,231829,233575
+lightcast,Lightcast,moodys_us,Moody's US,OEM,293289,178081,187790
+lightcast,Lightcast,moodys_us,Moody's US,Upstream,205217,79560,75154
+lightcast,Lightcast,moodys_us,Moody's US,Upstream+Core,205217,79560,75154
+lightcast,Lightcast,dtmb_mi,DTMB MI,Downstream,231829,231829,230327
+lightcast,Lightcast,dtmb_mi,DTMB MI,OEM,293289,178081,172861
+lightcast,Lightcast,dtmb_mi,DTMB MI,Upstream,205217,79560,77988
+lightcast,Lightcast,dtmb_mi,DTMB MI,Upstream+Core,205217,79560,77988
+lightcast,Lightcast,bls_us,BLS US,Downstream,231829,231829,232620
+lightcast,Lightcast,bls_us,BLS US,OEM,293289,178081,163400
+lightcast,Lightcast,bls_us,BLS US,Upstream,205217,79560,78576
+lightcast,Lightcast,bls_us,BLS US,Upstream+Core,205217,79560,78576
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,Downstream,231829,231829,230375
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,OEM,293289,173323,175225
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,Upstream,205217,11566,10624
+bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,Upstream+Core,205217,11566,10624
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,Downstream,231829,231829,233575
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,OEM,293289,173323,182693
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,Upstream,205217,11566,10830
+bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,Upstream+Core,205217,11566,10830
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,Downstream,231829,231829,230327
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,OEM,293289,173323,167964
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,Upstream,205217,11566,11276
+bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,Upstream+Core,205217,11566,11276
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,Downstream,231829,231829,232620
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,OEM,293289,173323,158527
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,Upstream,205217,11566,11346
+bea_summary,BEA Summary (Total Output),bls_us,BLS US,Upstream+Core,205217,11566,11346
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,Downstream,231829,231829,230375
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,OEM,293289,173628,175535
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,Upstream,205217,17919,16345
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,Upstream+Core,205217,17919,16345
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,Downstream,231829,231829,233575
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,OEM,293289,173628,183018
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,Upstream,205217,17919,16651
+bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,Upstream+Core,205217,17919,16651
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,Downstream,231829,231829,230327
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,OEM,293289,173628,168280
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,Upstream,205217,17919,17488
+bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,Upstream+Core,205217,17919,17488
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,Downstream,231829,231829,232620
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,OEM,293289,173628,158840
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,Upstream,205217,17919,17466
+bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,Upstream+Core,205217,17919,17466
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,Downstream,231829,231829,230375
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,OEM,293289,173472,175372
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,Upstream,205217,15967,14460
+bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,Upstream+Core,205217,15967,14460
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,Downstream,231829,231829,233575
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,OEM,293289,173472,182849
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,Upstream,205217,15967,14785
+bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,Upstream+Core,205217,15967,14785
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,Downstream,231829,231829,230327
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,OEM,293289,173472,168118
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,Upstream,205217,15967,15557
+bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,Upstream+Core,205217,15967,15557
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,Downstream,231829,231829,232620
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,OEM,293289,173472,158679
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,Upstream,205217,15967,15543
+bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,Upstream+Core,205217,15967,15543
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,Downstream,231829,231829,230375
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,OEM,293289,174598,176529
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,Upstream,205217,16657,15220
+mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,Upstream+Core,205217,16657,15220
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,Downstream,231829,231829,233575
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,OEM,293289,174598,184044
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,Upstream,205217,16657,15533
+mrio_indirect,MRIO Indirect,moodys_us,Moody's US,Upstream+Core,205217,16657,15533
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,Downstream,231829,231829,230327
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,OEM,293289,174598,169303
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,Upstream,205217,16657,16233
+mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,Upstream+Core,205217,16657,16233
+mrio_indirect,MRIO Indirect,bls_us,BLS US,Downstream,231829,231829,232620
+mrio_indirect,MRIO Indirect,bls_us,BLS US,OEM,293289,174598,159837
+mrio_indirect,MRIO Indirect,bls_us,BLS US,Upstream,205217,16657,16285
+mrio_indirect,MRIO Indirect,bls_us,BLS US,Upstream+Core,205217,16657,16285
+mrio_total,MRIO Total,moodys_mi,Moody's MI,Downstream,231829,231829,230375
+mrio_total,MRIO Total,moodys_mi,Moody's MI,OEM,293289,174956,176908
+mrio_total,MRIO Total,moodys_mi,Moody's MI,Upstream,205217,16956,15506
+mrio_total,MRIO Total,moodys_mi,Moody's MI,Upstream+Core,205217,16956,15506
+mrio_total,MRIO Total,moodys_us,Moody's US,Downstream,231829,231829,233575
+mrio_total,MRIO Total,moodys_us,Moody's US,OEM,293289,174956,184431
+mrio_total,MRIO Total,moodys_us,Moody's US,Upstream,205217,16956,15824
+mrio_total,MRIO Total,moodys_us,Moody's US,Upstream+Core,205217,16956,15824
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,Downstream,231829,231829,230327
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,OEM,293289,174956,169683
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,Upstream,205217,16956,16524
+mrio_total,MRIO Total,dtmb_mi,DTMB MI,Upstream+Core,205217,16956,16524
+mrio_total,MRIO Total,bls_us,BLS US,Downstream,231829,231829,232620
+mrio_total,MRIO Total,bls_us,BLS US,OEM,293289,174956,160210
+mrio_total,MRIO Total,bls_us,BLS US,Upstream,205217,16956,16569
+mrio_total,MRIO Total,bls_us,BLS US,Upstream+Core,205217,16956,16569

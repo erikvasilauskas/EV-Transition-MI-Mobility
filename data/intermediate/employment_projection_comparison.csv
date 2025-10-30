@@ -1,0 +1,42 @@
+orig_sort,naics_code,naics_title,segment_id,segment_name,stage,employment_qcew_2024,moodys_mi_pct_change_2024_2030_employment,moodys_us_pct_change_2024_2030_employment,mi_dtmb_six_year_rate,bls_us_six_year_employment_rate_change
+1.0,3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1.0,Materials & Processing - Non-Metals,Upstream,5524.0,-0.04,-0.021,0.008,0.013000000000000001
+2.0,3255,"Paint, Coating, and Adhesive Manufacturing",1.0,Materials & Processing - Coatings & Surface Treatments,Upstream,4347.0,-0.001,0.03,0.008,0.013000000000000001
+3.0,3261,Plastics Product Manufacturing,1.0,Materials & Processing - Non-Metals,Upstream,34371.0,-0.057999999999999996,-0.025,-0.018000000000000002,0.026000000000000002
+4.0,3262,Rubber Product Manufacturing,1.0,Materials & Processing - Non-Metals,Upstream,5147.0,-0.13,-0.098,-0.018000000000000002,0.009000000000000001
+5.0,3272,Glass and Glass Product Manufacturing,1.0,Materials & Processing - Non-Metals,Upstream,2802.0,-0.091,-0.076,-0.026000000000000002,0.009000000000000001
+6.0,3311,Iron and Steel Mills and Ferroalloy Manufacturing,1.0,Materials & Processing - Metals,Upstream,3258.0,-0.17,-0.138,-0.049,0.009000000000000001
+7.0,3312,Steel Product Manufacturing from Purchased Steel,1.0,Materials & Processing - Metals,Upstream,1974.0,-0.15,-0.11,-0.049,0.011000000000000001
+8.0,3313,Alumina and Aluminum Production and Processing,1.0,Materials & Processing - Metals,Upstream,2698.0,-0.11199999999999999,-0.071,-0.049,-0.009000000000000001
+9.0,3314,Nonferrous Metal (except Aluminum) Production and Processing,1.0,Materials & Processing - Metals,Upstream,1262.0,-0.16699999999999998,-0.128,-0.049,0.011000000000000001
+10.0,3328,"Coating, Engraving, Heat Treating, and Allied Activities",1.0,Materials & Processing - Coatings & Surface Treatments,Upstream,11221.0,-0.032,-0.02,-0.026000000000000002,-0.065
+11.0,3335,Metalworking Machinery Manufacturing,2.0,Equipment Manufacturing,Upstream,29604.0,-0.078,-0.099,-0.018000000000000002,-0.038
+12.0,3339,Other General Purpose Machinery Manufacturing,2.0,Equipment Manufacturing,Upstream,17946.0,0.011000000000000001,0.004,-0.018000000000000002,0.002
+13.0,3315,Foundries,3.0,Forging & Foundries,Upstream,9349.0,-0.22899999999999998,-0.179,-0.049,-0.091
+14.0,3321,Forging and Stamping,3.0,Forging & Foundries,Upstream,6988.0,-0.042,-0.024,-0.026000000000000002,-0.057999999999999996
+15.0,3326,Spring and Wire Product Manufacturing,4.0,Parts & Machining,Upstream,2869.0,-0.013000000000000001,0.005,-0.026000000000000002,-0.057999999999999996
+16.0,3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4.0,Parts & Machining,Upstream,24530.0,-0.066,-0.065,-0.026000000000000002,-0.024
+17.0,3329,Other Fabricated Metal Product Manufacturing,4.0,Parts & Machining,Upstream,10865.0,-0.009000000000000001,-0.003,-0.026000000000000002,-0.057999999999999996
+18.0,3344,Semiconductor and Other Electronic Component Manufacturing,4.0,Parts & Machining,Upstream,12179.0,-0.03,-0.038,0.016,0.067
+19.0,3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5.0,Component Systems,Upstream,4970.0,-0.045,-0.031,-0.018000000000000002,-0.028999999999999998
+20.0,3345,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",5.0,Component Systems,Upstream,8867.0,-0.027000000000000003,-0.004,0.016,0.02
+21.0,3359,Other Electrical Equipment and Component Manufacturing,5.0,Component Systems,Upstream,4446.0,0.021,-0.027000000000000003,0.063,0.166
+22.0,5413,"Architectural, Engineering, and Related Services",6.0,Engineering & Design,OEM,84452.0,0.027000000000000003,0.078,0.019,0.023
+23.0,5414,Specialized Design Services,6.0,Engineering & Design,OEM,10458.0,-0.02,-0.002,0.106,0.023
+24.0,5417,Scientific Research and Development Services,6.0,Engineering & Design,OEM,25297.0,0.09300000000000001,0.11699999999999999,0.044000000000000004,0.049
+25.0,3361,Motor Vehicle Manufacturing,7.0,Core Automotive,OEM,48138.0,0.272,0.316,-0.031,0.032
+26.0,3362,Motor Vehicle Body and Trailer Manufacturing,7.0,Core Automotive,OEM,7921.0,0.004,0.043,-0.031,0.02
+27.0,3363,Motor Vehicle Parts Manufacturing,7.0,Core Automotive,OEM,117023.0,-0.096,-0.053,-0.031,-0.141
+28.0,4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8.0,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,25978.0,0.037000000000000005,0.054000000000000006,-0.01,0.027000000000000003
+29.0,4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8.0,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,6359.0,-0.008,0.063,-0.01,0.02
+30.0,4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8.0,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,24407.0,0.01,0.026000000000000002,-0.01,0.024
+31.0,4239,Miscellaneous Durable Goods Merchant Wholesalers,8.0,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,8732.0,0.002,0.046,-0.01,0.02
+32.0,4247,Petroleum and Petroleum Products Merchant Wholesalers,8.0,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,3846.0,-0.057,-0.05,-0.009000000000000001,0.006999999999999999
+33.0,4413,"Automotive Parts, Accessories, and Tire Stores",8.0,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,18192.0,0.012,0.045,-0.002,0.018000000000000002
+34.0,4571,Gasoline Stations,8.0,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,27826.0,0.016,0.038,-0.038,-0.087
+35.0,4411,Automobile Dealers,9.0,"Dealers, Maintenance, & Repair",Downstream,38262.0,0.004,0.034,-0.002,0.016
+36.0,8111,Automotive Repair and Maintenance,9.0,"Dealers, Maintenance, & Repair",Downstream,31338.0,0.062,0.052000000000000005,-0.008,0.009000000000000001
+37.0,4841,General Freight Trucking,10.0,Logistics,Downstream,35249.0,-0.09699999999999999,-0.124,0.013000000000000001,0.008
+38.0,4842,Specialized Freight Trucking,10.0,Logistics,Downstream,11640.0,-0.15,-0.115,0.013000000000000001,0.008
+,,Total,,,,730335.0,,,,
+,,,,,,,,,,
+,,,,,,,,,,

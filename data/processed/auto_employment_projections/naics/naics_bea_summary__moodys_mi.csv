@@ -1,0 +1,39 @@
+naics_code,naics_title,segment_id,segment_name,stage,share_method,share_label,projection_method,projection_label,base_employment,share_value,share_applied,auto_base_employment,projection_rate,projected_employment
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,5524,0.012,0.012,66,-0.04,63
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,4347,0.012,0.012,52,-0.001,52
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,34371,0.061,0.061,2097,-0.0579999999999999,1975
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,5147,0.061,0.061,314,-0.13,273
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,2802,0.035,0.035,98,-0.091,89
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,3258,0.145,0.145,472,-0.17,392
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,1974,0.145,0.145,286,-0.15,243
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,2698,0.145,0.145,391,-0.1119999999999999,347
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,1262,0.145,0.145,183,-0.1669999999999999,152
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,11221,0.053,0.053,595,-0.032,576
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,29604,0.039,0.039,1155,-0.078,1065
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,17946,0.039,0.039,700,0.011,708
+3315,Foundries,3,Forging & Foundries,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,9349,0.145,0.145,1356,-0.2289999999999999,1045
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,6988,0.053,0.053,370,-0.042,354
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,2869,0.053,0.053,152,-0.013,150
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,24530,0.053,0.053,1300,-0.066,1214
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,10865,0.053,0.053,576,-0.009,571
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,12179,0.018,0.018,219,-0.03,212
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,4970,0.18,0.18,895,-0.045,855
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,8867,0.018,0.018,160,-0.027,156
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,4446,0.0289999999999999,0.0289999999999999,129,0.021,132
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,84452,0.002,0.002,169,0.027,174
+5414,Industrial design,6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,10458,0.002,0.002,21,-0.02,21
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,25297,0.002,0.002,51,0.093,56
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,48138,1.0,1.0,48138,0.272,61232
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,7921,1.0,1.0,7921,0.004,7953
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,117023,1.0,1.0,117023,-0.096,105789
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,25978,1.0,1.0,25978,0.037,26939
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,6359,1.0,1.0,6359,-0.008,6308
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,24407,1.0,1.0,24407,0.01,24651
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,8732,1.0,1.0,8732,0.002,8749
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,3846,1.0,1.0,3846,-0.057,3627
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,18192,1.0,1.0,18192,0.012,18410
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,27826,1.0,1.0,27826,0.016,28271
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,38262,1.0,1.0,38262,0.004,38415
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,31338,1.0,1.0,31338,0.062,33281
+4841,General Freight Trucking,10,Logistics,Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,35249,1.0,1.0,35249,-0.0969999999999999,31830
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,11640,1.0,1.0,11640,-0.15,9894

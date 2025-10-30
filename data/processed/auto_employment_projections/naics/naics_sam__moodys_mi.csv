@@ -1,0 +1,39 @@
+naics_code,naics_title,segment_id,segment_name,stage,share_method,share_label,projection_method,projection_label,base_employment,share_value,share_applied,auto_base_employment,projection_rate,projected_employment
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,5524,0.0885140651080839,0.0885140651080839,489,-0.04,469
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,4347,0.5150096802925763,0.5150096802925763,2239,-0.001,2237
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,34371,0.2346645503033676,0.2346645503033676,8066,-0.0579999999999999,7598
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,5147,0.5480013167432982,0.5480013167432982,2821,-0.13,2454
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,2802,0.5746759592860471,0.5746759592860471,1610,-0.091,1463
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,3258,0.4155561904757487,0.4155561904757487,1354,-0.17,1124
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,1974,0.4018232314810702,0.4018232314810702,793,-0.15,674
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,2698,0.3207778863371143,0.3207778863371143,865,-0.1119999999999999,768
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,1262,0.2932456097149427,0.2932456097149427,370,-0.1669999999999999,308
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,11221,0.2353528305668375,0.2353528305668375,2641,-0.032,2556
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,29604,0.0781138186814543,0.0781138186814543,2312,-0.078,2132
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,17946,0.2191076203234622,0.2191076203234622,3932,0.011,3975
+3315,Foundries,3,Forging & Foundries,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,9349,0.6718042155478705,0.6718042155478705,6281,-0.2289999999999999,4843
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,6988,0.3924501979798644,0.3924501979798644,2742,-0.042,2627
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,2869,0.4020278427245708,0.4020278427245708,1153,-0.013,1138
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,24530,0.3798883431259702,0.3798883431259702,9319,-0.066,8704
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,10865,0.1601840236697625,0.1601840236697625,1740,-0.009,1724
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,12179,0.2236609031791956,0.2236609031791956,2724,-0.03,2642
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,4970,0.7169582878623106,0.7169582878623106,3563,-0.045,3403
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,8867,0.0208760538182582,0.0208760538182582,185,-0.027,180
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,4446,0.503516468921238,0.503516468921238,2239,0.021,2286
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,84452,0.007242971108885,0.007242971108885,612,0.027,629
+5414,Industrial design,6,Engineering & Design,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,10458,0.0336712633047057,0.0336712633047057,352,-0.02,345
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,25297,0.0026962895876024,0.0026962895876024,68,0.093,74
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,48138,0.0069010519260291,1.0,48138,0.272,61232
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,7921,0.3212237652633554,1.0,7921,0.004,7953
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,117023,0.8663772574866386,1.0,117023,-0.096,105789
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,25978,0.8079274458924952,1.0,25978,0.037,26939
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,6359,0.2166970044359996,1.0,6359,-0.008,6308
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,24407,0.4099321154017989,1.0,24407,0.01,24651
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,8732,0.2166970044359996,1.0,8732,0.002,8749
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,3846,0.0091543465435165,1.0,3846,-0.057,3627
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,18192,0.055639800066299,1.0,18192,0.012,18410
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,27826,0.0019959124612901,1.0,27826,0.016,28271
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,38262,0.055639800066299,1.0,38262,0.004,38415
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,31338,0.0062359117458964,1.0,31338,0.062,33281
+4841,General Freight Trucking,10,Logistics,Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,35249,0.1403592121163865,1.0,35249,-0.0969999999999999,31830
+4842,Specialized Freight Trucking,10,Logistics,Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,11640,0.1403592121163865,1.0,11640,-0.15,9894

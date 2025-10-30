@@ -1,0 +1,1065 @@
+naics_code,naics_title,segment_id,segment_name,stage,share_method,share_label,projection_method,projection_label,base_employment,share_value,share_applied,auto_base_employment,projection_rate,projected_employment
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,5524,0.0885140651080839,0.0885140651080839,489,-0.04,469
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,4347,0.5150096802925763,0.5150096802925763,2239,-0.001,2237
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,34371,0.2346645503033676,0.2346645503033676,8066,-0.0579999999999999,7598
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,5147,0.5480013167432982,0.5480013167432982,2821,-0.13,2454
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,2802,0.5746759592860471,0.5746759592860471,1610,-0.091,1463
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,3258,0.4155561904757487,0.4155561904757487,1354,-0.17,1124
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,1974,0.4018232314810702,0.4018232314810702,793,-0.15,674
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,2698,0.3207778863371143,0.3207778863371143,865,-0.1119999999999999,768
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,1262,0.2932456097149427,0.2932456097149427,370,-0.1669999999999999,308
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,11221,0.2353528305668375,0.2353528305668375,2641,-0.032,2556
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,29604,0.0781138186814543,0.0781138186814543,2312,-0.078,2132
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,17946,0.2191076203234622,0.2191076203234622,3932,0.011,3975
+3315,Foundries,3,Forging & Foundries,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,9349,0.6718042155478705,0.6718042155478705,6281,-0.2289999999999999,4843
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,6988,0.3924501979798644,0.3924501979798644,2742,-0.042,2627
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,2869,0.4020278427245708,0.4020278427245708,1153,-0.013,1138
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,24530,0.3798883431259702,0.3798883431259702,9319,-0.066,8704
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,10865,0.1601840236697625,0.1601840236697625,1740,-0.009,1724
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,12179,0.2236609031791956,0.2236609031791956,2724,-0.03,2642
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,4970,0.7169582878623106,0.7169582878623106,3563,-0.045,3403
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,8867,0.0208760538182582,0.0208760538182582,185,-0.027,180
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,sam,SAM (auto_share),moodys_mi,Moody's MI,4446,0.503516468921238,0.503516468921238,2239,0.021,2286
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,84452,0.007242971108885,0.007242971108885,612,0.027,629
+5414,Industrial design,6,Engineering & Design,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,10458,0.0336712633047057,0.0336712633047057,352,-0.02,345
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,25297,0.0026962895876024,0.0026962895876024,68,0.093,74
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,48138,0.0069010519260291,1.0,48138,0.272,61232
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,7921,0.3212237652633554,1.0,7921,0.004,7953
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),moodys_mi,Moody's MI,117023,0.8663772574866386,1.0,117023,-0.096,105789
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,25978,0.8079274458924952,1.0,25978,0.037,26939
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,6359,0.2166970044359996,1.0,6359,-0.008,6308
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,24407,0.4099321154017989,1.0,24407,0.01,24651
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,8732,0.2166970044359996,1.0,8732,0.002,8749
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,3846,0.0091543465435165,1.0,3846,-0.057,3627
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,18192,0.055639800066299,1.0,18192,0.012,18410
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,27826,0.0019959124612901,1.0,27826,0.016,28271
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,38262,0.055639800066299,1.0,38262,0.004,38415
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,31338,0.0062359117458964,1.0,31338,0.062,33281
+4841,General Freight Trucking,10,Logistics,Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,35249,0.1403592121163865,1.0,35249,-0.0969999999999999,31830
+4842,Specialized Freight Trucking,10,Logistics,Downstream,sam,SAM (auto_share),moodys_mi,Moody's MI,11640,0.1403592121163865,1.0,11640,-0.15,9894
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,5524,0.0885140651080839,0.0885140651080839,489,-0.021,479
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,4347,0.5150096802925763,0.5150096802925763,2239,0.03,2306
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,34371,0.2346645503033676,0.2346645503033676,8066,-0.025,7864
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,5147,0.5480013167432982,0.5480013167432982,2821,-0.098,2545
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,2802,0.5746759592860471,0.5746759592860471,1610,-0.076,1488
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,3258,0.4155561904757487,0.4155561904757487,1354,-0.138,1167
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,1974,0.4018232314810702,0.4018232314810702,793,-0.11,706
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,2698,0.3207778863371143,0.3207778863371143,865,-0.071,804
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,1262,0.2932456097149427,0.2932456097149427,370,-0.128,323
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,11221,0.2353528305668375,0.2353528305668375,2641,-0.02,2588
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,29604,0.0781138186814543,0.0781138186814543,2312,-0.099,2083
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,17946,0.2191076203234622,0.2191076203234622,3932,0.004,3948
+3315,Foundries,3,Forging & Foundries,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,9349,0.6718042155478705,0.6718042155478705,6281,-0.179,5157
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,6988,0.3924501979798644,0.3924501979798644,2742,-0.024,2676
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,2869,0.4020278427245708,0.4020278427245708,1153,0.005,1159
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,24530,0.3798883431259702,0.3798883431259702,9319,-0.065,8713
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,10865,0.1601840236697625,0.1601840236697625,1740,-0.003,1735
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,12179,0.2236609031791956,0.2236609031791956,2724,-0.038,2620
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,4970,0.7169582878623106,0.7169582878623106,3563,-0.031,3453
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,8867,0.0208760538182582,0.0208760538182582,185,-0.004,184
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,sam,SAM (auto_share),moodys_us,Moody's US,4446,0.503516468921238,0.503516468921238,2239,-0.027,2179
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,sam,SAM (auto_share),moodys_us,Moody's US,84452,0.007242971108885,0.007242971108885,612,0.078,660
+5414,Industrial design,6,Engineering & Design,OEM,sam,SAM (auto_share),moodys_us,Moody's US,10458,0.0336712633047057,0.0336712633047057,352,-0.002,351
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,sam,SAM (auto_share),moodys_us,Moody's US,25297,0.0026962895876024,0.0026962895876024,68,0.1169999999999999,76
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),moodys_us,Moody's US,48138,0.0069010519260291,1.0,48138,0.316,63350
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),moodys_us,Moody's US,7921,0.3212237652633554,1.0,7921,0.043,8262
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),moodys_us,Moody's US,117023,0.8663772574866386,1.0,117023,-0.053,110821
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_us,Moody's US,25978,0.8079274458924952,1.0,25978,0.054,27381
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_us,Moody's US,6359,0.2166970044359996,1.0,6359,0.063,6760
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_us,Moody's US,24407,0.4099321154017989,1.0,24407,0.026,25042
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_us,Moody's US,8732,0.2166970044359996,1.0,8732,0.046,9134
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_us,Moody's US,3846,0.0091543465435165,1.0,3846,-0.05,3654
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_us,Moody's US,18192,0.055639800066299,1.0,18192,0.045,19011
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),moodys_us,Moody's US,27826,0.0019959124612901,1.0,27826,0.038,28883
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,sam,SAM (auto_share),moodys_us,Moody's US,38262,0.055639800066299,1.0,38262,0.034,39563
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,sam,SAM (auto_share),moodys_us,Moody's US,31338,0.0062359117458964,1.0,31338,0.052,32968
+4841,General Freight Trucking,10,Logistics,Downstream,sam,SAM (auto_share),moodys_us,Moody's US,35249,0.1403592121163865,1.0,35249,-0.124,30878
+4842,Specialized Freight Trucking,10,Logistics,Downstream,sam,SAM (auto_share),moodys_us,Moody's US,11640,0.1403592121163865,1.0,11640,-0.115,10301
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,5524,0.0885140651080839,0.0885140651080839,489,0.008,493
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,4347,0.5150096802925763,0.5150096802925763,2239,0.008,2257
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,34371,0.2346645503033676,0.2346645503033676,8066,-0.018,7921
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,5147,0.5480013167432982,0.5480013167432982,2821,-0.018,2770
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,2802,0.5746759592860471,0.5746759592860471,1610,-0.026,1568
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,3258,0.4155561904757487,0.4155561904757487,1354,-0.049,1288
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,1974,0.4018232314810702,0.4018232314810702,793,-0.049,754
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,2698,0.3207778863371143,0.3207778863371143,865,-0.049,823
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,1262,0.2932456097149427,0.2932456097149427,370,-0.049,352
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,11221,0.2353528305668375,0.2353528305668375,2641,-0.026,2572
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,29604,0.0781138186814543,0.0781138186814543,2312,-0.018,2270
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,17946,0.2191076203234622,0.2191076203234622,3932,-0.018,3861
+3315,Foundries,3,Forging & Foundries,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,9349,0.6718042155478705,0.6718042155478705,6281,-0.049,5973
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,6988,0.3924501979798644,0.3924501979798644,2742,-0.026,2671
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,2869,0.4020278427245708,0.4020278427245708,1153,-0.026,1123
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,24530,0.3798883431259702,0.3798883431259702,9319,-0.026,9077
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,10865,0.1601840236697625,0.1601840236697625,1740,-0.026,1695
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,12179,0.2236609031791956,0.2236609031791956,2724,0.016,2768
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,4970,0.7169582878623106,0.7169582878623106,3563,-0.018,3499
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,8867,0.0208760538182582,0.0208760538182582,185,0.016,188
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,4446,0.503516468921238,0.503516468921238,2239,0.063,2380
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,sam,SAM (auto_share),dtmb_mi,DTMB MI,84452,0.007242971108885,0.007242971108885,612,0.019,624
+5414,Industrial design,6,Engineering & Design,OEM,sam,SAM (auto_share),dtmb_mi,DTMB MI,10458,0.0336712633047057,0.0336712633047057,352,0.106,389
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,sam,SAM (auto_share),dtmb_mi,DTMB MI,25297,0.0026962895876024,0.0026962895876024,68,0.044,71
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),dtmb_mi,DTMB MI,48138,0.0069010519260291,1.0,48138,-0.031,46646
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),dtmb_mi,DTMB MI,7921,0.3212237652633554,1.0,7921,-0.031,7675
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),dtmb_mi,DTMB MI,117023,0.8663772574866386,1.0,117023,-0.031,113395
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,25978,0.8079274458924952,1.0,25978,-0.01,25718
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,6359,0.2166970044359996,1.0,6359,-0.01,6295
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,24407,0.4099321154017989,1.0,24407,-0.01,24163
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,8732,0.2166970044359996,1.0,8732,-0.01,8645
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,3846,0.0091543465435165,1.0,3846,-0.009,3811
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,18192,0.055639800066299,1.0,18192,-0.002,18156
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,27826,0.0019959124612901,1.0,27826,-0.038,26769
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,38262,0.055639800066299,1.0,38262,-0.002,38185
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,31338,0.0062359117458964,1.0,31338,-0.008,31087
+4841,General Freight Trucking,10,Logistics,Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,35249,0.1403592121163865,1.0,35249,0.013,35707
+4842,Specialized Freight Trucking,10,Logistics,Downstream,sam,SAM (auto_share),dtmb_mi,DTMB MI,11640,0.1403592121163865,1.0,11640,0.013,11791
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),bls_us,BLS US,5524,0.0885140651080839,0.0885140651080839,489,0.013,495
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,sam,SAM (auto_share),bls_us,BLS US,4347,0.5150096802925763,0.5150096802925763,2239,0.013,2268
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),bls_us,BLS US,34371,0.2346645503033676,0.2346645503033676,8066,0.026,8276
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),bls_us,BLS US,5147,0.5480013167432982,0.5480013167432982,2821,0.009,2846
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,sam,SAM (auto_share),bls_us,BLS US,2802,0.5746759592860471,0.5746759592860471,1610,0.009,1624
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),bls_us,BLS US,3258,0.4155561904757487,0.4155561904757487,1354,0.009,1366
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),bls_us,BLS US,1974,0.4018232314810702,0.4018232314810702,793,0.011,802
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),bls_us,BLS US,2698,0.3207778863371143,0.3207778863371143,865,-0.009,857
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,sam,SAM (auto_share),bls_us,BLS US,1262,0.2932456097149427,0.2932456097149427,370,0.011,374
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,sam,SAM (auto_share),bls_us,BLS US,11221,0.2353528305668375,0.2353528305668375,2641,-0.065,2469
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,sam,SAM (auto_share),bls_us,BLS US,29604,0.0781138186814543,0.0781138186814543,2312,-0.038,2224
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,sam,SAM (auto_share),bls_us,BLS US,17946,0.2191076203234622,0.2191076203234622,3932,0.002,3940
+3315,Foundries,3,Forging & Foundries,Upstream,sam,SAM (auto_share),bls_us,BLS US,9349,0.6718042155478705,0.6718042155478705,6281,-0.091,5709
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,sam,SAM (auto_share),bls_us,BLS US,6988,0.3924501979798644,0.3924501979798644,2742,-0.0579999999999999,2583
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),bls_us,BLS US,2869,0.4020278427245708,0.4020278427245708,1153,-0.0579999999999999,1086
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,sam,SAM (auto_share),bls_us,BLS US,24530,0.3798883431259702,0.3798883431259702,9319,-0.024,9095
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),bls_us,BLS US,10865,0.1601840236697625,0.1601840236697625,1740,-0.0579999999999999,1639
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,sam,SAM (auto_share),bls_us,BLS US,12179,0.2236609031791956,0.2236609031791956,2724,0.067,2907
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,sam,SAM (auto_share),bls_us,BLS US,4970,0.7169582878623106,0.7169582878623106,3563,-0.0289999999999999,3460
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,sam,SAM (auto_share),bls_us,BLS US,8867,0.0208760538182582,0.0208760538182582,185,0.02,189
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,sam,SAM (auto_share),bls_us,BLS US,4446,0.503516468921238,0.503516468921238,2239,0.166,2611
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,sam,SAM (auto_share),bls_us,BLS US,84452,0.007242971108885,0.007242971108885,612,0.023,626
+5414,Industrial design,6,Engineering & Design,OEM,sam,SAM (auto_share),bls_us,BLS US,10458,0.0336712633047057,0.0336712633047057,352,0.023,360
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,sam,SAM (auto_share),bls_us,BLS US,25297,0.0026962895876024,0.0026962895876024,68,0.049,71
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),bls_us,BLS US,48138,0.0069010519260291,1.0,48138,0.032,49678
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),bls_us,BLS US,7921,0.3212237652633554,1.0,7921,0.02,8079
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,sam,SAM (auto_share),bls_us,BLS US,117023,0.8663772574866386,1.0,117023,-0.141,100523
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),bls_us,BLS US,25978,0.8079274458924952,1.0,25978,0.027,26679
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),bls_us,BLS US,6359,0.2166970044359996,1.0,6359,0.02,6486
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),bls_us,BLS US,24407,0.4099321154017989,1.0,24407,0.024,24993
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),bls_us,BLS US,8732,0.2166970044359996,1.0,8732,0.02,8907
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),bls_us,BLS US,3846,0.0091543465435165,1.0,3846,0.0069999999999999,3873
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),bls_us,BLS US,18192,0.055639800066299,1.0,18192,0.018,18519
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,sam,SAM (auto_share),bls_us,BLS US,27826,0.0019959124612901,1.0,27826,-0.087,25405
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,sam,SAM (auto_share),bls_us,BLS US,38262,0.055639800066299,1.0,38262,0.016,38874
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,sam,SAM (auto_share),bls_us,BLS US,31338,0.0062359117458964,1.0,31338,0.009,31620
+4841,General Freight Trucking,10,Logistics,Downstream,sam,SAM (auto_share),bls_us,BLS US,35249,0.1403592121163865,1.0,35249,0.008,35531
+4842,Specialized Freight Trucking,10,Logistics,Downstream,sam,SAM (auto_share),bls_us,BLS US,11640,0.1403592121163865,1.0,11640,0.008,11733
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,5524,0.09,0.09,497,-0.04,477
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,4347,0.56,0.56,2434,-0.001,2432
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,34371,0.31,0.31,10655,-0.0579999999999999,10037
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,5147,0.67,0.67,3448,-0.13,3000
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,2802,0.58,0.58,1625,-0.091,1477
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,3258,0.54,0.54,1759,-0.17,1460
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,1974,0.46,0.46,908,-0.15,772
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,2698,0.37,0.37,998,-0.1119999999999999,886
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,1262,0.39,0.39,492,-0.1669999999999999,410
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,11221,0.34,0.34,3815,-0.032,3693
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,29604,0.25,0.25,7401,-0.078,6824
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,17946,0.41,0.41,7358,0.011,7439
+3315,Foundries,3,Forging & Foundries,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,9349,0.73,0.73,6825,-0.2289999999999999,5262
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,6988,0.52,0.52,3634,-0.042,3481
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,2869,0.41,0.41,1176,-0.013,1161
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,24530,0.51,0.51,12510,-0.066,11684
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,10865,0.24,0.24,2608,-0.009,2585
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,12179,0.39,0.39,4750,-0.03,4608
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,4970,0.85,0.85,4224,-0.045,4034
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,8867,0.08,0.08,709,-0.027,690
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,lightcast,Lightcast,moodys_mi,Moody's MI,4446,0.39,0.39,1734,0.021,1770
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,lightcast,Lightcast,moodys_mi,Moody's MI,84452,0.05,0.05,4223,0.027,4337
+5414,Industrial design,6,Engineering & Design,OEM,lightcast,Lightcast,moodys_mi,Moody's MI,10458,0.05,0.05,523,-0.02,513
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,lightcast,Lightcast,moodys_mi,Moody's MI,25297,0.01,0.01,253,0.093,277
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,moodys_mi,Moody's MI,48138,1.0,1.0,48138,0.272,61232
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,moodys_mi,Moody's MI,7921,1.0,1.0,7921,0.004,7953
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,moodys_mi,Moody's MI,117023,1.0,1.0,117023,-0.096,105789
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,25978,1.0,1.0,25978,0.037,26939
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,6359,1.0,1.0,6359,-0.008,6308
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,24407,1.0,1.0,24407,0.01,24651
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,8732,1.0,1.0,8732,0.002,8749
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,3846,1.0,1.0,3846,-0.057,3627
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,18192,1.0,1.0,18192,0.012,18410
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,27826,1.0,1.0,27826,0.016,28271
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,38262,1.0,1.0,38262,0.004,38415
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,31338,1.0,1.0,31338,0.062,33281
+4841,General Freight Trucking,10,Logistics,Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,35249,0.22,1.0,35249,-0.0969999999999999,31830
+4842,Specialized Freight Trucking,10,Logistics,Downstream,lightcast,Lightcast,moodys_mi,Moody's MI,11640,0.21,1.0,11640,-0.15,9894
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,moodys_us,Moody's US,5524,0.09,0.09,497,-0.021,487
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,lightcast,Lightcast,moodys_us,Moody's US,4347,0.56,0.56,2434,0.03,2507
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,moodys_us,Moody's US,34371,0.31,0.31,10655,-0.025,10389
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,moodys_us,Moody's US,5147,0.67,0.67,3448,-0.098,3110
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,moodys_us,Moody's US,2802,0.58,0.58,1625,-0.076,1502
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,moodys_us,Moody's US,3258,0.54,0.54,1759,-0.138,1516
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,moodys_us,Moody's US,1974,0.46,0.46,908,-0.11,808
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,moodys_us,Moody's US,2698,0.37,0.37,998,-0.071,927
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,moodys_us,Moody's US,1262,0.39,0.39,492,-0.128,429
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,lightcast,Lightcast,moodys_us,Moody's US,11221,0.34,0.34,3815,-0.02,3739
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,lightcast,Lightcast,moodys_us,Moody's US,29604,0.25,0.25,7401,-0.099,6668
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,lightcast,Lightcast,moodys_us,Moody's US,17946,0.41,0.41,7358,0.004,7387
+3315,Foundries,3,Forging & Foundries,Upstream,lightcast,Lightcast,moodys_us,Moody's US,9349,0.73,0.73,6825,-0.179,5603
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,lightcast,Lightcast,moodys_us,Moody's US,6988,0.52,0.52,3634,-0.024,3547
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,moodys_us,Moody's US,2869,0.41,0.41,1176,0.005,1182
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,lightcast,Lightcast,moodys_us,Moody's US,24530,0.51,0.51,12510,-0.065,11697
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,moodys_us,Moody's US,10865,0.24,0.24,2608,-0.003,2600
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,moodys_us,Moody's US,12179,0.39,0.39,4750,-0.038,4570
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,lightcast,Lightcast,moodys_us,Moody's US,4970,0.85,0.85,4224,-0.031,4093
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,lightcast,Lightcast,moodys_us,Moody's US,8867,0.08,0.08,709,-0.004,706
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,lightcast,Lightcast,moodys_us,Moody's US,4446,0.39,0.39,1734,-0.027,1687
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,lightcast,Lightcast,moodys_us,Moody's US,84452,0.05,0.05,4223,0.078,4552
+5414,Industrial design,6,Engineering & Design,OEM,lightcast,Lightcast,moodys_us,Moody's US,10458,0.05,0.05,523,-0.002,522
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,lightcast,Lightcast,moodys_us,Moody's US,25297,0.01,0.01,253,0.1169999999999999,283
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,moodys_us,Moody's US,48138,1.0,1.0,48138,0.316,63350
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,moodys_us,Moody's US,7921,1.0,1.0,7921,0.043,8262
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,moodys_us,Moody's US,117023,1.0,1.0,117023,-0.053,110821
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_us,Moody's US,25978,1.0,1.0,25978,0.054,27381
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_us,Moody's US,6359,1.0,1.0,6359,0.063,6760
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_us,Moody's US,24407,1.0,1.0,24407,0.026,25042
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_us,Moody's US,8732,1.0,1.0,8732,0.046,9134
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_us,Moody's US,3846,1.0,1.0,3846,-0.05,3654
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_us,Moody's US,18192,1.0,1.0,18192,0.045,19011
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,moodys_us,Moody's US,27826,1.0,1.0,27826,0.038,28883
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,lightcast,Lightcast,moodys_us,Moody's US,38262,1.0,1.0,38262,0.034,39563
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,lightcast,Lightcast,moodys_us,Moody's US,31338,1.0,1.0,31338,0.052,32968
+4841,General Freight Trucking,10,Logistics,Downstream,lightcast,Lightcast,moodys_us,Moody's US,35249,0.22,1.0,35249,-0.124,30878
+4842,Specialized Freight Trucking,10,Logistics,Downstream,lightcast,Lightcast,moodys_us,Moody's US,11640,0.21,1.0,11640,-0.115,10301
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,5524,0.09,0.09,497,0.008,501
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,4347,0.56,0.56,2434,0.008,2453
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,34371,0.31,0.31,10655,-0.018,10463
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,5147,0.67,0.67,3448,-0.018,3386
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,2802,0.58,0.58,1625,-0.026,1583
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,3258,0.54,0.54,1759,-0.049,1673
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,1974,0.46,0.46,908,-0.049,864
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,2698,0.37,0.37,998,-0.049,949
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,1262,0.39,0.39,492,-0.049,468
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,11221,0.34,0.34,3815,-0.026,3716
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,29604,0.25,0.25,7401,-0.018,7268
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,17946,0.41,0.41,7358,-0.018,7226
+3315,Foundries,3,Forging & Foundries,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,9349,0.73,0.73,6825,-0.049,6491
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,6988,0.52,0.52,3634,-0.026,3540
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,2869,0.41,0.41,1176,-0.026,1145
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,24530,0.51,0.51,12510,-0.026,12185
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,10865,0.24,0.24,2608,-0.026,2540
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,12179,0.39,0.39,4750,0.016,4826
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,4970,0.85,0.85,4224,-0.018,4148
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,8867,0.08,0.08,709,0.016,720
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,lightcast,Lightcast,dtmb_mi,DTMB MI,4446,0.39,0.39,1734,0.063,1843
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,lightcast,Lightcast,dtmb_mi,DTMB MI,84452,0.05,0.05,4223,0.019,4303
+5414,Industrial design,6,Engineering & Design,OEM,lightcast,Lightcast,dtmb_mi,DTMB MI,10458,0.05,0.05,523,0.106,578
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,lightcast,Lightcast,dtmb_mi,DTMB MI,25297,0.01,0.01,253,0.044,264
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,dtmb_mi,DTMB MI,48138,1.0,1.0,48138,-0.031,46646
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,dtmb_mi,DTMB MI,7921,1.0,1.0,7921,-0.031,7675
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,dtmb_mi,DTMB MI,117023,1.0,1.0,117023,-0.031,113395
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,25978,1.0,1.0,25978,-0.01,25718
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,6359,1.0,1.0,6359,-0.01,6295
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,24407,1.0,1.0,24407,-0.01,24163
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,8732,1.0,1.0,8732,-0.01,8645
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,3846,1.0,1.0,3846,-0.009,3811
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,18192,1.0,1.0,18192,-0.002,18156
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,27826,1.0,1.0,27826,-0.038,26769
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,38262,1.0,1.0,38262,-0.002,38185
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,31338,1.0,1.0,31338,-0.008,31087
+4841,General Freight Trucking,10,Logistics,Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,35249,0.22,1.0,35249,0.013,35707
+4842,Specialized Freight Trucking,10,Logistics,Downstream,lightcast,Lightcast,dtmb_mi,DTMB MI,11640,0.21,1.0,11640,0.013,11791
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,bls_us,BLS US,5524,0.09,0.09,497,0.013,503
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,lightcast,Lightcast,bls_us,BLS US,4347,0.56,0.56,2434,0.013,2466
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,bls_us,BLS US,34371,0.31,0.31,10655,0.026,10932
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,bls_us,BLS US,5147,0.67,0.67,3448,0.009,3479
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,lightcast,Lightcast,bls_us,BLS US,2802,0.58,0.58,1625,0.009,1640
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,bls_us,BLS US,3258,0.54,0.54,1759,0.009,1775
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,bls_us,BLS US,1974,0.46,0.46,908,0.011,918
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,bls_us,BLS US,2698,0.37,0.37,998,-0.009,989
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,lightcast,Lightcast,bls_us,BLS US,1262,0.39,0.39,492,0.011,497
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,lightcast,Lightcast,bls_us,BLS US,11221,0.34,0.34,3815,-0.065,3567
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,lightcast,Lightcast,bls_us,BLS US,29604,0.25,0.25,7401,-0.038,7120
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,lightcast,Lightcast,bls_us,BLS US,17946,0.41,0.41,7358,0.002,7373
+3315,Foundries,3,Forging & Foundries,Upstream,lightcast,Lightcast,bls_us,BLS US,9349,0.73,0.73,6825,-0.091,6204
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,lightcast,Lightcast,bls_us,BLS US,6988,0.52,0.52,3634,-0.0579999999999999,3423
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,bls_us,BLS US,2869,0.41,0.41,1176,-0.0579999999999999,1108
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,lightcast,Lightcast,bls_us,BLS US,24530,0.51,0.51,12510,-0.024,12210
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,bls_us,BLS US,10865,0.24,0.24,2608,-0.0579999999999999,2457
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,lightcast,Lightcast,bls_us,BLS US,12179,0.39,0.39,4750,0.067,5068
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,lightcast,Lightcast,bls_us,BLS US,4970,0.85,0.85,4224,-0.0289999999999999,4102
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,lightcast,Lightcast,bls_us,BLS US,8867,0.08,0.08,709,0.02,723
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,lightcast,Lightcast,bls_us,BLS US,4446,0.39,0.39,1734,0.166,2022
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,lightcast,Lightcast,bls_us,BLS US,84452,0.05,0.05,4223,0.023,4320
+5414,Industrial design,6,Engineering & Design,OEM,lightcast,Lightcast,bls_us,BLS US,10458,0.05,0.05,523,0.023,535
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,lightcast,Lightcast,bls_us,BLS US,25297,0.01,0.01,253,0.049,265
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,bls_us,BLS US,48138,1.0,1.0,48138,0.032,49678
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,bls_us,BLS US,7921,1.0,1.0,7921,0.02,8079
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,lightcast,Lightcast,bls_us,BLS US,117023,1.0,1.0,117023,-0.141,100523
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,bls_us,BLS US,25978,1.0,1.0,25978,0.027,26679
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,bls_us,BLS US,6359,1.0,1.0,6359,0.02,6486
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,bls_us,BLS US,24407,1.0,1.0,24407,0.024,24993
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,bls_us,BLS US,8732,1.0,1.0,8732,0.02,8907
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,bls_us,BLS US,3846,1.0,1.0,3846,0.0069999999999999,3873
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,bls_us,BLS US,18192,1.0,1.0,18192,0.018,18519
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,lightcast,Lightcast,bls_us,BLS US,27826,1.0,1.0,27826,-0.087,25405
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,lightcast,Lightcast,bls_us,BLS US,38262,1.0,1.0,38262,0.016,38874
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,lightcast,Lightcast,bls_us,BLS US,31338,1.0,1.0,31338,0.009,31620
+4841,General Freight Trucking,10,Logistics,Downstream,lightcast,Lightcast,bls_us,BLS US,35249,0.22,1.0,35249,0.008,35531
+4842,Specialized Freight Trucking,10,Logistics,Downstream,lightcast,Lightcast,bls_us,BLS US,11640,0.21,1.0,11640,0.008,11733
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,5524,0.012,0.012,66,-0.04,63
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,4347,0.012,0.012,52,-0.001,52
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,34371,0.061,0.061,2097,-0.0579999999999999,1975
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,5147,0.061,0.061,314,-0.13,273
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,2802,0.035,0.035,98,-0.091,89
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,3258,0.145,0.145,472,-0.17,392
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,1974,0.145,0.145,286,-0.15,243
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,2698,0.145,0.145,391,-0.1119999999999999,347
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,1262,0.145,0.145,183,-0.1669999999999999,152
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,11221,0.053,0.053,595,-0.032,576
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,29604,0.039,0.039,1155,-0.078,1065
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,17946,0.039,0.039,700,0.011,708
+3315,Foundries,3,Forging & Foundries,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,9349,0.145,0.145,1356,-0.2289999999999999,1045
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,6988,0.053,0.053,370,-0.042,354
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,2869,0.053,0.053,152,-0.013,150
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,24530,0.053,0.053,1300,-0.066,1214
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,10865,0.053,0.053,576,-0.009,571
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,12179,0.018,0.018,219,-0.03,212
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,4970,0.18,0.18,895,-0.045,855
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,8867,0.018,0.018,160,-0.027,156
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,4446,0.0289999999999999,0.0289999999999999,129,0.021,132
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,84452,0.002,0.002,169,0.027,174
+5414,Industrial design,6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,10458,0.002,0.002,21,-0.02,21
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,25297,0.002,0.002,51,0.093,56
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,48138,1.0,1.0,48138,0.272,61232
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,7921,1.0,1.0,7921,0.004,7953
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,117023,1.0,1.0,117023,-0.096,105789
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,25978,1.0,1.0,25978,0.037,26939
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,6359,1.0,1.0,6359,-0.008,6308
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,24407,1.0,1.0,24407,0.01,24651
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,8732,1.0,1.0,8732,0.002,8749
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,3846,1.0,1.0,3846,-0.057,3627
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,18192,1.0,1.0,18192,0.012,18410
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,27826,1.0,1.0,27826,0.016,28271
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,38262,1.0,1.0,38262,0.004,38415
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,31338,1.0,1.0,31338,0.062,33281
+4841,General Freight Trucking,10,Logistics,Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,35249,1.0,1.0,35249,-0.0969999999999999,31830
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_summary,BEA Summary (Total Output),moodys_mi,Moody's MI,11640,1.0,1.0,11640,-0.15,9894
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,5524,0.012,0.012,66,-0.021,65
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,4347,0.012,0.012,52,0.03,54
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,34371,0.061,0.061,2097,-0.025,2045
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,5147,0.061,0.061,314,-0.098,283
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,2802,0.035,0.035,98,-0.076,91
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,3258,0.145,0.145,472,-0.138,407
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,1974,0.145,0.145,286,-0.11,255
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,2698,0.145,0.145,391,-0.071,363
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,1262,0.145,0.145,183,-0.128,160
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,11221,0.053,0.053,595,-0.02,583
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,29604,0.039,0.039,1155,-0.099,1041
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,17946,0.039,0.039,700,0.004,703
+3315,Foundries,3,Forging & Foundries,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,9349,0.145,0.145,1356,-0.179,1113
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,6988,0.053,0.053,370,-0.024,361
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,2869,0.053,0.053,152,0.005,153
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,24530,0.053,0.053,1300,-0.065,1216
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,10865,0.053,0.053,576,-0.003,574
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,12179,0.018,0.018,219,-0.038,211
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,4970,0.18,0.18,895,-0.031,867
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,8867,0.018,0.018,160,-0.004,159
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,4446,0.0289999999999999,0.0289999999999999,129,-0.027,126
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,84452,0.002,0.002,169,0.078,182
+5414,Industrial design,6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,10458,0.002,0.002,21,-0.002,21
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,25297,0.002,0.002,51,0.1169999999999999,57
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,48138,1.0,1.0,48138,0.316,63350
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,7921,1.0,1.0,7921,0.043,8262
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,117023,1.0,1.0,117023,-0.053,110821
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,25978,1.0,1.0,25978,0.054,27381
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,6359,1.0,1.0,6359,0.063,6760
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,24407,1.0,1.0,24407,0.026,25042
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,8732,1.0,1.0,8732,0.046,9134
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,3846,1.0,1.0,3846,-0.05,3654
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,18192,1.0,1.0,18192,0.045,19011
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,27826,1.0,1.0,27826,0.038,28883
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,38262,1.0,1.0,38262,0.034,39563
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,31338,1.0,1.0,31338,0.052,32968
+4841,General Freight Trucking,10,Logistics,Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,35249,1.0,1.0,35249,-0.124,30878
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_summary,BEA Summary (Total Output),moodys_us,Moody's US,11640,1.0,1.0,11640,-0.115,10301
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,5524,0.012,0.012,66,0.008,67
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,4347,0.012,0.012,52,0.008,52
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,34371,0.061,0.061,2097,-0.018,2059
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,5147,0.061,0.061,314,-0.018,308
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,2802,0.035,0.035,98,-0.026,95
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,3258,0.145,0.145,472,-0.049,449
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,1974,0.145,0.145,286,-0.049,272
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,2698,0.145,0.145,391,-0.049,372
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,1262,0.145,0.145,183,-0.049,174
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,11221,0.053,0.053,595,-0.026,580
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,29604,0.039,0.039,1155,-0.018,1134
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,17946,0.039,0.039,700,-0.018,687
+3315,Foundries,3,Forging & Foundries,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,9349,0.145,0.145,1356,-0.049,1290
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,6988,0.053,0.053,370,-0.026,360
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,2869,0.053,0.053,152,-0.026,148
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,24530,0.053,0.053,1300,-0.026,1266
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,10865,0.053,0.053,576,-0.026,561
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,12179,0.018,0.018,219,0.016,223
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,4970,0.18,0.18,895,-0.018,879
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,8867,0.018,0.018,160,0.016,163
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,4446,0.0289999999999999,0.0289999999999999,129,0.063,137
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,84452,0.002,0.002,169,0.019,172
+5414,Industrial design,6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,10458,0.002,0.002,21,0.106,23
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,25297,0.002,0.002,51,0.044,53
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,48138,1.0,1.0,48138,-0.031,46646
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,7921,1.0,1.0,7921,-0.031,7675
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,117023,1.0,1.0,117023,-0.031,113395
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,25978,1.0,1.0,25978,-0.01,25718
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,6359,1.0,1.0,6359,-0.01,6295
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,24407,1.0,1.0,24407,-0.01,24163
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,8732,1.0,1.0,8732,-0.01,8645
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,3846,1.0,1.0,3846,-0.009,3811
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,18192,1.0,1.0,18192,-0.002,18156
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,27826,1.0,1.0,27826,-0.038,26769
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,38262,1.0,1.0,38262,-0.002,38185
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,31338,1.0,1.0,31338,-0.008,31087
+4841,General Freight Trucking,10,Logistics,Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,35249,1.0,1.0,35249,0.013,35707
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_summary,BEA Summary (Total Output),dtmb_mi,DTMB MI,11640,1.0,1.0,11640,0.013,11791
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,5524,0.012,0.012,66,0.013,67
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,4347,0.012,0.012,52,0.013,53
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,34371,0.061,0.061,2097,0.026,2152
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,5147,0.061,0.061,314,0.009,317
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,2802,0.035,0.035,98,0.009,99
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,3258,0.145,0.145,472,0.009,476
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,1974,0.145,0.145,286,0.011,289
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,2698,0.145,0.145,391,-0.009,387
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,1262,0.145,0.145,183,0.011,185
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,11221,0.053,0.053,595,-0.065,556
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,29604,0.039,0.039,1155,-0.038,1111
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,17946,0.039,0.039,700,0.002,701
+3315,Foundries,3,Forging & Foundries,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,9349,0.145,0.145,1356,-0.091,1233
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,6988,0.053,0.053,370,-0.0579999999999999,349
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,2869,0.053,0.053,152,-0.0579999999999999,143
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,24530,0.053,0.053,1300,-0.024,1269
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,10865,0.053,0.053,576,-0.0579999999999999,543
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,12179,0.018,0.018,219,0.067,234
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,4970,0.18,0.18,895,-0.0289999999999999,869
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,8867,0.018,0.018,160,0.02,163
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,4446,0.0289999999999999,0.0289999999999999,129,0.166,150
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),bls_us,BLS US,84452,0.002,0.002,169,0.023,173
+5414,Industrial design,6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),bls_us,BLS US,10458,0.002,0.002,21,0.023,21
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_summary,BEA Summary (Total Output),bls_us,BLS US,25297,0.002,0.002,51,0.049,53
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),bls_us,BLS US,48138,1.0,1.0,48138,0.032,49678
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),bls_us,BLS US,7921,1.0,1.0,7921,0.02,8079
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_summary,BEA Summary (Total Output),bls_us,BLS US,117023,1.0,1.0,117023,-0.141,100523
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,25978,1.0,1.0,25978,0.027,26679
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,6359,1.0,1.0,6359,0.02,6486
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,24407,1.0,1.0,24407,0.024,24993
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,8732,1.0,1.0,8732,0.02,8907
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,3846,1.0,1.0,3846,0.0069999999999999,3873
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,18192,1.0,1.0,18192,0.018,18519
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,27826,1.0,1.0,27826,-0.087,25405
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,38262,1.0,1.0,38262,0.016,38874
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,31338,1.0,1.0,31338,0.009,31620
+4841,General Freight Trucking,10,Logistics,Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,35249,1.0,1.0,35249,0.008,35531
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_summary,BEA Summary (Total Output),bls_us,BLS US,11640,1.0,1.0,11640,0.008,11733
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,5524,0.027,0.027,149,-0.04,143
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,4347,0.173,0.173,752,-0.001,751
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,34371,0.047,0.047,1615,-0.0579999999999999,1521
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,5147,0.1639999999999999,0.1639999999999999,844,-0.13,734
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,2802,0.118,0.118,331,-0.091,301
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,3258,0.1169999999999999,0.1169999999999999,381,-0.17,316
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,1974,0.091,0.091,180,-0.15,153
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,2698,0.071,0.071,192,-0.1119999999999999,170
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,1262,0.057,0.057,72,-0.1669999999999999,60
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,11221,0.064,0.064,718,-0.032,695
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,29604,0.05,0.05,1480,-0.078,1365
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,17946,0.066,0.066,1184,0.011,1197
+3315,Foundries,3,Forging & Foundries,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,9349,0.36,0.36,3366,-0.2289999999999999,2595
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,6988,0.172,0.172,1202,-0.042,1152
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,2869,0.064,0.064,184,-0.013,182
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,24530,0.123,0.123,3017,-0.066,2818
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,10865,0.0279999999999999,0.0279999999999999,304,-0.009,301
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,12179,0.039,0.039,475,-0.03,461
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,4970,0.214,0.214,1064,-0.045,1016
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,8867,0.01,0.01,89,-0.027,87
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,4446,0.072,0.072,320,0.021,327
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,84452,0.005,0.005,422,0.027,433
+5414,Industrial design,6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,10458,0.0069999999999999,0.0069999999999999,73,-0.02,72
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,25297,0.002,0.002,51,0.093,56
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,48138,0.431,1.0,48138,0.272,61232
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,7921,0.727,1.0,7921,0.004,7953
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,117023,0.39,1.0,117023,-0.096,105789
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,25978,0.485,1.0,25978,0.037,26939
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,6359,0.0,1.0,6359,-0.008,6308
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,24407,0.108,1.0,24407,0.01,24651
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,8732,0.0,1.0,8732,0.002,8749
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,3846,0.002,1.0,3846,-0.057,3627
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,18192,0.0,1.0,18192,0.012,18410
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,27826,0.0,1.0,27826,0.016,28271
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,38262,0.0,1.0,38262,0.004,38415
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,31338,0.011,1.0,31338,0.062,33281
+4841,General Freight Trucking,10,Logistics,Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,35249,0.0,1.0,35249,-0.0969999999999999,31830
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_mi,Moody's MI,11640,0.0,1.0,11640,-0.15,9894
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,5524,0.027,0.027,149,-0.021,146
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,4347,0.173,0.173,752,0.03,775
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,34371,0.047,0.047,1615,-0.025,1575
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,5147,0.1639999999999999,0.1639999999999999,844,-0.098,761
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,2802,0.118,0.118,331,-0.076,306
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,3258,0.1169999999999999,0.1169999999999999,381,-0.138,328
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,1974,0.091,0.091,180,-0.11,160
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,2698,0.071,0.071,192,-0.071,178
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,1262,0.057,0.057,72,-0.128,63
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,11221,0.064,0.064,718,-0.02,704
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,29604,0.05,0.05,1480,-0.099,1333
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,17946,0.066,0.066,1184,0.004,1189
+3315,Foundries,3,Forging & Foundries,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,9349,0.36,0.36,3366,-0.179,2763
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,6988,0.172,0.172,1202,-0.024,1173
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,2869,0.064,0.064,184,0.005,185
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,24530,0.123,0.123,3017,-0.065,2821
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,10865,0.0279999999999999,0.0279999999999999,304,-0.003,303
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,12179,0.039,0.039,475,-0.038,457
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,4970,0.214,0.214,1064,-0.031,1031
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,8867,0.01,0.01,89,-0.004,89
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,4446,0.072,0.072,320,-0.027,311
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,84452,0.005,0.005,422,0.078,455
+5414,Industrial design,6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,10458,0.0069999999999999,0.0069999999999999,73,-0.002,73
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,25297,0.002,0.002,51,0.1169999999999999,57
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,48138,0.431,1.0,48138,0.316,63350
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,7921,0.727,1.0,7921,0.043,8262
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,117023,0.39,1.0,117023,-0.053,110821
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,25978,0.485,1.0,25978,0.054,27381
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,6359,0.0,1.0,6359,0.063,6760
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,24407,0.108,1.0,24407,0.026,25042
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,8732,0.0,1.0,8732,0.046,9134
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,3846,0.002,1.0,3846,-0.05,3654
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,18192,0.0,1.0,18192,0.045,19011
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,27826,0.0,1.0,27826,0.038,28883
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,38262,0.0,1.0,38262,0.034,39563
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,31338,0.011,1.0,31338,0.052,32968
+4841,General Freight Trucking,10,Logistics,Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,35249,0.0,1.0,35249,-0.124,30878
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),moodys_us,Moody's US,11640,0.0,1.0,11640,-0.115,10301
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,5524,0.027,0.027,149,0.008,150
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,4347,0.173,0.173,752,0.008,758
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,34371,0.047,0.047,1615,-0.018,1586
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,5147,0.1639999999999999,0.1639999999999999,844,-0.018,829
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,2802,0.118,0.118,331,-0.026,322
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,3258,0.1169999999999999,0.1169999999999999,381,-0.049,362
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,1974,0.091,0.091,180,-0.049,171
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,2698,0.071,0.071,192,-0.049,183
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,1262,0.057,0.057,72,-0.049,68
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,11221,0.064,0.064,718,-0.026,699
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,29604,0.05,0.05,1480,-0.018,1453
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,17946,0.066,0.066,1184,-0.018,1163
+3315,Foundries,3,Forging & Foundries,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,9349,0.36,0.36,3366,-0.049,3201
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,6988,0.172,0.172,1202,-0.026,1171
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,2869,0.064,0.064,184,-0.026,179
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,24530,0.123,0.123,3017,-0.026,2939
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,10865,0.0279999999999999,0.0279999999999999,304,-0.026,296
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,12179,0.039,0.039,475,0.016,483
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,4970,0.214,0.214,1064,-0.018,1045
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,8867,0.01,0.01,89,0.016,90
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,4446,0.072,0.072,320,0.063,340
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,84452,0.005,0.005,422,0.019,430
+5414,Industrial design,6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,10458,0.0069999999999999,0.0069999999999999,73,0.106,81
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,25297,0.002,0.002,51,0.044,53
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,48138,0.431,1.0,48138,-0.031,46646
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,7921,0.727,1.0,7921,-0.031,7675
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,117023,0.39,1.0,117023,-0.031,113395
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,25978,0.485,1.0,25978,-0.01,25718
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,6359,0.0,1.0,6359,-0.01,6295
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,24407,0.108,1.0,24407,-0.01,24163
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,8732,0.0,1.0,8732,-0.01,8645
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,3846,0.002,1.0,3846,-0.009,3811
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,18192,0.0,1.0,18192,-0.002,18156
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,27826,0.0,1.0,27826,-0.038,26769
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,38262,0.0,1.0,38262,-0.002,38185
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,31338,0.011,1.0,31338,-0.008,31087
+4841,General Freight Trucking,10,Logistics,Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,35249,0.0,1.0,35249,0.013,35707
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),dtmb_mi,DTMB MI,11640,0.0,1.0,11640,0.013,11791
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,5524,0.027,0.027,149,0.013,151
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,4347,0.173,0.173,752,0.013,762
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,34371,0.047,0.047,1615,0.026,1657
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,5147,0.1639999999999999,0.1639999999999999,844,0.009,852
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,2802,0.118,0.118,331,0.009,334
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,3258,0.1169999999999999,0.1169999999999999,381,0.009,384
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,1974,0.091,0.091,180,0.011,182
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,2698,0.071,0.071,192,-0.009,190
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,1262,0.057,0.057,72,0.011,73
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,11221,0.064,0.064,718,-0.065,671
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,29604,0.05,0.05,1480,-0.038,1424
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,17946,0.066,0.066,1184,0.002,1186
+3315,Foundries,3,Forging & Foundries,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,9349,0.36,0.36,3366,-0.091,3060
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,6988,0.172,0.172,1202,-0.0579999999999999,1132
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,2869,0.064,0.064,184,-0.0579999999999999,173
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,24530,0.123,0.123,3017,-0.024,2945
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,10865,0.0279999999999999,0.0279999999999999,304,-0.0579999999999999,286
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,12179,0.039,0.039,475,0.067,507
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,4970,0.214,0.214,1064,-0.0289999999999999,1033
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,8867,0.01,0.01,89,0.02,91
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,4446,0.072,0.072,320,0.166,373
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,84452,0.005,0.005,422,0.023,432
+5414,Industrial design,6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,10458,0.0069999999999999,0.0069999999999999,73,0.023,75
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,25297,0.002,0.002,51,0.049,53
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,48138,0.431,1.0,48138,0.032,49678
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,7921,0.727,1.0,7921,0.02,8079
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,117023,0.39,1.0,117023,-0.141,100523
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,25978,0.485,1.0,25978,0.027,26679
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,6359,0.0,1.0,6359,0.02,6486
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,24407,0.108,1.0,24407,0.024,24993
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,8732,0.0,1.0,8732,0.02,8907
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,3846,0.002,1.0,3846,0.0069999999999999,3873
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,18192,0.0,1.0,18192,0.018,18519
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,27826,0.0,1.0,27826,-0.087,25405
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,38262,0.0,1.0,38262,0.016,38874
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,31338,0.011,1.0,31338,0.009,31620
+4841,General Freight Trucking,10,Logistics,Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,35249,0.0,1.0,35249,0.008,35531
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_detail_inputs,BEA Detail (Intermediate Inputs),bls_us,BLS US,11640,0.0,1.0,11640,0.008,11733
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,5524,0.023,0.023,127,-0.04,122
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,4347,0.144,0.144,626,-0.001,625
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,34371,0.045,0.045,1547,-0.0579999999999999,1457
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,5147,0.149,0.149,767,-0.13,667
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,2802,0.111,0.111,311,-0.091,283
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,3258,0.141,0.141,459,-0.17,381
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,1974,0.11,0.11,217,-0.15,184
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,2698,0.094,0.094,254,-0.1119999999999999,226
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,1262,0.074,0.074,93,-0.1669999999999999,77
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,11221,0.063,0.063,707,-0.032,684
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,29604,0.022,0.022,651,-0.078,600
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,17946,0.032,0.032,574,0.011,580
+3315,Foundries,3,Forging & Foundries,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,9349,0.354,0.354,3310,-0.2289999999999999,2552
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,6988,0.1689999999999999,0.1689999999999999,1181,-0.042,1131
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,2869,0.074,0.074,212,-0.013,209
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,24530,0.122,0.122,2993,-0.066,2795
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,10865,0.0279999999999999,0.0279999999999999,304,-0.009,301
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,12179,0.036,0.036,438,-0.03,425
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,4970,0.177,0.177,880,-0.045,840
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,8867,0.003,0.003,27,-0.027,26
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,4446,0.065,0.065,289,0.021,295
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,84452,0.004,0.004,338,0.027,347
+5414,Industrial design,6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,10458,0.005,0.005,52,-0.02,51
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,25297,0.0,0.0,0,0.093,0
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,48138,0.005,1.0,48138,0.272,61232
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,7921,0.13,1.0,7921,0.004,7953
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,117023,0.439,1.0,117023,-0.096,105789
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,25978,0.211,1.0,25978,0.037,26939
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,6359,0.0,1.0,6359,-0.008,6308
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,24407,0.046,1.0,24407,0.01,24651
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,8732,0.0,1.0,8732,0.002,8749
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,3846,0.001,1.0,3846,-0.057,3627
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,18192,0.0,1.0,18192,0.012,18410
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,27826,0.0,1.0,27826,0.016,28271
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,38262,0.0,1.0,38262,0.004,38415
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,31338,0.002,1.0,31338,0.062,33281
+4841,General Freight Trucking,10,Logistics,Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,35249,0.0,1.0,35249,-0.0969999999999999,31830
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_detail_output,BEA Detail (Total Output),moodys_mi,Moody's MI,11640,0.0,1.0,11640,-0.15,9894
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,5524,0.023,0.023,127,-0.021,124
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,4347,0.144,0.144,626,0.03,645
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,34371,0.045,0.045,1547,-0.025,1508
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,5147,0.149,0.149,767,-0.098,692
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,2802,0.111,0.111,311,-0.076,287
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,3258,0.141,0.141,459,-0.138,396
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,1974,0.11,0.11,217,-0.11,193
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,2698,0.094,0.094,254,-0.071,236
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,1262,0.074,0.074,93,-0.128,81
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,11221,0.063,0.063,707,-0.02,693
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,29604,0.022,0.022,651,-0.099,587
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,17946,0.032,0.032,574,0.004,576
+3315,Foundries,3,Forging & Foundries,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,9349,0.354,0.354,3310,-0.179,2718
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,6988,0.1689999999999999,0.1689999999999999,1181,-0.024,1153
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,2869,0.074,0.074,212,0.005,213
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,24530,0.122,0.122,2993,-0.065,2798
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,10865,0.0279999999999999,0.0279999999999999,304,-0.003,303
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,12179,0.036,0.036,438,-0.038,421
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,4970,0.177,0.177,880,-0.031,853
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,8867,0.003,0.003,27,-0.004,27
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,4446,0.065,0.065,289,-0.027,281
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,84452,0.004,0.004,338,0.078,364
+5414,Industrial design,6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,10458,0.005,0.005,52,-0.002,52
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,25297,0.0,0.0,0,0.1169999999999999,0
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,48138,0.005,1.0,48138,0.316,63350
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,7921,0.13,1.0,7921,0.043,8262
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,117023,0.439,1.0,117023,-0.053,110821
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,25978,0.211,1.0,25978,0.054,27381
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,6359,0.0,1.0,6359,0.063,6760
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,24407,0.046,1.0,24407,0.026,25042
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,8732,0.0,1.0,8732,0.046,9134
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,3846,0.001,1.0,3846,-0.05,3654
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,18192,0.0,1.0,18192,0.045,19011
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,27826,0.0,1.0,27826,0.038,28883
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,38262,0.0,1.0,38262,0.034,39563
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,31338,0.002,1.0,31338,0.052,32968
+4841,General Freight Trucking,10,Logistics,Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,35249,0.0,1.0,35249,-0.124,30878
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_detail_output,BEA Detail (Total Output),moodys_us,Moody's US,11640,0.0,1.0,11640,-0.115,10301
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,5524,0.023,0.023,127,0.008,128
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,4347,0.144,0.144,626,0.008,631
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,34371,0.045,0.045,1547,-0.018,1519
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,5147,0.149,0.149,767,-0.018,753
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,2802,0.111,0.111,311,-0.026,303
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,3258,0.141,0.141,459,-0.049,437
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,1974,0.11,0.11,217,-0.049,206
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,2698,0.094,0.094,254,-0.049,242
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,1262,0.074,0.074,93,-0.049,88
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,11221,0.063,0.063,707,-0.026,689
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,29604,0.022,0.022,651,-0.018,639
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,17946,0.032,0.032,574,-0.018,564
+3315,Foundries,3,Forging & Foundries,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,9349,0.354,0.354,3310,-0.049,3148
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,6988,0.1689999999999999,0.1689999999999999,1181,-0.026,1150
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,2869,0.074,0.074,212,-0.026,206
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,24530,0.122,0.122,2993,-0.026,2915
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,10865,0.0279999999999999,0.0279999999999999,304,-0.026,296
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,12179,0.036,0.036,438,0.016,445
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,4970,0.177,0.177,880,-0.018,864
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,8867,0.003,0.003,27,0.016,27
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,4446,0.065,0.065,289,0.063,307
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,84452,0.004,0.004,338,0.019,344
+5414,Industrial design,6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,10458,0.005,0.005,52,0.106,58
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,25297,0.0,0.0,0,0.044,0
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,48138,0.005,1.0,48138,-0.031,46646
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,7921,0.13,1.0,7921,-0.031,7675
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,117023,0.439,1.0,117023,-0.031,113395
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,25978,0.211,1.0,25978,-0.01,25718
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,6359,0.0,1.0,6359,-0.01,6295
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,24407,0.046,1.0,24407,-0.01,24163
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,8732,0.0,1.0,8732,-0.01,8645
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,3846,0.001,1.0,3846,-0.009,3811
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,18192,0.0,1.0,18192,-0.002,18156
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,27826,0.0,1.0,27826,-0.038,26769
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,38262,0.0,1.0,38262,-0.002,38185
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,31338,0.002,1.0,31338,-0.008,31087
+4841,General Freight Trucking,10,Logistics,Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,35249,0.0,1.0,35249,0.013,35707
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_detail_output,BEA Detail (Total Output),dtmb_mi,DTMB MI,11640,0.0,1.0,11640,0.013,11791
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,5524,0.023,0.023,127,0.013,129
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,4347,0.144,0.144,626,0.013,634
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,34371,0.045,0.045,1547,0.026,1587
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,5147,0.149,0.149,767,0.009,774
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,2802,0.111,0.111,311,0.009,314
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,3258,0.141,0.141,459,0.009,463
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,1974,0.11,0.11,217,0.011,219
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,2698,0.094,0.094,254,-0.009,252
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,1262,0.074,0.074,93,0.011,94
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,11221,0.063,0.063,707,-0.065,661
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,29604,0.022,0.022,651,-0.038,626
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,17946,0.032,0.032,574,0.002,575
+3315,Foundries,3,Forging & Foundries,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,9349,0.354,0.354,3310,-0.091,3009
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,6988,0.1689999999999999,0.1689999999999999,1181,-0.0579999999999999,1113
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,2869,0.074,0.074,212,-0.0579999999999999,200
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,24530,0.122,0.122,2993,-0.024,2921
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,10865,0.0279999999999999,0.0279999999999999,304,-0.0579999999999999,286
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,12179,0.036,0.036,438,0.067,467
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,4970,0.177,0.177,880,-0.0289999999999999,854
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,8867,0.003,0.003,27,0.02,28
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,4446,0.065,0.065,289,0.166,337
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,84452,0.004,0.004,338,0.023,346
+5414,Industrial design,6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,10458,0.005,0.005,52,0.023,53
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,25297,0.0,0.0,0,0.049,0
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,48138,0.005,1.0,48138,0.032,49678
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,7921,0.13,1.0,7921,0.02,8079
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,117023,0.439,1.0,117023,-0.141,100523
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,25978,0.211,1.0,25978,0.027,26679
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,6359,0.0,1.0,6359,0.02,6486
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,24407,0.046,1.0,24407,0.024,24993
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,8732,0.0,1.0,8732,0.02,8907
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,3846,0.001,1.0,3846,0.0069999999999999,3873
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,18192,0.0,1.0,18192,0.018,18519
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,27826,0.0,1.0,27826,-0.087,25405
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,38262,0.0,1.0,38262,0.016,38874
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,31338,0.002,1.0,31338,0.009,31620
+4841,General Freight Trucking,10,Logistics,Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,35249,0.0,1.0,35249,0.008,35531
+4842,Specialized Freight Trucking,10,Logistics,Downstream,bea_detail_output,BEA Detail (Total Output),bls_us,BLS US,11640,0.0,1.0,11640,0.008,11733
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,5524,0.02,0.02,110,-0.04,106
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,4347,0.14,0.14,609,-0.001,608
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,34371,0.07,0.07,2406,-0.0579999999999999,2266
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,5147,0.12,0.12,618,-0.13,538
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,2802,0.19,0.19,532,-0.091,484
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,3258,0.22,0.22,717,-0.17,595
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,1974,0.2,0.2,395,-0.15,336
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,2698,0.05,0.05,135,-0.1119999999999999,120
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,1262,0.05,0.05,63,-0.1669999999999999,52
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,11221,0.09,0.09,1010,-0.032,978
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,29604,0.02,0.02,592,-0.078,546
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,17946,0.01,0.01,179,0.011,181
+3315,Foundries,3,Forging & Foundries,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,9349,0.25,0.25,2337,-0.2289999999999999,1802
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,6988,0.17,0.17,1188,-0.042,1138
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,2869,0.14,0.14,402,-0.013,397
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,24530,0.17,0.17,4170,-0.066,3895
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,10865,0.04,0.04,435,-0.009,431
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,12179,0.02,0.02,244,-0.03,237
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,4970,0.05,0.05,248,-0.045,237
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,8867,0.0,0.0,0,-0.027,0
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,4446,0.06,0.06,267,0.021,273
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,84452,0.01,0.01,845,0.027,868
+5414,Industrial design,6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,10458,0.04,0.04,418,-0.02,410
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,25297,0.01,0.01,253,0.093,277
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,48138,0.0,1.0,48138,0.272,61232
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,7921,0.0,1.0,7921,0.004,7953
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,117023,0.0,1.0,117023,-0.096,105789
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,25978,0.78,1.0,25978,0.037,26939
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,6359,0.3,1.0,6359,-0.008,6308
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,24407,0.44,1.0,24407,0.01,24651
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,8732,0.3,1.0,8732,0.002,8749
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,3846,0.04,1.0,3846,-0.057,3627
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,18192,0.08,1.0,18192,0.012,18410
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,27826,0.02,1.0,27826,0.016,28271
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,38262,0.08,1.0,38262,0.004,38415
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,31338,0.02,1.0,31338,0.062,33281
+4841,General Freight Trucking,10,Logistics,Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,35249,0.19,1.0,35249,-0.0969999999999999,31830
+4842,Specialized Freight Trucking,10,Logistics,Downstream,mrio_indirect,MRIO Indirect,moodys_mi,Moody's MI,11640,0.19,1.0,11640,-0.15,9894
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,5524,0.02,0.02,110,-0.021,108
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,4347,0.14,0.14,609,0.03,627
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,34371,0.07,0.07,2406,-0.025,2346
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,5147,0.12,0.12,618,-0.098,557
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,2802,0.19,0.19,532,-0.076,492
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,3258,0.22,0.22,717,-0.138,618
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,1974,0.2,0.2,395,-0.11,352
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,2698,0.05,0.05,135,-0.071,125
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,1262,0.05,0.05,63,-0.128,55
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,11221,0.09,0.09,1010,-0.02,990
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,29604,0.02,0.02,592,-0.099,533
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,17946,0.01,0.01,179,0.004,180
+3315,Foundries,3,Forging & Foundries,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,9349,0.25,0.25,2337,-0.179,1919
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,6988,0.17,0.17,1188,-0.024,1159
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,2869,0.14,0.14,402,0.005,404
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,24530,0.17,0.17,4170,-0.065,3899
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,10865,0.04,0.04,435,-0.003,434
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,12179,0.02,0.02,244,-0.038,235
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,4970,0.05,0.05,248,-0.031,240
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,8867,0.0,0.0,0,-0.004,0
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,4446,0.06,0.06,267,-0.027,260
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,84452,0.01,0.01,845,0.078,911
+5414,Industrial design,6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,10458,0.04,0.04,418,-0.002,417
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,25297,0.01,0.01,253,0.1169999999999999,283
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,48138,0.0,1.0,48138,0.316,63350
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,7921,0.0,1.0,7921,0.043,8262
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,117023,0.0,1.0,117023,-0.053,110821
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,25978,0.78,1.0,25978,0.054,27381
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,6359,0.3,1.0,6359,0.063,6760
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,24407,0.44,1.0,24407,0.026,25042
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,8732,0.3,1.0,8732,0.046,9134
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,3846,0.04,1.0,3846,-0.05,3654
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,18192,0.08,1.0,18192,0.045,19011
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,27826,0.02,1.0,27826,0.038,28883
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,38262,0.08,1.0,38262,0.034,39563
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,31338,0.02,1.0,31338,0.052,32968
+4841,General Freight Trucking,10,Logistics,Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,35249,0.19,1.0,35249,-0.124,30878
+4842,Specialized Freight Trucking,10,Logistics,Downstream,mrio_indirect,MRIO Indirect,moodys_us,Moody's US,11640,0.19,1.0,11640,-0.115,10301
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,5524,0.02,0.02,110,0.008,111
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,4347,0.14,0.14,609,0.008,614
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,34371,0.07,0.07,2406,-0.018,2363
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,5147,0.12,0.12,618,-0.018,607
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,2802,0.19,0.19,532,-0.026,518
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,3258,0.22,0.22,717,-0.049,682
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,1974,0.2,0.2,395,-0.049,376
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,2698,0.05,0.05,135,-0.049,128
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,1262,0.05,0.05,63,-0.049,60
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,11221,0.09,0.09,1010,-0.026,984
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,29604,0.02,0.02,592,-0.018,581
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,17946,0.01,0.01,179,-0.018,176
+3315,Foundries,3,Forging & Foundries,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,9349,0.25,0.25,2337,-0.049,2222
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,6988,0.17,0.17,1188,-0.026,1157
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,2869,0.14,0.14,402,-0.026,392
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,24530,0.17,0.17,4170,-0.026,4062
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,10865,0.04,0.04,435,-0.026,424
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,12179,0.02,0.02,244,0.016,248
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,4970,0.05,0.05,248,-0.018,244
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,8867,0.0,0.0,0,0.016,0
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,4446,0.06,0.06,267,0.063,284
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,84452,0.01,0.01,845,0.019,861
+5414,Industrial design,6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,10458,0.04,0.04,418,0.106,462
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,25297,0.01,0.01,253,0.044,264
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,48138,0.0,1.0,48138,-0.031,46646
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,7921,0.0,1.0,7921,-0.031,7675
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,117023,0.0,1.0,117023,-0.031,113395
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,25978,0.78,1.0,25978,-0.01,25718
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,6359,0.3,1.0,6359,-0.01,6295
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,24407,0.44,1.0,24407,-0.01,24163
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,8732,0.3,1.0,8732,-0.01,8645
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,3846,0.04,1.0,3846,-0.009,3811
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,18192,0.08,1.0,18192,-0.002,18156
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,27826,0.02,1.0,27826,-0.038,26769
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,38262,0.08,1.0,38262,-0.002,38185
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,31338,0.02,1.0,31338,-0.008,31087
+4841,General Freight Trucking,10,Logistics,Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,35249,0.19,1.0,35249,0.013,35707
+4842,Specialized Freight Trucking,10,Logistics,Downstream,mrio_indirect,MRIO Indirect,dtmb_mi,DTMB MI,11640,0.19,1.0,11640,0.013,11791
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,5524,0.02,0.02,110,0.013,111
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,4347,0.14,0.14,609,0.013,617
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,34371,0.07,0.07,2406,0.026,2469
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,5147,0.12,0.12,618,0.009,624
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,2802,0.19,0.19,532,0.009,537
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,3258,0.22,0.22,717,0.009,723
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,1974,0.2,0.2,395,0.011,399
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,2698,0.05,0.05,135,-0.009,134
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,1262,0.05,0.05,63,0.011,64
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,11221,0.09,0.09,1010,-0.065,944
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,29604,0.02,0.02,592,-0.038,570
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,17946,0.01,0.01,179,0.002,179
+3315,Foundries,3,Forging & Foundries,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,9349,0.25,0.25,2337,-0.091,2124
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,6988,0.17,0.17,1188,-0.0579999999999999,1119
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,2869,0.14,0.14,402,-0.0579999999999999,379
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,24530,0.17,0.17,4170,-0.024,4070
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,10865,0.04,0.04,435,-0.0579999999999999,410
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,12179,0.02,0.02,244,0.067,260
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,4970,0.05,0.05,248,-0.0289999999999999,241
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,8867,0.0,0.0,0,0.02,0
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,4446,0.06,0.06,267,0.166,311
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,bls_us,BLS US,84452,0.01,0.01,845,0.023,864
+5414,Industrial design,6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,bls_us,BLS US,10458,0.04,0.04,418,0.023,428
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,mrio_indirect,MRIO Indirect,bls_us,BLS US,25297,0.01,0.01,253,0.049,265
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,bls_us,BLS US,48138,0.0,1.0,48138,0.032,49678
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,bls_us,BLS US,7921,0.0,1.0,7921,0.02,8079
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,mrio_indirect,MRIO Indirect,bls_us,BLS US,117023,0.0,1.0,117023,-0.141,100523
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,25978,0.78,1.0,25978,0.027,26679
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,6359,0.3,1.0,6359,0.02,6486
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,24407,0.44,1.0,24407,0.024,24993
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,8732,0.3,1.0,8732,0.02,8907
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,3846,0.04,1.0,3846,0.0069999999999999,3873
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,18192,0.08,1.0,18192,0.018,18519
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,27826,0.02,1.0,27826,-0.087,25405
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,38262,0.08,1.0,38262,0.016,38874
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,31338,0.02,1.0,31338,0.009,31620
+4841,General Freight Trucking,10,Logistics,Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,35249,0.19,1.0,35249,0.008,35531
+4842,Specialized Freight Trucking,10,Logistics,Downstream,mrio_indirect,MRIO Indirect,bls_us,BLS US,11640,0.19,1.0,11640,0.008,11733
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,5524,0.02,0.02,110,-0.04,106
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,4347,0.14,0.14,609,-0.001,608
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,34371,0.07,0.07,2406,-0.0579999999999999,2266
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,5147,0.13,0.13,669,-0.13,582
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,2802,0.19,0.19,532,-0.091,484
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,3258,0.22,0.22,717,-0.17,595
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,1974,0.2,0.2,395,-0.15,336
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,2698,0.05,0.05,135,-0.1119999999999999,120
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,1262,0.05,0.05,63,-0.1669999999999999,52
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,11221,0.1,0.1,1122,-0.032,1086
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,29604,0.02,0.02,592,-0.078,546
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,17946,0.01,0.01,179,0.011,181
+3315,Foundries,3,Forging & Foundries,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,9349,0.25,0.25,2337,-0.2289999999999999,1802
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,6988,0.17,0.17,1188,-0.042,1138
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,2869,0.15,0.15,430,-0.013,424
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,24530,0.17,0.17,4170,-0.066,3895
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,10865,0.05,0.05,543,-0.009,538
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,12179,0.02,0.02,244,-0.03,237
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,4970,0.05,0.05,248,-0.045,237
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,8867,0.0,0.0,0,-0.027,0
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,4446,0.06,0.06,267,0.021,273
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,mrio_total,MRIO Total,moodys_mi,Moody's MI,84452,0.01,0.01,845,0.027,868
+5414,Industrial design,6,Engineering & Design,OEM,mrio_total,MRIO Total,moodys_mi,Moody's MI,10458,0.05,0.05,523,-0.02,513
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,mrio_total,MRIO Total,moodys_mi,Moody's MI,25297,0.02,0.02,506,0.093,553
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,moodys_mi,Moody's MI,48138,1.0,1.0,48138,0.272,61232
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,moodys_mi,Moody's MI,7921,1.0,1.0,7921,0.004,7953
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,moodys_mi,Moody's MI,117023,1.0,1.0,117023,-0.096,105789
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,25978,0.78,1.0,25978,0.037,26939
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,6359,0.31,1.0,6359,-0.008,6308
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,24407,0.44,1.0,24407,0.01,24651
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,8732,0.31,1.0,8732,0.002,8749
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,3846,0.08,1.0,3846,-0.057,3627
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,18192,0.14,1.0,18192,0.012,18410
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,27826,0.08,1.0,27826,0.016,28271
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,38262,0.14,1.0,38262,0.004,38415
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,31338,0.08,1.0,31338,0.062,33281
+4841,General Freight Trucking,10,Logistics,Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,35249,0.22,1.0,35249,-0.0969999999999999,31830
+4842,Specialized Freight Trucking,10,Logistics,Downstream,mrio_total,MRIO Total,moodys_mi,Moody's MI,11640,0.22,1.0,11640,-0.15,9894
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,5524,0.02,0.02,110,-0.021,108
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,4347,0.14,0.14,609,0.03,627
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,34371,0.07,0.07,2406,-0.025,2346
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,5147,0.13,0.13,669,-0.098,603
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,2802,0.19,0.19,532,-0.076,492
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,3258,0.22,0.22,717,-0.138,618
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,1974,0.2,0.2,395,-0.11,352
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,2698,0.05,0.05,135,-0.071,125
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,1262,0.05,0.05,63,-0.128,55
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,11221,0.1,0.1,1122,-0.02,1100
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,29604,0.02,0.02,592,-0.099,533
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,17946,0.01,0.01,179,0.004,180
+3315,Foundries,3,Forging & Foundries,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,9349,0.25,0.25,2337,-0.179,1919
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,6988,0.17,0.17,1188,-0.024,1159
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,2869,0.15,0.15,430,0.005,432
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,24530,0.17,0.17,4170,-0.065,3899
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,10865,0.05,0.05,543,-0.003,541
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,12179,0.02,0.02,244,-0.038,235
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,4970,0.05,0.05,248,-0.031,240
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,8867,0.0,0.0,0,-0.004,0
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,mrio_total,MRIO Total,moodys_us,Moody's US,4446,0.06,0.06,267,-0.027,260
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,84452,0.01,0.01,845,0.078,911
+5414,Industrial design,6,Engineering & Design,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,10458,0.05,0.05,523,-0.002,522
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,25297,0.02,0.02,506,0.1169999999999999,565
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,48138,1.0,1.0,48138,0.316,63350
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,7921,1.0,1.0,7921,0.043,8262
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,moodys_us,Moody's US,117023,1.0,1.0,117023,-0.053,110821
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,25978,0.78,1.0,25978,0.054,27381
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,6359,0.31,1.0,6359,0.063,6760
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,24407,0.44,1.0,24407,0.026,25042
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,8732,0.31,1.0,8732,0.046,9134
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,3846,0.08,1.0,3846,-0.05,3654
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,18192,0.14,1.0,18192,0.045,19011
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,27826,0.08,1.0,27826,0.038,28883
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,38262,0.14,1.0,38262,0.034,39563
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,31338,0.08,1.0,31338,0.052,32968
+4841,General Freight Trucking,10,Logistics,Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,35249,0.22,1.0,35249,-0.124,30878
+4842,Specialized Freight Trucking,10,Logistics,Downstream,mrio_total,MRIO Total,moodys_us,Moody's US,11640,0.22,1.0,11640,-0.115,10301
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,5524,0.02,0.02,110,0.008,111
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,4347,0.14,0.14,609,0.008,614
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,34371,0.07,0.07,2406,-0.018,2363
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,5147,0.13,0.13,669,-0.018,657
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,2802,0.19,0.19,532,-0.026,518
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,3258,0.22,0.22,717,-0.049,682
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,1974,0.2,0.2,395,-0.049,376
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,2698,0.05,0.05,135,-0.049,128
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,1262,0.05,0.05,63,-0.049,60
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,11221,0.1,0.1,1122,-0.026,1093
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,29604,0.02,0.02,592,-0.018,581
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,17946,0.01,0.01,179,-0.018,176
+3315,Foundries,3,Forging & Foundries,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,9349,0.25,0.25,2337,-0.049,2222
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,6988,0.17,0.17,1188,-0.026,1157
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,2869,0.15,0.15,430,-0.026,419
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,24530,0.17,0.17,4170,-0.026,4062
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,10865,0.05,0.05,543,-0.026,529
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,12179,0.02,0.02,244,0.016,248
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,4970,0.05,0.05,248,-0.018,244
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,8867,0.0,0.0,0,0.016,0
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,4446,0.06,0.06,267,0.063,284
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,mrio_total,MRIO Total,dtmb_mi,DTMB MI,84452,0.01,0.01,845,0.019,861
+5414,Industrial design,6,Engineering & Design,OEM,mrio_total,MRIO Total,dtmb_mi,DTMB MI,10458,0.05,0.05,523,0.106,578
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,mrio_total,MRIO Total,dtmb_mi,DTMB MI,25297,0.02,0.02,506,0.044,528
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,dtmb_mi,DTMB MI,48138,1.0,1.0,48138,-0.031,46646
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,dtmb_mi,DTMB MI,7921,1.0,1.0,7921,-0.031,7675
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,dtmb_mi,DTMB MI,117023,1.0,1.0,117023,-0.031,113395
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,25978,0.78,1.0,25978,-0.01,25718
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,6359,0.31,1.0,6359,-0.01,6295
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,24407,0.44,1.0,24407,-0.01,24163
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,8732,0.31,1.0,8732,-0.01,8645
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,3846,0.08,1.0,3846,-0.009,3811
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,18192,0.14,1.0,18192,-0.002,18156
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,27826,0.08,1.0,27826,-0.038,26769
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,38262,0.14,1.0,38262,-0.002,38185
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,31338,0.08,1.0,31338,-0.008,31087
+4841,General Freight Trucking,10,Logistics,Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,35249,0.22,1.0,35249,0.013,35707
+4842,Specialized Freight Trucking,10,Logistics,Downstream,mrio_total,MRIO Total,dtmb_mi,DTMB MI,11640,0.22,1.0,11640,0.013,11791
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,bls_us,BLS US,5524,0.02,0.02,110,0.013,111
+3255,"Paint, Coating, and Adhesive Manufacturing",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_total,MRIO Total,bls_us,BLS US,4347,0.14,0.14,609,0.013,617
+3261,Plastics Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,bls_us,BLS US,34371,0.07,0.07,2406,0.026,2469
+3262,Rubber Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,bls_us,BLS US,5147,0.13,0.13,669,0.009,675
+3272,Glass and Glass Product Manufacturing,1,Materials & Processing - Non-Metals,Upstream,mrio_total,MRIO Total,bls_us,BLS US,2802,0.19,0.19,532,0.009,537
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,bls_us,BLS US,3258,0.22,0.22,717,0.009,723
+3312,Steel Product Manufacturing from Purchased Steel,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,bls_us,BLS US,1974,0.2,0.2,395,0.011,399
+3313,Alumina and Aluminum Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,bls_us,BLS US,2698,0.05,0.05,135,-0.009,134
+3314,Nonferrous Metal (except Aluminum) Production and Processing,1,Materials & Processing - Metals,Upstream,mrio_total,MRIO Total,bls_us,BLS US,1262,0.05,0.05,63,0.011,64
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1,Materials & Processing - Coatings & Surface Treatments,Upstream,mrio_total,MRIO Total,bls_us,BLS US,11221,0.1,0.1,1122,-0.065,1049
+3335,Metalworking Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_total,MRIO Total,bls_us,BLS US,29604,0.02,0.02,592,-0.038,570
+3339,Other General Purpose Machinery Manufacturing,2,Equipment Manufacturing,Upstream,mrio_total,MRIO Total,bls_us,BLS US,17946,0.01,0.01,179,0.002,179
+3315,Foundries,3,Forging & Foundries,Upstream,mrio_total,MRIO Total,bls_us,BLS US,9349,0.25,0.25,2337,-0.091,2124
+3321,Forging and Stamping,3,Forging & Foundries,Upstream,mrio_total,MRIO Total,bls_us,BLS US,6988,0.17,0.17,1188,-0.0579999999999999,1119
+3326,Spring and Wire Product Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,bls_us,BLS US,2869,0.15,0.15,430,-0.0579999999999999,405
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",4,Parts & Machining,Upstream,mrio_total,MRIO Total,bls_us,BLS US,24530,0.17,0.17,4170,-0.024,4070
+3329,Other Fabricated Metal Product Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,bls_us,BLS US,10865,0.05,0.05,543,-0.0579999999999999,512
+3344,Semiconductor and Other Electronic Component Manufacturing,4,Parts & Machining,Upstream,mrio_total,MRIO Total,bls_us,BLS US,12179,0.02,0.02,244,0.067,260
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",5,Component Systems,Upstream,mrio_total,MRIO Total,bls_us,BLS US,4970,0.05,0.05,248,-0.0289999999999999,241
+3345,"Navigational, Measuring, Electro medical, and Control Instruments Manufacturing",5,Component Systems,Upstream,mrio_total,MRIO Total,bls_us,BLS US,8867,0.0,0.0,0,0.02,0
+3359,Other Electrical Equipment and Component Manufacturing,5,Component Systems,Upstream,mrio_total,MRIO Total,bls_us,BLS US,4446,0.06,0.06,267,0.166,311
+5413,"Architectural, Engineering, and Related Services",6,Engineering & Design,OEM,mrio_total,MRIO Total,bls_us,BLS US,84452,0.01,0.01,845,0.023,864
+5414,Industrial design,6,Engineering & Design,OEM,mrio_total,MRIO Total,bls_us,BLS US,10458,0.05,0.05,523,0.023,535
+5417,Scientific Research and Development ,6,Engineering & Design,OEM,mrio_total,MRIO Total,bls_us,BLS US,25297,0.02,0.02,506,0.049,531
+3361,Motor Vehicle Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,bls_us,BLS US,48138,1.0,1.0,48138,0.032,49678
+3362,Motor Vehicle Body and Trailer Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,bls_us,BLS US,7921,1.0,1.0,7921,0.02,8079
+3363,Motor Vehicle Parts Manufacturing,7,Core Automotive,OEM,mrio_total,MRIO Total,bls_us,BLS US,117023,1.0,1.0,117023,-0.141,100523
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,bls_us,BLS US,25978,0.78,1.0,25978,0.027,26679
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,bls_us,BLS US,6359,0.31,1.0,6359,0.02,6486
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,bls_us,BLS US,24407,0.44,1.0,24407,0.024,24993
+4239,Miscellaneous Durable Goods Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,bls_us,BLS US,8732,0.31,1.0,8732,0.02,8907
+4247,Petroleum and Petroleum Products Merchant Wholesalers,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,bls_us,BLS US,3846,0.08,1.0,3846,0.0069999999999999,3873
+4413,"Automotive Parts, Accessories, and Tire Retailers",8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,bls_us,BLS US,18192,0.14,1.0,18192,0.018,18519
+4571,Gasoline Stations,8,"Motor Vehicle Parts, Materials, & Products Sales",Downstream,mrio_total,MRIO Total,bls_us,BLS US,27826,0.08,1.0,27826,-0.087,25405
+4411,Automobile Dealers,9,"Dealers, Maintenance, & Repair",Downstream,mrio_total,MRIO Total,bls_us,BLS US,38262,0.14,1.0,38262,0.016,38874
+8111,Automotive Repair and Maintenance,9,"Dealers, Maintenance, & Repair",Downstream,mrio_total,MRIO Total,bls_us,BLS US,31338,0.08,1.0,31338,0.009,31620
+4841,General Freight Trucking,10,Logistics,Downstream,mrio_total,MRIO Total,bls_us,BLS US,35249,0.22,1.0,35249,0.008,35531
+4842,Specialized Freight Trucking,10,Logistics,Downstream,mrio_total,MRIO Total,bls_us,BLS US,11640,0.22,1.0,11640,0.008,11733

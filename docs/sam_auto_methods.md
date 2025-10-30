@@ -47,19 +47,22 @@ Implemented in `scripts/analyze_sam_auto_supply_chain.py`.
    - Compute `auto_share_of_output = auto_attributed_output / total_industry_output`.
    - Output: `sam_auto_industry_shares.csv`.
 
-5. **Crosswalk to four-digit NAICS**
-   - Use the BEA make-table metadata to map each SAM industry description
-     to a BEA code and leading four-digit NAICS.
-   - Merge the SAM industry results with the crosswalk on description.
-   - Aggregate `auto_attributed_output` and `total_industry_output`
-     by NAICS and recompute `auto_share_of_output`.
-
-6. **Restrict to the 38 mobility NAICS**
-   - Join the NAICS-level results to `segment_assignments.csv`.
-   - Fill missing industries with zeros so every target NAICS appears,
-     even if the SAM yields no automotive demand.
-   - Output: `sam_auto_naics_shares.csv`, which carries segment
-     metadata plus automotive metrics.
+5. **Crosswalk to NAICS using IMPLAN bridges (improved)**
+   - Run `scripts/analyze_sam_auto_supply_chain.py` first to produce
+     industry-level results.
+   - Then execute `scripts/build_sam_auto_naics_crosswalks.py`, which:
+     - Uses `data/raw/Implan528toAggregated2022Naics.xlsx` to create an
+       aggregated NAICS view (`data/intermediate/sam_naics_shares/sam_auto_naics_aggregated_shares.csv`).
+     - Applies `data/raw/Bridge_2022NaicsToImplan528_AllDescriptions.xlsx`
+       with CEW ratios (normalized within each IMPLAN sector) to spread
+       SAM industries across NAICS6, roll up to NAICS4, and align with the
+       38-industry segment lookup, yielding
+       `data/intermediate/sam_naics_shares/sam_auto_naics4_mobility38.csv`.
+     - Also saves a detailed six-digit output at
+       `data/intermediate/sam_naics_shares/sam_auto_naics6_shares.csv`.
+   - This IMPLAN-based approach replaces the earlier BEA–NAICS
+     concordance, eliminating the missing matches that arose from
+     description-based joins.
 
 ## Outputs
 
@@ -67,7 +70,10 @@ Implemented in `scripts/analyze_sam_auto_supply_chain.py`.
 | --- | --- |
 | `data/intermediate/sam_auto_commodity_shares.csv` | Commodity demand totals vs. automotive purchases |
 | `data/intermediate/sam_auto_industry_shares.csv` | Industry-level automotive-attributed output and share |
-| `data/intermediate/sam_auto_naics_shares.csv` | NAICS-level automotive attribution aligned with mobility segments |
+| `data/intermediate/sam_auto_naics_shares.csv` | (Legacy) BEA-based NAICS view |
+| `data/intermediate/sam_naics_shares/sam_auto_naics_aggregated_shares.csv` | IMPLAN aggregated NAICS totals |
+| `data/intermediate/sam_naics_shares/sam_auto_naics6_shares.csv` | IMPLAN-weighted six-digit NAICS allocations |
+| `data/intermediate/sam_naics_shares/sam_auto_naics4_mobility38.csv` | IMPLAN-derived four-digit shares aligned to mobility segments |
 
 ## Reproducibility
 
@@ -75,6 +81,7 @@ Run the script from the repository root (inside the desired Python environment):
 
 ```bash
 python scripts/analyze_sam_auto_supply_chain.py
+python scripts/build_sam_auto_naics_crosswalks.py
 ```
 
 Optional arguments:
