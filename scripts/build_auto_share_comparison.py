@@ -4,7 +4,8 @@ Inputs
 ------
 - data/intermediate/sam_naics_shares_v2/sam_auto_naics4_mobility38.csv
     SAM-derived auto shares with segment metadata.
-- data/raw/auto_attribution_core_auto_lightcast.csv
+- data/intermediate/lightcast_io_shares/lightcast_core_auto_mi.csv
+- data/intermediate/lightcast_io_shares/lightcast_core_auto_us.csv (optional)
 - data/raw/auto_attribution_bea.csv
 - data/interim/bea_share_three_way_summary_with_table.csv
 - data/raw/bea_detailed_io_prorates.csv
@@ -43,11 +44,19 @@ def load_sam_base(path: Path) -> pd.DataFrame:
     return df
 
 
-def load_lightcast(path: Path) -> pd.DataFrame:
+def load_sam_us(path: Path) -> pd.DataFrame:
+    df = pd.read_csv(path, dtype={"naics_code": str})
+    df["naics_code"] = df["naics_code"].str.strip()
+    return df.rename(columns={"auto_share_of_output": "sam_auto_share_us"})[
+        ["naics_code", "sam_auto_share_us"]
+    ]
+
+
+def load_lightcast(path: Path, share_col: str) -> pd.DataFrame:
     df = pd.read_csv(path, dtype={"naics4": str})
     df["naics4"] = df["naics4"].str.strip()
-    return df.rename(columns={"share_to_set": "lightcast_share"})[
-        ["naics4", "lightcast_share"]
+    return df.rename(columns={"share_to_set": share_col})[
+        ["naics4", share_col]
     ]
 
 
@@ -92,14 +101,29 @@ def load_mrio(path: Path) -> pd.DataFrame:
 def main() -> None:
     repo_root = Path(__file__).resolve().parents[1]
     sam_path = repo_root / "data" / "intermediate" / "sam_naics_shares_v2" / "sam_auto_naics4_mobility38.csv"
-    lightcast_path = repo_root / "data" / "raw" / "auto_attribution_core_auto_lightcast.csv"
+    lightcast_primary = repo_root / "data" / "intermediate" / "lightcast_io_shares" / "lightcast_core_auto_mi.csv"
+    lightcast_fallback = repo_root / "data" / "raw" / "auto_attribution_core_auto_lightcast.csv"
     legacy_bea_path = repo_root / "data" / "raw" / "auto_attribution_bea.csv"
     bea_three_way_path = repo_root / "data" / "interim" / "bea_share_three_way_summary_with_table.csv"
     mrio_path = repo_root / "data" / "raw" / "MRIO Industry Shares - Tyler.csv"
     output_path = repo_root / "data" / "intermediate" / "auto_share_comparison.csv"
 
     sam_df = load_sam_base(sam_path)
-    lightcast_df = load_lightcast(lightcast_path)
+    sam_us_path = repo_root / "data" / "intermediate" / "sam_naics_shares_v2" / "sam_auto_naics4_mobility38_us.csv"
+    sam_us_df = load_sam_us(sam_us_path) if sam_us_path.exists() else None
+
+    if lightcast_primary.exists():
+        lightcast_df = load_lightcast(lightcast_primary, "lightcast_share")
+    elif lightcast_fallback.exists():
+        lightcast_df = load_lightcast(lightcast_fallback, "lightcast_share")
+    else:
+        raise FileNotFoundError(
+            "Missing Lightcast attribution file. Run build_lightcast_io_attribution.py first."
+        )
+
+    lightcast_us_path = repo_root / "data" / "intermediate" / "lightcast_io_shares" / "lightcast_core_auto_us.csv"
+    lightcast_us_df = load_lightcast(lightcast_us_path, "lightcast_share_us") if lightcast_us_path.exists() else None
+
     legacy_bea_df = load_legacy_bea(legacy_bea_path)
     bea_three_df = load_bea_three_way(bea_three_way_path)
     mrio_df = load_mrio(mrio_path)
@@ -120,6 +144,14 @@ def main() -> None:
         mrio_df, left_on="naics_code", right_on="NAICS", how="left", suffixes=("", "_mrio")
     ).drop(columns=["NAICS"], errors="ignore")
 
+    if sam_us_df is not None:
+        comparison = comparison.merge(sam_us_df, on="naics_code", how="left")
+
+    if lightcast_us_df is not None:
+        comparison = comparison.merge(
+            lightcast_us_df, left_on="naics_code", right_on="naics4", how="left"
+        ).drop(columns=["naics4"], errors="ignore")
+
     # Reorder columns: metadata first, then SAM share, then other shares.
     meta_cols = [
         "naics_code",
@@ -136,7 +168,9 @@ def main() -> None:
         "sam_auto_share",
     ]
     share_cols = [
+        "sam_auto_share_us",
         "lightcast_share",
+        "lightcast_share_us",
         "legacy_bea_share",
         "bea_summary_total_output_share",
         "bea_detail_intermediate_share",

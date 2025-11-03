@@ -23,7 +23,9 @@ def load_comparison(path: Path) -> pd.DataFrame:
 def melt_shares(df: pd.DataFrame) -> pd.DataFrame:
     share_cols = [
         "sam_auto_share",
+        "sam_auto_share_us",
         "lightcast_share",
+        "lightcast_share_us",
         "bea_summary_total_output_share",
         "bea_detail_intermediate_share",
         "bea_detail_total_output_share",

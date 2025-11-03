@@ -1,0 +1,39 @@
+Stage,Sector,NAICS,NAICS Title,TOT_EMP
+Upstream,1. Materials & Processing - Coatings & Surface Treatments,3255,"""Paint, Coating, and Adhesive Manufacturing""",
+Upstream,1. Materials & Processing - Coatings & Surface Treatments,3328,"""Coating, Engraving, Heat Treating, and Allied Activities""",11900
+Upstream,1. Materials & Processing - Metals,3311,"""Iron and Steel Mills and Ferroalloy Manufacturing""",3330
+Upstream,1. Materials & Processing - Metals,3312,"""Steel Product Manufacturing from Purchased Steel""",2130
+Upstream,1. Materials & Processing - Metals,3313,"""Alumina and Aluminum Production and Processing""",2610
+Upstream,1. Materials & Processing - Metals,3314,"""Nonferrous Metal (except Aluminum) Production and Processing""",1250
+Upstream,1. Materials & Processing - Non-Metals,3252,"""Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing""",
+Upstream,1. Materials & Processing - Non-Metals,3261,"""Plastics Product Manufacturing""",35520
+Upstream,1. Materials & Processing - Non-Metals,3262,"""Rubber Product Manufacturing""",5340
+Upstream,1. Materials & Processing - Non-Metals,3272,"""Glass and Glass Product Manufacturing""",
+Downstream,10. Logistics,4841,"""General Freight Trucking""",35888
+Downstream,10. Logistics,4842,"""Specialized Freight Trucking ",11582
+Upstream,2. Equipment Manufacturing,3335,"""Metalworking Machinery Manufacturing""",30000
+Upstream,2. Equipment Manufacturing,3339,"""Other General Purpose Machinery Manufacturing""",
+Upstream,3. Forging & Foundries,3315,"""Foundries""",10010
+Upstream,3. Forging & Foundries,3321,"""Forging and Stamping""",
+Upstream,4. Parts & Machining,3326,"""Spring and Wire Product Manufacturing""",
+Upstream,4. Parts & Machining,3327,"""Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing""",24840
+Upstream,4. Parts & Machining,3329,"""Other Fabricated Metal Product Manufacturing""",
+Upstream,4. Parts & Machining,3344,"""Semiconductor and Other Electronic Component Manufacturing""",13800
+Upstream,5. Component Systems,3336,"""Engine, Turbine, and Power Transmission Equipment Manufacturing""",4730
+Upstream,5. Component Systems,3345,"""Navigational, Measuring, Electro medical, and Control Instruments Manufacturing""",8300
+Upstream,5. Component Systems,3359,"""Other Electrical Equipment and Component Manufacturing""",4820
+OEM,6. Engineering & Design,5413,"""Architectural, Engineering, and Related Services""",87100
+OEM,6. Engineering & Design,5414,"""Industrial design""",10160
+OEM,6. Engineering & Design,5417,"""Scientific Research and Development """,28480
+OEM,7. Core Automotive,3361,"""Motor Vehicle Manufacturing""",48650
+OEM,7. Core Automotive,3362,"""Motor Vehicle Body and Trailer Manufacturing""",8090
+OEM,7. Core Automotive,3363,"""Motor Vehicle Parts Manufacturing""",119010
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4231,"""Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers""",24780
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4235,"""Metal and Mineral (except Petroleum) Merchant Wholesalers""",
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4238,"""Machinery, Equipment, and Supplies Merchant Wholesalers""",24130
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4239,"""Miscellaneous Durable Goods Merchant Wholesalers""",
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4247,"""Petroleum and Petroleum Products Merchant Wholesalers""",
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4413,"""Automotive Parts, Accessories, and Tire Retailers""",17710
+Downstream,"8. Motor Vehicle Parts, Materials, & Products Sales",4571,"""Gasoline Stations""",27370
+Downstream,"9. Dealers, Maintenance, & Repair",4411,"""Automobile Dealers""",38500
+Downstream,"9. Dealers, Maintenance, & Repair",8111,"""Automotive Repair and Maintenance""",31210
