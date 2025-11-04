@@ -1,0 +1,529 @@
+adjustment_source,forecast_source,projection_label,segment_id,segment_name,year,value_type,employment_auto,employment_raw,auto_share_ratio
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2024,QCEW,4879.641192022313,15568.0,0.3134404671134579
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2024,QCEW,3382.6158243114137,9192.0,0.3679956292766986
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2024,QCEW,12985.411769331364,47844.0,0.2714114992335792
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2024,QCEW,6244.586842570626,47550.0,0.131326747477826
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2024,QCEW,9023.139594640334,16337.0,0.5523131293775071
+sam_mi,bls_us,BLS US,4,Parts & Machining,2024,QCEW,14936.444494648236,50443.0,0.2961053960836635
+sam_mi,bls_us,BLS US,5,Component Systems,2024,QCEW,5987.024880706003,18283.0,0.3274640311057268
+sam_mi,bls_us,BLS US,6,Engineering & Design,2024,QCEW,1032.0255054257461,120207.0,0.008585402725513041
+sam_mi,bls_us,BLS US,7,Core Automotive,2024,QCEW,173082.0,173082.0,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2024,QCEW,115340.0,115340.0,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2024,QCEW,69600.0,69600.0,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2024,QCEW,46889.0,46889.0,1.0
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2025,Forecast,4855.048941245114,15452.377664615478,0.3141942972545079
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2025,Forecast,3385.458951515645,9198.712170303052,0.36803618689637846
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2025,Forecast,13027.665334189198,48015.13602470047,0.27132413677818934
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2025,Forecast,6231.013312524281,47365.445548369826,0.13155187796473147
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2025,Forecast,8896.881108169242,16120.267311229072,0.5519065494634722
+sam_mi,bls_us,BLS US,4,Parts & Machining,2025,Forecast,14899.718617478627,50340.14576682069,0.2959808397555151
+sam_mi,bls_us,BLS US,5,Component Systems,2025,Forecast,6028.243310097978,18403.267228416546,0.3275637545918883
+sam_mi,bls_us,BLS US,6,Engineering & Design,2025,Forecast,1036.2312105654144,120769.87958552424,0.008580212335407672
+sam_mi,bls_us,BLS US,7,Core Automotive,2025,Forecast,170434.47731731719,170434.47731731719,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2025,Forecast,115241.87522437793,115241.87522437793,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2025,Forecast,69748.19005030766,69748.19005030766,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2025,Forecast,46951.31128419568,46951.31128419568,1.0
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2026,Forecast,4830.794759937387,15338.167777742274,0.3149525308327579
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2026,Forecast,3388.310938646288,9205.448510641143,0.3680766814055319
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2026,Forecast,13070.079306865813,48186.9471743064,0.2712369235508421
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2026,Forecast,6217.536006611181,47182.119348808556,0.13177737864308517
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2026,Forecast,8772.455033097838,15906.547529956073,0.5514996272181046
+sam_mi,bls_us,BLS US,4,Parts & Machining,2026,Forecast,14863.750699484455,50240.47878521134,0.2958520909609586
+sam_mi,bls_us,BLS US,5,Component Systems,2026,Forecast,6071.05388679102,18526.738966295496,0.32769144628397356
+sam_mi,bls_us,BLS US,6,Engineering & Design,2026,Forecast,1040.4551825403867,121335.74851796491,0.008575009387166202
+sam_mi,bls_us,BLS US,7,Core Automotive,2026,Forecast,167861.58987231008,167861.58987231008,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2026,Forecast,115151.28641185304,115151.28641185304,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2026,Forecast,69896.71859062105,69896.71859062105,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2026,Forecast,47013.705374510886,47013.705374510886,1.0
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2027,Forecast,4806.875020576088,15225.35487455814,0.31571513834521314
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2027,Forecast,3391.171794338355,9212.20904234755,0.3681171127087431
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2027,Forecast,13112.65434257335,48359.436238886454,0.2711498595186123
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2027,Forecast,6204.154308484867,47000.013509755576,0.13200324521602744
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2027,Forecast,8649.834041244694,15695.797150279051,0.5510923694048193
+sam_mi,bls_us,BLS US,4,Parts & Machining,2027,Forecast,14828.540806254456,50143.99970469887,0.29571914672903343
+sam_mi,bls_us,BLS US,5,Component Systems,2027,Forecast,6115.495215483776,18653.49243766808,0.3278471972966521
+sam_mi,bls_us,BLS US,6,Engineering & Design,2027,Forecast,1044.6975091013276,121904.62496851048,0.008569793880840748
+sam_mi,bls_us,BLS US,7,Core Automotive,2027,Forecast,165361.5136503303,165361.5136503303,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2027,Forecast,115068.14344241246,115068.14344241246,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2027,Forecast,70045.5864368116,70045.5864368116,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2027,Forecast,47076.18238098753,47076.18238098753,1.0
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2028,Forecast,4783.286136342849,15113.92366308116,0.3164820891630544
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2028,Forecast,3394.041527250963,9218.99378682156,0.36815748071147464
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2028,Forecast,13155.391099281202,48532.60602027873,0.2710629446476538
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2028,Forecast,6190.86760576668,46819.12019044488,0.13222947335584806
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2028,Forecast,8528.991219901669,15487.973312753675,0.550684782810054
+sam_mi,bls_us,BLS US,4,Parts & Machining,2028,Forecast,14794.08907174855,50050.70948360427,0.29558200521802463
+sam_mi,bls_us,BLS US,5,Component Systems,2028,Forecast,6161.606914487691,18783.606879441137,0.32803108338216114
+sam_mi,bls_us,BLS US,6,Engineering & Design,2028,Forecast,1048.9582784793033,122476.52723194232,0.008564565816703947
+sam_mi,bls_us,BLS US,7,Core Automotive,2028,Forecast,162932.47048130518,162932.47048130518,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2028,Forecast,114992.35764510151,114992.35764510151,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2028,Forecast,70194.79440679129,70194.79440679129,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2028,Forecast,47138.74241381377,47138.74241381377,1.0
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2029,Forecast,4760.024560671221,15003.859022245735,0.31725335152867584
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2029,Forecast,3396.920146067359,9225.802765528537,0.36819778532006725
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2029,Forecast,13198.290237727735,48706.45933214079,0.2709761789032024
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2029,Forecast,6177.675290020212,46639.43160057817,0.13245605870427524
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2029,Forecast,8409.900065434525,15283.033794589997,0.5502768742428303
+sam_mi,bls_us,BLS US,4,Parts & Machining,2029,Forecast,14760.395698424192,49960.60938954987,0.29544066573198335
+sam_mi,bls_us,BLS US,5,Component Systems,2029,Forecast,6209.429641943426,18917.163593473015,0.3282431645347648
+sam_mi,bls_us,BLS US,6,Engineering & Design,2029,Forecast,1053.2375793887861,123051.47372754113,0.00855932519525
+sam_mi,bls_us,BLS US,7,Core Automotive,2029,Forecast,160572.72689417674,160572.72689417674,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2029,Forecast,114923.84177657956,114923.84177657956,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2029,Forecast,70344.34332051783,70344.34332051783,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2029,Forecast,47201.3855833242,47201.3855833242,1.0
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2030,Forecast,4737.086786798944,14895.146,0.3180288925532481
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2030,Forecast,3399.8076594949475,9232.635999999997,0.3682380264417387
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2030,Forecast,13241.352421432084,48880.999,0.2708895622495785
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2030,Forecast,6164.576756725937,46460.94000000002,0.13268299687276958
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2030,Forecast,8292.534476983012,15080.936999999998,0.5498686505343144
+sam_mi,bls_us,BLS US,4,Parts & Machining,2030,Forecast,14727.460957369985,49873.700999999994,0.29529512873668606
+sam_mi,bls_us,BLS US,5,Component Systems,2030,Forecast,6259.0051227172935,19054.246,0.32848348461110943
+sam_mi,bls_us,BLS US,6,Engineering & Design,2030,Forecast,1057.5355010306757,123629.48300000005,0.00855407201719573
+sam_mi,bls_us,BLS US,7,Core Automotive,2030,Forecast,158280.593,158280.593,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2030,Forecast,114862.51000000002,114862.51000000002,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2030,Forecast,70494.23399999995,70494.23399999995,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2030,Forecast,47264.112000000016,47264.112000000016,1.0
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2031,Forecast,4714.469347325225,14787.769811424441,0.3188086782148187
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2031,Forecast,3402.7040762653196,9239.493511833673,0.3682782039845838
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2031,Forecast,13284.578316705989,49056.227861304054,0.2708030946501896
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2031,Forecast,6151.571405256011,46283.637698375154,0.13291028344282388
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2031,Forecast,8176.868750258764,14881.641950693482,0.5494601185373716
+sam_mi,bls_us,BLS US,4,Parts & Machining,2031,Forecast,14695.285188446604,49789.986202834734,0.29514539587500316
+sam_mi,bls_us,BLS US,5,Component Systems,2031,Forecast,6310.3761759953395,19194.93969244831,0.32875207096784853
+sam_mi,bls_us,BLS US,6,Engineering & Design,2031,Forecast,1061.8521330953447,124210.57372034501,0.008548806283481638
+sam_mi,bls_us,BLS US,7,Core Automotive,2031,Forecast,156054.42140298497,156054.42140298497,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2031,Forecast,114808.27786421019,114808.27786421019,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2031,Forecast,70644.46726930262,70644.46726930262,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2031,Forecast,47326.92177446927,47326.92177446927,1.0
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2032,Forecast,4692.168813772927,14681.715836871474,0.31959267335695696
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2032,Forecast,3405.6094051342784,9246.375322693586,0.36831831785757335
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2032,Forecast,13327.96859266568,49232.14876547173,0.27071677606753297
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2032,Forecast,6138.658638849205,46107.51705486786,0.13313791396626742
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2032,Forecast,8062.877571439578,14685.108276520095,0.5490512851261199
+sam_mi,bls_us,BLS US,4,Parts & Machining,2032,Forecast,14663.868800435002,49709.4671969571,0.2949914699816503
+sam_mi,bls_us,BLS US,5,Component Systems,2032,Forecast,6363.586743593164,19339.33249366751,0.3290489341179104
+sam_mi,bls_us,BLS US,6,Engineering & Design,2032,Forecast,1066.1875657657042,124794.76468686206,0.008543527995272934
+sam_mi,bls_us,BLS US,7,Core Automotive,2032,Forecast,153892.60613878194,153892.60613878194,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2032,Forecast,114761.06228326539,114761.06228326539,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2032,Forecast,70795.04395455231,70795.04395455231,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2032,Forecast,47389.815017507,47389.815017507,1.0
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2033,Forecast,4670.181796155657,14576.969620125734,0.3203808416879567
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2033,Forecast,3408.5236548818652,9253.281454310114,0.3683583679705537
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2033,Forecast,13371.523921243821,49408.76457394375,0.27063060646319903
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2033,Forecast,6125.837864586048,45932.57047782335,0.1333658839655764
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2033,Forecast,7950.536011158498,14491.296206255181,0.5486421571954786
+sam_mi,bls_us,BLS US,4,Parts & Machining,2033,Forecast,14633.21227119197,49632.146492933665,0.29483335509729286
+sam_mi,bls_us,BLS US,5,Component Systems,2033,Forecast,6418.6819190000215,19487.514513622205,0.3293740674067604
+sam_mi,bls_us,BLS US,6,Engineering & Design,2033,Forecast,1070.541889720289,125382.07482603159,0.008538237153960584
+sam_mi,bls_us,BLS US,7,Core Automotive,2033,Forecast,151793.58163932987,151793.58163932987,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2033,Forecast,114720.78151625342,114720.78151625342,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2033,Forecast,70945.9648839423,70945.9648839423,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2033,Forecast,47452.791840035454,47452.791840035454,1.0
+sam_mi,bls_us,BLS US,1,Materials & Processing - Coatings & Surface Treatments,2034,Forecast,4648.504942549662,14473.51686658488,0.32117314578060163
+sam_mi,bls_us,BLS US,1,Materials & Processing - Metals,2034,Forecast,3411.44683431239,9260.211928480061,0.3683983542342462
+sam_mi,bls_us,BLS US,1,Materials & Processing - Non-Metals,2034,Forecast,13415.24497720149,49586.0781602341,0.270544585797873
+sam_mi,bls_us,BLS US,2,Equipment Manufacturing,2034,Forecast,6113.108493364076,45758.79042445125,0.1335941889341885
+sam_mi,bls_us,BLS US,3,Forging & Foundries,2034,Forecast,7839.819518586253,14300.166558527217,0.5482327416607155
+sam_mi,bls_us,BLS US,4,Parts & Machining,2034,Forecast,14603.316147813035,49558.02691366868,0.2946710564819777
+sam_mi,bls_us,BLS US,5,Component Systems,2034,Forecast,6475.707977176246,19639.578208579915,0.32972744670999155
+sam_mi,bls_us,BLS US,6,Engineering & Design,2034,Forecast,1074.9151961363677,125972.52319347012,0.008532933761162346
+sam_mi,bls_us,BLS US,7,Core Automotive,2034,Forecast,149755.82172360306,149755.82172360306,1.0
+sam_mi,bls_us,BLS US,8,"Motor Vehicle Parts, Materials, & Products Sales",2034,Forecast,114687.35514742402,114687.35514742402,1.0
+sam_mi,bls_us,BLS US,9,"Dealers, Maintenance, & Repair",2034,Forecast,71097.23088773794,71097.23088773794,1.0
+sam_mi,bls_us,BLS US,10,Logistics,2034,Forecast,47515.8523531243,47515.8523531243,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2024,QCEW,4879.641192022313,15568.0,0.3134404671134579
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2024,QCEW,3382.6158243114137,9192.0,0.3679956292766986
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2024,QCEW,12985.411769331364,47844.0,0.2714114992335792
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2024,QCEW,6244.586842570626,47550.0,0.131326747477826
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2024,QCEW,9023.139594640334,16337.0,0.5523131293775071
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2024,QCEW,14936.444494648236,50443.0,0.2961053960836635
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2024,QCEW,5987.024880706003,18283.0,0.3274640311057268
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2024,QCEW,1032.0255054257461,120207.0,0.008585402725513041
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2024,QCEW,173082.0,173082.0,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2024,QCEW,115340.0,115340.0,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2024,QCEW,69600.0,69600.0,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2024,QCEW,46889.0,46889.0,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2025,Forecast,4871.046429875141,15524.617150008327,0.3137627409943909
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2025,Forecast,3354.4096263032693,9115.351812456076,0.36799562927669865
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2025,Forecast,12946.100688128101,47719.612171812856,0.271295178207151
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2025,Forecast,6225.711013322198,47406.26820422386,0.13132674747782597
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2025,Forecast,8958.752780668667,16228.427964702438,0.5520407029044562
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2025,Forecast,14890.157118533889,50307.62688496807,0.29598210133388486
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2025,Forecast,5999.655707535056,18336.968892547466,0.32718906503535833
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2025,Forecast,1040.4014402811324,120831.62714482908,0.008610340395682207
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2025,Forecast,172175.96843442303,172175.96843442303,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2025,Forecast,115039.46777036448,115039.46777036448,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2025,Forecast,69545.31139385121,69545.31139385121,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2025,Forecast,46990.046870743856,46990.046870743856,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2026,Forecast,4862.506309340252,15481.457346997304,0.3140858254073449
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2026,Forecast,3326.438627811533,9039.342761623833,0.3679956292766986
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2026,Forecast,12906.92084419293,47595.64895601653,0.2711785872721329
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2026,Forecast,6206.8922409998395,47262.97087383398,0.13132674747782597
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2026,Forecast,8894.855312220801,16120.640106732852,0.5517681216954796
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2026,Forecast,14844.123258010753,50173.07365609695,0.29585835940124666
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2026,Forecast,6012.554878468965,18391.511119862134,0.3269201121802131
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2026,Forecast,1048.8879227954492,121461.39895671047,0.00863556596420628
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2026,Forecast,171274.67966820026,171274.67966820026,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2026,Forecast,114740.28230307177,114740.28230307177,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2026,Forecast,69490.68313199756,69490.68313199756,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2026,Forecast,47091.31149981242,47091.31149981242,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2027,Forecast,4854.020613605728,15438.519657623925,0.3144097181110685
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2027,Forecast,3298.7008676072414,8963.967518013438,0.3679956292766986
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2027,Forecast,12867.871802606483,47472.10903851692,0.2710617257844184
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2027,Forecast,6188.130353134689,47120.106695549825,0.131326747477826
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2027,Forecast,8831.443317165129,16013.63041797054,0.5514953877825517
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2027,Forecast,14798.341936801278,50039.33732227177,0.295734170928254
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2027,Forecast,6025.724698403346,18446.631475730668,0.32665718433910806
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2027,Forecast,1057.486707212061,122096.37828524888,0.008661081696801007
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2027,Forecast,170378.10887422127,170378.10887422127,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2027,Forecast,114442.4358591397,114442.4358591397,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2027,Forecast,69436.11513798672,69436.11513798672,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2027,Forecast,47192.79435647988,47192.79435647988,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2028,Forecast,4845.589126839516,15395.80315269244,0.31473441682658254
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2028,Forecast,3271.194400815285,8889.220796575411,0.36799562927669865
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2028,Forecast,12828.953129952952,47348.991109568546,0.2709445931015921
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2028,Forecast,6169.425177779213,46977.674360060555,0.131326747477826
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2028,Forecast,8768.512954745476,15907.392938068511,0.5512225032023479
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2028,Forecast,14752.81218326102,49906.41490707351,0.29560953658424427
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2028,Forecast,6039.167497101946,18502.33480357133,0.32640029278554955
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2028,Forecast,1066.1995769700475,122736.62891621148,0.008686889858266428
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2028,Forecast,169486.231355338,169486.231355338,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2028,Forecast,114145.92074786354,114145.92074786354,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2028,Forecast,69381.60733546724,69381.60733546724,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2028,Forecast,47294.49591103171,47294.49591103171,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2029,Forecast,4837.211634185169,15353.306907136273,0.3150599192371264
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2029,Forecast,3243.9172987780435,8815.097356330061,0.36799562927669865
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2029,Forecast,12790.16439431473,47226.293863760104,0.27082718858295757
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2029,Forecast,6150.776543505633,46835.67256201306,0.131326747477826
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2029,Forecast,8706.060415323478,15801.9217540653,0.5509494699961859
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2029,Forecast,14707.533030359267,49774.30344871877,0.29548445706552323
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2029,Forecast,6052.885629447146,18558.625996933115,0.32614944826451103
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2029,Forecast,1075.02834519598,123382.21558660455,0.008712992711995798
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2029,Forecast,168599.02254368446,168599.02254368446,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2029,Forecast,113850.72932650776,113850.72932650776,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2029,Forecast,69327.15964818839,69327.15964818839,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2029,Forecast,47396.416634766865,47396.416634766865,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2030,Forecast,4828.887921757617,15311.030000000004,0.31538622298810826
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2030,Forecast,3216.8676489201544,8741.591999999999,0.36799562927669865
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2030,Forecast,12751.505165267125,47104.015999999996,0.2707095115895665
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2030,Forecast,6132.184279404353,46694.09999999999,0.131326747477826
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2030,Forecast,8644.081920123073,15697.211000000001,0.5506762902099661
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2030,Forecast,14662.503515659799,49643.0,0.2953589330954978
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2030,Forecast,6066.881475693046,18615.509999999995,0.32590466098930665
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2030,Forecast,1083.9748552040082,124033.20400000001,0.008739392519474126
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2030,Forecast,167716.45799999996,167716.45799999996,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2030,Forecast,113556.85400000002,113556.85400000002,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2030,Forecast,69272.77199999998,69272.77199999998,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2030,Forecast,47498.556999999964,47498.556999999964,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2031,Forecast,4820.617776638944,15268.971514421442,0.31571332568705773
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2031,Forecast,3190.043554614409,8668.699573645728,0.36799562927669865
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2031,Forecast,12712.975013873014,46982.15622150199,0.2705915614842462
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2031,Forecast,6113.648215082397,46552.95537654781,0.131326747477826
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2031,Forecast,8582.573720977132,15593.254856530424,0.5504029658941133
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2031,Forecast,14617.722681301682,49512.50162822577,0.29523296542480704
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2031,Forecast,6081.157441721132,18672.991808100393,0.3256659406385596
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2031,Forecast,1093.0409810044011,124689.66084211665,0.008766091539766244
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2031,Forecast,166838.51341295592,166838.51341295592,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2031,Forecast,113264.28722062676,113264.28722062676,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2031,Forecast,69218.44431485234,69218.44431485234,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2031,Forecast,47600.917480063494,47600.917480063494,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2032,Forecast,4812.4009868742,15227.13053761376,0.3160412249035825
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2032,Forecast,3163.443135048768,8596.414966304264,0.36799562927669865
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2032,Forecast,12674.573512677585,46860.7132357709,0.2704733376316285
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2032,Forecast,6095.168180661842,46412.23739810496,0.131326747477826
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2032,Forecast,8521.53210007616,15490.04755055444,0.550129499103516
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2032,Forecast,14573.189573980191,49382.8054151615,0.29510655483145015
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2032,Forecast,6095.715959298591,18731.07646822179,0.3254332963532704
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2032,Forecast,1102.2286278206802,125351.65379665967,0.008793092028994452
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2032,Forecast,165965.164598486,165965.164598486,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2032,Forecast,112973.021487731,112973.021487731,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2032,Forecast,69164.17651679605,69164.17651679605,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2032,Forecast,47703.498549309945,47703.498549309945,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2033,Forecast,4804.237341467215,15185.506160847728,0.3163699181693275
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2033,Forecast,3137.0645250944863,8524.733109630779,0.3679956292766986
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2033,Forecast,12636.300235703062,46739.68575458827,0.2703548393981789
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2033,Forecast,6076.744006778264,46271.944775029915,0.131326747477826
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2033,Forecast,8460.953369719082,15387.58335483439,0.549855891897467
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2033,Forecast,14528.903244927795,49253.90845697033,0.2949797021209124
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2033,Forecast,6110.559486339264,18789.769079530663,0.3252067367339831
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2033,Forecast,1111.5397326154991,126019.25156142343,0.008820396239805631
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2033,Forecast,165096.38749912038,165096.38749912038,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2033,Forecast,112683.04934741207,112683.04934741207,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2033,Forecast,69109.96852998188,69109.96852998188,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2033,Forecast,47806.30068311408,47806.30068311408,1.0
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Coatings & Surface Treatments,2034,Forecast,4796.126630376442,15144.09747943401,0.3166994029779377
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Metals,2034,Forecast,3110.905875175336,8453.648977543216,0.36799562927669865
+sam_mi,dtmb_mi,DTMB MI,1,Materials & Processing - Non-Metals,2034,Forecast,12598.154758443452,46619.07249399822,0.2702360661522245
+sam_mi,dtmb_mi,DTMB MI,2,Equipment Manufacturing,2034,Forecast,6058.375524579186,46132.07622157945,0.131326747477826
+sam_mi,dtmb_mi,DTMB MI,3,Forging & Foundries,2034,Forecast,8400.833872066105,15285.856587624638,0.5495821463396028
+sam_mi,dtmb_mi,DTMB MI,4,Parts & Machining,2034,Forecast,14484.862749895236,49125.80786415433,0.2948524081262879
+sam_mi,dtmb_mi,DTMB MI,5,Component Systems,2034,Forecast,6125.690507167301,18849.074793897747,0.32498626983805323
+sam_mi,dtmb_mi,DTMB MI,6,Engineering & Design,2034,Forecast,1120.976264625407,126692.52386466159,0.008848006420827816
+sam_mi,dtmb_mi,DTMB MI,7,Core Automotive,2034,Forecast,164232.1581833225,164232.1581833225,1.0
+sam_mi,dtmb_mi,DTMB MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2034,Forecast,112394.36339222713,112394.36339222713,1.0
+sam_mi,dtmb_mi,DTMB MI,9,"Dealers, Maintenance, & Repair",2034,Forecast,69055.8202786607,69055.8202786607,1.0
+sam_mi,dtmb_mi,DTMB MI,10,Logistics,2034,Forecast,47909.32435787508,47909.32435787508,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2024,QCEW,4879.641192022313,15568.0,0.3134404671134579
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2024,QCEW,3382.6158243114137,9192.0,0.3679956292766986
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2024,QCEW,12985.411769331364,47844.0,0.2714114992335792
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2024,QCEW,6244.586842570626,47550.0,0.131326747477826
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2024,QCEW,9023.139594640334,16337.0,0.5523131293775071
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2024,QCEW,14936.444494648236,50443.0,0.2961053960836635
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2024,QCEW,5987.024880706003,18283.0,0.3274640311057268
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2024,QCEW,1032.0255054257461,120207.0,0.008585402725513041
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2024,QCEW,173082.0,173082.0,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2024,QCEW,115340.0,115340.0,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2024,QCEW,69600.0,69600.0,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2024,QCEW,46889.0,46889.0,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2025,Forecast,4864.991588622459,15506.615960112336,0.31373651099225486
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2025,Forecast,3291.955153854659,8948.88594541415,0.36786200806834723
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2025,Forecast,12812.059110409897,47303.67275322053,0.270847026556466
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2025,Forecast,6220.674290659645,47184.76027746492,0.13183651361328608
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2025,Forecast,8737.179650568889,15890.634406916157,0.5498320222360766
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2025,Forecast,14812.074605274445,50081.15614149278,0.2957614349682012
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2025,Forecast,5966.70995301161,18220.074859059303,0.32747999111786685
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2025,Forecast,1034.5823748426708,120925.39364255792,0.008555542749778279
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2025,Forecast,173104.77264804108,173104.77264804108,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2025,Forecast,115605.17332840526,115605.17332840526,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2025,Forecast,69941.22975540171,69941.22975540171,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2025,Forecast,45983.58771206747,45983.58771206747,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2026,Forecast,4850.419223372392,15445.559956870222,0.31403323912610326
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2026,Forecast,3203.7923010978957,8712.399891486768,0.3677278753272618
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2026,Forecast,12641.406326502487,46770.380909230065,0.2702865805398588
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2026,Forecast,6197.192784442233,46824.93084504278,0.13234814601116088
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2026,Forecast,8462.660019978253,15461.445596461828,0.5473395076275943
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2026,Forecast,14688.97710447829,49722.803532993086,0.29541731480871875
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2026,Forecast,5946.634050479275,18157.67738071845,0.32749970856922356
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2026,Forecast,1037.1705438573558,121651.21785225839,0.008525771974736555
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2026,Forecast,173240.68614815656,173240.68614815656,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2026,Forecast,115872.0162791881,115872.0162791881,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2026,Forecast,70285.65812432465,70285.65812432465,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2026,Forecast,45096.50958909716,45096.50958909716,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2027,Forecast,4835.923679058998,15384.830217584204,0.3143306497807004
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2027,Forecast,3118.056916084811,8482.356643575917,0.36759323465210114
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2027,Forecast,12473.405032081657,46244.016144532565,0.269730141800333
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2027,Forecast,6174.136728979456,46470.439880376296,0.13286159427095703
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2027,Forecast,8199.100336038842,15048.717477352435,0.5448371496360456
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2027,Forecast,14567.13812015978,49367.90498823205,0.2950730464181574
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2027,Forecast,5926.795657262751,18095.804694285525,0.32752318879382986
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2027,Forecast,1039.7902800628963,122384.56388639654,0.008496090087211337
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2027,Forecast,173492.49409221835,173492.49409221835,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2027,Forecast,116140.53188327418,116140.53188327418,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2027,Forecast,70633.3171767541,70633.3171767541,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2027,Forecast,44227.37451650444,44227.37451650444,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2028,Forecast,4821.504540724506,15324.424979147654,0.3146287411948738
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2028,Forecast,3034.680664278101,8258.57628175056,0.3674580897174741
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2028,Forecast,12308.007801673124,45724.472078355895,0.2691776906812935
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2028,Forecast,6151.500604914678,46121.216528340796,0.13337680720400497
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2028,Forecast,7946.040573360125,14651.76424461538,0.5423265376577668
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2028,Forecast,14446.543934807676,49016.42373119423,0.29472864062936205
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2028,Forecast,5907.19327008923,18034.45395049213,0.3275504368641022
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2028,Forecast,1042.4418547275588,123125.52429412256,0.008466496778014697
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2028,Forecast,173863.0940095476,173863.0940095476,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2028,Forecast,116410.72324332835,116410.72324332835,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2028,Forecast,70984.23930570896,70984.23930570896,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2028,Forecast,43375.800165026856,43375.800165026856,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2029,Forecast,4807.161395654299,15264.34248798496,0.31492751158054566
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2029,Forecast,2953.597168069067,8040.884008350455,0.36732244427375865
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2029,Forecast,12145.168149574285,45211.644233831306,0.26862920726263273
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2029,Forecast,6129.278967458114,45777.19088804387,0.1338937328515491
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2029,Forecast,7703.0401853860385,14269.929095524805,0.5398092824302673
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2029,Forecast,14327.180983761797,48668.32339152675,0.29438410829365425
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2029,Forecast,5887.825398167087,17973.62232134855,0.3275814575881957
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2029,Forecast,1045.1255428463217,123874.19293535907,0.008436991742030534
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2029,Forecast,174355.5327341095,174355.5327341095,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2029,Forecast,116682.59353363785,116682.59353363785,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2029,Forecast,71338.4572304965,71338.4572304965,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2029,Forecast,42541.41278405291,42541.41278405291,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2030,Forecast,4792.893833364786,15204.580999999998,0.3152269591227003
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2030,Forecast,2874.741950001304,7829.11,0.36718630214689846
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2030,Forecast,11984.840510016631,44705.43000000001,0.2680846713702704
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2030,Forecast,6107.466445385027,45438.293999999994,0.13441231850352983
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2030,Forecast,7469.677278379073,13902.582999999999,0.5372870119444044
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2030,Forecast,14209.035853494921,48323.56799999999,0.2940394602794008
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2030,Forecast,5868.690563094324,17913.307,0.3276162555073903
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2030,Forecast,1047.841623193173,124630.66500000004,0.00840757467829585
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2030,Forecast,174973.012,174973.012,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2030,Forecast,116956.14599999998,116956.14599999998,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2030,Forecast,71696.00399999999,71696.00399999999,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2030,Forecast,41723.847000000016,41723.847000000016,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2031,Forecast,4778.70144559134,15145.138780524894,0.3155270819793519
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2031,Forecast,2798.0523776578966,7623.08926394492,0.3670496672381762
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2031,Forecast,11826.980217762108,44205.728594628454,0.2675440625855725
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2031,Forecast,6086.05774004741,45104.45783347737,0.13493251071804757
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2031,Forecast,7245.547820440965,13549.123523157215,0.5347613672616816
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2031,Forecast,14092.095279914083,47982.12198401948,0.29369470747057574
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2031,Forecast,5849.787298767731,17853.50520058392,0.3276548348935091
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2031,Forecast,1050.5903783741844,125395.03702739441,0.00837824529008008
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2031,Forecast,175718.8942744198,175718.8942744198,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2031,Forecast,117231.38395961437,117231.38395961437,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2031,Forecast,72056.91299599953,72056.91299599953,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2031,Forecast,40922.74561961448,40922.74561961448,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2032,Forecast,4764.583826276306,15086.014104269052,0.3158278782815151
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2032,Forecast,2723.4676101630066,7422.661498584391,0.3669125435239653
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2032,Forecast,11671.5434891238,43712.4410278145,0.2670073602546498
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2032,Forecast,6065.047624398941,44775.61527401506,0.13545425534149413
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2032,Forecast,7030.264884083828,13208.97369780264,0.5322339982593302
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2032,Forecast,13976.346146681028,47643.95016318826,0.29334986076531805
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2032,Forecast,5831.114151292758,17794.21415808835,0.3276971997463697
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2032,Forecast,1053.3720948813664,126167.40692611951,0.008349003284962454
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2032,Forecast,176596.70883770875,176596.70883770875,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2032,Forecast,117508.31080097986,117508.31080097986,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2032,Forecast,72421.2179365262,72421.2179365262,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2032,Forecast,40137.75943807002,40137.75943807002,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2033,Forecast,4750.540571557068,15027.205255268456,0.3161293461331776
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2033,Forecast,2650.9285462502103,7227.670958075109,0.3667749350554569
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2033,Forecast,11518.487403401423,43225.47006636708,0.26647454349753247
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2033,Forecast,6044.430942033051,44451.700111107784,0.1359774975293384
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2033,Forecast,6823.457920928562,12881.580944748128,0.5297065593265176
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2033,Forecast,13861.77548355161,47309.017744919205,0.2930049310744844
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2033,Forecast,5812.669678894077,17735.431128211356,0.32774335379127
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2033,Forecast,1056.1870631473193,126947.8739940479,0.008319848374907325
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2033,Forecast,177610.15812040877,177610.15812040877,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2033,Forecast,117786.92998379572,117786.92998379572,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2033,Forecast,72788.9528792502,72788.9528792502,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2033,Forecast,39368.547051744215,39368.547051744215,1.0
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Coatings & Surface Treatments,2034,Forecast,4736.571279754182,14968.710526835272,0.31643148361127416
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Metals,2034,Forecast,2580.3777738513645,7037.966320887406,0.3666368459583661
+sam_mi,moodys_mi,Moody's MI,1,Materials & Processing - Non-Metals,2034,Forecast,11367.769884722427,42744.7201989423,0.26594559121722167
+sam_mi,moodys_mi,Moody's MI,2,Equipment Manufacturing,2034,Forecast,6024.202606233938,44132.64702605647,0.13650218176755122
+sam_mi,moodys_mi,Moody's MI,3,Forging & Foundries,2034,Forecast,6624.772067167788,12566.416038921183,0.5271807050354923
+sam_mi,moodys_mi,Moody's MI,4,Parts & Machining,2034,Forecast,13748.37046473395,46977.29032009683,0.2926599293201978
+sam_mi,moodys_mi,Moody's MI,5,Component Systems,2034,Forecast,5794.452451826846,17677.153387221493,0.32779330047650973
+sam_mi,moodys_mi,Moody's MI,6,Engineering & Design,2034,Forecast,1059.0355776006932,127736.53893871272,0.008290780276337475
+sam_mi,moodys_mi,Moody's MI,7,Core Automotive,2034,Forecast,178763.1243077328,178763.1243077328,1.0
+sam_mi,moodys_mi,Moody's MI,8,"Motor Vehicle Parts, Materials, & Products Sales",2034,Forecast,118067.24503886762,118067.24503886762,1.0
+sam_mi,moodys_mi,Moody's MI,9,"Dealers, Maintenance, & Repair",2034,Forecast,73160.15222490279,73160.15222490279,1.0
+sam_mi,moodys_mi,Moody's MI,10,Logistics,2034,Forecast,38614.774675555454,38614.774675555454,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2024,QCEW,4879.641192022313,15568.0,0.3134404671134579
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2024,QCEW,3382.6158243114137,9192.0,0.3679956292766986
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2024,QCEW,12985.411769331364,47844.0,0.2714114992335792
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2024,QCEW,6244.586842570626,47550.0,0.131326747477826
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2024,QCEW,9023.139594640334,16337.0,0.5523131293775071
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2024,QCEW,14936.444494648236,50443.0,0.2961053960836635
+sam_mi,moodys_us,Moody's US,5,Component Systems,2024,QCEW,5987.024880706003,18283.0,0.3274640311057268
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2024,QCEW,1032.0255054257461,120207.0,0.008585402725513041
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2024,QCEW,173082.0,173082.0,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2024,QCEW,115340.0,115340.0,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2024,QCEW,69600.0,69600.0,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2024,QCEW,46889.0,46889.0,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2025,Forecast,4881.820269632981,15551.749297782666,0.3139081125959907
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2025,Forecast,3315.3510565416955,9012.988337094208,0.3678414896973634
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2025,Forecast,12880.577387654277,47555.374577059956,0.270854293593719
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2025,Forecast,6207.371559192663,47052.01732146814,0.13192572630377875
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2025,Forecast,8808.95571167201,16006.43994776372,0.5503382226416137
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2025,Forecast,14815.200781269596,50088.32388814512,0.29578152414032066
+sam_mi,moodys_us,Moody's US,5,Component Systems,2025,Forecast,5958.059478037001,18230.826488606435,0.32681236266279856
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2025,Forecast,1040.8826536981423,121738.15038831689,0.008550176344703484
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2025,Forecast,174334.75877030357,174334.75877030357,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2025,Forecast,116078.83818083288,116078.83818083288,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2025,Forecast,70079.70052907895,70079.70052907895,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2025,Forecast,45885.14481540345,45885.14481540345,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2026,Forecast,4884.083790731373,15535.731409218952,0.3143774607118363
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2026,Forecast,3249.5061674718554,8837.698404427761,0.36768692693154426
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2026,Forecast,12776.987207303315,47269.402426464396,0.270301432881029
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2026,Forecast,6170.844126627882,46562.82604495097,0.13252726801141007
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2026,Forecast,8601.384462472677,15685.77043334701,0.548355880829841
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2026,Forecast,14695.227359550783,49737.200556217605,0.295457468357932
+sam_mi,moodys_us,Moody's US,5,Component Systems,2026,Forecast,5929.238174528218,18178.88522247166,0.32616071348527165
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2026,Forecast,1049.8605275990699,123291.46549180633,0.008515273327405141
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2026,Forecast,175703.03000020387,175703.03000020387,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2026,Forecast,116823.64568155808,116823.64568155808,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2026,Forecast,70562.85182255511,70562.85182255511,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2026,Forecast,44902.805691021174,44902.805691021174,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2027,Forecast,4886.43192467371,15519.946431717535,0.31484850454686436
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2027,Forecast,3185.049907052076,8666.049149934359,0.36753194586672766
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2027,Forecast,12674.623031607609,46986.04897728393,0.2697529012864081
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2027,Forecast,6134.992727856702,46082.27488139666,0.13313129058073886
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2027,Forecast,8400.213277216351,15374.67484872649,0.5463668896979733
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2027,Forecast,14576.51062460418,49389.59285522594,0.29513324127477253
+sam_mi,moodys_us,Moody's US,5,Component Systems,2027,Forecast,5900.560247925961,18127.175066846918,0.32550908931847805
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2027,Forecast,1058.960789490053,124867.27721105659,0.008480690963575248
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2027,Forecast,177191.67380662198,177191.67380662198,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2027,Forecast,117574.46432381766,117574.46432381766,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2027,Forecast,71049.47969814391,71049.47969814391,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2027,Forecast,43941.520963788644,43941.520963788644,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2028,Forecast,4888.864842485154,15504.394466705646,0.31532123701983794
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2028,Forecast,3121.9517325316747,8497.961342532293,0.36737655146844544
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2028,Forecast,12573.466951729355,46705.28018672749,0.26920868264703035
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2028,Forecast,6099.805749427593,45610.21514779116,0.13373771050327962
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2028,Forecast,8205.236454958864,15072.846811182522,0.5443720458215904
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2028,Forecast,14459.037119676788,49045.464034715085,0.29480885550277336
+sam_mi,moodys_us,Moody's US,5,Component Systems,2028,Forecast,5872.0249796128555,18075.694892625033,0.32485749590787066
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2028,Forecast,1068.1851253183509,126465.92260863245,0.008446426541511962
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2028,Forecast,178805.78261518333,178805.78261518333,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2028,Forecast,118331.33630704321,118331.33630704321,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2028,Forecast,71539.61017327603,71539.61017327603,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2028,Forecast,43000.838886657395,43000.838886657395,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2029,Forecast,4891.382716865262,15489.075619637035,0.31579565088209477
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2029,Forecast,3060.181792149142,8333.357530362895,0.36722074877973937
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2029,Forecast,12473.50134197864,46427.06253161657,0.26866876045591415
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2029,Forecast,6065.271777950659,45146.50072226946,0.13434644282317182
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2029,Forecast,8016.254941535304,14779.989832689997,0.5423721553451384
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2029,Forecast,14342.793534522152,48704.77773842553,0.2944843237259337
+sam_mi,moodys_us,Moody's US,5,Component Systems,2029,Forecast,5843.631654589461,18024.443576312227,0.3242059389988148
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2029,Forecast,1077.5352449632958,128087.74399235993,0.008412477348555438
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2029,Forecast,180550.69199479662,180550.69199479662,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2029,Forecast,119094.30421127351,119094.30421127351,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2029,Forecast,72033.26946668368,72033.26946668368,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2029,Forecast,42080.31741539949,42080.31741539949,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2030,Forecast,4893.985722193456,15473.989999999994,0.31627173871725767
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2030,Forecast,2999.710909203078,8172.162,0.3670645429205977
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2030,Forecast,12374.70885520554,46151.363000000005,0.2681331178714167
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2030,Forecast,6031.379596651594,44690.988,0.1349574011801125
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2030,Forecast,7833.076114639625,14495.817,0.5403680326979587
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2030,Forecast,14227.766703790268,48367.498000000014,0.2941596586987043
+sam_mi,moodys_us,Moody's US,5,Component Systems,2030,Forecast,5815.379561455988,17973.420000000002,0.32355442433638043
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2030,Forecast,1087.012882587911,129733.089,0.008378840671772726
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2030,Forecast,182431.99199999997,182431.99199999997,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2030,Forecast,119863.41100000002,119863.41100000002,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2030,Forecast,72530.48400000003,72530.48400000003,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2030,Forecast,41179.524000000005,41179.524000000005,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2031,Forecast,4896.674034534546,15459.13772132549,0.3167494929409749
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2031,Forecast,2940.5105664950547,8014.300736607644,0.36690793908736413
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2031,Forecast,12277.072418268197,45878.14908290666,0.2676017377266513
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2031,Forecast,5998.118181985011,44243.53584982906,0.13557049785405398
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2031,Forecast,7655.513575854187,14220.050665066678,0.5383604992815467
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2031,Forecast,14113.943605435295,48033.589238737455,0.29383487324434376
+sam_mi,moodys_us,Moody's US,5,Component Systems,2031,Forecast,5787.267992394107,17922.62305133723,0.3229029576651344
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2031,Forecast,1096.619796995889,131402.31068533528,0.008345513798626629
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2031,Forecast,184455.53904484867,184455.53904484867,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2031,Forecast,120638.70002303913,120638.70002303913,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2031,Forecast,73031.2803993714,73031.2803993714,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2031,Forecast,40298.03538053881,40298.03538053881,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2032,Forecast,4899.447831644278,15444.518901195326,0.31722890580069063
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2032,Forecast,2882.5528911356487,7859.701385023745,0.3667509425521184
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2032,Forecast,12180.575227575624,45607.388766234035,0.2670746025388249
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2032,Forecast,5965.4767003061015,43804.00557167188,0.13618564381162404
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2032,Forecast,7483.386949404495,13952.422145484725,0.5363503821324862
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2032,Forecast,14001.31135914088,47703.01625539358,0.29350998025324676
+sam_mi,moodys_us,Moody's US,5,Component Systems,2032,Forecast,5759.296243148845,17872.051623502335,0.322251544728932
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2032,Forecast,1106.3577719940192,133095.7676056934,0.008312494017628649
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2032,Forecast,186627.46833323277,186627.46833323277,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2032,Forecast,121420.21501943233,121420.21501943233,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2032,Forecast,73535.68549708264,73535.68549708264,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2032,Forecast,39435.437387464764,39435.437387464764,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2033,Forecast,4902.307292974932,15430.13366125046,0.31770996937544665
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2033,Forecast,2825.8106397050715,7708.29321174802,0.3665935586620295
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2033,Forecast,12085.20074470396,45339.05052277036,0.266551694518492
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2033,Forecast,5933.444504599625,43372.260854637716,0.13680274875422302
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2033,Forecast,7316.521687421622,13692.671434613838,0.5343385125656427
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2033,Forecast,13889.857224762847,47375.744228027674,0.29318499268124537
+sam_mi,moodys_us,Moody's US,5,Component Systems,2033,Forecast,5731.463613010583,17821.704615175662,0.3216001912707097
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2033,Forecast,1116.2286167601496,134813.82391093243,0.008279778618976117
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2033,Forecast,188954.2068716788,188954.2068716788,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2033,Forecast,122208.00012037411,122208.00012037411,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2033,Forecast,74043.72633319559,74043.72633319559,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2033,Forecast,38591.324746167884,38591.324746167884,1.0
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Coatings & Surface Treatments,2034,Forecast,4905.252599680936,15415.98212719931,0.31819267557571407
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Metals,2034,Forecast,2770.2571837600676,7560.007067812939,0.3664357928386812
+sam_mi,moodys_us,Moody's US,1,Materials & Processing - Non-Metals,2034,Forecast,11990.932692085004,45073.10330434801,0.2660329955787244
+sam_mi,moodys_us,Moody's US,2,Equipment Manufacturing,2034,Forecast,5902.011131265239,42948.16773587622,0.13742172116774767
+sam_mi,moodys_us,Moody's US,3,Forging & Foundries,2034,Forecast,7154.748881501929,13440.546921076791,0.5323257248023301
+sam_mi,moodys_us,Moody's US,4,Parts & Machining,2034,Forecast,13779.568600789125,47051.738707894976,0.29285992354788376
+sam_mi,moodys_us,Moody's US,5,Component Systems,2034,Forecast,5703.769404797131,17771.58093051194,0.3209489030322765
+sam_mi,moodys_us,Moody's US,6,Engineering & Design,2034,Forecast,1126.2341662167694,136556.84943391307,0.008247364895173658
+sam_mi,moodys_us,Moody's US,7,Core Automotive,2034,Forecast,191442.4870919091,191442.4870919091,1.0
+sam_mi,moodys_us,Moody's US,8,"Motor Vehicle Parts, Materials, & Products Sales",2034,Forecast,123002.0998521677,123002.0998521677,1.0
+sam_mi,moodys_us,Moody's US,9,"Dealers, Maintenance, & Repair",2034,Forecast,74555.43015720093,74555.43015720093,1.0
+sam_mi,moodys_us,Moody's US,10,Logistics,2034,Forecast,37765.30088575686,37765.30088575686,1.0

@@ -1,0 +1,529 @@
+segment_id,segment_name,year,adjustment_source,forecast_source,value_type,employment_qcew
+1,Materials & Processing - Coatings & Surface Treatments,2024,sam_mi,bls_us,QCEW,4879.641192022313
+1,Materials & Processing - Metals,2024,sam_mi,bls_us,QCEW,3382.6158243114137
+1,Materials & Processing - Non-Metals,2024,sam_mi,bls_us,QCEW,12985.411769331364
+2,Equipment Manufacturing,2024,sam_mi,bls_us,QCEW,6244.586842570626
+3,Forging & Foundries,2024,sam_mi,bls_us,QCEW,9023.139594640334
+4,Parts & Machining,2024,sam_mi,bls_us,QCEW,14936.444494648236
+5,Component Systems,2024,sam_mi,bls_us,QCEW,5987.024880706003
+6,Engineering & Design,2024,sam_mi,bls_us,QCEW,1032.0255054257461
+7,Core Automotive,2024,sam_mi,bls_us,QCEW,173082.0
+8,"Motor Vehicle Parts, Materials, & Products Sales",2024,sam_mi,bls_us,QCEW,115340.0
+9,"Dealers, Maintenance, & Repair",2024,sam_mi,bls_us,QCEW,69600.0
+10,Logistics,2024,sam_mi,bls_us,QCEW,46889.0
+1,Materials & Processing - Coatings & Surface Treatments,2025,sam_mi,bls_us,Forecast,4855.048941245114
+1,Materials & Processing - Metals,2025,sam_mi,bls_us,Forecast,3385.458951515645
+1,Materials & Processing - Non-Metals,2025,sam_mi,bls_us,Forecast,13027.665334189198
+2,Equipment Manufacturing,2025,sam_mi,bls_us,Forecast,6231.013312524281
+3,Forging & Foundries,2025,sam_mi,bls_us,Forecast,8896.881108169242
+4,Parts & Machining,2025,sam_mi,bls_us,Forecast,14899.718617478627
+5,Component Systems,2025,sam_mi,bls_us,Forecast,6028.243310097978
+6,Engineering & Design,2025,sam_mi,bls_us,Forecast,1036.2312105654144
+7,Core Automotive,2025,sam_mi,bls_us,Forecast,170434.47731731719
+8,"Motor Vehicle Parts, Materials, & Products Sales",2025,sam_mi,bls_us,Forecast,115241.87522437793
+9,"Dealers, Maintenance, & Repair",2025,sam_mi,bls_us,Forecast,69748.19005030766
+10,Logistics,2025,sam_mi,bls_us,Forecast,46951.31128419568
+1,Materials & Processing - Coatings & Surface Treatments,2026,sam_mi,bls_us,Forecast,4830.794759937387
+1,Materials & Processing - Metals,2026,sam_mi,bls_us,Forecast,3388.310938646288
+1,Materials & Processing - Non-Metals,2026,sam_mi,bls_us,Forecast,13070.079306865813
+2,Equipment Manufacturing,2026,sam_mi,bls_us,Forecast,6217.536006611181
+3,Forging & Foundries,2026,sam_mi,bls_us,Forecast,8772.455033097838
+4,Parts & Machining,2026,sam_mi,bls_us,Forecast,14863.750699484455
+5,Component Systems,2026,sam_mi,bls_us,Forecast,6071.05388679102
+6,Engineering & Design,2026,sam_mi,bls_us,Forecast,1040.4551825403867
+7,Core Automotive,2026,sam_mi,bls_us,Forecast,167861.58987231008
+8,"Motor Vehicle Parts, Materials, & Products Sales",2026,sam_mi,bls_us,Forecast,115151.28641185304
+9,"Dealers, Maintenance, & Repair",2026,sam_mi,bls_us,Forecast,69896.71859062105
+10,Logistics,2026,sam_mi,bls_us,Forecast,47013.705374510886
+1,Materials & Processing - Coatings & Surface Treatments,2027,sam_mi,bls_us,Forecast,4806.875020576088
+1,Materials & Processing - Metals,2027,sam_mi,bls_us,Forecast,3391.171794338355
+1,Materials & Processing - Non-Metals,2027,sam_mi,bls_us,Forecast,13112.65434257335
+2,Equipment Manufacturing,2027,sam_mi,bls_us,Forecast,6204.154308484867
+3,Forging & Foundries,2027,sam_mi,bls_us,Forecast,8649.834041244694
+4,Parts & Machining,2027,sam_mi,bls_us,Forecast,14828.540806254456
+5,Component Systems,2027,sam_mi,bls_us,Forecast,6115.495215483776
+6,Engineering & Design,2027,sam_mi,bls_us,Forecast,1044.6975091013276
+7,Core Automotive,2027,sam_mi,bls_us,Forecast,165361.5136503303
+8,"Motor Vehicle Parts, Materials, & Products Sales",2027,sam_mi,bls_us,Forecast,115068.14344241246
+9,"Dealers, Maintenance, & Repair",2027,sam_mi,bls_us,Forecast,70045.5864368116
+10,Logistics,2027,sam_mi,bls_us,Forecast,47076.18238098753
+1,Materials & Processing - Coatings & Surface Treatments,2028,sam_mi,bls_us,Forecast,4783.286136342849
+1,Materials & Processing - Metals,2028,sam_mi,bls_us,Forecast,3394.041527250963
+1,Materials & Processing - Non-Metals,2028,sam_mi,bls_us,Forecast,13155.391099281202
+2,Equipment Manufacturing,2028,sam_mi,bls_us,Forecast,6190.86760576668
+3,Forging & Foundries,2028,sam_mi,bls_us,Forecast,8528.991219901669
+4,Parts & Machining,2028,sam_mi,bls_us,Forecast,14794.08907174855
+5,Component Systems,2028,sam_mi,bls_us,Forecast,6161.606914487691
+6,Engineering & Design,2028,sam_mi,bls_us,Forecast,1048.9582784793033
+7,Core Automotive,2028,sam_mi,bls_us,Forecast,162932.47048130518
+8,"Motor Vehicle Parts, Materials, & Products Sales",2028,sam_mi,bls_us,Forecast,114992.35764510151
+9,"Dealers, Maintenance, & Repair",2028,sam_mi,bls_us,Forecast,70194.79440679129
+10,Logistics,2028,sam_mi,bls_us,Forecast,47138.74241381377
+1,Materials & Processing - Coatings & Surface Treatments,2029,sam_mi,bls_us,Forecast,4760.024560671221
+1,Materials & Processing - Metals,2029,sam_mi,bls_us,Forecast,3396.920146067359
+1,Materials & Processing - Non-Metals,2029,sam_mi,bls_us,Forecast,13198.290237727735
+2,Equipment Manufacturing,2029,sam_mi,bls_us,Forecast,6177.675290020212
+3,Forging & Foundries,2029,sam_mi,bls_us,Forecast,8409.900065434525
+4,Parts & Machining,2029,sam_mi,bls_us,Forecast,14760.395698424192
+5,Component Systems,2029,sam_mi,bls_us,Forecast,6209.429641943426
+6,Engineering & Design,2029,sam_mi,bls_us,Forecast,1053.2375793887861
+7,Core Automotive,2029,sam_mi,bls_us,Forecast,160572.72689417674
+8,"Motor Vehicle Parts, Materials, & Products Sales",2029,sam_mi,bls_us,Forecast,114923.84177657956
+9,"Dealers, Maintenance, & Repair",2029,sam_mi,bls_us,Forecast,70344.34332051783
+10,Logistics,2029,sam_mi,bls_us,Forecast,47201.3855833242
+1,Materials & Processing - Coatings & Surface Treatments,2030,sam_mi,bls_us,Forecast,4737.086786798944
+1,Materials & Processing - Metals,2030,sam_mi,bls_us,Forecast,3399.8076594949475
+1,Materials & Processing - Non-Metals,2030,sam_mi,bls_us,Forecast,13241.352421432084
+2,Equipment Manufacturing,2030,sam_mi,bls_us,Forecast,6164.576756725937
+3,Forging & Foundries,2030,sam_mi,bls_us,Forecast,8292.534476983012
+4,Parts & Machining,2030,sam_mi,bls_us,Forecast,14727.460957369985
+5,Component Systems,2030,sam_mi,bls_us,Forecast,6259.0051227172935
+6,Engineering & Design,2030,sam_mi,bls_us,Forecast,1057.5355010306757
+7,Core Automotive,2030,sam_mi,bls_us,Forecast,158280.593
+8,"Motor Vehicle Parts, Materials, & Products Sales",2030,sam_mi,bls_us,Forecast,114862.51000000002
+9,"Dealers, Maintenance, & Repair",2030,sam_mi,bls_us,Forecast,70494.23399999995
+10,Logistics,2030,sam_mi,bls_us,Forecast,47264.112000000016
+1,Materials & Processing - Coatings & Surface Treatments,2031,sam_mi,bls_us,Forecast,4714.469347325225
+1,Materials & Processing - Metals,2031,sam_mi,bls_us,Forecast,3402.7040762653196
+1,Materials & Processing - Non-Metals,2031,sam_mi,bls_us,Forecast,13284.578316705989
+2,Equipment Manufacturing,2031,sam_mi,bls_us,Forecast,6151.571405256011
+3,Forging & Foundries,2031,sam_mi,bls_us,Forecast,8176.868750258764
+4,Parts & Machining,2031,sam_mi,bls_us,Forecast,14695.285188446604
+5,Component Systems,2031,sam_mi,bls_us,Forecast,6310.3761759953395
+6,Engineering & Design,2031,sam_mi,bls_us,Forecast,1061.8521330953447
+7,Core Automotive,2031,sam_mi,bls_us,Forecast,156054.42140298497
+8,"Motor Vehicle Parts, Materials, & Products Sales",2031,sam_mi,bls_us,Forecast,114808.27786421019
+9,"Dealers, Maintenance, & Repair",2031,sam_mi,bls_us,Forecast,70644.46726930262
+10,Logistics,2031,sam_mi,bls_us,Forecast,47326.92177446927
+1,Materials & Processing - Coatings & Surface Treatments,2032,sam_mi,bls_us,Forecast,4692.168813772927
+1,Materials & Processing - Metals,2032,sam_mi,bls_us,Forecast,3405.6094051342784
+1,Materials & Processing - Non-Metals,2032,sam_mi,bls_us,Forecast,13327.96859266568
+2,Equipment Manufacturing,2032,sam_mi,bls_us,Forecast,6138.658638849205
+3,Forging & Foundries,2032,sam_mi,bls_us,Forecast,8062.877571439578
+4,Parts & Machining,2032,sam_mi,bls_us,Forecast,14663.868800435002
+5,Component Systems,2032,sam_mi,bls_us,Forecast,6363.586743593164
+6,Engineering & Design,2032,sam_mi,bls_us,Forecast,1066.1875657657042
+7,Core Automotive,2032,sam_mi,bls_us,Forecast,153892.60613878194
+8,"Motor Vehicle Parts, Materials, & Products Sales",2032,sam_mi,bls_us,Forecast,114761.06228326539
+9,"Dealers, Maintenance, & Repair",2032,sam_mi,bls_us,Forecast,70795.04395455231
+10,Logistics,2032,sam_mi,bls_us,Forecast,47389.815017507
+1,Materials & Processing - Coatings & Surface Treatments,2033,sam_mi,bls_us,Forecast,4670.181796155657
+1,Materials & Processing - Metals,2033,sam_mi,bls_us,Forecast,3408.5236548818652
+1,Materials & Processing - Non-Metals,2033,sam_mi,bls_us,Forecast,13371.523921243821
+2,Equipment Manufacturing,2033,sam_mi,bls_us,Forecast,6125.837864586048
+3,Forging & Foundries,2033,sam_mi,bls_us,Forecast,7950.536011158498
+4,Parts & Machining,2033,sam_mi,bls_us,Forecast,14633.21227119197
+5,Component Systems,2033,sam_mi,bls_us,Forecast,6418.6819190000215
+6,Engineering & Design,2033,sam_mi,bls_us,Forecast,1070.541889720289
+7,Core Automotive,2033,sam_mi,bls_us,Forecast,151793.58163932987
+8,"Motor Vehicle Parts, Materials, & Products Sales",2033,sam_mi,bls_us,Forecast,114720.78151625342
+9,"Dealers, Maintenance, & Repair",2033,sam_mi,bls_us,Forecast,70945.9648839423
+10,Logistics,2033,sam_mi,bls_us,Forecast,47452.791840035454
+1,Materials & Processing - Coatings & Surface Treatments,2034,sam_mi,bls_us,Forecast,4648.504942549662
+1,Materials & Processing - Metals,2034,sam_mi,bls_us,Forecast,3411.44683431239
+1,Materials & Processing - Non-Metals,2034,sam_mi,bls_us,Forecast,13415.24497720149
+2,Equipment Manufacturing,2034,sam_mi,bls_us,Forecast,6113.108493364076
+3,Forging & Foundries,2034,sam_mi,bls_us,Forecast,7839.819518586253
+4,Parts & Machining,2034,sam_mi,bls_us,Forecast,14603.316147813035
+5,Component Systems,2034,sam_mi,bls_us,Forecast,6475.707977176246
+6,Engineering & Design,2034,sam_mi,bls_us,Forecast,1074.9151961363677
+7,Core Automotive,2034,sam_mi,bls_us,Forecast,149755.82172360306
+8,"Motor Vehicle Parts, Materials, & Products Sales",2034,sam_mi,bls_us,Forecast,114687.35514742402
+9,"Dealers, Maintenance, & Repair",2034,sam_mi,bls_us,Forecast,71097.23088773794
+10,Logistics,2034,sam_mi,bls_us,Forecast,47515.8523531243
+1,Materials & Processing - Coatings & Surface Treatments,2024,sam_mi,dtmb_mi,QCEW,4879.641192022313
+1,Materials & Processing - Metals,2024,sam_mi,dtmb_mi,QCEW,3382.6158243114137
+1,Materials & Processing - Non-Metals,2024,sam_mi,dtmb_mi,QCEW,12985.411769331364
+2,Equipment Manufacturing,2024,sam_mi,dtmb_mi,QCEW,6244.586842570626
+3,Forging & Foundries,2024,sam_mi,dtmb_mi,QCEW,9023.139594640334
+4,Parts & Machining,2024,sam_mi,dtmb_mi,QCEW,14936.444494648236
+5,Component Systems,2024,sam_mi,dtmb_mi,QCEW,5987.024880706003
+6,Engineering & Design,2024,sam_mi,dtmb_mi,QCEW,1032.0255054257461
+7,Core Automotive,2024,sam_mi,dtmb_mi,QCEW,173082.0
+8,"Motor Vehicle Parts, Materials, & Products Sales",2024,sam_mi,dtmb_mi,QCEW,115340.0
+9,"Dealers, Maintenance, & Repair",2024,sam_mi,dtmb_mi,QCEW,69600.0
+10,Logistics,2024,sam_mi,dtmb_mi,QCEW,46889.0
+1,Materials & Processing - Coatings & Surface Treatments,2025,sam_mi,dtmb_mi,Forecast,4871.046429875141
+1,Materials & Processing - Metals,2025,sam_mi,dtmb_mi,Forecast,3354.4096263032693
+1,Materials & Processing - Non-Metals,2025,sam_mi,dtmb_mi,Forecast,12946.100688128101
+2,Equipment Manufacturing,2025,sam_mi,dtmb_mi,Forecast,6225.711013322198
+3,Forging & Foundries,2025,sam_mi,dtmb_mi,Forecast,8958.752780668667
+4,Parts & Machining,2025,sam_mi,dtmb_mi,Forecast,14890.157118533889
+5,Component Systems,2025,sam_mi,dtmb_mi,Forecast,5999.655707535056
+6,Engineering & Design,2025,sam_mi,dtmb_mi,Forecast,1040.4014402811324
+7,Core Automotive,2025,sam_mi,dtmb_mi,Forecast,172175.96843442303
+8,"Motor Vehicle Parts, Materials, & Products Sales",2025,sam_mi,dtmb_mi,Forecast,115039.46777036448
+9,"Dealers, Maintenance, & Repair",2025,sam_mi,dtmb_mi,Forecast,69545.31139385121
+10,Logistics,2025,sam_mi,dtmb_mi,Forecast,46990.046870743856
+1,Materials & Processing - Coatings & Surface Treatments,2026,sam_mi,dtmb_mi,Forecast,4862.506309340252
+1,Materials & Processing - Metals,2026,sam_mi,dtmb_mi,Forecast,3326.438627811533
+1,Materials & Processing - Non-Metals,2026,sam_mi,dtmb_mi,Forecast,12906.92084419293
+2,Equipment Manufacturing,2026,sam_mi,dtmb_mi,Forecast,6206.8922409998395
+3,Forging & Foundries,2026,sam_mi,dtmb_mi,Forecast,8894.855312220801
+4,Parts & Machining,2026,sam_mi,dtmb_mi,Forecast,14844.123258010753
+5,Component Systems,2026,sam_mi,dtmb_mi,Forecast,6012.554878468965
+6,Engineering & Design,2026,sam_mi,dtmb_mi,Forecast,1048.8879227954492
+7,Core Automotive,2026,sam_mi,dtmb_mi,Forecast,171274.67966820026
+8,"Motor Vehicle Parts, Materials, & Products Sales",2026,sam_mi,dtmb_mi,Forecast,114740.28230307177
+9,"Dealers, Maintenance, & Repair",2026,sam_mi,dtmb_mi,Forecast,69490.68313199756
+10,Logistics,2026,sam_mi,dtmb_mi,Forecast,47091.31149981242
+1,Materials & Processing - Coatings & Surface Treatments,2027,sam_mi,dtmb_mi,Forecast,4854.020613605728
+1,Materials & Processing - Metals,2027,sam_mi,dtmb_mi,Forecast,3298.7008676072414
+1,Materials & Processing - Non-Metals,2027,sam_mi,dtmb_mi,Forecast,12867.871802606483
+2,Equipment Manufacturing,2027,sam_mi,dtmb_mi,Forecast,6188.130353134689
+3,Forging & Foundries,2027,sam_mi,dtmb_mi,Forecast,8831.443317165129
+4,Parts & Machining,2027,sam_mi,dtmb_mi,Forecast,14798.341936801278
+5,Component Systems,2027,sam_mi,dtmb_mi,Forecast,6025.724698403346
+6,Engineering & Design,2027,sam_mi,dtmb_mi,Forecast,1057.486707212061
+7,Core Automotive,2027,sam_mi,dtmb_mi,Forecast,170378.10887422127
+8,"Motor Vehicle Parts, Materials, & Products Sales",2027,sam_mi,dtmb_mi,Forecast,114442.4358591397
+9,"Dealers, Maintenance, & Repair",2027,sam_mi,dtmb_mi,Forecast,69436.11513798672
+10,Logistics,2027,sam_mi,dtmb_mi,Forecast,47192.79435647988
+1,Materials & Processing - Coatings & Surface Treatments,2028,sam_mi,dtmb_mi,Forecast,4845.589126839516
+1,Materials & Processing - Metals,2028,sam_mi,dtmb_mi,Forecast,3271.194400815285
+1,Materials & Processing - Non-Metals,2028,sam_mi,dtmb_mi,Forecast,12828.953129952952
+2,Equipment Manufacturing,2028,sam_mi,dtmb_mi,Forecast,6169.425177779213
+3,Forging & Foundries,2028,sam_mi,dtmb_mi,Forecast,8768.512954745476
+4,Parts & Machining,2028,sam_mi,dtmb_mi,Forecast,14752.81218326102
+5,Component Systems,2028,sam_mi,dtmb_mi,Forecast,6039.167497101946
+6,Engineering & Design,2028,sam_mi,dtmb_mi,Forecast,1066.1995769700475
+7,Core Automotive,2028,sam_mi,dtmb_mi,Forecast,169486.231355338
+8,"Motor Vehicle Parts, Materials, & Products Sales",2028,sam_mi,dtmb_mi,Forecast,114145.92074786354
+9,"Dealers, Maintenance, & Repair",2028,sam_mi,dtmb_mi,Forecast,69381.60733546724
+10,Logistics,2028,sam_mi,dtmb_mi,Forecast,47294.49591103171
+1,Materials & Processing - Coatings & Surface Treatments,2029,sam_mi,dtmb_mi,Forecast,4837.211634185169
+1,Materials & Processing - Metals,2029,sam_mi,dtmb_mi,Forecast,3243.9172987780435
+1,Materials & Processing - Non-Metals,2029,sam_mi,dtmb_mi,Forecast,12790.16439431473
+2,Equipment Manufacturing,2029,sam_mi,dtmb_mi,Forecast,6150.776543505633
+3,Forging & Foundries,2029,sam_mi,dtmb_mi,Forecast,8706.060415323478
+4,Parts & Machining,2029,sam_mi,dtmb_mi,Forecast,14707.533030359267
+5,Component Systems,2029,sam_mi,dtmb_mi,Forecast,6052.885629447146
+6,Engineering & Design,2029,sam_mi,dtmb_mi,Forecast,1075.02834519598
+7,Core Automotive,2029,sam_mi,dtmb_mi,Forecast,168599.02254368446
+8,"Motor Vehicle Parts, Materials, & Products Sales",2029,sam_mi,dtmb_mi,Forecast,113850.72932650776
+9,"Dealers, Maintenance, & Repair",2029,sam_mi,dtmb_mi,Forecast,69327.15964818839
+10,Logistics,2029,sam_mi,dtmb_mi,Forecast,47396.416634766865
+1,Materials & Processing - Coatings & Surface Treatments,2030,sam_mi,dtmb_mi,Forecast,4828.887921757617
+1,Materials & Processing - Metals,2030,sam_mi,dtmb_mi,Forecast,3216.8676489201544
+1,Materials & Processing - Non-Metals,2030,sam_mi,dtmb_mi,Forecast,12751.505165267125
+2,Equipment Manufacturing,2030,sam_mi,dtmb_mi,Forecast,6132.184279404353
+3,Forging & Foundries,2030,sam_mi,dtmb_mi,Forecast,8644.081920123073
+4,Parts & Machining,2030,sam_mi,dtmb_mi,Forecast,14662.503515659799
+5,Component Systems,2030,sam_mi,dtmb_mi,Forecast,6066.881475693046
+6,Engineering & Design,2030,sam_mi,dtmb_mi,Forecast,1083.9748552040082
+7,Core Automotive,2030,sam_mi,dtmb_mi,Forecast,167716.45799999996
+8,"Motor Vehicle Parts, Materials, & Products Sales",2030,sam_mi,dtmb_mi,Forecast,113556.85400000002
+9,"Dealers, Maintenance, & Repair",2030,sam_mi,dtmb_mi,Forecast,69272.77199999998
+10,Logistics,2030,sam_mi,dtmb_mi,Forecast,47498.556999999964
+1,Materials & Processing - Coatings & Surface Treatments,2031,sam_mi,dtmb_mi,Forecast,4820.617776638944
+1,Materials & Processing - Metals,2031,sam_mi,dtmb_mi,Forecast,3190.043554614409
+1,Materials & Processing - Non-Metals,2031,sam_mi,dtmb_mi,Forecast,12712.975013873014
+2,Equipment Manufacturing,2031,sam_mi,dtmb_mi,Forecast,6113.648215082397
+3,Forging & Foundries,2031,sam_mi,dtmb_mi,Forecast,8582.573720977132
+4,Parts & Machining,2031,sam_mi,dtmb_mi,Forecast,14617.722681301682
+5,Component Systems,2031,sam_mi,dtmb_mi,Forecast,6081.157441721132
+6,Engineering & Design,2031,sam_mi,dtmb_mi,Forecast,1093.0409810044011
+7,Core Automotive,2031,sam_mi,dtmb_mi,Forecast,166838.51341295592
+8,"Motor Vehicle Parts, Materials, & Products Sales",2031,sam_mi,dtmb_mi,Forecast,113264.28722062676
+9,"Dealers, Maintenance, & Repair",2031,sam_mi,dtmb_mi,Forecast,69218.44431485234
+10,Logistics,2031,sam_mi,dtmb_mi,Forecast,47600.917480063494
+1,Materials & Processing - Coatings & Surface Treatments,2032,sam_mi,dtmb_mi,Forecast,4812.4009868742
+1,Materials & Processing - Metals,2032,sam_mi,dtmb_mi,Forecast,3163.443135048768
+1,Materials & Processing - Non-Metals,2032,sam_mi,dtmb_mi,Forecast,12674.573512677585
+2,Equipment Manufacturing,2032,sam_mi,dtmb_mi,Forecast,6095.168180661842
+3,Forging & Foundries,2032,sam_mi,dtmb_mi,Forecast,8521.53210007616
+4,Parts & Machining,2032,sam_mi,dtmb_mi,Forecast,14573.189573980191
+5,Component Systems,2032,sam_mi,dtmb_mi,Forecast,6095.715959298591
+6,Engineering & Design,2032,sam_mi,dtmb_mi,Forecast,1102.2286278206802
+7,Core Automotive,2032,sam_mi,dtmb_mi,Forecast,165965.164598486
+8,"Motor Vehicle Parts, Materials, & Products Sales",2032,sam_mi,dtmb_mi,Forecast,112973.021487731
+9,"Dealers, Maintenance, & Repair",2032,sam_mi,dtmb_mi,Forecast,69164.17651679605
+10,Logistics,2032,sam_mi,dtmb_mi,Forecast,47703.498549309945
+1,Materials & Processing - Coatings & Surface Treatments,2033,sam_mi,dtmb_mi,Forecast,4804.237341467215
+1,Materials & Processing - Metals,2033,sam_mi,dtmb_mi,Forecast,3137.0645250944863
+1,Materials & Processing - Non-Metals,2033,sam_mi,dtmb_mi,Forecast,12636.300235703062
+2,Equipment Manufacturing,2033,sam_mi,dtmb_mi,Forecast,6076.744006778264
+3,Forging & Foundries,2033,sam_mi,dtmb_mi,Forecast,8460.953369719082
+4,Parts & Machining,2033,sam_mi,dtmb_mi,Forecast,14528.903244927795
+5,Component Systems,2033,sam_mi,dtmb_mi,Forecast,6110.559486339264
+6,Engineering & Design,2033,sam_mi,dtmb_mi,Forecast,1111.5397326154991
+7,Core Automotive,2033,sam_mi,dtmb_mi,Forecast,165096.38749912038
+8,"Motor Vehicle Parts, Materials, & Products Sales",2033,sam_mi,dtmb_mi,Forecast,112683.04934741207
+9,"Dealers, Maintenance, & Repair",2033,sam_mi,dtmb_mi,Forecast,69109.96852998188
+10,Logistics,2033,sam_mi,dtmb_mi,Forecast,47806.30068311408
+1,Materials & Processing - Coatings & Surface Treatments,2034,sam_mi,dtmb_mi,Forecast,4796.126630376442
+1,Materials & Processing - Metals,2034,sam_mi,dtmb_mi,Forecast,3110.905875175336
+1,Materials & Processing - Non-Metals,2034,sam_mi,dtmb_mi,Forecast,12598.154758443452
+2,Equipment Manufacturing,2034,sam_mi,dtmb_mi,Forecast,6058.375524579186
+3,Forging & Foundries,2034,sam_mi,dtmb_mi,Forecast,8400.833872066105
+4,Parts & Machining,2034,sam_mi,dtmb_mi,Forecast,14484.862749895236
+5,Component Systems,2034,sam_mi,dtmb_mi,Forecast,6125.690507167301
+6,Engineering & Design,2034,sam_mi,dtmb_mi,Forecast,1120.976264625407
+7,Core Automotive,2034,sam_mi,dtmb_mi,Forecast,164232.1581833225
+8,"Motor Vehicle Parts, Materials, & Products Sales",2034,sam_mi,dtmb_mi,Forecast,112394.36339222713
+9,"Dealers, Maintenance, & Repair",2034,sam_mi,dtmb_mi,Forecast,69055.8202786607
+10,Logistics,2034,sam_mi,dtmb_mi,Forecast,47909.32435787508
+1,Materials & Processing - Coatings & Surface Treatments,2024,sam_mi,moodys_mi,QCEW,4879.641192022313
+1,Materials & Processing - Metals,2024,sam_mi,moodys_mi,QCEW,3382.6158243114137
+1,Materials & Processing - Non-Metals,2024,sam_mi,moodys_mi,QCEW,12985.411769331364
+2,Equipment Manufacturing,2024,sam_mi,moodys_mi,QCEW,6244.586842570626
+3,Forging & Foundries,2024,sam_mi,moodys_mi,QCEW,9023.139594640334
+4,Parts & Machining,2024,sam_mi,moodys_mi,QCEW,14936.444494648236
+5,Component Systems,2024,sam_mi,moodys_mi,QCEW,5987.024880706003
+6,Engineering & Design,2024,sam_mi,moodys_mi,QCEW,1032.0255054257461
+7,Core Automotive,2024,sam_mi,moodys_mi,QCEW,173082.0
+8,"Motor Vehicle Parts, Materials, & Products Sales",2024,sam_mi,moodys_mi,QCEW,115340.0
+9,"Dealers, Maintenance, & Repair",2024,sam_mi,moodys_mi,QCEW,69600.0
+10,Logistics,2024,sam_mi,moodys_mi,QCEW,46889.0
+1,Materials & Processing - Coatings & Surface Treatments,2025,sam_mi,moodys_mi,Forecast,4864.991588622459
+1,Materials & Processing - Metals,2025,sam_mi,moodys_mi,Forecast,3291.955153854659
+1,Materials & Processing - Non-Metals,2025,sam_mi,moodys_mi,Forecast,12812.059110409897
+2,Equipment Manufacturing,2025,sam_mi,moodys_mi,Forecast,6220.674290659645
+3,Forging & Foundries,2025,sam_mi,moodys_mi,Forecast,8737.179650568889
+4,Parts & Machining,2025,sam_mi,moodys_mi,Forecast,14812.074605274445
+5,Component Systems,2025,sam_mi,moodys_mi,Forecast,5966.70995301161
+6,Engineering & Design,2025,sam_mi,moodys_mi,Forecast,1034.5823748426708
+7,Core Automotive,2025,sam_mi,moodys_mi,Forecast,173104.77264804108
+8,"Motor Vehicle Parts, Materials, & Products Sales",2025,sam_mi,moodys_mi,Forecast,115605.17332840526
+9,"Dealers, Maintenance, & Repair",2025,sam_mi,moodys_mi,Forecast,69941.22975540171
+10,Logistics,2025,sam_mi,moodys_mi,Forecast,45983.58771206747
+1,Materials & Processing - Coatings & Surface Treatments,2026,sam_mi,moodys_mi,Forecast,4850.419223372392
+1,Materials & Processing - Metals,2026,sam_mi,moodys_mi,Forecast,3203.7923010978957
+1,Materials & Processing - Non-Metals,2026,sam_mi,moodys_mi,Forecast,12641.406326502487
+2,Equipment Manufacturing,2026,sam_mi,moodys_mi,Forecast,6197.192784442233
+3,Forging & Foundries,2026,sam_mi,moodys_mi,Forecast,8462.660019978253
+4,Parts & Machining,2026,sam_mi,moodys_mi,Forecast,14688.97710447829
+5,Component Systems,2026,sam_mi,moodys_mi,Forecast,5946.634050479275
+6,Engineering & Design,2026,sam_mi,moodys_mi,Forecast,1037.1705438573558
+7,Core Automotive,2026,sam_mi,moodys_mi,Forecast,173240.68614815656
+8,"Motor Vehicle Parts, Materials, & Products Sales",2026,sam_mi,moodys_mi,Forecast,115872.0162791881
+9,"Dealers, Maintenance, & Repair",2026,sam_mi,moodys_mi,Forecast,70285.65812432465
+10,Logistics,2026,sam_mi,moodys_mi,Forecast,45096.50958909716
+1,Materials & Processing - Coatings & Surface Treatments,2027,sam_mi,moodys_mi,Forecast,4835.923679058998
+1,Materials & Processing - Metals,2027,sam_mi,moodys_mi,Forecast,3118.056916084811
+1,Materials & Processing - Non-Metals,2027,sam_mi,moodys_mi,Forecast,12473.405032081657
+2,Equipment Manufacturing,2027,sam_mi,moodys_mi,Forecast,6174.136728979456
+3,Forging & Foundries,2027,sam_mi,moodys_mi,Forecast,8199.100336038842
+4,Parts & Machining,2027,sam_mi,moodys_mi,Forecast,14567.13812015978
+5,Component Systems,2027,sam_mi,moodys_mi,Forecast,5926.795657262751
+6,Engineering & Design,2027,sam_mi,moodys_mi,Forecast,1039.7902800628963
+7,Core Automotive,2027,sam_mi,moodys_mi,Forecast,173492.49409221835
+8,"Motor Vehicle Parts, Materials, & Products Sales",2027,sam_mi,moodys_mi,Forecast,116140.53188327418
+9,"Dealers, Maintenance, & Repair",2027,sam_mi,moodys_mi,Forecast,70633.3171767541
+10,Logistics,2027,sam_mi,moodys_mi,Forecast,44227.37451650444
+1,Materials & Processing - Coatings & Surface Treatments,2028,sam_mi,moodys_mi,Forecast,4821.504540724506
+1,Materials & Processing - Metals,2028,sam_mi,moodys_mi,Forecast,3034.680664278101
+1,Materials & Processing - Non-Metals,2028,sam_mi,moodys_mi,Forecast,12308.007801673124
+2,Equipment Manufacturing,2028,sam_mi,moodys_mi,Forecast,6151.500604914678
+3,Forging & Foundries,2028,sam_mi,moodys_mi,Forecast,7946.040573360125
+4,Parts & Machining,2028,sam_mi,moodys_mi,Forecast,14446.543934807676
+5,Component Systems,2028,sam_mi,moodys_mi,Forecast,5907.19327008923
+6,Engineering & Design,2028,sam_mi,moodys_mi,Forecast,1042.4418547275588
+7,Core Automotive,2028,sam_mi,moodys_mi,Forecast,173863.0940095476
+8,"Motor Vehicle Parts, Materials, & Products Sales",2028,sam_mi,moodys_mi,Forecast,116410.72324332835
+9,"Dealers, Maintenance, & Repair",2028,sam_mi,moodys_mi,Forecast,70984.23930570896
+10,Logistics,2028,sam_mi,moodys_mi,Forecast,43375.800165026856
+1,Materials & Processing - Coatings & Surface Treatments,2029,sam_mi,moodys_mi,Forecast,4807.161395654299
+1,Materials & Processing - Metals,2029,sam_mi,moodys_mi,Forecast,2953.597168069067
+1,Materials & Processing - Non-Metals,2029,sam_mi,moodys_mi,Forecast,12145.168149574285
+2,Equipment Manufacturing,2029,sam_mi,moodys_mi,Forecast,6129.278967458114
+3,Forging & Foundries,2029,sam_mi,moodys_mi,Forecast,7703.0401853860385
+4,Parts & Machining,2029,sam_mi,moodys_mi,Forecast,14327.180983761797
+5,Component Systems,2029,sam_mi,moodys_mi,Forecast,5887.825398167087
+6,Engineering & Design,2029,sam_mi,moodys_mi,Forecast,1045.1255428463217
+7,Core Automotive,2029,sam_mi,moodys_mi,Forecast,174355.5327341095
+8,"Motor Vehicle Parts, Materials, & Products Sales",2029,sam_mi,moodys_mi,Forecast,116682.59353363785
+9,"Dealers, Maintenance, & Repair",2029,sam_mi,moodys_mi,Forecast,71338.4572304965
+10,Logistics,2029,sam_mi,moodys_mi,Forecast,42541.41278405291
+1,Materials & Processing - Coatings & Surface Treatments,2030,sam_mi,moodys_mi,Forecast,4792.893833364786
+1,Materials & Processing - Metals,2030,sam_mi,moodys_mi,Forecast,2874.741950001304
+1,Materials & Processing - Non-Metals,2030,sam_mi,moodys_mi,Forecast,11984.840510016631
+2,Equipment Manufacturing,2030,sam_mi,moodys_mi,Forecast,6107.466445385027
+3,Forging & Foundries,2030,sam_mi,moodys_mi,Forecast,7469.677278379073
+4,Parts & Machining,2030,sam_mi,moodys_mi,Forecast,14209.035853494921
+5,Component Systems,2030,sam_mi,moodys_mi,Forecast,5868.690563094324
+6,Engineering & Design,2030,sam_mi,moodys_mi,Forecast,1047.841623193173
+7,Core Automotive,2030,sam_mi,moodys_mi,Forecast,174973.012
+8,"Motor Vehicle Parts, Materials, & Products Sales",2030,sam_mi,moodys_mi,Forecast,116956.14599999998
+9,"Dealers, Maintenance, & Repair",2030,sam_mi,moodys_mi,Forecast,71696.00399999999
+10,Logistics,2030,sam_mi,moodys_mi,Forecast,41723.847000000016
+1,Materials & Processing - Coatings & Surface Treatments,2031,sam_mi,moodys_mi,Forecast,4778.70144559134
+1,Materials & Processing - Metals,2031,sam_mi,moodys_mi,Forecast,2798.0523776578966
+1,Materials & Processing - Non-Metals,2031,sam_mi,moodys_mi,Forecast,11826.980217762108
+2,Equipment Manufacturing,2031,sam_mi,moodys_mi,Forecast,6086.05774004741
+3,Forging & Foundries,2031,sam_mi,moodys_mi,Forecast,7245.547820440965
+4,Parts & Machining,2031,sam_mi,moodys_mi,Forecast,14092.095279914083
+5,Component Systems,2031,sam_mi,moodys_mi,Forecast,5849.787298767731
+6,Engineering & Design,2031,sam_mi,moodys_mi,Forecast,1050.5903783741844
+7,Core Automotive,2031,sam_mi,moodys_mi,Forecast,175718.8942744198
+8,"Motor Vehicle Parts, Materials, & Products Sales",2031,sam_mi,moodys_mi,Forecast,117231.38395961437
+9,"Dealers, Maintenance, & Repair",2031,sam_mi,moodys_mi,Forecast,72056.91299599953
+10,Logistics,2031,sam_mi,moodys_mi,Forecast,40922.74561961448
+1,Materials & Processing - Coatings & Surface Treatments,2032,sam_mi,moodys_mi,Forecast,4764.583826276306
+1,Materials & Processing - Metals,2032,sam_mi,moodys_mi,Forecast,2723.4676101630066
+1,Materials & Processing - Non-Metals,2032,sam_mi,moodys_mi,Forecast,11671.5434891238
+2,Equipment Manufacturing,2032,sam_mi,moodys_mi,Forecast,6065.047624398941
+3,Forging & Foundries,2032,sam_mi,moodys_mi,Forecast,7030.264884083828
+4,Parts & Machining,2032,sam_mi,moodys_mi,Forecast,13976.346146681028
+5,Component Systems,2032,sam_mi,moodys_mi,Forecast,5831.114151292758
+6,Engineering & Design,2032,sam_mi,moodys_mi,Forecast,1053.3720948813664
+7,Core Automotive,2032,sam_mi,moodys_mi,Forecast,176596.70883770875
+8,"Motor Vehicle Parts, Materials, & Products Sales",2032,sam_mi,moodys_mi,Forecast,117508.31080097986
+9,"Dealers, Maintenance, & Repair",2032,sam_mi,moodys_mi,Forecast,72421.2179365262
+10,Logistics,2032,sam_mi,moodys_mi,Forecast,40137.75943807002
+1,Materials & Processing - Coatings & Surface Treatments,2033,sam_mi,moodys_mi,Forecast,4750.540571557068
+1,Materials & Processing - Metals,2033,sam_mi,moodys_mi,Forecast,2650.9285462502103
+1,Materials & Processing - Non-Metals,2033,sam_mi,moodys_mi,Forecast,11518.487403401423
+2,Equipment Manufacturing,2033,sam_mi,moodys_mi,Forecast,6044.430942033051
+3,Forging & Foundries,2033,sam_mi,moodys_mi,Forecast,6823.457920928562
+4,Parts & Machining,2033,sam_mi,moodys_mi,Forecast,13861.77548355161
+5,Component Systems,2033,sam_mi,moodys_mi,Forecast,5812.669678894077
+6,Engineering & Design,2033,sam_mi,moodys_mi,Forecast,1056.1870631473193
+7,Core Automotive,2033,sam_mi,moodys_mi,Forecast,177610.15812040877
+8,"Motor Vehicle Parts, Materials, & Products Sales",2033,sam_mi,moodys_mi,Forecast,117786.92998379572
+9,"Dealers, Maintenance, & Repair",2033,sam_mi,moodys_mi,Forecast,72788.9528792502
+10,Logistics,2033,sam_mi,moodys_mi,Forecast,39368.547051744215
+1,Materials & Processing - Coatings & Surface Treatments,2034,sam_mi,moodys_mi,Forecast,4736.571279754182
+1,Materials & Processing - Metals,2034,sam_mi,moodys_mi,Forecast,2580.3777738513645
+1,Materials & Processing - Non-Metals,2034,sam_mi,moodys_mi,Forecast,11367.769884722427
+2,Equipment Manufacturing,2034,sam_mi,moodys_mi,Forecast,6024.202606233938
+3,Forging & Foundries,2034,sam_mi,moodys_mi,Forecast,6624.772067167788
+4,Parts & Machining,2034,sam_mi,moodys_mi,Forecast,13748.37046473395
+5,Component Systems,2034,sam_mi,moodys_mi,Forecast,5794.452451826846
+6,Engineering & Design,2034,sam_mi,moodys_mi,Forecast,1059.0355776006932
+7,Core Automotive,2034,sam_mi,moodys_mi,Forecast,178763.1243077328
+8,"Motor Vehicle Parts, Materials, & Products Sales",2034,sam_mi,moodys_mi,Forecast,118067.24503886762
+9,"Dealers, Maintenance, & Repair",2034,sam_mi,moodys_mi,Forecast,73160.15222490279
+10,Logistics,2034,sam_mi,moodys_mi,Forecast,38614.774675555454
+1,Materials & Processing - Coatings & Surface Treatments,2024,sam_mi,moodys_us,QCEW,4879.641192022313
+1,Materials & Processing - Metals,2024,sam_mi,moodys_us,QCEW,3382.6158243114137
+1,Materials & Processing - Non-Metals,2024,sam_mi,moodys_us,QCEW,12985.411769331364
+2,Equipment Manufacturing,2024,sam_mi,moodys_us,QCEW,6244.586842570626
+3,Forging & Foundries,2024,sam_mi,moodys_us,QCEW,9023.139594640334
+4,Parts & Machining,2024,sam_mi,moodys_us,QCEW,14936.444494648236
+5,Component Systems,2024,sam_mi,moodys_us,QCEW,5987.024880706003
+6,Engineering & Design,2024,sam_mi,moodys_us,QCEW,1032.0255054257461
+7,Core Automotive,2024,sam_mi,moodys_us,QCEW,173082.0
+8,"Motor Vehicle Parts, Materials, & Products Sales",2024,sam_mi,moodys_us,QCEW,115340.0
+9,"Dealers, Maintenance, & Repair",2024,sam_mi,moodys_us,QCEW,69600.0
+10,Logistics,2024,sam_mi,moodys_us,QCEW,46889.0
+1,Materials & Processing - Coatings & Surface Treatments,2025,sam_mi,moodys_us,Forecast,4881.820269632981
+1,Materials & Processing - Metals,2025,sam_mi,moodys_us,Forecast,3315.3510565416955
+1,Materials & Processing - Non-Metals,2025,sam_mi,moodys_us,Forecast,12880.577387654277
+2,Equipment Manufacturing,2025,sam_mi,moodys_us,Forecast,6207.371559192663
+3,Forging & Foundries,2025,sam_mi,moodys_us,Forecast,8808.95571167201
+4,Parts & Machining,2025,sam_mi,moodys_us,Forecast,14815.200781269596
+5,Component Systems,2025,sam_mi,moodys_us,Forecast,5958.059478037001
+6,Engineering & Design,2025,sam_mi,moodys_us,Forecast,1040.8826536981423
+7,Core Automotive,2025,sam_mi,moodys_us,Forecast,174334.75877030357
+8,"Motor Vehicle Parts, Materials, & Products Sales",2025,sam_mi,moodys_us,Forecast,116078.83818083288
+9,"Dealers, Maintenance, & Repair",2025,sam_mi,moodys_us,Forecast,70079.70052907895
+10,Logistics,2025,sam_mi,moodys_us,Forecast,45885.14481540345
+1,Materials & Processing - Coatings & Surface Treatments,2026,sam_mi,moodys_us,Forecast,4884.083790731373
+1,Materials & Processing - Metals,2026,sam_mi,moodys_us,Forecast,3249.5061674718554
+1,Materials & Processing - Non-Metals,2026,sam_mi,moodys_us,Forecast,12776.987207303315
+2,Equipment Manufacturing,2026,sam_mi,moodys_us,Forecast,6170.844126627882
+3,Forging & Foundries,2026,sam_mi,moodys_us,Forecast,8601.384462472677
+4,Parts & Machining,2026,sam_mi,moodys_us,Forecast,14695.227359550783
+5,Component Systems,2026,sam_mi,moodys_us,Forecast,5929.238174528218
+6,Engineering & Design,2026,sam_mi,moodys_us,Forecast,1049.8605275990699
+7,Core Automotive,2026,sam_mi,moodys_us,Forecast,175703.03000020387
+8,"Motor Vehicle Parts, Materials, & Products Sales",2026,sam_mi,moodys_us,Forecast,116823.64568155808
+9,"Dealers, Maintenance, & Repair",2026,sam_mi,moodys_us,Forecast,70562.85182255511
+10,Logistics,2026,sam_mi,moodys_us,Forecast,44902.805691021174
+1,Materials & Processing - Coatings & Surface Treatments,2027,sam_mi,moodys_us,Forecast,4886.43192467371
+1,Materials & Processing - Metals,2027,sam_mi,moodys_us,Forecast,3185.049907052076
+1,Materials & Processing - Non-Metals,2027,sam_mi,moodys_us,Forecast,12674.623031607609
+2,Equipment Manufacturing,2027,sam_mi,moodys_us,Forecast,6134.992727856702
+3,Forging & Foundries,2027,sam_mi,moodys_us,Forecast,8400.213277216351
+4,Parts & Machining,2027,sam_mi,moodys_us,Forecast,14576.51062460418
+5,Component Systems,2027,sam_mi,moodys_us,Forecast,5900.560247925961
+6,Engineering & Design,2027,sam_mi,moodys_us,Forecast,1058.960789490053
+7,Core Automotive,2027,sam_mi,moodys_us,Forecast,177191.67380662198
+8,"Motor Vehicle Parts, Materials, & Products Sales",2027,sam_mi,moodys_us,Forecast,117574.46432381766
+9,"Dealers, Maintenance, & Repair",2027,sam_mi,moodys_us,Forecast,71049.47969814391
+10,Logistics,2027,sam_mi,moodys_us,Forecast,43941.520963788644
+1,Materials & Processing - Coatings & Surface Treatments,2028,sam_mi,moodys_us,Forecast,4888.864842485154
+1,Materials & Processing - Metals,2028,sam_mi,moodys_us,Forecast,3121.9517325316747
+1,Materials & Processing - Non-Metals,2028,sam_mi,moodys_us,Forecast,12573.466951729355
+2,Equipment Manufacturing,2028,sam_mi,moodys_us,Forecast,6099.805749427593
+3,Forging & Foundries,2028,sam_mi,moodys_us,Forecast,8205.236454958864
+4,Parts & Machining,2028,sam_mi,moodys_us,Forecast,14459.037119676788
+5,Component Systems,2028,sam_mi,moodys_us,Forecast,5872.0249796128555
+6,Engineering & Design,2028,sam_mi,moodys_us,Forecast,1068.1851253183509
+7,Core Automotive,2028,sam_mi,moodys_us,Forecast,178805.78261518333
+8,"Motor Vehicle Parts, Materials, & Products Sales",2028,sam_mi,moodys_us,Forecast,118331.33630704321
+9,"Dealers, Maintenance, & Repair",2028,sam_mi,moodys_us,Forecast,71539.61017327603
+10,Logistics,2028,sam_mi,moodys_us,Forecast,43000.838886657395
+1,Materials & Processing - Coatings & Surface Treatments,2029,sam_mi,moodys_us,Forecast,4891.382716865262
+1,Materials & Processing - Metals,2029,sam_mi,moodys_us,Forecast,3060.181792149142
+1,Materials & Processing - Non-Metals,2029,sam_mi,moodys_us,Forecast,12473.50134197864
+2,Equipment Manufacturing,2029,sam_mi,moodys_us,Forecast,6065.271777950659
+3,Forging & Foundries,2029,sam_mi,moodys_us,Forecast,8016.254941535304
+4,Parts & Machining,2029,sam_mi,moodys_us,Forecast,14342.793534522152
+5,Component Systems,2029,sam_mi,moodys_us,Forecast,5843.631654589461
+6,Engineering & Design,2029,sam_mi,moodys_us,Forecast,1077.5352449632958
+7,Core Automotive,2029,sam_mi,moodys_us,Forecast,180550.69199479662
+8,"Motor Vehicle Parts, Materials, & Products Sales",2029,sam_mi,moodys_us,Forecast,119094.30421127351
+9,"Dealers, Maintenance, & Repair",2029,sam_mi,moodys_us,Forecast,72033.26946668368
+10,Logistics,2029,sam_mi,moodys_us,Forecast,42080.31741539949
+1,Materials & Processing - Coatings & Surface Treatments,2030,sam_mi,moodys_us,Forecast,4893.985722193456
+1,Materials & Processing - Metals,2030,sam_mi,moodys_us,Forecast,2999.710909203078
+1,Materials & Processing - Non-Metals,2030,sam_mi,moodys_us,Forecast,12374.70885520554
+2,Equipment Manufacturing,2030,sam_mi,moodys_us,Forecast,6031.379596651594
+3,Forging & Foundries,2030,sam_mi,moodys_us,Forecast,7833.076114639625
+4,Parts & Machining,2030,sam_mi,moodys_us,Forecast,14227.766703790268
+5,Component Systems,2030,sam_mi,moodys_us,Forecast,5815.379561455988
+6,Engineering & Design,2030,sam_mi,moodys_us,Forecast,1087.012882587911
+7,Core Automotive,2030,sam_mi,moodys_us,Forecast,182431.99199999997
+8,"Motor Vehicle Parts, Materials, & Products Sales",2030,sam_mi,moodys_us,Forecast,119863.41100000002
+9,"Dealers, Maintenance, & Repair",2030,sam_mi,moodys_us,Forecast,72530.48400000003
+10,Logistics,2030,sam_mi,moodys_us,Forecast,41179.524000000005
+1,Materials & Processing - Coatings & Surface Treatments,2031,sam_mi,moodys_us,Forecast,4896.674034534546
+1,Materials & Processing - Metals,2031,sam_mi,moodys_us,Forecast,2940.5105664950547
+1,Materials & Processing - Non-Metals,2031,sam_mi,moodys_us,Forecast,12277.072418268197
+2,Equipment Manufacturing,2031,sam_mi,moodys_us,Forecast,5998.118181985011
+3,Forging & Foundries,2031,sam_mi,moodys_us,Forecast,7655.513575854187
+4,Parts & Machining,2031,sam_mi,moodys_us,Forecast,14113.943605435295
+5,Component Systems,2031,sam_mi,moodys_us,Forecast,5787.267992394107
+6,Engineering & Design,2031,sam_mi,moodys_us,Forecast,1096.619796995889
+7,Core Automotive,2031,sam_mi,moodys_us,Forecast,184455.53904484867
+8,"Motor Vehicle Parts, Materials, & Products Sales",2031,sam_mi,moodys_us,Forecast,120638.70002303913
+9,"Dealers, Maintenance, & Repair",2031,sam_mi,moodys_us,Forecast,73031.2803993714
+10,Logistics,2031,sam_mi,moodys_us,Forecast,40298.03538053881
+1,Materials & Processing - Coatings & Surface Treatments,2032,sam_mi,moodys_us,Forecast,4899.447831644278
+1,Materials & Processing - Metals,2032,sam_mi,moodys_us,Forecast,2882.5528911356487
+1,Materials & Processing - Non-Metals,2032,sam_mi,moodys_us,Forecast,12180.575227575624
+2,Equipment Manufacturing,2032,sam_mi,moodys_us,Forecast,5965.4767003061015
+3,Forging & Foundries,2032,sam_mi,moodys_us,Forecast,7483.386949404495
+4,Parts & Machining,2032,sam_mi,moodys_us,Forecast,14001.31135914088
+5,Component Systems,2032,sam_mi,moodys_us,Forecast,5759.296243148845
+6,Engineering & Design,2032,sam_mi,moodys_us,Forecast,1106.3577719940192
+7,Core Automotive,2032,sam_mi,moodys_us,Forecast,186627.46833323277
+8,"Motor Vehicle Parts, Materials, & Products Sales",2032,sam_mi,moodys_us,Forecast,121420.21501943233
+9,"Dealers, Maintenance, & Repair",2032,sam_mi,moodys_us,Forecast,73535.68549708264
+10,Logistics,2032,sam_mi,moodys_us,Forecast,39435.437387464764
+1,Materials & Processing - Coatings & Surface Treatments,2033,sam_mi,moodys_us,Forecast,4902.307292974932
+1,Materials & Processing - Metals,2033,sam_mi,moodys_us,Forecast,2825.8106397050715
+1,Materials & Processing - Non-Metals,2033,sam_mi,moodys_us,Forecast,12085.20074470396
+2,Equipment Manufacturing,2033,sam_mi,moodys_us,Forecast,5933.444504599625
+3,Forging & Foundries,2033,sam_mi,moodys_us,Forecast,7316.521687421622
+4,Parts & Machining,2033,sam_mi,moodys_us,Forecast,13889.857224762847
+5,Component Systems,2033,sam_mi,moodys_us,Forecast,5731.463613010583
+6,Engineering & Design,2033,sam_mi,moodys_us,Forecast,1116.2286167601496
+7,Core Automotive,2033,sam_mi,moodys_us,Forecast,188954.2068716788
+8,"Motor Vehicle Parts, Materials, & Products Sales",2033,sam_mi,moodys_us,Forecast,122208.00012037411
+9,"Dealers, Maintenance, & Repair",2033,sam_mi,moodys_us,Forecast,74043.72633319559
+10,Logistics,2033,sam_mi,moodys_us,Forecast,38591.324746167884
+1,Materials & Processing - Coatings & Surface Treatments,2034,sam_mi,moodys_us,Forecast,4905.252599680936
+1,Materials & Processing - Metals,2034,sam_mi,moodys_us,Forecast,2770.2571837600676
+1,Materials & Processing - Non-Metals,2034,sam_mi,moodys_us,Forecast,11990.932692085004
+2,Equipment Manufacturing,2034,sam_mi,moodys_us,Forecast,5902.011131265239
+3,Forging & Foundries,2034,sam_mi,moodys_us,Forecast,7154.748881501929
+4,Parts & Machining,2034,sam_mi,moodys_us,Forecast,13779.568600789125
+5,Component Systems,2034,sam_mi,moodys_us,Forecast,5703.769404797131
+6,Engineering & Design,2034,sam_mi,moodys_us,Forecast,1126.2341662167694
+7,Core Automotive,2034,sam_mi,moodys_us,Forecast,191442.4870919091
+8,"Motor Vehicle Parts, Materials, & Products Sales",2034,sam_mi,moodys_us,Forecast,123002.0998521677
+9,"Dealers, Maintenance, & Repair",2034,sam_mi,moodys_us,Forecast,74555.43015720093
+10,Logistics,2034,sam_mi,moodys_us,Forecast,37765.30088575686
