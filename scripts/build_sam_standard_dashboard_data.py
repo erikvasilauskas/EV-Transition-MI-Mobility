@@ -349,7 +349,7 @@ def build_occupation_outputs(
     mcda_df: pd.DataFrame,
     bls_df: pd.DataFrame,
 ) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
-    """Create occupation-level employment series using constant 2024 shares."""
+    """Create occupation-level employment series using BLS drift-adjusted shares."""
     seg_key = ["projection_method", "projection_label", "segment_id", "segment_name", "year"]
     seg_map = (
         segment_summary[seg_key + ["employment_auto"]]
@@ -370,34 +370,97 @@ def build_occupation_outputs(
         .to_dict()
     )
 
-    records: list[dict[str, object]] = []
+    shares = mcda_df.merge(bls_df, on=["segment_id", "occcd"], how="left")
+    shares["share_2024_bls"] = pd.to_numeric(shares["share_2024_bls"], errors="coerce")
+    shares["share_2034_bls"] = pd.to_numeric(shares["share_2034_bls"], errors="coerce")
+    shares["share_2024_bls"] = shares["share_2024_bls"].fillna(shares["share_2024"])
+    shares["share_2034_bls"] = shares["share_2034_bls"].fillna(shares["share_2024_bls"])
 
+    years_span = max(YEARS[-1] - YEARS[0], 1)
+    shares["growth_factor"] = 1.0
+    valid_mask = shares["share_2024_bls"] > 0
+    shares.loc[valid_mask, "growth_factor"] = (
+        shares.loc[valid_mask, "share_2034_bls"] / shares.loc[valid_mask, "share_2024_bls"]
+    ) ** (1.0 / years_span)
+    shares["growth_factor"] = shares["growth_factor"].replace([np.inf, -np.inf], 1.0).fillna(1.0)
+
+    share_frames: list[pd.DataFrame] = []
+    for year in YEARS:
+        power = min(max(year - YEARS[0], 0), years_span)
+        temp = shares.copy()
+        temp["share_unscaled"] = temp["share_2024"] * np.power(temp["growth_factor"], power)
+        totals = temp.groupby("segment_id")["share_unscaled"].transform("sum")
+        temp["share"] = np.where(totals > 0, temp["share_unscaled"] / totals, 0.0)
+        temp["share"] = temp["share"].replace([np.inf, -np.inf], np.nan).fillna(temp["share_2024"])
+        temp["year"] = year
+        temp["share_2034"] = temp["share_2034_bls"]
+        share_frames.append(
+            temp[
+                [
+                    "segment_id",
+                    "segment_name",
+                    "occcd",
+                    "soctitle",
+                    "year",
+                    "share",
+                    "share_2024",
+                    "share_2034",
+                    "ep_entry_education",
+                    "ep_work_experience",
+                    "ep_on_the_job_training",
+                    "ep_edu_grouped",
+                    "ep_openings_annual_avg",
+                    "empl_2021",
+                ]
+            ]
+        )
+
+    if not share_frames:
+        return pd.DataFrame(), pd.DataFrame(), pd.DataFrame()
+
+    shares_long = pd.concat(share_frames, ignore_index=True)
+    share_lookup = (
+        shares_long.set_index(["segment_id", "occcd", "year"])["share"].to_dict()
+    )
+    share2034_lookup = (
+        shares_long[shares_long["year"] == YEARS[-1]]
+        .set_index(["segment_id", "occcd"])["share_2034"]
+        .to_dict()
+    )
+
+    records: list[dict[str, object]] = []
     for method in PROJECTION_METHODS:
         base_totals = segment_summary[
             (segment_summary["projection_method"] == method.slug) & (segment_summary["year"] == YEARS[0])
         ]
         base_lookup = base_totals.set_index("segment_id")["employment_auto"].to_dict()
 
-        for _, occ in mcda_df.iterrows():
+        base_occ = shares_long[shares_long["year"] == YEARS[0]].copy()
+
+        for _, occ in base_occ.iterrows():
             seg_id = int(occ["segment_id"])
             if seg_id not in base_lookup:
                 continue
-            share = float(occ["share_2024"])
-            if share <= 0:
+
+            share_base = float(occ["share"])
+            if share_base <= 0:
                 continue
 
             base_segment_emp = base_lookup.get(seg_id, 0.0)
-            base_occ_emp = share * base_segment_emp
+            base_occ_emp = share_base * base_segment_emp
             openings_base = float(occ["ep_openings_annual_avg"]) if base_occ_emp > 0 else 0.0
 
             for year in YEARS:
                 seg_emp = seg_map.get((method.slug, seg_id, year))
                 if seg_emp is None or np.isnan(seg_emp):
                     continue
+
+                share = share_lookup.get((seg_id, occ["occcd"], year), share_base)
                 employment = share * seg_emp
                 openings = 0.0
-                if base_occ_emp > 0:
-                    openings = openings_base * (employment / base_occ_emp) if openings_base > 0 else 0.0
+                if base_occ_emp > 0 and openings_base > 0:
+                    openings = openings_base * (employment / base_occ_emp)
+
                 records.append(
                     {
                         "segment_id": seg_id,
@@ -410,8 +473,8 @@ def build_occupation_outputs(
                         "soctitle": occ["soctitle"],
                         "employment": employment,
                         "share": share,
-                        "share_2024": share,
-                        "share_2034": share,
+                        "share_2024": share_base,
+                        "share_2034": share2034_lookup.get((seg_id, occ["occcd"]), share_base),
                         "ep_entry_education": occ["ep_entry_education"],
                         "ep_work_experience": occ["ep_work_experience"],
                         "ep_on_the_job_training": occ["ep_on_the_job_training"],
@@ -426,7 +489,6 @@ def build_occupation_outputs(
     if occ_df.empty:
         return occ_df, occ_df.copy(), occ_df.copy()
 
-    # Aggregate segment 0 (all segments)
     group_cols = [
         "methodology",
         "projection_method",
@@ -459,7 +521,6 @@ def build_occupation_outputs(
     agg["segment_id"] = 0
     agg["segment_name"] = "0. All Segments"
 
-    # Harmonize share_2024/2034 for missing years
     agg["share_2024"] = agg.groupby(
         ["methodology", "projection_method", "occcd"]
     )["share_2024"].transform("max")
@@ -485,7 +546,6 @@ def build_occupation_outputs(
     validation["difference"] = validation["employment"] - validation["employment_auto"]
     return combined, occ_2030, validation
 
-
 def main() -> None:
     repo_root = Path(__file__).resolve().parents[1]
     output_dir = repo_root / "data" / "processed" / "sam_auto_dashboard"
@@ -500,7 +560,9 @@ def main() -> None:
 
     mcda_path = repo_root / "data" / "processed" / "mcda_staffing_detailed_2021_2024.csv"
     mcda_shares = load_mcda_shares(mcda_path)
-    occ_df, occ_2030, occ_validation = build_occupation_outputs(segment_summary, mcda_shares)
+    bls_path = repo_root / BLS_SEGMENT_SUMMARY
+    bls_shares = load_bls_shares(bls_path)
+    occ_df, occ_2030, occ_validation = build_occupation_outputs(segment_summary, mcda_shares, bls_shares)
 
     occ_full_path = output_dir / "sam_occ_segment_totals_2024_2034.csv"
     occ_df.to_csv(occ_full_path, index=False)
@@ -520,3 +582,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+

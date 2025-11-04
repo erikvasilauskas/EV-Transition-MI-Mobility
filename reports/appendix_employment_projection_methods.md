@@ -19,6 +19,9 @@ The SAM-based employment pipeline combines three main inputs:
    `data/intermediate/employment_projection_comparison.csv`.
 3. **Segment-to-occupation staffing shares** drawn from MCDA/Lightcast
    files in `data/processed/mcda_staffing_detailed_2021_2024.csv`.
+4. **BLS occupational drift factors** derived from Employment Projections
+   Table 1.9 detail files, aggregated to segments in
+   `data/processed/us_staffing_segments_summary.csv`.
 
 The script `scripts/build_sam_standard_dashboard_data.py` orchestrates
 the full process. It applies SAM-derived shares to baseline employment,
@@ -85,13 +88,15 @@ These tables represent the input panels for segment/stage visualizations.
 The script loads detailed staffing shares from
 `data/processed/mcda_staffing_detailed_2021_2024.csv` and retains the
 2024 proportional distribution of occupations within each segment.
-Those shares remain constant through 2034 (i.e., the pipeline does not
-incorporate U.S. BLS drift in this SAM-standard version).
-
-For each projection scenario, segment employment totals are multiplied
-by the relevant share to obtain occupation-level employment estimates.
-Baseline openings from the MCDA data are scaled in proportion to
-employment changes so that occupation-level openings track the
+The BLS staffing table provides 2024 and 2034 shares for each occupation
+within every mobility segment. For each occupation-segment pair the
+script computes an annualised drift factor, applies it to the Michigan
+baseline share, and normalises the resulting shares so they continue to
+sum to one within each segment-year. Segment employment totals from each
+projection scenario are then multiplied by the drift-adjusted shares to
+obtain occupation-level employment estimates. Baseline openings from the
+MCDA data are scaled in proportion to employment changes so that
+occupation-level openings track the
 projected job counts.
 
 Outputs:
