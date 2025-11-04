@@ -24,6 +24,7 @@ YEARS = list(range(2024, 2035))
 TARGET_STAGE = {"upstream"}
 OEM_NAICS = {"5413", "5414", "5417"}
 ADJUSTMENT_SOURCE = "sam_mi"
+BLS_SEGMENT_SUMMARY = Path("data/processed/us_staffing_segments_summary.csv")
 
 
 @dataclass(frozen=True)
@@ -195,8 +196,8 @@ def aggregate_stages(naics_ts: pd.DataFrame) -> pd.DataFrame:
         agg["employment_auto"] / agg["employment_raw"],
         np.nan,
     )
-    # Add combined upstream+core view
-    uc_mask = naics_ts["stage"].str.lower().isin({"upstream", "core"})
+    # Add combined upstream+core view (core captured by OEM stage)
+    uc_mask = naics_ts["stage"].str.lower().isin({"upstream", "oem"})
     uc = (
         naics_ts.loc[uc_mask]
         .groupby(["projection_method", "projection_label", "year", "value_type"], as_index=False)
@@ -332,9 +333,21 @@ def load_mcda_shares(path: Path) -> pd.DataFrame:
     ]
 
 
+def load_bls_shares(path: Path) -> pd.DataFrame:
+    df = pd.read_csv(path)
+    df["segment_id"] = pd.to_numeric(df["segment_id"], errors="coerce").astype("Int64")
+    df = df.dropna(subset=["segment_id"])
+    df["segment_id"] = df["segment_id"].astype(int)
+    df["occcd"] = df["Occupation Code"].astype(str).str.strip()
+    df["share_2024_bls"] = pd.to_numeric(df["segment_share_2024"], errors="coerce")
+    df["share_2034_bls"] = pd.to_numeric(df["segment_share_2034"], errors="coerce")
+    return df[["segment_id", "occcd", "share_2024_bls", "share_2034_bls"]]
+
+
 def build_occupation_outputs(
     segment_summary: pd.DataFrame,
     mcda_df: pd.DataFrame,
+    bls_df: pd.DataFrame,
 ) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """Create occupation-level employment series using constant 2024 shares."""
     seg_key = ["projection_method", "projection_label", "segment_id", "segment_name", "year"]
