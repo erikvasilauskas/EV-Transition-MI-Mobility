@@ -94,16 +94,16 @@ script computes an annualised drift factor, applies it to the Michigan
 baseline share, and normalises the resulting shares so they continue to
 sum to one within each segment-year. Segment employment totals from each
 projection scenario are then multiplied by the drift-adjusted shares to
-obtain occupation-level employment estimates. Baseline openings from the
-MCDA data are scaled in proportion to employment changes so that
-occupation-level openings track the
-projected job counts.
+obtain both `employment_auto` (SAM-adjusted) and `employment_raw`
+estimates. Baseline openings from the MCDA data are scaled in proportion
+to `employment_auto` so that occupation-level openings track the
+auto-attributed job counts.
 
 Outputs:
 
 | File | Description |
 | --- | --- |
-| `sam_occ_segment_totals_2024_2034.csv` | Complete SOC-level panel by segment, method, and year. |
+| `sam_occ_segment_totals_2024_2034.csv` | Complete SOC-level panel by segment, method, and year (includes `employment_auto`, `employment_raw`, and legacy `employment` = auto). |
 | `sam_occ_segment_totals_2030.csv` | Snapshot for 2030 only (useful for quick reporting). |
 | `sam_occ_segment_totals_validation.csv` | Check that segment-level sums match `sam_employment_segment_timeseries.csv`. |
 

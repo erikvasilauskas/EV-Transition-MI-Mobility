@@ -357,6 +357,12 @@ def build_occupation_outputs(
         ["employment_auto"]
         .to_dict()
     )
+    raw_map = (
+        segment_summary[seg_key + ["employment_raw"]]
+        .set_index(["projection_method", "segment_id", "year"])
+        ["employment_raw"]
+        .to_dict()
+    )
     total_map = (
         segment_summary.groupby(["projection_method", "year"])["employment_auto"]
         .sum()
@@ -433,33 +439,38 @@ def build_occupation_outputs(
         base_totals = segment_summary[
             (segment_summary["projection_method"] == method.slug) & (segment_summary["year"] == YEARS[0])
         ]
-        base_lookup = base_totals.set_index("segment_id")["employment_auto"].to_dict()
+        base_auto_lookup = base_totals.set_index("segment_id")["employment_auto"].to_dict()
+        base_raw_lookup = base_totals.set_index("segment_id")["employment_raw"].to_dict()
 
         base_occ = shares_long[shares_long["year"] == YEARS[0]].copy()
 
         for _, occ in base_occ.iterrows():
             seg_id = int(occ["segment_id"])
-            if seg_id not in base_lookup:
+            if seg_id not in base_auto_lookup:
                 continue
 
             share_base = float(occ["share"])
             if share_base <= 0:
                 continue
 
-            base_segment_emp = base_lookup.get(seg_id, 0.0)
-            base_occ_emp = share_base * base_segment_emp
+            base_segment_emp_auto = base_auto_lookup.get(seg_id, 0.0)
+            base_occ_emp = share_base * base_segment_emp_auto
             openings_base = float(occ["ep_openings_annual_avg"]) if base_occ_emp > 0 else 0.0
 
             for year in YEARS:
-                seg_emp = seg_map.get((method.slug, seg_id, year))
-                if seg_emp is None or np.isnan(seg_emp):
+                key = (method.slug, seg_id, year)
+                seg_emp_auto = seg_map.get(key)
+                if seg_emp_auto is None or np.isnan(seg_emp_auto):
                     continue
+                seg_emp_raw = raw_map.get(key, 0.0)
 
                 share = share_lookup.get((seg_id, occ["occcd"], year), share_base)
-                employment = share * seg_emp
+                employment_auto = share * seg_emp_auto
+                employment_raw = share * seg_emp_raw
+                employment = employment_auto  # retain legacy column for compatibility
                 openings = 0.0
                 if base_occ_emp > 0 and openings_base > 0:
-                    openings = openings_base * (employment / base_occ_emp)
+                    openings = openings_base * (employment_auto / base_occ_emp)
 
                 records.append(
                     {
@@ -472,6 +483,8 @@ def build_occupation_outputs(
                         "occcd": occ["occcd"],
                         "soctitle": occ["soctitle"],
                         "employment": employment,
+                        "employment_auto": employment_auto,
+                        "employment_raw": employment_raw,
                         "share": share,
                         "share_2024": share_base,
                         "share_2034": share2034_lookup.get((seg_id, occ["occcd"]), share_base),
@@ -499,13 +512,18 @@ def build_occupation_outputs(
         "ep_work_experience",
         "ep_on_the_job_training",
         "ep_edu_grouped",
-        "empl_2021",
-        "ep_openings_annual_avg",
         "year",
     ]
     agg = (
-        occ_df.groupby(group_cols, as_index=False, dropna=False)[["employment", "openings"]]
-        .sum()
+        occ_df.groupby(group_cols, as_index=False, dropna=False)
+        .agg(
+            employment=("employment", "sum"),
+            employment_auto=("employment_auto", "sum"),
+            employment_raw=("employment_raw", "sum"),
+            openings=("openings", "sum"),
+            ep_openings_annual_avg=("ep_openings_annual_avg", "sum"),
+            empl_2021=("empl_2021", "sum"),
+        )
     )
 
     def _total_share(row: pd.Series) -> float:
