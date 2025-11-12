@@ -149,3 +149,23 @@ outputs translate segment-level swings into potential workforce impacts.
 These files feed the new dashboard revision, enabling consistent
 comparisons across projection sources while anchoring the analysis in
 the Michigan SAM as the chosen standard for industry attribution.
+
+## NAICS → Segment → Occupation Narrative
+
+1. **NAICS-level growth**
+   - Baseline: 2024 Michigan QCEW jobs for each NAICS code.
+   - Adjustment: multiply by the SAM `auto_share_of_output` (restricted to upstream NAICS plus 5413/5414/5417) to obtain `employment_auto` while keeping the unadjusted `employment_raw`.
+   - Projection: apply the four sets of six-year growth rates (Moody's MI, Moody's US, DTMB MI, BLS US) that have been annualized to build 2024–2034 time series in `sam_employment_naics_timeseries.csv`. The SAM share is held constant across scenarios; only the growth trajectory differs.
+
+2. **Segment rollups**
+   - Each NAICS row carries a segment and stage assignment from `sam_auto_naics4_mobility38.csv`.
+   - For every projection scenario and year we sum NAICS records to segments (`sam_employment_segment_timeseries.csv`) and stages (`sam_employment_stage_timeseries.csv`) while preserving both `employment_raw` and `employment_auto`.
+   - These tables therefore show how industry-specific growth accumulates into the ten mobility segments (plus the Upstream+Core composite) under each forecast source.
+
+3. **Occupation detail inside each segment**
+   - MCDA staffing patterns supply the 2024 Michigan share for each SOC within a segment.
+   - BLS Employment Projections (2024 base, 2034 target) provide a national staffing share for the same SOC/segment pair. We convert the 2024→2034 change into an annualized drift factor.
+   - For every projection scenario and year we (a) evolve the MCDA share using the drift factor, (b) re-normalize shares so they sum to 1.0 within the segment, and (c) multiply by the segment's `employment_auto` (and `employment_raw`) to obtain occupation counts.
+   - This produces `sam_occ_segment_totals_2024_2034.csv`, where `employment_auto` reflects both the SAM attribution and the BLS-informed compositional drift, while `employment_raw` shows the un-attributed counterpart. Occupational openings are scaled from the MCDA baseline in proportion to the updated `employment_auto`.
+
+In short, NAICS growth rates drive segment totals; SAM shares determine how much of each industry is considered automotive; and BLS drift plus MCDA staffing patterns control how those segment totals distribute to occupations year by year.

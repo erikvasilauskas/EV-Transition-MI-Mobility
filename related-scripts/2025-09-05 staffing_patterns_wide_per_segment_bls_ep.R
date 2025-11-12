@@ -13,7 +13,7 @@ library(tibble)
 setwd("C:/Users/vasilauskas/W.E. Upjohn Institute/Electric Vehicles - Documents/_EV Workforce Hub/MCDA, CAR Data Inputs, 10 Category Supply Chain Framework")
 
 
-xlsx_path <- "Staffing Patterns for 10 Categories.xlsx"
+xlsx_path <- "mcda-staffing-data-update-11-5-25.xlsx"
 out_path  <- "Staffing_Patterns_Wide_By_Segment_with_EP.xlsx"
 ep<-read.csv("Employment Projections.csv")
 

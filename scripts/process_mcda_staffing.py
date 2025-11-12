@@ -6,8 +6,18 @@ from typing import Dict, Iterable, List
 import numpy as np
 import pandas as pd
 
-RAW_STAFFING = Path('data/raw/Staffing Patterns for 10 Categories.xlsx')
+RAW_STAFFING = Path('data/raw/mcda-staffing-data-update-11-5-25.xlsx')
 RAW_EP = Path('data/raw/occupation_2024_ep.xlsx')
+
+# The refreshed workbook includes both "OLD" and "NEW" variants for the
+# materials & processing segment.  Skip the legacy sheet and rename the
+# new one so the downstream segment labels stay consistent.
+SHEET_EXCLUDES = {
+    '1. Materials & Processing OLD',
+}
+SHEET_RENAMES = {
+    '1. Materials & Processing NEW': '1. Materials & Processing',
+}
 
 INTERIM_WIDE_PATH = Path('data/interim/mcda_staffing_wide_2021_2024.csv')
 INTERIM_LONG_PATH = Path('data/interim/mcda_staffing_long_2021_2024.csv')
@@ -47,6 +57,8 @@ def load_staffing() -> pd.DataFrame:
     xls = pd.ExcelFile(RAW_STAFFING)
     frames: List[pd.DataFrame] = []
     for sheet in xls.sheet_names:
+        if sheet in SHEET_EXCLUDES:
+            continue
         df = pd.read_excel(xls, sheet_name=sheet)
         if df.empty:
             continue
@@ -59,7 +71,7 @@ def load_staffing() -> pd.DataFrame:
             if col not in df.columns:
                 df[col] = np.nan
         df = df[subset_cols]
-        df['segment'] = sheet
+        df['segment'] = SHEET_RENAMES.get(sheet, sheet)
         frames.append(df)
     if not frames:
         raise RuntimeError('No staffing sheets loaded')

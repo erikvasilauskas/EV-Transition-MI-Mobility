@@ -5,6 +5,7 @@ from fpdf import FPDF
 FILES = [
     ("docs/occupation_forecast_methodology.md", "reports/occupation_forecast_methodology.pdf"),
     ("docs/sam_auto_methods.md", "reports/sam_auto_methods.pdf"),
+    ("reports/appendix_employment_projection_methods.md", "reports/appendix_employment_projection_methods.pdf"),
 ]
 
 

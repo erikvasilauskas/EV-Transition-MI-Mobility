@@ -51,7 +51,7 @@ def projection_display(slug: str) -> str:
 
 
 def methodology_display(methodology: str) -> str:
-    return f"SAM MI • {projection_display(projection_slug(methodology))}"
+    return f"SAM MI — {projection_display(projection_slug(methodology))}"
 
 
 @st.cache_data(show_spinner=False)
@@ -130,7 +130,7 @@ def render_method_card(
         <div style="background-color:#F5F9FA;padding:20px;border-radius:12px;border-left:5px solid {TEAL};">
             <div style="font-size:1rem;color:#2D3748;margin-bottom:8px;text-transform:uppercase;letter-spacing:0.05em;">{method_label}</div>
             <div style="font-size:2.6rem;font-weight:600;color:#1A202C;line-height:1.1;">{format_number(latest)}<span style="font-size:1.2rem;font-weight:400;color:#718096;"> ({latest_year})</span></div>
-            <div style="font-size:1.2rem;font-weight:600;color:{TEAL};margin-top:10px;">ï¿½ {format_number(delta)}{pct_text}</div>
+            <div style="font-size:1.2rem;font-weight:600;color:{TEAL};margin-top:10px;">&Delta; {format_number(delta)}{pct_text}</div>
             <div style="font-size:0.95rem;color:#4A5568;margin-top:6px;">Baseline {base_year}: {format_number(base)}</div>
         </div>
         """,
@@ -191,12 +191,21 @@ def layout_overview(df: pd.DataFrame, selected_methods: List[str]) -> None:
     st.subheader("Overview")
     base_year, latest_year = df["year"].min(), df["year"].max()
 
-    cards = df[df["methodology"].isin(selected_methods)]
+    metric_choice = st.radio(
+        "Employment measure",
+        options=["SAM-adjusted (auto-attributed)", "Raw (total)"],
+        index=0,
+        horizontal=True,
+    )
+    value_col = "employment_auto" if metric_choice.startswith("SAM") else "employment_raw"
+    metric_label = "SAM-adjusted" if value_col == "employment_auto" else "Raw"
+
+    cards = df[(df["segment_id"] != 0) & df["methodology"].isin(selected_methods)]
     pivot = (
         cards.pivot_table(
             index=["methodology", "method_label"],
             columns="year",
-            values="employment",
+            values=value_col,
             aggfunc="sum",
         )
         .reindex(columns=[base_year, latest_year])
@@ -221,22 +230,24 @@ def layout_overview(df: pd.DataFrame, selected_methods: List[str]) -> None:
             latest_year,
         )
 
-    st.markdown("### Employment totals by methodology")
+    st.markdown(f"### {metric_label} employment totals by methodology")
+    base_col = f"{metric_label} {base_year}"
+    latest_col = f"{metric_label} {latest_year}"
     summary = (
         pivot[["method_label", base_year, latest_year, "abs_change", "pct_change"]]
         .rename(
             columns={
-                base_year: f"Employment {base_year}",
-                latest_year: f"Employment {latest_year}",
+                base_year: base_col,
+                latest_year: latest_col,
                 "abs_change": "Change",
                 "pct_change": "% Change",
             }
         )
-        .sort_values(f"Employment {latest_year}", ascending=False)
+        .sort_values(latest_col, ascending=False)
     )
     summary["Change"] = summary["Change"].apply(format_number)
-    summary[f"Employment {base_year}"] = summary[f"Employment {base_year}"].apply(format_number)
-    summary[f"Employment {latest_year}"] = summary[f"Employment {latest_year}"].apply(format_number)
+    summary[base_col] = summary[base_col].apply(format_number)
+    summary[latest_col] = summary[latest_col].apply(format_number)
     summary["% Change"] = summary["% Change"].apply(lambda v: f"{v:.1f}%" if not np.isnan(v) else "-")
     st.dataframe(summary.set_index("method_label"), use_container_width=True)
 
@@ -534,7 +545,7 @@ def layout_data_access(
 # --- Streamlit App ---
 st.set_page_config(page_title="SAM-Based Automotive Employment Dashboard", layout="wide")
 
-st.title("Michigan Automotive Employment ï¿½?ï¿½ SAM Standard")
+st.title("Michigan Automotive Employment — SAM Standard")
 st.caption(
     "Interactive exploration of SAM-adjusted employment projections (2024-2034) and occupation implications across projection scenarios."
 )

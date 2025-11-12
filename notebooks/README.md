@@ -39,7 +39,7 @@ Notebooks are prefixed with ordinal numbers to indicate suggested execution orde
 - Critical occupation identification
 
 **Data Sources**:
-- `data/raw/Staffing Patterns for 10 Categories.xlsx`
+- `data/raw/mcda-staffing-data-update-11-5-25.xlsx` (updated MCDA staffing workbook)
 - `data/interim/mcda_staffing_*.csv`
 - US staffing patterns from BLS
 

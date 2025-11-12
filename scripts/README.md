@@ -43,7 +43,7 @@ This directory contains **executable Python scripts** for data processing, forec
 **Purpose**: Cleans and normalizes MCDA occupational staffing patterns for 10 segments.
 
 **Inputs**:
-- `data/raw/Staffing Patterns for 10 Categories.xlsx`
+- `data/raw/mcda-staffing-data-update-11-5-25.xlsx`
 
 **Outputs**:
 - `data/interim/mcda_staffing_wide_2021_2024.csv`

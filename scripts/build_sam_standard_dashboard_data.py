@@ -25,6 +25,23 @@ TARGET_STAGE = {"upstream"}
 OEM_NAICS = {"5413", "5414", "5417"}
 ADJUSTMENT_SOURCE = "sam_mi"
 BLS_SEGMENT_SUMMARY = Path("data/processed/us_staffing_segments_summary.csv")
+UPSTREAM_CORE_STAGES = {"upstream", "oem"}
+UPSTREAM_CORE_SEGMENT_ID = 11
+UPSTREAM_CORE_SEGMENT_NAME = "Upstream + Core/OEM"
+UPSTREAM_CORE_STAGE_LABEL = "Upstream + Core/OEM"
+SEGMENT_LABELS = {
+    1: "1. Materials & Processing",
+    2: "2. Equipment Manufacturing",
+    3: "3. Forging & Foundries",
+    4: "4. Parts & Machining",
+    5: "5. Component Systems",
+    6: "6. Engineering & Design",
+    7: "7. Core Automotive",
+    8: "8. Motor Vehicle Parts, Materials, & Products Sales",
+    9: "9. Dealers, Maintenance, & Repair",
+    10: "10. Logistics",
+    UPSTREAM_CORE_SEGMENT_ID: UPSTREAM_CORE_SEGMENT_NAME,
+}
 
 
 @dataclass(frozen=True)
@@ -76,9 +93,13 @@ def load_base_dataframe(repo_root: Path) -> pd.DataFrame:
     )
     df.drop(columns=["employment_qcew_2024_proj"], inplace=True, errors="ignore")
 
+    df["segment_name"] = df["segment_name"].astype(str).str.strip()
+    df["segment_subgroup"] = df["segment_name"]
+    df["segment_id"] = pd.to_numeric(df["segment_id"], errors="coerce").astype("Int64")
+    df["segment_name"] = df["segment_id"].map(SEGMENT_LABELS).fillna(df["segment_name"])
+
     df["stage"] = df["stage"].astype(str).str.strip()
     df["stage_lower"] = df["stage"].str.lower()
-    df["segment_name"] = df["segment_name"].astype(str).str.strip()
     df["naics_title"] = df["naics_title"].astype(str).str.strip()
 
     target_mask = (df["stage_lower"].isin(TARGET_STAGE)) | (df["naics_code"].isin(OEM_NAICS))
@@ -89,6 +110,83 @@ def load_base_dataframe(repo_root: Path) -> pd.DataFrame:
     df["auto_base_employment"] = df["base_employment"] * df["share_applied"]
 
     return df
+
+
+def load_historical_qcew(repo_root: Path, base_df: pd.DataFrame) -> pd.DataFrame:
+    """Load historical QCEW (2001-2023) employment for the tracked NAICS codes."""
+    hist_path = repo_root / "data" / "raw" / "MI-QCEW-38-NAICS-2001-2024.xlsx"
+    if not hist_path.exists():
+        return pd.DataFrame()
+
+    raw = pd.read_excel(hist_path, sheet_name="BLS Data Series", skiprows=2)
+    if raw.empty:
+        return pd.DataFrame()
+
+    header = raw.iloc[0].tolist()
+    raw = raw.iloc[1:].copy()
+    raw.columns = header
+    raw = raw.rename(columns={"Series ID": "series_id"})
+
+    value_cols = [c for c in raw.columns if isinstance(c, str) and c.startswith("Annual")]
+    if not value_cols:
+        return pd.DataFrame()
+
+    hist = raw.melt(
+        id_vars="series_id",
+        value_vars=value_cols,
+        var_name="year_label",
+        value_name="employment_raw",
+    )
+    hist["year"] = (
+        hist["year_label"]
+        .astype(str)
+        .str.extract(r"(\d{4})")
+        .astype(float)
+    )
+    hist["employment_raw"] = pd.to_numeric(hist["employment_raw"], errors="coerce")
+    hist = hist.dropna(subset=["year", "employment_raw"])
+    hist["year"] = hist["year"].astype(int)
+    hist = hist[hist["year"] < YEARS[0]]
+    if hist.empty:
+        return hist
+
+    hist["naics_code"] = hist["series_id"].astype(str).str[-4:]
+    meta_cols = [
+        "naics_code",
+        "naics_title",
+        "segment_id",
+        "segment_name",
+        "segment_subgroup",
+        "stage",
+        "share_applied",
+    ]
+    meta = base_df[meta_cols].drop_duplicates("naics_code")
+    hist = hist.merge(meta, on="naics_code", how="inner")
+    if hist.empty:
+        return hist
+
+    hist["value_type"] = "QCEW"
+    hist["share_applied"] = hist["share_applied"].fillna(1.0)
+    hist["employment_auto"] = hist["employment_raw"] * hist["share_applied"]
+    hist["projection_rate_total"] = np.nan
+    hist["projection_cagr"] = np.nan
+    hist.drop(columns=["year_label"], inplace=True)
+    return hist
+
+
+def build_historical_naics_timeseries(repo_root: Path, base_df: pd.DataFrame) -> pd.DataFrame:
+    """Attach historical NAICS employment (2001-2023) to each projection method."""
+    hist = load_historical_qcew(repo_root, base_df)
+    if hist.empty:
+        return hist
+
+    frames: list[pd.DataFrame] = []
+    for method in PROJECTION_METHODS:
+        temp = hist.copy()
+        temp["projection_method"] = method.slug
+        temp["projection_label"] = method.label
+        frames.append(temp)
+    return pd.concat(frames, ignore_index=True)
 
 
 def _compute_multiplier(total_rate: np.ndarray, years_ahead: int) -> np.ndarray:
@@ -159,7 +257,6 @@ def aggregate_segments(naics_ts: pd.DataFrame) -> pd.DataFrame:
         "year",
         "value_type",
         "segment_id",
-        "segment_name",
     ]
     agg = (
         naics_ts.groupby(group_cols, as_index=False)
@@ -168,6 +265,7 @@ def aggregate_segments(naics_ts: pd.DataFrame) -> pd.DataFrame:
             employment_raw=("employment_raw", "sum"),
         )
     )
+    agg["segment_name"] = agg["segment_id"].map(SEGMENT_LABELS)
     agg["auto_share_ratio"] = np.where(
         agg["employment_raw"] > 0,
         agg["employment_auto"] / agg["employment_raw"],
@@ -206,13 +304,50 @@ def aggregate_stages(naics_ts: pd.DataFrame) -> pd.DataFrame:
             employment_raw=("employment_raw", "sum"),
         )
     )
-    uc["stage"] = "Upstream+Core"
+    uc["stage"] = UPSTREAM_CORE_STAGE_LABEL
     uc["auto_share_ratio"] = np.where(
         uc["employment_raw"] > 0,
         uc["employment_auto"] / uc["employment_raw"],
         np.nan,
     )
     return pd.concat([agg, uc], ignore_index=True)
+
+
+def build_upstream_core_segment(naics_ts: pd.DataFrame) -> pd.DataFrame:
+    """Create aggregate segment representing Upstream + Core/OEM."""
+    if naics_ts.empty:
+        return pd.DataFrame()
+    stage_mask = naics_ts["stage"].astype(str).str.lower().isin(UPSTREAM_CORE_STAGES)
+    uc = (
+        naics_ts.loc[stage_mask]
+        .groupby(["projection_method", "projection_label", "year", "value_type"], as_index=False)
+        .agg(
+            employment_auto=("employment_auto", "sum"),
+            employment_raw=("employment_raw", "sum"),
+        )
+    )
+    if uc.empty:
+        return uc
+    uc["segment_id"] = UPSTREAM_CORE_SEGMENT_ID
+    uc["segment_name"] = UPSTREAM_CORE_SEGMENT_NAME
+    uc["auto_share_ratio"] = np.where(
+        uc["employment_raw"] > 0,
+        uc["employment_auto"] / uc["employment_raw"],
+        np.nan,
+    )
+    return uc[
+        [
+            "projection_method",
+            "projection_label",
+            "year",
+            "value_type",
+            "segment_id",
+            "segment_name",
+            "employment_auto",
+            "employment_raw",
+            "auto_share_ratio",
+        ]
+    ]
 
 
 def write_outputs(
@@ -232,6 +367,7 @@ def write_outputs(
         "naics_title",
         "segment_id",
         "segment_name",
+        "segment_subgroup",
         "stage",
         "year",
         "value_type",
@@ -570,11 +706,30 @@ def main() -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
 
     base_df = load_base_dataframe(repo_root)
-    naics_ts = build_naics_timeseries(base_df)
+    hist_ts = build_historical_naics_timeseries(repo_root, base_df)
+    forecast_ts = build_naics_timeseries(base_df)
+    if hist_ts.empty and forecast_ts.empty:
+        naics_ts = pd.DataFrame()
+    elif hist_ts.empty:
+        naics_ts = forecast_ts
+    elif forecast_ts.empty:
+        naics_ts = hist_ts
+    else:
+        naics_ts = pd.concat([hist_ts, forecast_ts], ignore_index=True, sort=False)
+
+    if not naics_ts.empty:
+        naics_ts.sort_values(
+            ["projection_method", "year", "naics_code"],
+            inplace=True,
+        )
+        naics_ts.reset_index(drop=True, inplace=True)
+
     segment_summary = aggregate_segments(naics_ts)
     stage_summary = aggregate_stages(naics_ts)
+    uc_segment = build_upstream_core_segment(naics_ts)
+    segment_for_outputs = pd.concat([segment_summary, uc_segment], ignore_index=True, sort=False)
 
-    write_outputs(output_dir, naics_ts, segment_summary, stage_summary)
+    write_outputs(output_dir, naics_ts, segment_for_outputs, stage_summary)
 
     mcda_path = repo_root / "data" / "processed" / "mcda_staffing_detailed_2021_2024.csv"
     mcda_shares = load_mcda_shares(mcda_path)

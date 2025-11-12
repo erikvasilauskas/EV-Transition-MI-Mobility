@@ -23,7 +23,7 @@ This directory implements a multi-tier data pipeline for the EV-Transition analy
   - **Primary use**: Extending QCEW data beyond 2024 using Moody's growth rates
 
 #### Occupational Data
-- **Staffing Patterns for 10 Categories.xlsx**: MCDA segment staffing patterns
+- **mcda-staffing-data-update-11-5-25.xlsx** (replaces the earlier *Staffing Patterns for 10 Categories.xlsx*): MCDA segment staffing patterns
   - Occupational employment distributions (SOC codes) for 10 automotive segments
   - Years: 2015, 2018, 2021, 2024
   - Source: Michigan Center for Data and Analytics
@@ -280,7 +280,7 @@ Fallback cases are documented in comparison scripts.
 
 ### MCDA Staffing Update (On demand)
 1. Request updated staffing pattern workbook from MCDA
-2. Replace `raw/Staffing Patterns for 10 Categories.xlsx`
+2. Replace `raw/mcda-staffing-data-update-11-5-25.xlsx`
 3. Re-run `scripts/process_mcda_staffing.py`
 4. Update MI vs. US staffing comparisons
 
