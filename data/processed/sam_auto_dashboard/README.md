@@ -33,7 +33,8 @@ This folder contains the “SAM-standard” employment and occupation data produ
 | `sam_employment_stage_timeseries.csv` | Stage totals, including the combined “Upstream + Core/OEM” row, mirroring the segment file structure. |
 | `sam_segment_totals_for_occ.csv` | Segment totals formatted for downstream occupation scripts; includes the canonical labels plus the aggregate segment. |
 | `sam_occ_segment_totals_2024_2034.csv` | SOC-by-segment panel (2001 historical omitted) with SAM-adjusted employment, raw employment, drifted shares, and openings metadata for every projection method/year. |
-| `sam_occ_segment_totals_2030.csv` | Convenience slice of the file above for 2030. |
+| `sam_occ_segment_totals_2030.{csv,xlsx}` | Convenience slice of the file above for 2030 (CSV and Excel for easier sharing). |
+| `sam_occ_stage_totals_2030.{csv,xlsx}` | Occupation totals grouped to stages (Upstream, Core/OEM, Downstream, and Upstream+Core) with the same 2024→2030 change metrics as the segment snapshot (CSV + Excel). |
 | `sam_occ_segment_totals_validation.csv` | Assurance file showing that summed occupation totals match segment totals (difference column should be ~0). |
 
 ## Usage Notes

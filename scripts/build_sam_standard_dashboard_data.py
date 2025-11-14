@@ -16,6 +16,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable, List
 
+import os
 import numpy as np
 import pandas as pd
 
@@ -42,6 +43,30 @@ SEGMENT_LABELS = {
     10: "10. Logistics",
     UPSTREAM_CORE_SEGMENT_ID: UPSTREAM_CORE_SEGMENT_NAME,
 }
+
+
+def _normalized_path(path: Path) -> str:
+    path = Path(path).resolve()
+    path_str = str(path)
+    if os.name == "nt" and not path_str.startswith("\\\\?\\"):
+        return "\\\\?\\" + path_str
+    return path_str
+
+
+def write_csv(df: pd.DataFrame, path: Path) -> None:
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    target = _normalized_path(path)
+    print(f"Writing CSV to {target}")
+    with open(target, "w", newline="", encoding="utf-8") as fh:
+        df.to_csv(fh, index=False)
+
+
+def write_excel(df: pd.DataFrame, path: Path) -> None:
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    target = _normalized_path(path)
+    df.to_excel(target, index=False)
 
 
 @dataclass(frozen=True)
@@ -377,7 +402,7 @@ def write_outputs(
         "projection_rate_total",
         "projection_cagr",
     ]
-    naics_ts[naics_cols].to_csv(naics_path, index=False)
+    write_csv(naics_ts[naics_cols], naics_path)
 
     segment_ts = segment_summary.copy()
     segment_ts["adjustment_source"] = ADJUSTMENT_SOURCE
@@ -394,7 +419,7 @@ def write_outputs(
         "employment_raw",
         "auto_share_ratio",
     ]
-    segment_ts[segment_ts_cols].to_csv(segment_path, index=False)
+    write_csv(segment_ts[segment_ts_cols], segment_path)
 
     stage_ts = stage_summary.copy()
     stage_ts["adjustment_source"] = ADJUSTMENT_SOURCE
@@ -410,7 +435,7 @@ def write_outputs(
         "employment_raw",
         "auto_share_ratio",
     ]
-    stage_ts[stage_cols].to_csv(stage_path, index=False)
+    write_csv(stage_ts[stage_cols], stage_path)
 
     # Prepare segment totals file for potential downstream use
     segment_for_occ = segment_ts.rename(columns={"employment_auto": "employment_qcew"})
@@ -424,7 +449,7 @@ def write_outputs(
         "employment_qcew",
     ]
     occ_path = output_dir / "sam_segment_totals_for_occ.csv"
-    segment_for_occ[occ_cols].to_csv(occ_path, index=False)
+    write_csv(segment_for_occ[occ_cols], occ_path)
 
 
 def load_mcda_shares(path: Path) -> pd.DataFrame:
@@ -686,6 +711,50 @@ def build_occupation_outputs(
     combined.sort_values(["methodology", "occcd", "year"], inplace=True)
 
     occ_2030 = combined[combined["year"] == 2030].copy()
+    base_year = YEARS[0]
+    base_cols = [
+        "methodology",
+        "projection_method",
+        "projection_label",
+        "segment_id",
+        "segment_name",
+        "occcd",
+        "employment_auto",
+        "employment_raw",
+    ]
+    base_lookup = (
+        combined[combined["year"] == base_year][base_cols]
+        .rename(
+            columns={
+                "employment_auto": "employment_auto_2024",
+                "employment_raw": "employment_raw_2024",
+            }
+        )
+    )
+    occ_2030 = occ_2030.merge(
+        base_lookup,
+        on=[
+            "methodology",
+            "projection_method",
+            "projection_label",
+            "segment_id",
+            "segment_name",
+            "occcd",
+        ],
+        how="left",
+    )
+    occ_2030["employment_auto_change"] = occ_2030["employment_auto"] - occ_2030["employment_auto_2024"]
+    occ_2030["employment_raw_change"] = occ_2030["employment_raw"] - occ_2030["employment_raw_2024"]
+    occ_2030["employment_auto_pct_change"] = np.where(
+        occ_2030["employment_auto_2024"] != 0,
+        occ_2030["employment_auto_change"] / occ_2030["employment_auto_2024"],
+        np.nan,
+    )
+    occ_2030["employment_raw_pct_change"] = np.where(
+        occ_2030["employment_raw_2024"] != 0,
+        occ_2030["employment_raw_change"] / occ_2030["employment_raw_2024"],
+        np.nan,
+    )
 
     validation = (
         combined[combined["segment_id"] != 0]
@@ -700,12 +769,94 @@ def build_occupation_outputs(
     validation["difference"] = validation["employment"] - validation["employment_auto"]
     return combined, occ_2030, validation
 
+
+def aggregate_stage_occ(
+    occ_2030: pd.DataFrame,
+    stage_summary: pd.DataFrame,
+    segment_stage_lookup: dict[int, str],
+) -> pd.DataFrame:
+    """Aggregate 2030 occupation totals to stages (Upstream, OEM, Downstream, Upstream+Core)."""
+    stage_map = (
+        stage_summary[["stage", "year", "projection_method", "projection_label"]]
+        .drop_duplicates()
+        .set_index(["projection_method", "stage"])["projection_label"]
+    )
+    mapping = {
+        "Upstream": "Upstream",
+        "OEM": "Core/OEM",
+        "Downstream": "Downstream",
+        "Upstream+Core": "Upstream + Core/OEM",
+    }
+    stage_df = stage_summary[stage_summary["year"] == 2030].copy()
+    stage_df["stage_clean"] = stage_df["stage"].map(mapping).fillna(stage_df["stage"])
+
+    occ = occ_2030[occ_2030["segment_id"] != 0].copy()
+    occ["stage"] = occ["segment_id"].map(segment_stage_lookup)
+    occ = occ[occ["stage"].notna()].copy()
+    meta_cols = ["ep_entry_education", "ep_work_experience", "ep_on_the_job_training", "ep_edu_grouped"]
+    for col in meta_cols:
+        occ[col] = occ[col].fillna("Unreported").replace("", "Unreported")
+    occ["stage_clean"] = occ["stage"].map(mapping).fillna(occ["stage"])
+    uc_rows = occ[occ["stage_clean"].isin({"Upstream", "Core/OEM"})].copy()
+    uc_rows["stage_clean"] = "Upstream + Core/OEM"
+    occ_aug = pd.concat([occ, uc_rows], ignore_index=True)
+
+    agg_cols = [
+        "stage_clean",
+        "methodology",
+        "projection_method",
+        "projection_label",
+        "occcd",
+        "soctitle",
+        "ep_entry_education",
+        "ep_work_experience",
+        "ep_on_the_job_training",
+        "ep_edu_grouped",
+    ]
+    grouped = (
+        occ_aug.groupby(agg_cols, dropna=False)[
+            [
+                "employment",
+                "employment_auto",
+                "employment_raw",
+                "employment_auto_2024",
+                "employment_raw_2024",
+                "employment_auto_change",
+                "employment_raw_change",
+                "openings",
+                "ep_openings_annual_avg",
+                "empl_2021",
+            ]
+        ]
+        .sum()
+        .reset_index()
+    )
+    grouped["employment_auto_pct_change"] = np.where(
+        grouped["employment_auto_2024"] != 0,
+        grouped["employment_auto_change"] / grouped["employment_auto_2024"],
+        np.nan,
+    )
+    grouped["employment_raw_pct_change"] = np.where(
+        grouped["employment_raw_2024"] != 0,
+        grouped["employment_raw_change"] / grouped["employment_raw_2024"],
+        np.nan,
+    )
+    grouped["year"] = 2030
+    return grouped
+
 def main() -> None:
     repo_root = Path(__file__).resolve().parents[1]
     output_dir = repo_root / "data" / "processed" / "sam_auto_dashboard"
     output_dir.mkdir(parents=True, exist_ok=True)
 
     base_df = load_base_dataframe(repo_root)
+    segment_stage_lookup = (
+        base_df[["segment_id", "stage"]]
+        .dropna(subset=["segment_id", "stage"])
+        .drop_duplicates("segment_id")
+        .set_index("segment_id")["stage"]
+        .to_dict()
+    )
     hist_ts = build_historical_naics_timeseries(repo_root, base_df)
     forecast_ts = build_naics_timeseries(base_df)
     if hist_ts.empty and forecast_ts.empty:
@@ -738,11 +889,18 @@ def main() -> None:
     occ_df, occ_2030, occ_validation = build_occupation_outputs(segment_summary, mcda_shares, bls_shares)
 
     occ_full_path = output_dir / "sam_occ_segment_totals_2024_2034.csv"
-    occ_df.to_csv(occ_full_path, index=False)
+    write_csv(occ_df, occ_full_path)
     occ_2030_path = output_dir / "sam_occ_segment_totals_2030.csv"
-    occ_2030.to_csv(occ_2030_path, index=False)
+    occ_2030_xlsx = output_dir / "sam_occ_segment_totals_2030.xlsx"
+    write_csv(occ_2030, occ_2030_path)
+    write_excel(occ_2030, occ_2030_xlsx)
+    stage_occ_2030 = aggregate_stage_occ(occ_2030, stage_summary, segment_stage_lookup)
+    stage_occ_path = output_dir / "sam_occ_stage_totals_2030.csv"
+    stage_occ_xlsx = output_dir / "sam_occ_stage_totals_2030.xlsx"
+    write_csv(stage_occ_2030, stage_occ_path)
+    write_excel(stage_occ_2030, stage_occ_xlsx)
     occ_val_path = output_dir / "sam_occ_segment_totals_validation.csv"
-    occ_validation.to_csv(occ_val_path, index=False)
+    write_csv(occ_validation, occ_val_path)
 
     print("SAM-standard dashboard data created:")
     print(f"  NAICS time series -> {output_dir / 'sam_employment_naics_timeseries.csv'}")
@@ -750,6 +908,7 @@ def main() -> None:
     print(f"  Stage time series -> {output_dir / 'sam_employment_stage_timeseries.csv'}")
     print(f"  Occupation forecasts -> {occ_full_path}")
     print(f"  Occupation 2030 snapshot -> {occ_2030_path}")
+    print(f"  Stage 2030 snapshot -> {stage_occ_path}")
     print(f"  Validation -> {occ_val_path}")
 
 
