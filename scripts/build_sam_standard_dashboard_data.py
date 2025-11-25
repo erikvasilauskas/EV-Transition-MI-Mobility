@@ -19,6 +19,7 @@ from typing import Iterable, List
 import os
 import numpy as np
 import pandas as pd
+from process_moodys_time_series import read_wide
 
 
 YEARS = list(range(2024, 2035))
@@ -82,6 +83,11 @@ PROJECTION_METHODS: List[ProjectionMethod] = [
     ProjectionMethod("mi_dtmb_six_year_rate", "DTMB MI", "dtmb_mi"),
     ProjectionMethod("bls_us_six_year_employment_rate_change", "BLS US", "bls_us"),
 ]
+
+DETAIL_MULTIPLIER_REL_PATH = Path("data") / "interim" / "moodys_mi_annual_multipliers_2024_2034.csv"
+DETAIL_PROJECTION_METHOD = ProjectionMethod("", "Moody's MI (detail)", "moodys_mi_detail")
+ADDITIONAL_PROJECTION_METHODS: List[ProjectionMethod] = [DETAIL_PROJECTION_METHOD]
+ALL_PROJECTION_METHODS: List[ProjectionMethod] = PROJECTION_METHODS + ADDITIONAL_PROJECTION_METHODS
 
 
 def load_base_dataframe(repo_root: Path) -> pd.DataFrame:
@@ -273,6 +279,101 @@ def build_naics_timeseries(base_df: pd.DataFrame) -> pd.DataFrame:
     numeric_cols = ["employment_auto", "employment_raw", "projection_rate_total", "projection_cagr"]
     naics_ts[numeric_cols] = naics_ts[numeric_cols].apply(pd.to_numeric, errors="coerce")
     return naics_ts
+
+
+def load_moodys_detail_multipliers(repo_root: Path) -> pd.DataFrame:
+    """Load detailed Moody's MI year-over-year multipliers if available."""
+    path = repo_root / DETAIL_MULTIPLIER_REL_PATH
+    if not path.exists():
+        return pd.DataFrame()
+
+    df = pd.read_csv(path, dtype={"naics_code": str})
+    df["naics_code"] = df["naics_code"].astype(str).str.strip().str.zfill(4)
+    df["year"] = pd.to_numeric(df["year"], errors="coerce")
+    df = df.dropna(subset=["year"])
+    df["year"] = df["year"].astype(int)
+    df["yoy_multiplier"] = pd.to_numeric(df["yoy_multiplier"], errors="coerce")
+    df["yoy_multiplier"] = df["yoy_multiplier"].replace([np.inf, -np.inf], np.nan).fillna(1.0)
+    return df
+
+
+def build_moodys_detail_timeseries(base_df: pd.DataFrame, multipliers: pd.DataFrame) -> pd.DataFrame:
+    """Create NAICS time series using Moody's MI detailed growth path."""
+    if multipliers.empty:
+        return pd.DataFrame()
+
+    forecast_years = [year for year in YEARS if year > YEARS[0]]
+    if not forecast_years:
+        return pd.DataFrame()
+
+    meta_cols = [
+        "naics_code",
+        "naics_title",
+        "segment_id",
+        "segment_name",
+        "segment_subgroup",
+        "stage",
+        "share_applied",
+        "auto_base_employment",
+        "base_employment",
+    ]
+    base_meta = base_df[meta_cols].copy()
+    base_meta["naics_code"] = base_meta["naics_code"].astype(str).str.strip().str.zfill(4)
+
+    idx = pd.MultiIndex.from_product(
+        [base_meta["naics_code"].unique(), forecast_years], names=["naics_code", "year"]
+    )
+    yoy = multipliers[multipliers["year"].isin(forecast_years)].copy()
+    yoy = yoy.set_index(["naics_code", "year"])
+    yoy = yoy.reindex(idx)
+    yoy = yoy.reset_index()
+    yoy["yoy_multiplier"] = pd.to_numeric(yoy["yoy_multiplier"], errors="coerce")
+    yoy["yoy_multiplier"] = yoy["yoy_multiplier"].replace([np.inf, -np.inf], np.nan).fillna(1.0)
+    yoy.sort_values(["naics_code", "year"], inplace=True)
+    yoy["cumulative_multiplier"] = yoy.groupby("naics_code")["yoy_multiplier"].cumprod()
+
+    forecast = yoy.merge(base_meta, on="naics_code", how="left")
+    forecast["projection_method"] = DETAIL_PROJECTION_METHOD.slug
+    forecast["projection_label"] = DETAIL_PROJECTION_METHOD.label
+    forecast["projection_rate_total"] = np.nan
+    forecast["projection_cagr"] = np.nan
+    forecast["value_type"] = "Forecast"
+    forecast["employment_auto"] = forecast["auto_base_employment"] * forecast["cumulative_multiplier"]
+    forecast["employment_raw"] = forecast["base_employment"] * forecast["cumulative_multiplier"]
+    forecast["year"] = forecast["year"].astype(int)
+
+    base_rows = base_meta.copy()
+    base_rows["projection_method"] = DETAIL_PROJECTION_METHOD.slug
+    base_rows["projection_label"] = DETAIL_PROJECTION_METHOD.label
+    base_rows["projection_rate_total"] = np.nan
+    base_rows["projection_cagr"] = np.nan
+    base_rows["year"] = YEARS[0]
+    base_rows["value_type"] = "QCEW"
+    base_rows["employment_auto"] = base_rows["auto_base_employment"]
+    base_rows["employment_raw"] = base_rows["base_employment"]
+
+    detail = pd.concat([base_rows, forecast], ignore_index=True, sort=False)
+    cols = [
+        "projection_method",
+        "projection_label",
+        "naics_code",
+        "naics_title",
+        "segment_id",
+        "segment_name",
+        "segment_subgroup",
+        "stage",
+        "year",
+        "value_type",
+        "share_applied",
+        "employment_auto",
+        "employment_raw",
+        "projection_rate_total",
+        "projection_cagr",
+    ]
+    detail = detail[cols]
+    detail["employment_auto"] = pd.to_numeric(detail["employment_auto"], errors="coerce")
+    detail["employment_raw"] = pd.to_numeric(detail["employment_raw"], errors="coerce")
+    return detail
 
 
 def aggregate_segments(naics_ts: pd.DataFrame) -> pd.DataFrame:
@@ -476,6 +577,13 @@ def load_mcda_shares(path: Path) -> pd.DataFrame:
     df["ep_work_experience"] = df.get("ep_work_experience", np.nan)
     df["ep_on_the_job_training"] = df.get("ep_on_the_job_training", np.nan)
     df["ep_edu_grouped"] = df.get("ep_edu_grouped", np.nan)
+    salary_series = df.get("ep_avg_annual_salary")
+    if salary_series is None:
+        salary_series = df.get("ep_median_annual_wage_2024")
+    if salary_series is None:
+        df["ep_avg_annual_salary"] = np.nan
+    else:
+        df["ep_avg_annual_salary"] = pd.to_numeric(salary_series, errors="coerce")
     df = df.dropna(subset=["segment_id"])
     return df[
         [
@@ -488,6 +596,7 @@ def load_mcda_shares(path: Path) -> pd.DataFrame:
             "ep_work_experience",
             "ep_on_the_job_training",
             "ep_edu_grouped",
+            "ep_avg_annual_salary",
             "ep_openings_annual_avg",
             "empl_2021",
         ]
@@ -537,6 +646,8 @@ def build_occupation_outputs(
         .to_dict()
     )
 
+    available_methods = set(segment_summary["projection_method"].unique())
+
     shares = mcda_df.merge(bls_df, on=["segment_id", "occcd"], how="left")
     shares["share_2024_bls"] = pd.to_numeric(shares["share_2024_bls"], errors="coerce")
     shares["share_2034_bls"] = pd.to_numeric(shares["share_2034_bls"], errors="coerce")
@@ -576,6 +687,7 @@ def build_occupation_outputs(
                     "ep_work_experience",
                     "ep_on_the_job_training",
                     "ep_edu_grouped",
+                    "ep_avg_annual_salary",
                     "ep_openings_annual_avg",
                     "empl_2021",
                 ]
@@ -596,7 +708,9 @@ def build_occupation_outputs(
     )
 
     records: list[dict[str, object]] = []
-    for method in PROJECTION_METHODS:
+    for method in ALL_PROJECTION_METHODS:
+        if method.slug not in available_methods:
+            continue
         base_totals = segment_summary[
             (segment_summary["projection_method"] == method.slug) & (segment_summary["year"] == YEARS[0])
         ]
@@ -653,6 +767,7 @@ def build_occupation_outputs(
                         "ep_work_experience": occ["ep_work_experience"],
                         "ep_on_the_job_training": occ["ep_on_the_job_training"],
                         "ep_edu_grouped": occ["ep_edu_grouped"],
+                        "ep_avg_annual_salary": occ["ep_avg_annual_salary"],
                         "empl_2021": occ["empl_2021"],
                         "ep_openings_annual_avg": occ["ep_openings_annual_avg"],
                         "openings": openings,
@@ -673,6 +788,7 @@ def build_occupation_outputs(
         "ep_work_experience",
         "ep_on_the_job_training",
         "ep_edu_grouped",
+        "ep_avg_annual_salary",
         "year",
     ]
     agg = (
@@ -793,9 +909,15 @@ def aggregate_stage_occ(
     occ = occ_2030[occ_2030["segment_id"] != 0].copy()
     occ["stage"] = occ["segment_id"].map(segment_stage_lookup)
     occ = occ[occ["stage"].notna()].copy()
-    meta_cols = ["ep_entry_education", "ep_work_experience", "ep_on_the_job_training", "ep_edu_grouped"]
+    meta_cols = [
+        "ep_entry_education",
+        "ep_work_experience",
+        "ep_on_the_job_training",
+        "ep_edu_grouped",
+    ]
     for col in meta_cols:
         occ[col] = occ[col].fillna("Unreported").replace("", "Unreported")
+    occ["ep_avg_annual_salary"] = pd.to_numeric(occ.get("ep_avg_annual_salary"), errors="coerce")
     occ["stage_clean"] = occ["stage"].map(mapping).fillna(occ["stage"])
     uc_rows = occ[occ["stage_clean"].isin({"Upstream", "Core/OEM"})].copy()
     uc_rows["stage_clean"] = "Upstream + Core/OEM"
@@ -812,6 +934,7 @@ def aggregate_stage_occ(
         "ep_work_experience",
         "ep_on_the_job_training",
         "ep_edu_grouped",
+        "ep_avg_annual_salary",
     ]
     grouped = (
         occ_aug.groupby(agg_cols, dropna=False)[
@@ -850,6 +973,7 @@ def main() -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
 
     base_df = load_base_dataframe(repo_root)
+    detail_multipliers = load_moodys_detail_multipliers(repo_root)
     segment_stage_lookup = (
         base_df[["segment_id", "stage"]]
         .dropna(subset=["segment_id", "stage"])
@@ -858,7 +982,17 @@ def main() -> None:
         .to_dict()
     )
     hist_ts = build_historical_naics_timeseries(repo_root, base_df)
-    forecast_ts = build_naics_timeseries(base_df)
+    forecast_components = []
+    base_forecast = build_naics_timeseries(base_df)
+    if not base_forecast.empty:
+        forecast_components.append(base_forecast)
+    detail_ts = build_moodys_detail_timeseries(base_df, detail_multipliers)
+    if not detail_ts.empty:
+        forecast_components.append(detail_ts)
+    if forecast_components:
+        forecast_ts = pd.concat(forecast_components, ignore_index=True, sort=False)
+    else:
+        forecast_ts = pd.DataFrame()
     if hist_ts.empty and forecast_ts.empty:
         naics_ts = pd.DataFrame()
     elif hist_ts.empty:

@@ -1,0 +1,409 @@
+projection_method,projection_label,year,segment_id,segment_name,value_type,employment_raw,employment_auto,auto_share_ratio
+moodys_mi_detail,Moody's MI (detail),2001,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,22.388219193299967,6.472879230817288,0.28911987929591115
+moodys_mi_detail,Moody's MI (detail),2001,1,Materials & Processing - Metals,Moody's detailed,15.26925802230835,5.745612389232796,0.3762862858718131
+moodys_mi_detail,Moody's MI (detail),2001,1,Materials & Processing - Non-Metals,Moody's detailed,60.67439675467596,18.14506875531726,0.29905643444108715
+moodys_mi_detail,Moody's MI (detail),2001,2,Equipment Manufacturing,Moody's detailed,68.12184719836449,8.062532948029446,0.11835458490360808
+moodys_mi_detail,Moody's MI (detail),2001,3,Forging & Foundries,Moody's detailed,22.159818191596138,13.191927415535078,0.5953084678527718
+moodys_mi_detail,Moody's MI (detail),2001,4,Parts & Machining,Moody's detailed,54.61554572264039,16.141812822357114,0.29555344744391465
+moodys_mi_detail,Moody's MI (detail),2001,5,Component Systems,Moody's detailed,16.720020374818738,4.594147005814275,0.2747692229330839
+moodys_mi_detail,Moody's MI (detail),2001,6,Engineering & Design,Moody's detailed,114.32853883209275,0.9590740423901056,0.008388754480616939
+moodys_mi_detail,Moody's MI (detail),2001,7,Core Automotive,Moody's detailed,297.85273108171754,180.62201394872088,0.6064138250226964
+moodys_mi_detail,Moody's MI (detail),2001,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,111.11818553232992,32.41122322709654,0.2916824376840321
+moodys_mi_detail,Moody's MI (detail),2001,9,"Dealers, Maintenance, & Repair",Moody's detailed,76.25005007216919,2.602067633892702,0.03412545475615945
+moodys_mi_detail,Moody's MI (detail),2001,10,Logistics,Moody's detailed,36.85466130574544,5.172891223690706,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2002,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,21.093180862309595,6.142296137395544,0.29119819232057703
+moodys_mi_detail,Moody's MI (detail),2002,1,Materials & Processing - Metals,Moody's detailed,13.733758052190144,5.203453039287011,0.3788804942910151
+moodys_mi_detail,Moody's MI (detail),2002,1,Materials & Processing - Non-Metals,Moody's detailed,57.54306311588337,17.195227063618788,0.2988236310776522
+moodys_mi_detail,Moody's MI (detail),2002,2,Equipment Manufacturing,Moody's detailed,60.4110804632189,7.118479564434374,0.11783400511713142
+moodys_mi_detail,Moody's MI (detail),2002,3,Forging & Foundries,Moody's detailed,20.453282053719256,12.103049099820794,0.5917411722985533
+moodys_mi_detail,Moody's MI (detail),2002,4,Parts & Machining,Moody's detailed,51.58345781292408,15.437450935193388,0.29927134763202284
+moodys_mi_detail,Moody's MI (detail),2002,5,Component Systems,Moody's detailed,15.77035382979401,4.5469254853565015,0.2883210823568372
+moodys_mi_detail,Moody's MI (detail),2002,6,Engineering & Design,Moody's detailed,109.25541107994792,0.9020446198270573,0.00825629239696864
+moodys_mi_detail,Moody's MI (detail),2002,7,Core Automotive,Moody's detailed,279.9027567243337,170.47716143205912,0.609058529566238
+moodys_mi_detail,Moody's MI (detail),2002,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,107.58833764780726,31.213509499584855,0.2901198232262213
+moodys_mi_detail,Moody's MI (detail),2002,9,"Dealers, Maintenance, & Repair",Moody's detailed,76.72410041525484,2.6217456311510237,0.03417108336182915
+moodys_mi_detail,Moody's MI (detail),2002,10,Logistics,Moody's detailed,36.02915382385254,5.057023643936036,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2003,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,20.375021089746387,5.946750512607763,0.29186475373026394
+moodys_mi_detail,Moody's MI (detail),2003,1,Materials & Processing - Metals,Moody's detailed,13.226066986719768,4.989720124544889,0.3772640898881764
+moodys_mi_detail,Moody's MI (detail),2003,1,Materials & Processing - Non-Metals,Moody's detailed,56.79653020635773,16.846494183245323,0.2966113268193899
+moodys_mi_detail,Moody's MI (detail),2003,2,Equipment Manufacturing,Moody's detailed,57.85556870576245,6.7746933817099775,0.11709665177027659
+moodys_mi_detail,Moody's MI (detail),2003,3,Forging & Foundries,Moody's detailed,20.264541574805946,11.9380001712938,0.5891078328727561
+moodys_mi_detail,Moody's MI (detail),2003,4,Parts & Machining,Moody's detailed,49.45981509180969,15.048644612440267,0.3042600257301053
+moodys_mi_detail,Moody's MI (detail),2003,5,Component Systems,Moody's detailed,15.202983979492878,4.369347190437425,0.2874006311084183
+moodys_mi_detail,Moody's MI (detail),2003,6,Engineering & Design,Moody's detailed,108.19630161292528,0.9191458678229362,0.008495169004123646
+moodys_mi_detail,Moody's MI (detail),2003,7,Core Automotive,Moody's detailed,257.31656320801267,157.86754636995838,0.6135149032063649
+moodys_mi_detail,Moody's MI (detail),2003,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,104.93352543749268,30.873084955189395,0.2942156458240796
+moodys_mi_detail,Moody's MI (detail),2003,9,"Dealers, Maintenance, & Repair",Moody's detailed,75.2314300559882,2.5544499662600186,0.033954558146229094
+moodys_mi_detail,Moody's MI (detail),2003,10,Logistics,Moody's detailed,35.223110834757485,4.943888085054717,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2004,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,20.268988317772465,5.921209495729901,0.2921314770573924
+moodys_mi_detail,Moody's MI (detail),2004,1,Materials & Processing - Metals,Moody's detailed,12.759998321533201,4.784836152632944,0.374987208623552
+moodys_mi_detail,Moody's MI (detail),2004,1,Materials & Processing - Non-Metals,Moody's detailed,55.69421407768193,16.33632903275346,0.2933218342926548
+moodys_mi_detail,Moody's MI (detail),2004,2,Equipment Manufacturing,Moody's detailed,56.284894141166745,6.611467120160181,0.11746432539391696
+moodys_mi_detail,Moody's MI (detail),2004,3,Forging & Foundries,Moody's detailed,21.36269720351215,12.541671611210685,0.5870827775974263
+moodys_mi_detail,Moody's MI (detail),2004,4,Parts & Machining,Moody's detailed,49.56940008220951,15.144163441312937,0.30551435797481413
+moodys_mi_detail,Moody's MI (detail),2004,5,Component Systems,Moody's detailed,15.571969838233546,4.566293961922543,0.29323804305804735
+moodys_mi_detail,Moody's MI (detail),2004,6,Engineering & Design,Moody's detailed,108.009230863265,0.9371614812395407,0.008676679518493623
+moodys_mi_detail,Moody's MI (detail),2004,7,Core Automotive,Moody's detailed,243.4230681556168,150.83928142940596,0.6196589442910835
+moodys_mi_detail,Moody's MI (detail),2004,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,102.75327282222023,30.711224269568525,0.29888317350926535
+moodys_mi_detail,Moody's MI (detail),2004,9,"Dealers, Maintenance, & Repair",Moody's detailed,74.63511349559995,2.535317059877168,0.03396949426527817
+moodys_mi_detail,Moody's MI (detail),2004,10,Logistics,Moody's detailed,36.07580947875977,5.0635721948995895,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2005,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,19.79965095005732,5.658236125323982,0.28577453913689327
+moodys_mi_detail,Moody's MI (detail),2005,1,Materials & Processing - Metals,Moody's detailed,12.411007404327393,4.66326503997513,0.37573622253655026
+moodys_mi_detail,Moody's MI (detail),2005,1,Materials & Processing - Non-Metals,Moody's detailed,55.42913516403997,16.158504425489067,0.2915164448745
+moodys_mi_detail,Moody's MI (detail),2005,2,Equipment Manufacturing,Moody's detailed,55.70368864632172,6.593431227686565,0.11836615110985023
+moodys_mi_detail,Moody's MI (detail),2005,3,Forging & Foundries,Moody's detailed,20.939530213838033,12.278304373335509,0.5863696199459769
+moodys_mi_detail,Moody's MI (detail),2005,4,Parts & Machining,Moody's detailed,50.58921695029329,15.643453829674543,0.3092250636147443
+moodys_mi_detail,Moody's MI (detail),2005,5,Component Systems,Moody's detailed,16.304486522732443,4.549591531553655,0.27903924022448734
+moodys_mi_detail,Moody's MI (detail),2005,6,Engineering & Design,Moody's detailed,109.29507024476922,0.954673687185748,0.00873482843322879
+moodys_mi_detail,Moody's MI (detail),2005,7,Core Automotive,Moody's detailed,224.9561963470559,141.0382396920332,0.626958678988524
+moodys_mi_detail,Moody's MI (detail),2005,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,102.53523357594017,30.76440053910419,0.3000373575617722
+moodys_mi_detail,Moody's MI (detail),2005,9,"Dealers, Maintenance, & Repair",Moody's detailed,72.4840528536192,2.478841006132321,0.034198432738554434
+moodys_mi_detail,Moody's MI (detail),2005,10,Logistics,Moody's detailed,37.99136130015056,5.332437539318109,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2006,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,19.05580220663956,5.452142628005195,0.2861145686170861
+moodys_mi_detail,Moody's MI (detail),2006,1,Materials & Processing - Metals,Moody's detailed,12.13793722788493,4.564098356148478,0.3760192749772348
+moodys_mi_detail,Moody's MI (detail),2006,1,Materials & Processing - Non-Metals,Moody's detailed,53.449811291110635,15.395342773119378,0.2880336225935341
+moodys_mi_detail,Moody's MI (detail),2006,2,Equipment Manufacturing,Moody's detailed,54.24452677416147,6.4489487491230335,0.1188866256677326
+moodys_mi_detail,Moody's MI (detail),2006,3,Forging & Foundries,Moody's detailed,20.401894617396145,11.881635385069284,0.5823790195905695
+moodys_mi_detail,Moody's MI (detail),2006,4,Parts & Machining,Moody's detailed,50.123230202264985,15.536460696473489,0.3099652722655417
+moodys_mi_detail,Moody's MI (detail),2006,5,Component Systems,Moody's detailed,16.471018834911163,4.430803893414045,0.2690060607558004
+moodys_mi_detail,Moody's MI (detail),2006,6,Engineering & Design,Moody's detailed,108.30032415357879,0.9521089372689784,0.00879137661599987
+moodys_mi_detail,Moody's MI (detail),2006,7,Core Automotive,Moody's detailed,205.23604039156945,130.3052134294012,0.6349041483201104
+moodys_mi_detail,Moody's MI (detail),2006,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,101.98613608262997,30.853780875722105,0.3025291677951612
+moodys_mi_detail,Moody's MI (detail),2006,9,"Dealers, Maintenance, & Repair",Moody's detailed,69.44442923397898,2.390368769252523,0.03442131781656176
+moodys_mi_detail,Moody's MI (detail),2006,10,Logistics,Moody's detailed,39.31782944997152,5.51861956372446,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2007,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,18.819597755699835,5.368277638237563,0.28524932933870434
+moodys_mi_detail,Moody's MI (detail),2007,1,Materials & Processing - Metals,Moody's detailed,12.129259188969929,4.571439246531843,0.3768935246011566
+moodys_mi_detail,Moody's MI (detail),2007,1,Materials & Processing - Non-Metals,Moody's detailed,50.98073443130035,14.544222961689492,0.2852886119420017
+moodys_mi_detail,Moody's MI (detail),2007,2,Equipment Manufacturing,Moody's detailed,51.22049070332182,6.1492092807137535,0.12005369718792945
+moodys_mi_detail,Moody's MI (detail),2007,3,Forging & Foundries,Moody's detailed,19.293568176891796,11.099114529746384,0.5752753678316468
+moodys_mi_detail,Moody's MI (detail),2007,4,Parts & Machining,Moody's detailed,48.5663710008939,15.05616749682747,0.31001219952280046
+moodys_mi_detail,Moody's MI (detail),2007,5,Component Systems,Moody's detailed,16.441458985255743,4.346358424575767,0.2643535727865431
+moodys_mi_detail,Moody's MI (detail),2007,6,Engineering & Design,Moody's detailed,104.52211512667222,0.9256796858583758,0.008856304569961372
+moodys_mi_detail,Moody's MI (detail),2007,7,Core Automotive,Moody's detailed,187.32011003041717,116.39205383136249,0.6213537554107921
+moodys_mi_detail,Moody's MI (detail),2007,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,100.66572073458047,30.58929919930746,0.30387006595781013
+moodys_mi_detail,Moody's MI (detail),2007,9,"Dealers, Maintenance, & Repair",Moody's detailed,67.39797474750216,2.3099401383912093,0.03427313872627631
+moodys_mi_detail,Moody's MI (detail),2007,10,Logistics,Moody's detailed,40.7963326772054,5.726141111810542,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2008,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,17.488347480885707,4.989707427338383,0.2853161187923558
+moodys_mi_detail,Moody's MI (detail),2008,1,Materials & Processing - Metals,Moody's detailed,11.681266148885092,4.40855398260492,0.37740377853009455
+moodys_mi_detail,Moody's MI (detail),2008,1,Materials & Processing - Non-Metals,Moody's detailed,47.89544459227567,13.588254348190809,0.28370661268237296
+moodys_mi_detail,Moody's MI (detail),2008,2,Equipment Manufacturing,Moody's detailed,49.30260710124996,5.923212801086286,0.12013995099533216
+moodys_mi_detail,Moody's MI (detail),2008,3,Forging & Foundries,Moody's detailed,17.39081172363174,10.041166771985942,0.5773834442898009
+moodys_mi_detail,Moody's MI (detail),2008,4,Parts & Machining,Moody's detailed,47.47701459984202,14.67160879371971,0.30902551302727715
+moodys_mi_detail,Moody's MI (detail),2008,5,Component Systems,Moody's detailed,16.445008248854585,4.5068520997673405,0.2740559342730186
+moodys_mi_detail,Moody's MI (detail),2008,6,Engineering & Design,Moody's detailed,101.06119134552691,0.9030245003743799,0.008935423067465639
+moodys_mi_detail,Moody's MI (detail),2008,7,Core Automotive,Moody's detailed,156.5361340733175,98.40904542892852,0.6286666398879907
+moodys_mi_detail,Moody's MI (detail),2008,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,99.35897368402387,29.75666468062002,0.29948643365873107
+moodys_mi_detail,Moody's MI (detail),2008,9,"Dealers, Maintenance, & Repair",Moody's detailed,64.8112876286858,2.2251010985681954,0.03433199956335005
+moodys_mi_detail,Moody's MI (detail),2008,10,Logistics,Moody's detailed,38.84757614135742,5.452615179832262,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2009,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,12.928889179619983,3.73864219241883,0.28916963711871796
+moodys_mi_detail,Moody's MI (detail),2009,1,Materials & Processing - Metals,Moody's detailed,8.8981857697169,3.343922242528601,0.3757982052823549
+moodys_mi_detail,Moody's MI (detail),2009,1,Materials & Processing - Non-Metals,Moody's detailed,36.92751439318546,10.44871130109096,0.28295192548944337
+moodys_mi_detail,Moody's MI (detail),2009,2,Equipment Manufacturing,Moody's detailed,39.531144355318624,4.782188689889384,0.12097268540737238
+moodys_mi_detail,Moody's MI (detail),2009,3,Forging & Foundries,Moody's detailed,12.807225016030609,7.307656483509469,0.5705885915459895
+moodys_mi_detail,Moody's MI (detail),2009,4,Parts & Machining,Moody's detailed,37.35484929668941,11.407001874458366,0.30536870283851786
+moodys_mi_detail,Moody's MI (detail),2009,5,Component Systems,Moody's detailed,14.346405736107563,3.8892125380109004,0.2710931650442861
+moodys_mi_detail,Moody's MI (detail),2009,6,Engineering & Design,Moody's detailed,87.10467552244533,0.7615370537216123,0.008742780443804967
+moodys_mi_detail,Moody's MI (detail),2009,7,Core Automotive,Moody's detailed,114.2631495680991,72.95205066092049,0.6384565009512728
+moodys_mi_detail,Moody's MI (detail),2009,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,90.52121381199873,26.004953857092197,0.2872802160066174
+moodys_mi_detail,Moody's MI (detail),2009,9,"Dealers, Maintenance, & Repair",Moody's detailed,59.70894629873121,2.0277530437580418,0.03396062348199788
+moodys_mi_detail,Moody's MI (detail),2009,10,Logistics,Moody's detailed,33.82227420806885,4.747267759828923,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2010,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,13.858334783551404,3.945800371016004,0.2847239897609714
+moodys_mi_detail,Moody's MI (detail),2010,1,Materials & Processing - Metals,Moody's detailed,9.4753098487854,3.581889172217358,0.3780234345240441
+moodys_mi_detail,Moody's MI (detail),2010,1,Materials & Processing - Non-Metals,Moody's detailed,39.251653689653274,11.061287405971793,0.28180436659889174
+moodys_mi_detail,Moody's MI (detail),2010,2,Equipment Manufacturing,Moody's detailed,40.393973054129916,4.785788817034611,0.11847779396746683
+moodys_mi_detail,Moody's MI (detail),2010,3,Forging & Foundries,Moody's detailed,14.04723900387928,7.9333763444614664,0.5647641036270963
+moodys_mi_detail,Moody's MI (detail),2010,4,Parts & Machining,Moody's detailed,40.21296098491839,12.387082847870424,0.30803707422878207
+moodys_mi_detail,Moody's MI (detail),2010,5,Component Systems,Moody's detailed,13.63780492483555,3.876697940417019,0.2842611374618827
+moodys_mi_detail,Moody's MI (detail),2010,6,Engineering & Design,Moody's detailed,88.42703454666051,0.7404766476525396,0.008373871762733494
+moodys_mi_detail,Moody's MI (detail),2010,7,Core Automotive,Moody's detailed,118.82198745885854,76.26883061611254,0.6418747257743034
+moodys_mi_detail,Moody's MI (detail),2010,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,92.49487265784921,26.218999372222235,0.28346435449681395
+moodys_mi_detail,Moody's MI (detail),2010,9,"Dealers, Maintenance, & Repair",Moody's detailed,57.94913830089345,1.9450259153837128,0.033564363033051776
+moodys_mi_detail,Moody's MI (detail),2010,10,Logistics,Moody's detailed,34.69208749135336,4.869354066959105,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2011,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,15.76781825582627,4.50391889507602,0.2856399548752919
+moodys_mi_detail,Moody's MI (detail),2011,1,Materials & Processing - Metals,Moody's detailed,10.217325528462728,3.8919381126045614,0.3809155440690096
+moodys_mi_detail,Moody's MI (detail),2011,1,Materials & Processing - Non-Metals,Moody's detailed,41.591776390632525,11.605437946787031,0.2790320335873141
+moodys_mi_detail,Moody's MI (detail),2011,2,Equipment Manufacturing,Moody's detailed,45.02394294253449,5.2959108348506945,0.11762432360955229
+moodys_mi_detail,Moody's MI (detail),2011,3,Forging & Foundries,Moody's detailed,16.42268615925164,9.20824001579739,0.5607024287320971
+moodys_mi_detail,Moody's MI (detail),2011,4,Parts & Machining,Moody's detailed,45.14929125196202,14.006026353977788,0.31021586309772115
+moodys_mi_detail,Moody's MI (detail),2011,5,Component Systems,Moody's detailed,14.624749824764699,4.384475274513469,0.2997983095128953
+moodys_mi_detail,Moody's MI (detail),2011,6,Engineering & Design,Moody's detailed,94.12820426255328,0.7985499469975708,0.008483641574316693
+moodys_mi_detail,Moody's MI (detail),2011,7,Core Automotive,Moody's detailed,131.77998416625437,85.22122549917292,0.6466932443371471
+moodys_mi_detail,Moody's MI (detail),2011,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,95.70431120777452,27.479003773760336,0.28712399083154455
+moodys_mi_detail,Moody's MI (detail),2011,9,"Dealers, Maintenance, & Repair",Moody's detailed,59.12786297546894,1.9980069631198747,0.03379129335265864
+moodys_mi_detail,Moody's MI (detail),2011,10,Logistics,Moody's detailed,36.963105519612625,5.188112368107685,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2012,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,17.11518796837127,4.9322356023584195,0.2881788743117021
+moodys_mi_detail,Moody's MI (detail),2012,1,Materials & Processing - Metals,Moody's detailed,10.943502028783163,4.167226244784769,0.3807945787211714
+moodys_mi_detail,Moody's MI (detail),2012,1,Materials & Processing - Non-Metals,Moody's detailed,43.01096143311224,11.694861089636833,0.2719042006959992
+moodys_mi_detail,Moody's MI (detail),2012,2,Equipment Manufacturing,Moody's detailed,49.051346700933514,5.762298833637406,0.1174748344580668
+moodys_mi_detail,Moody's MI (detail),2012,3,Forging & Foundries,Moody's detailed,17.241213450880633,9.6916003122934,0.5621182256054246
+moodys_mi_detail,Moody's MI (detail),2012,4,Parts & Machining,Moody's detailed,47.737983044708955,14.907552024077802,0.31227863167398906
+moodys_mi_detail,Moody's MI (detail),2012,5,Component Systems,Moody's detailed,15.288924899600513,4.6267964803972506,0.30262405700731415
+moodys_mi_detail,Moody's MI (detail),2012,6,Engineering & Design,Moody's detailed,98.4708758636152,0.8333282642422338,0.008462687641739023
+moodys_mi_detail,Moody's MI (detail),2012,7,Core Automotive,Moody's detailed,143.2757057566016,92.97957807699646,0.6489556452435224
+moodys_mi_detail,Moody's MI (detail),2012,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,98.38939510693653,28.661516010432962,0.2913069643255923
+moodys_mi_detail,Moody's MI (detail),2012,9,"Dealers, Maintenance, & Repair",Moody's detailed,60.405301426608204,2.05713267571441,0.03405549889050391
+moodys_mi_detail,Moody's MI (detail),2012,10,Logistics,Moody's detailed,38.764762560526535,5.440991530874302,0.14035921211638652
+moodys_mi_detail,Moody's MI (detail),2013,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,17.546973359969584,5.106441048184931,0.2910154898755589
+moodys_mi_detail,Moody's MI (detail),2013,1,Materials & Processing - Metals,Moody's detailed,11.291884978612265,4.257886217056456,0.3770748838764506
+moodys_mi_detail,Moody's MI (detail),2013,1,Materials & Processing - Non-Metals,Moody's detailed,44.67972280733732,12.224127540453697,0.27359452504137394
+moodys_mi_detail,Moody's MI (detail),2013,2,Equipment Manufacturing,Moody's detailed,50.730851261533225,6.025740381537917,0.11877861758071753
+moodys_mi_detail,Moody's MI (detail),2013,3,Forging & Foundries,Moody's detailed,17.032201735372162,9.517620729073593,0.558801549966824
+moodys_mi_detail,Moody's MI (detail),2013,4,Parts & Machining,Moody's detailed,48.371719078360975,15.221223456210828,0.3146719559739613
+moodys_mi_detail,Moody's MI (detail),2013,5,Component Systems,Moody's detailed,15.348039639334653,4.448585549869542,0.28984715015124835
+moodys_mi_detail,Moody's MI (detail),2013,6,Engineering & Design,Moody's detailed,101.96586567010715,0.8655201092993572,0.008488331890395528
+moodys_mi_detail,Moody's MI (detail),2013,7,Core Automotive,Moody's detailed,153.8194022089678,98.88267269747283,0.642849154771373
+moodys_mi_detail,Moody's MI (detail),2013,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,101.24678191143386,29.4222282006245,0.29059914443860296
+moodys_mi_detail,Moody's MI (detail),2013,9,"Dealers, Maintenance, & Repair",Moody's detailed,61.450038592224594,2.102601798354551,0.034216443903431454
+moodys_mi_detail,Moody's MI (detail),2013,10,Logistics,Moody's detailed,41.07026036580404,5.76458938635911,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2014,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,18.65056511303064,5.5543893225618195,0.297813459747722
+moodys_mi_detail,Moody's MI (detail),2014,1,Materials & Processing - Metals,Moody's detailed,11.73255451520284,4.414949138396475,0.3762990517261744
+moodys_mi_detail,Moody's MI (detail),2014,1,Materials & Processing - Non-Metals,Moody's detailed,47.1444331831065,12.888284293531056,0.27337870928416164
+moodys_mi_detail,Moody's MI (detail),2014,2,Equipment Manufacturing,Moody's detailed,51.96021914276064,6.239886511859847,0.12008968812690658
+moodys_mi_detail,Moody's MI (detail),2014,3,Forging & Foundries,Moody's detailed,17.3539862823416,9.722657813303819,0.5602550131779823
+moodys_mi_detail,Moody's MI (detail),2014,4,Parts & Machining,Moody's detailed,50.48762256258371,15.889374097367671,0.3147182079661493
+moodys_mi_detail,Moody's MI (detail),2014,5,Component Systems,Moody's detailed,15.72608325319198,4.648624136545209,0.2955996138200312
+moodys_mi_detail,Moody's MI (detail),2014,6,Engineering & Design,Moody's detailed,105.85514708308165,0.9026740197635033,0.008527445708946292
+moodys_mi_detail,Moody's MI (detail),2014,7,Core Automotive,Moody's detailed,163.46509282964877,105.38915510422814,0.64471963573322
+moodys_mi_detail,Moody's MI (detail),2014,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,104.78444933156443,30.514729903228037,0.2912142984754516
+moodys_mi_detail,Moody's MI (detail),2014,9,"Dealers, Maintenance, & Repair",Moody's detailed,64.46851047654475,2.2047465759749474,0.034198813648363864
+moodys_mi_detail,Moody's MI (detail),2014,10,Logistics,Moody's detailed,43.42945830027263,6.095724549667728,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2015,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,18.527313060629673,5.582955701730427,0.301336501599584
+moodys_mi_detail,Moody's MI (detail),2015,1,Materials & Processing - Metals,Moody's detailed,11.816336393356325,4.416978744196395,0.37380272507135276
+moodys_mi_detail,Moody's MI (detail),2015,1,Materials & Processing - Non-Metals,Moody's detailed,48.61133730894528,13.345270901878642,0.2745300096778637
+moodys_mi_detail,Moody's MI (detail),2015,2,Equipment Manufacturing,Moody's detailed,53.25113332515636,6.396945482032117,0.1201278748936999
+moodys_mi_detail,Moody's MI (detail),2015,3,Forging & Foundries,Moody's detailed,17.656138155511833,9.846113572746676,0.5576595224858358
+moodys_mi_detail,Moody's MI (detail),2015,4,Parts & Machining,Moody's detailed,52.51011829688721,16.480542668064018,0.31385460940850674
+moodys_mi_detail,Moody's MI (detail),2015,5,Component Systems,Moody's detailed,16.6123303640001,5.018228214285698,0.30207852265931906
+moodys_mi_detail,Moody's MI (detail),2015,6,Engineering & Design,Moody's detailed,107.98079854572862,0.8802183635914345,0.008151619319787418
+moodys_mi_detail,Moody's MI (detail),2015,7,Core Automotive,Moody's detailed,171.55588553969702,110.34666027795471,0.6432111607877257
+moodys_mi_detail,Moody's MI (detail),2015,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,106.90502811192333,31.053195612453084,0.29047460312102624
+moodys_mi_detail,Moody's MI (detail),2015,9,"Dealers, Maintenance, & Repair",Moody's detailed,67.06775337502064,2.3115547212752072,0.03446596322303745
+moodys_mi_detail,Moody's MI (detail),2015,10,Logistics,Moody's detailed,46.08702532450357,6.468738563335273,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2016,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,18.54149216498892,5.685391734159051,0.30663075461070627
+moodys_mi_detail,Moody's MI (detail),2016,1,Materials & Processing - Metals,Moody's detailed,11.724974950154621,4.371082983790724,0.37280105095090893
+moodys_mi_detail,Moody's MI (detail),2016,1,Materials & Processing - Non-Metals,Moody's detailed,50.0212999862307,13.641243674129703,0.2727086996516426
+moodys_mi_detail,Moody's MI (detail),2016,2,Equipment Manufacturing,Moody's detailed,53.35302131704752,6.426252717110819,0.1204477751863976
+moodys_mi_detail,Moody's MI (detail),2016,3,Forging & Foundries,Moody's detailed,17.68980487283027,9.824392821557097,0.5553703329224597
+moodys_mi_detail,Moody's MI (detail),2016,4,Parts & Machining,Moody's detailed,52.3691070697685,16.32905858305233,0.31180708430445486
+moodys_mi_detail,Moody's MI (detail),2016,5,Component Systems,Moody's detailed,16.607280774667206,4.97681719633187,0.2996768263184616
+moodys_mi_detail,Moody's MI (detail),2016,6,Engineering & Design,Moody's detailed,110.65986606312111,0.9372675311648009,0.008469805400181647
+moodys_mi_detail,Moody's MI (detail),2016,7,Core Automotive,Moody's detailed,178.32505628217422,115.52901135318612,0.6478563010818725
+moodys_mi_detail,Moody's MI (detail),2016,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,107.32350744520788,31.35382189911506,0.2921430974954131
+moodys_mi_detail,Moody's MI (detail),2016,9,"Dealers, Maintenance, & Repair",Moody's detailed,68.57184482892194,2.365601394069397,0.034498144245225904
+moodys_mi_detail,Moody's MI (detail),2016,10,Logistics,Moody's detailed,47.04849243164063,6.603689328968851,0.14035921211638647
+moodys_mi_detail,Moody's MI (detail),2017,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,18.710040044388247,5.777481589108103,0.3087904448842138
+moodys_mi_detail,Moody's MI (detail),2017,1,Materials & Processing - Metals,Moody's detailed,11.799879233042398,4.383769283731057,0.37150967371390436
+moodys_mi_detail,Moody's MI (detail),2017,1,Materials & Processing - Non-Metals,Moody's detailed,50.34860083768302,13.7366168471148,0.27283016049243886
+moodys_mi_detail,Moody's MI (detail),2017,2,Equipment Manufacturing,Moody's detailed,54.57997970869167,6.576418033825739,0.12049139755869986
+moodys_mi_detail,Moody's MI (detail),2017,3,Forging & Foundries,Moody's detailed,18.044307225602616,10.005397113845504,0.5544905098738896
+moodys_mi_detail,Moody's MI (detail),2017,4,Parts & Machining,Moody's detailed,52.496508882258446,16.19886925540248,0.30857040973398897
+moodys_mi_detail,Moody's MI (detail),2017,5,Component Systems,Moody's detailed,16.823992389668504,5.081603716032239,0.30204505555725386
+moodys_mi_detail,Moody's MI (detail),2017,6,Engineering & Design,Moody's detailed,113.61286350151757,0.9498917686213315,0.008360776582386232
+moodys_mi_detail,Moody's MI (detail),2017,7,Core Automotive,Moody's detailed,181.4859932140646,117.66705139152843,0.64835334841923
+moodys_mi_detail,Moody's MI (detail),2017,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,109.85084571023424,32.59168854816308,0.29669037445677743
+moodys_mi_detail,Moody's MI (detail),2017,9,"Dealers, Maintenance, & Repair",Moody's detailed,68.6907031556484,2.3978267228163053,0.034907587383157156
+moodys_mi_detail,Moody's MI (detail),2017,10,Logistics,Moody's detailed,46.82630030314128,6.572502616874221,0.14035921211638652
+moodys_mi_detail,Moody's MI (detail),2018,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,18.97558201956803,5.876251507142049,0.30967437526197256
+moodys_mi_detail,Moody's MI (detail),2018,1,Materials & Processing - Metals,Moody's detailed,11.891216357549032,4.4172608899723524,0.3714725859115408
+moodys_mi_detail,Moody's MI (detail),2018,1,Materials & Processing - Non-Metals,Moody's detailed,51.796532026628675,14.139356155296227,0.27297881927745976
+moodys_mi_detail,Moody's MI (detail),2018,2,Equipment Manufacturing,Moody's detailed,55.52378386267382,6.757392394257867,0.1217026636904075
+moodys_mi_detail,Moody's MI (detail),2018,3,Forging & Foundries,Moody's detailed,18.82538316116488,10.42601070199641,0.5538272773913233
+moodys_mi_detail,Moody's MI (detail),2018,4,Parts & Machining,Moody's detailed,53.58037016885578,16.36583623025173,0.3054446279239139
+moodys_mi_detail,Moody's MI (detail),2018,5,Component Systems,Moody's detailed,17.418958406570958,5.363770543362401,0.30792716867267017
+moodys_mi_detail,Moody's MI (detail),2018,6,Engineering & Design,Moody's detailed,116.52193569840665,0.9741783706561589,0.008360471913010625
+moodys_mi_detail,Moody's MI (detail),2018,7,Core Automotive,Moody's detailed,184.81115241114628,120.68523771709638,0.6530192368943729
+moodys_mi_detail,Moody's MI (detail),2018,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,111.97714637111726,33.33797722874912,0.29772126107107266
+moodys_mi_detail,Moody's MI (detail),2018,9,"Dealers, Maintenance, & Repair",Moody's detailed,68.66025568875867,2.394854072346702,0.03487977212323136
+moodys_mi_detail,Moody's MI (detail),2018,10,Logistics,Moody's detailed,47.58870442708333,6.67951305902501,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2019,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,19.145120251089267,5.97451900635512,0.3120648461852935
+moodys_mi_detail,Moody's MI (detail),2019,1,Materials & Processing - Metals,Moody's detailed,11.774334828058878,4.37224383308811,0.37133680135108915
+moodys_mi_detail,Moody's MI (detail),2019,1,Materials & Processing - Non-Metals,Moody's detailed,51.93002353071372,14.106106560450623,0.27163682204202444
+moodys_mi_detail,Moody's MI (detail),2019,2,Equipment Manufacturing,Moody's detailed,53.83593705678152,6.626085278723938,0.12307922255974318
+moodys_mi_detail,Moody's MI (detail),2019,3,Forging & Foundries,Moody's detailed,18.79782589400044,10.366344895210725,0.5514650978078945
+moodys_mi_detail,Moody's MI (detail),2019,4,Parts & Machining,Moody's detailed,52.75893074351393,15.96976498021982,0.30269311290360273
+moodys_mi_detail,Moody's MI (detail),2019,5,Component Systems,Moody's detailed,18.27917121549415,5.805053610926193,0.317577506249605
+moodys_mi_detail,Moody's MI (detail),2019,6,Engineering & Design,Moody's detailed,116.79597494554386,0.9640701996745034,0.008254310134608672
+moodys_mi_detail,Moody's MI (detail),2019,7,Core Automotive,Moody's detailed,182.1013425702391,118.70112002073553,0.6518409932916931
+moodys_mi_detail,Moody's MI (detail),2019,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,113.18135068699357,34.14620204277251,0.3016945975243294
+moodys_mi_detail,Moody's MI (detail),2019,9,"Dealers, Maintenance, & Repair",Moody's detailed,69.14931165264622,2.4074872993653664,0.034815781123878134
+moodys_mi_detail,Moody's MI (detail),2019,10,Logistics,Moody's detailed,48.51721445719401,6.809837995293507,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2020,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,16.137935902771275,5.147272122071782,0.3189548002348845
+moodys_mi_detail,Moody's MI (detail),2020,1,Materials & Processing - Metals,Moody's detailed,9.401836752891542,3.475858262489214,0.36969991649984896
+moodys_mi_detail,Moody's MI (detail),2020,1,Materials & Processing - Non-Metals,Moody's detailed,45.922192124165235,12.31140430450715,0.26809269625499055
+moodys_mi_detail,Moody's MI (detail),2020,2,Equipment Manufacturing,Moody's detailed,48.29579773703285,6.077254690967292,0.12583402647281047
+moodys_mi_detail,Moody's MI (detail),2020,3,Forging & Foundries,Moody's detailed,15.958607933742602,8.753255381225296,0.5484974264401574
+moodys_mi_detail,Moody's MI (detail),2020,4,Parts & Machining,Moody's detailed,45.76203019609956,13.698340660755237,0.2993385695970016
+moodys_mi_detail,Moody's MI (detail),2020,5,Component Systems,Moody's detailed,16.827086003841025,5.454852853492039,0.32417097364611375
+moodys_mi_detail,Moody's MI (detail),2020,6,Engineering & Design,Moody's detailed,114.64582490153126,0.9441368346639201,0.008235248300361871
+moodys_mi_detail,Moody's MI (detail),2020,7,Core Automotive,Moody's detailed,156.78251306972174,100.048862767948,0.6381378943929538
+moodys_mi_detail,Moody's MI (detail),2020,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,104.88612285220611,31.77521074220724,0.30294961695725314
+moodys_mi_detail,Moody's MI (detail),2020,9,"Dealers, Maintenance, & Repair",Moody's detailed,62.78547335690152,2.204161534123463,0.03510623423341885
+moodys_mi_detail,Moody's MI (detail),2020,10,Logistics,Moody's detailed,44.91558678944905,6.304316373512247,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2021,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,16.276398657561725,5.162109135122659,0.31715302897944414
+moodys_mi_detail,Moody's MI (detail),2021,1,Materials & Processing - Metals,Moody's detailed,9.141457478205364,3.3616920542589543,0.3677413653428617
+moodys_mi_detail,Moody's MI (detail),2021,1,Materials & Processing - Non-Metals,Moody's detailed,47.696378124425365,12.868397654556542,0.26979821446791624
+moodys_mi_detail,Moody's MI (detail),2021,2,Equipment Manufacturing,Moody's detailed,48.41828677009876,6.139326496628007,0.12679768133430558
+moodys_mi_detail,Moody's MI (detail),2021,3,Forging & Foundries,Moody's detailed,16.2473715421636,8.890345544313448,0.5471866954751473
+moodys_mi_detail,Moody's MI (detail),2021,4,Parts & Machining,Moody's detailed,47.60376388450656,14.305679833205843,0.3005157295526765
+moodys_mi_detail,Moody's MI (detail),2021,5,Component Systems,Moody's detailed,17.211229554165353,5.560189502702868,0.32305591446586834
+moodys_mi_detail,Moody's MI (detail),2021,6,Engineering & Design,Moody's detailed,117.20577268404803,0.9730818669508883,0.00830233737355265
+moodys_mi_detail,Moody's MI (detail),2021,7,Core Automotive,Moody's detailed,172.35913125556718,107.20515790546654,0.6219871098474443
+moodys_mi_detail,Moody's MI (detail),2021,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,105.49426164022938,32.25495439121231,0.3057507952537974
+moodys_mi_detail,Moody's MI (detail),2021,9,"Dealers, Maintenance, & Repair",Moody's detailed,66.65616832493407,2.2956687096511095,0.034440454159624545
+moodys_mi_detail,Moody's MI (detail),2021,10,Logistics,Moody's detailed,46.926758130391434,6.586602798357976,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2022,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,16.160202743343234,5.163290568116107,0.3195065464288799
+moodys_mi_detail,Moody's MI (detail),2022,1,Materials & Processing - Metals,Moody's detailed,9.208069483439125,3.381746248627523,0.3672589846014578
+moodys_mi_detail,Moody's MI (detail),2022,1,Materials & Processing - Non-Metals,Moody's detailed,49.071871815476854,13.232586813967181,0.26965726646265276
+moodys_mi_detail,Moody's MI (detail),2022,2,Equipment Manufacturing,Moody's detailed,48.74393349746188,6.272966273679797,0.1286922458567369
+moodys_mi_detail,Moody's MI (detail),2022,3,Forging & Foundries,Moody's detailed,16.71256244777966,9.213051728557755,0.5512650592836977
+moodys_mi_detail,Moody's MI (detail),2022,4,Parts & Machining,Moody's detailed,49.077313330689364,14.72613689554315,0.3000599644955401
+moodys_mi_detail,Moody's MI (detail),2022,5,Component Systems,Moody's detailed,18.281951721819382,5.865584468502663,0.3208401683668231
+moodys_mi_detail,Moody's MI (detail),2022,6,Engineering & Design,Moody's detailed,119.71586466044926,0.9944988769222274,0.008307160289431395
+moodys_mi_detail,Moody's MI (detail),2022,7,Core Automotive,Moody's detailed,179.71655883213734,109.6262489091137,0.6099952593211465
+moodys_mi_detail,Moody's MI (detail),2022,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,110.76814028796358,33.966190362400695,0.3066422373265354
+moodys_mi_detail,Moody's MI (detail),2022,9,"Dealers, Maintenance, & Repair",Moody's detailed,68.24019219043952,2.3192421733683037,0.03398645430094833
+moodys_mi_detail,Moody's MI (detail),2022,10,Logistics,Moody's detailed,49.379484494527176,6.930865538365158,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2023,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,16.551806325802275,5.2611898577697005,0.31786197555780593
+moodys_mi_detail,Moody's MI (detail),2023,1,Materials & Processing - Metals,Moody's detailed,9.308037122090656,3.4184602617072573,0.36725898456015665
+moodys_mi_detail,Moody's MI (detail),2023,1,Materials & Processing - Non-Metals,Moody's detailed,49.5816185728957,13.468016643998489,0.27163325909172553
+moodys_mi_detail,Moody's MI (detail),2023,2,Equipment Manufacturing,Moody's detailed,48.69237495101229,6.327468464876327,0.12994783005023217
+moodys_mi_detail,Moody's MI (detail),2023,3,Forging & Foundries,Moody's detailed,17.14860527788784,9.439813352581556,0.5504712015707577
+moodys_mi_detail,Moody's MI (detail),2023,4,Parts & Machining,Moody's detailed,50.575804947659,15.175355040330409,0.300051676014557
+moodys_mi_detail,Moody's MI (detail),2023,5,Component Systems,Moody's detailed,19.026889449327165,5.994217111403289,0.3150392568037577
+moodys_mi_detail,Moody's MI (detail),2023,6,Engineering & Design,Moody's detailed,121.16977195075543,1.0167022329524686,0.008390724985152784
+moodys_mi_detail,Moody's MI (detail),2023,7,Core Automotive,Moody's detailed,180.79563033704085,109.75445105778331,0.6070636267766985
+moodys_mi_detail,Moody's MI (detail),2023,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,113.18966224429377,34.87229259661121,0.3080872573093063
+moodys_mi_detail,Moody's MI (detail),2023,9,"Dealers, Maintenance, & Repair",Moody's detailed,69.35871276280103,2.3435125982254963,0.03378829428741051
+moodys_mi_detail,Moody's MI (detail),2023,10,Logistics,Moody's detailed,49.18847719828288,6.904055904755827,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2024,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,16.154409045573864,5.13115503498681,0.31763186263954923
+moodys_mi_detail,Moody's MI (detail),2024,1,Materials & Processing - Metals,Moody's detailed,9.2510507106781,3.397531488040239,0.36725898433554266
+moodys_mi_detail,Moody's MI (detail),2024,1,Materials & Processing - Non-Metals,Moody's detailed,48.95819367055048,13.29649801515616,0.27158881932268514
+moodys_mi_detail,Moody's MI (detail),2024,2,Equipment Manufacturing,Moody's detailed,47.26874713098381,6.163627733310582,0.13039541150161849
+moodys_mi_detail,Moody's MI (detail),2024,3,Forging & Foundries,Moody's detailed,16.417431360433866,8.996193302738757,0.5479659457824596
+moodys_mi_detail,Moody's MI (detail),2024,4,Parts & Machining,Moody's detailed,49.90362583772797,14.941692724839822,0.29941096411362667
+moodys_mi_detail,Moody's MI (detail),2024,5,Component Systems,Moody's detailed,18.9678549911269,5.8619151182153315,0.3090447033129216
+moodys_mi_detail,Moody's MI (detail),2024,6,Engineering & Design,Moody's detailed,118.85586240982659,1.0297796979140876,0.008664105219844412
+moodys_mi_detail,Moody's MI (detail),2024,7,Core Automotive,Moody's detailed,175.57376562967357,105.62042209199352,0.6015729155958975
+moodys_mi_detail,Moody's MI (detail),2024,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,114.4875240223467,35.530172065117355,0.31034099451903824
+moodys_mi_detail,Moody's MI (detail),2024,9,"Dealers, Maintenance, & Repair",Moody's detailed,69.6122783163643,2.347144942691819,0.03371739870407398
+moodys_mi_detail,Moody's MI (detail),2024,10,Logistics,Moody's detailed,47.14308230082194,6.6169658884813325,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2025,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,15.97811599661971,5.080335621027518,0.31795586050960584
+moodys_mi_detail,Moody's MI (detail),2025,1,Materials & Processing - Metals,Moody's detailed,9.064882494545122,3.3288596934016854,0.3672259067235409
+moodys_mi_detail,Moody's MI (detail),2025,1,Materials & Processing - Non-Metals,Moody's detailed,47.50066823861289,12.879796949317027,0.2711498054009933
+moodys_mi_detail,Moody's MI (detail),2025,2,Equipment Manufacturing,Moody's detailed,46.12176721220478,6.01368738507926,0.13038718480604777
+moodys_mi_detail,Moody's MI (detail),2025,3,Forging & Foundries,Moody's detailed,15.84352032773543,8.63696167835199,0.5451415783670409
+moodys_mi_detail,Moody's MI (detail),2025,4,Parts & Machining,Moody's detailed,49.031357595192674,14.673503122576665,0.29926773073922275
+moodys_mi_detail,Moody's MI (detail),2025,5,Component Systems,Moody's detailed,18.77132858010194,5.833709627130608,0.31077766297876647
+moodys_mi_detail,Moody's MI (detail),2025,6,Engineering & Design,Moody's detailed,117.41559026453992,1.0173602314954482,0.008664609437326961
+moodys_mi_detail,Moody's MI (detail),2025,7,Core Automotive,Moody's detailed,170.2371319979191,101.32880037770204,0.5952214959715171
+moodys_mi_detail,Moody's MI (detail),2025,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,115.46544024608774,35.86865791606914,0.31064410129666015
+moodys_mi_detail,Moody's MI (detail),2025,9,"Dealers, Maintenance, & Repair",Moody's detailed,70.62607612783856,2.369105588621509,0.03354434676978583
+moodys_mi_detail,Moody's MI (detail),2025,10,Logistics,Moody's detailed,47.285340646462785,6.636933157792463,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2026,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,16.02032552257271,5.10116312755385,0.3184181944596749
+moodys_mi_detail,Moody's MI (detail),2026,1,Materials & Processing - Metals,Moody's detailed,8.85117549937587,3.248931693746598,0.36706217089195586
+moodys_mi_detail,Moody's MI (detail),2026,1,Materials & Processing - Non-Metals,Moody's detailed,47.46206451591292,12.820009174523681,0.2701106516389617
+moodys_mi_detail,Moody's MI (detail),2026,2,Equipment Manufacturing,Moody's detailed,45.76719044198069,5.991755268656751,0.13091813613187664
+moodys_mi_detail,Moody's MI (detail),2026,3,Forging & Foundries,Moody's detailed,15.539287476701034,8.436079957262232,0.5428871799888471
+moodys_mi_detail,Moody's MI (detail),2026,4,Parts & Machining,Moody's detailed,48.89409930728921,14.611470933355463,0.2988391470620088
+moodys_mi_detail,Moody's MI (detail),2026,5,Component Systems,Moody's detailed,18.69045656486302,5.784439847164965,0.30948627857702404
+moodys_mi_detail,Moody's MI (detail),2026,6,Engineering & Design,Moody's detailed,118.06366275453374,1.0162125743751338,0.008607327188280972
+moodys_mi_detail,Moody's MI (detail),2026,7,Core Automotive,Moody's detailed,170.38314837652447,99.06103424329328,0.5814015950942598
+moodys_mi_detail,Moody's MI (detail),2026,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,115.42494244596361,35.92600880939279,0.31124996078045797
+moodys_mi_detail,Moody's MI (detail),2026,9,"Dealers, Maintenance, & Repair",Moody's detailed,70.75793826781945,2.366653515310053,0.03344718024926401
+moodys_mi_detail,Moody's MI (detail),2026,10,Logistics,Moody's detailed,46.319248311838294,6.501333198872889,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2027,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,15.977101018074986,5.09370432780074,0.3188128010230519
+moodys_mi_detail,Moody's MI (detail),2027,1,Materials & Processing - Metals,Moody's detailed,8.584679997940581,3.1496483170292153,0.36689175575383115
+moodys_mi_detail,Moody's MI (detail),2027,1,Materials & Processing - Non-Metals,Moody's detailed,47.16267005993299,12.71229823596385,0.26954152976940066
+moodys_mi_detail,Moody's MI (detail),2027,2,Equipment Manufacturing,Moody's detailed,45.67168117253374,6.009555993210469,0.1315816680911787
+moodys_mi_detail,Moody's MI (detail),2027,3,Forging & Foundries,Moody's detailed,15.120139054309565,8.168106565014273,0.5402137199714567
+moodys_mi_detail,Moody's MI (detail),2027,4,Parts & Machining,Moody's detailed,48.66002063109376,14.52080902309641,0.29841354020753563
+moodys_mi_detail,Moody's MI (detail),2027,5,Component Systems,Moody's detailed,18.705889618254645,5.784424134000103,0.3092301008958813
+moodys_mi_detail,Moody's MI (detail),2027,6,Engineering & Design,Moody's detailed,119.32747577571675,1.0233837486591661,0.008576262440870518
+moodys_mi_detail,Moody's MI (detail),2027,7,Core Automotive,Moody's detailed,171.97297017389906,98.17097281048065,0.5708511791778101
+moodys_mi_detail,Moody's MI (detail),2027,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,115.48908983596093,36.04716554302748,0.31212615489678175
+moodys_mi_detail,Moody's MI (detail),2027,9,"Dealers, Maintenance, & Repair",Moody's detailed,70.69457637883009,2.3606089454268004,0.033391655574496075
+moodys_mi_detail,Moody's MI (detail),2027,10,Logistics,Moody's detailed,45.1269640145113,6.333985114281332,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2028,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,15.941978604313235,5.086500702605803,0.3190633251276355
+moodys_mi_detail,Moody's MI (detail),2028,1,Materials & Processing - Metals,Moody's detailed,8.344315883146455,3.0600835617495727,0.3667267160786923
+moodys_mi_detail,Moody's MI (detail),2028,1,Materials & Processing - Non-Metals,Moody's detailed,46.754289714330774,12.579086455692748,0.2690466806907153
+moodys_mi_detail,Moody's MI (detail),2028,2,Equipment Manufacturing,Moody's detailed,45.574899907547675,6.026117284563302,0.13222447656029443
+moodys_mi_detail,Moody's MI (detail),2028,3,Forging & Foundries,Moody's detailed,14.7473600859011,7.928606091043722,0.5376288396608487
+moodys_mi_detail,Moody's MI (detail),2028,4,Parts & Machining,Moody's detailed,48.44352582713857,14.439642528492103,0.29807166761596166
+moodys_mi_detail,Moody's MI (detail),2028,5,Component Systems,Moody's detailed,18.691516139906067,5.783023844478956,0.30939297814008243
+moodys_mi_detail,Moody's MI (detail),2028,6,Engineering & Design,Moody's detailed,120.68995954135805,1.0314575583523078,0.008546341073209555
+moodys_mi_detail,Moody's MI (detail),2028,7,Core Automotive,Moody's detailed,173.89840373520533,97.46570398104565,0.5604749778465847
+moodys_mi_detail,Moody's MI (detail),2028,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,115.70747416866244,36.204401514415444,0.3128959626380025
+moodys_mi_detail,Moody's MI (detail),2028,9,"Dealers, Maintenance, & Repair",Moody's detailed,70.8327886264023,2.359394137613563,0.033309349855726554
+moodys_mi_detail,Moody's MI (detail),2028,10,Logistics,Moody's detailed,44.02085211603892,6.178732119699188,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2029,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,15.864393815162032,5.064869972021744,0.3192602270867173
+moodys_mi_detail,Moody's MI (detail),2029,1,Materials & Processing - Metals,Moody's detailed,8.103596936806014,2.970510861267477,0.36656695593725896
+moodys_mi_detail,Moody's MI (detail),2029,1,Materials & Processing - Non-Metals,Moody's detailed,46.22180839638637,12.416084318064257,0.2686196137456826
+moodys_mi_detail,Moody's MI (detail),2029,2,Equipment Manufacturing,Moody's detailed,45.34514207329827,6.023986943683158,0.13284745990972238
+moodys_mi_detail,Moody's MI (detail),2029,3,Forging & Foundries,Moody's detailed,14.369396967006205,7.690149450083194,0.5351755169504097
+moodys_mi_detail,Moody's MI (detail),2029,4,Parts & Machining,Moody's detailed,48.11966119962747,14.32686112619411,0.2977340398711083
+moodys_mi_detail,Moody's MI (detail),2029,5,Component Systems,Moody's detailed,18.634916022217865,5.766663373555842,0.3094547550780705
+moodys_mi_detail,Moody's MI (detail),2029,6,Engineering & Design,Moody's detailed,121.91499732803935,1.0384158521402451,0.008517539883515371
+moodys_mi_detail,Moody's MI (detail),2029,7,Core Automotive,Moody's detailed,175.61447113147568,96.63686384309617,0.550278477738591
+moodys_mi_detail,Moody's MI (detail),2029,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,115.88971375981687,36.32002063241697,0.31340159065101103
+moodys_mi_detail,Moody's MI (detail),2029,9,"Dealers, Maintenance, & Repair",Moody's detailed,71.15227551957878,2.361332320335471,0.03318702463262344
+moodys_mi_detail,Moody's MI (detail),2029,10,Logistics,Moody's detailed,42.95828506192946,6.029591045163554,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2030,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,15.783889952984795,5.042694500965471,0.31948363274110875
+moodys_mi_detail,Moody's MI (detail),2030,1,Materials & Processing - Metals,Moody's detailed,7.8844410994767475,2.888958829177479,0.36641263378442956
+moodys_mi_detail,Moody's MI (detail),2030,1,Materials & Processing - Non-Metals,Moody's detailed,45.73871664842323,12.268361606412704,0.2682270624406694
+moodys_mi_detail,Moody's MI (detail),2030,2,Equipment Manufacturing,Moody's detailed,45.13015791470117,6.022603326014149,0.13344963998125703
+moodys_mi_detail,Moody's MI (detail),2030,3,Forging & Foundries,Moody's detailed,14.02006113345008,7.471334355927416,0.532903122519328
+moodys_mi_detail,Moody's MI (detail),2030,4,Parts & Machining,Moody's detailed,47.793034940524386,14.213387806739282,0.2973945434607157
+moodys_mi_detail,Moody's MI (detail),2030,5,Component Systems,Moody's detailed,18.58149971542941,5.750180111947852,0.3094572666367241
+moodys_mi_detail,Moody's MI (detail),2030,6,Engineering & Design,Moody's detailed,123.13853039417853,1.0454286852360206,0.008489858388674127
+moodys_mi_detail,Moody's MI (detail),2030,7,Core Automotive,Moody's detailed,177.51076151940282,95.90988453821849,0.5403046199412257
+moodys_mi_detail,Moody's MI (detail),2030,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,116.08863857676627,36.40733891521301,0.313616727369387
+moodys_mi_detail,Moody's MI (detail),2030,9,"Dealers, Maintenance, & Repair",Moody's detailed,71.68698234847825,2.367769944655873,0.03302928742551729
+moodys_mi_detail,Moody's MI (detail),2030,10,Logistics,Moody's detailed,41.96360290408131,5.88997824118176,0.14035921211638647
+moodys_mi_detail,Moody's MI (detail),2031,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,15.665294986529652,5.009850031236089,0.31980566184958426
+moodys_mi_detail,Moody's MI (detail),2031,1,Materials & Processing - Metals,Moody's detailed,7.670794279584238,2.809534814589003,0.3662638720564517
+moodys_mi_detail,Moody's MI (detail),2031,1,Materials & Processing - Non-Metals,Moody's detailed,45.20195656843388,12.106495621756126,0.2678312299032321
+moodys_mi_detail,Moody's MI (detail),2031,2,Equipment Manufacturing,Moody's detailed,44.83455356850709,6.009208093106157,0.13403073332544957
+moodys_mi_detail,Moody's MI (detail),2031,3,Forging & Foundries,Moody's detailed,13.665895063637784,7.254716569686995,0.5308628915928343
+moodys_mi_detail,Moody's MI (detail),2031,4,Parts & Machining,Moody's detailed,47.360995674634964,14.06717797297755,0.2970203175122748
+moodys_mi_detail,Moody's MI (detail),2031,5,Component Systems,Moody's detailed,18.508480748181427,5.723193062920631,0.3092200349011882
+moodys_mi_detail,Moody's MI (detail),2031,6,Engineering & Design,Moody's detailed,124.2116742411826,1.0512397744193605,0.008463292849415759
+moodys_mi_detail,Moody's MI (detail),2031,7,Core Automotive,Moody's detailed,178.47409867349782,94.69260161135757,0.5305677536133078
+moodys_mi_detail,Moody's MI (detail),2031,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,116.14035697266004,36.44158087338071,0.31377190343886424
+moodys_mi_detail,Moody's MI (detail),2031,9,"Dealers, Maintenance, & Repair",Moody's detailed,72.14913858396264,2.371825114494943,0.03287392145000819
+moodys_mi_detail,Moody's MI (detail),2031,10,Logistics,Moody's detailed,40.91484017598903,5.742774730969695,0.14035921211638647
+moodys_mi_detail,Moody's MI (detail),2032,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,15.471274610137746,4.953634765686507,0.3201827186520609
+moodys_mi_detail,Moody's MI (detail),2032,1,Materials & Processing - Metals,Moody's detailed,7.444905283108023,2.7257332402302956,0.3661206068551062
+moodys_mi_detail,Moody's MI (detail),2032,1,Materials & Processing - Non-Metals,Moody's detailed,44.46069752073063,11.890211875140658,0.2674319688663594
+moodys_mi_detail,Moody's MI (detail),2032,2,Equipment Manufacturing,Moody's detailed,44.38233091251068,5.973454047505719,0.13459081406249207
+moodys_mi_detail,Moody's MI (detail),2032,3,Forging & Foundries,Moody's detailed,13.276054149174968,7.023654163067839,0.5290468149758427
+moodys_mi_detail,Moody's MI (detail),2032,4,Parts & Machining,Moody's detailed,46.73004200612062,13.860050371282302,0.29659828616175726
+moodys_mi_detail,Moody's MI (detail),2032,5,Component Systems,Moody's detailed,18.383880650124368,5.674724431248945,0.3086793555315295
+moodys_mi_detail,Moody's MI (detail),2032,6,Engineering & Design,Moody's detailed,124.89034510002729,1.0538028794209127,0.008437825026241219
+moodys_mi_detail,Moody's MI (detail),2032,7,Core Automotive,Moody's detailed,178.03035126016582,92.76786458946916,0.5210789280188648
+moodys_mi_detail,Moody's MI (detail),2032,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,115.82076879553671,36.363717636535696,0.31396543137034516
+moodys_mi_detail,Moody's MI (detail),2032,9,"Dealers, Maintenance, & Repair",Moody's detailed,72.26938003523632,2.367105822167496,0.032753924566854845
+moodys_mi_detail,Moody's MI (detail),2032,10,Logistics,Moody's detailed,39.742559315548384,5.578234313019128,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2033,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,15.21354956364137,4.877173818199813,0.32058092674543853
+moodys_mi_detail,Moody's MI (detail),2033,1,Materials & Processing - Metals,Moody's detailed,7.206964836051743,2.637625963714753,0.3659829101039083
+moodys_mi_detail,Moody's MI (detail),2033,1,Materials & Processing - Non-Metals,Moody's detailed,43.54162402057868,11.627399558494155,0.2670410169588255
+moodys_mi_detail,Moody's MI (detail),2033,2,Equipment Manufacturing,Moody's detailed,43.831640004181864,5.922943898427457,0.13512941559709754
+moodys_mi_detail,Moody's MI (detail),2033,3,Forging & Foundries,Moody's detailed,12.857308276427837,6.780823645674499,0.5273906092853227
+moodys_mi_detail,Moody's MI (detail),2033,4,Parts & Machining,Moody's detailed,45.933374731559674,13.602919109286988,0.29614456130828903
+moodys_mi_detail,Moody's MI (detail),2033,5,Component Systems,Moody's detailed,18.217461860226322,5.611737711117509,0.3080416884730501
+moodys_mi_detail,Moody's MI (detail),2033,6,Engineering & Design,Moody's detailed,125.27888783506306,1.0540281689190019,0.008413454071420967
+moodys_mi_detail,Moody's MI (detail),2033,7,Core Automotive,Moody's detailed,176.6842768099846,90.43968577317405,0.5118717262568733
+moodys_mi_detail,Moody's MI (detail),2033,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,115.14424285640621,36.16364827796545,0.3140725700290923
+moodys_mi_detail,Moody's MI (detail),2033,9,"Dealers, Maintenance, & Repair",Moody's detailed,72.10672330886482,2.3554904496806683,0.03266672428853918
+moodys_mi_detail,Moody's MI (detail),2033,10,Logistics,Moody's detailed,38.518412596667,5.4064140440420765,0.1403592121163865
+moodys_mi_detail,Moody's MI (detail),2034,1,Materials & Processing - Coatings & Surface Treatments,Moody's detailed,14.939210245440455,4.797107827036793,0.321108529046969
+moodys_mi_detail,Moody's MI (detail),2034,1,Materials & Processing - Metals,Moody's detailed,6.968554265949349,2.5494513780754406,0.36585083229284726
+moodys_mi_detail,Moody's MI (detail),2034,1,Materials & Processing - Non-Metals,Moody's detailed,42.61936804219266,11.364004596674244,0.2666394439594697
+moodys_mi_detail,Moody's MI (detail),2034,2,Equipment Manufacturing,Moody's detailed,43.23493526619694,5.864648058638202,0.13564604694166046
+moodys_mi_detail,Moody's MI (detail),2034,3,Forging & Foundries,Moody's detailed,12.436586932021001,6.539513781503343,0.5258286551807702
+moodys_mi_detail,Moody's MI (detail),2034,4,Parts & Machining,Moody's detailed,45.07870161467519,13.328557076444618,0.29567304733784877
+moodys_mi_detail,Moody's MI (detail),2034,5,Component Systems,Moody's detailed,18.033087703013713,5.5402535767239804,0.30722711872565706
+moodys_mi_detail,Moody's MI (detail),2034,6,Engineering & Design,Moody's detailed,125.63979459120304,1.0541411800430307,0.008390185478039923
+moodys_mi_detail,Moody's MI (detail),2034,7,Core Automotive,Moody's detailed,174.92247881842204,87.98133921586117,0.5029733160092594
+moodys_mi_detail,Moody's MI (detail),2034,8,"Motor Vehicle Parts, Materials, & Products Sales",Moody's detailed,114.33043499742186,35.913164608221955,0.3141172742763709
+moodys_mi_detail,Moody's MI (detail),2034,9,"Dealers, Maintenance, & Repair",Moody's detailed,71.82002134863649,2.341345599554419,0.03260017966562286
+moodys_mi_detail,Moody's MI (detail),2034,10,Logistics,Moody's detailed,37.33009001503495,5.239622022744092,0.1403592121163865

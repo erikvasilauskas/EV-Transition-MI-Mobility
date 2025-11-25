@@ -1019,6 +1019,116 @@ segment_id,segment_name,year,adjustment_source,forecast_source,value_type,employ
 8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,sam_mi,moodys_mi,Forecast,118067.24503886762
 9,"9. Dealers, Maintenance, & Repair",2034,sam_mi,moodys_mi,Forecast,73160.15222490279
 10,10. Logistics,2034,sam_mi,moodys_mi,Forecast,38614.774675555454
+1,1. Materials & Processing,2024,sam_mi,moodys_mi_detail,QCEW,21247.66878566509
+2,2. Equipment Manufacturing,2024,sam_mi,moodys_mi_detail,QCEW,6244.586842570626
+3,3. Forging & Foundries,2024,sam_mi,moodys_mi_detail,QCEW,9023.139594640334
+4,4. Parts & Machining,2024,sam_mi,moodys_mi_detail,QCEW,14936.444494648236
+5,5. Component Systems,2024,sam_mi,moodys_mi_detail,QCEW,5987.024880706003
+6,6. Engineering & Design,2024,sam_mi,moodys_mi_detail,QCEW,1032.0255054257461
+7,7. Core Automotive,2024,sam_mi,moodys_mi_detail,QCEW,173082.0
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2024,sam_mi,moodys_mi_detail,QCEW,115340.0
+9,"9. Dealers, Maintenance, & Repair",2024,sam_mi,moodys_mi_detail,QCEW,69600.0
+10,10. Logistics,2024,sam_mi,moodys_mi_detail,QCEW,46889.0
+1,1. Materials & Processing,2025,sam_mi,moodys_mi_detail,Forecast,20713.34378147685
+2,2. Equipment Manufacturing,2025,sam_mi,moodys_mi_detail,Forecast,6092.666971132827
+3,3. Forging & Foundries,2025,sam_mi,moodys_mi_detail,Forecast,8657.995895779444
+4,4. Parts & Machining,2025,sam_mi,moodys_mi_detail,Forecast,14666.956508239542
+5,5. Component Systems,2025,sam_mi,moodys_mi_detail,Forecast,5956.343952017109
+6,6. Engineering & Design,2025,sam_mi,moodys_mi_detail,Forecast,1019.5866519125034
+7,7. Core Automotive,2025,sam_mi,moodys_mi_detail,Forecast,167800.97036023333
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2025,sam_mi,moodys_mi_detail,Forecast,116326.04595949763
+9,"9. Dealers, Maintenance, & Repair",2025,sam_mi,moodys_mi_detail,Forecast,70620.15272872713
+10,10. Logistics,2025,sam_mi,moodys_mi_detail,Forecast,47029.10753985807
+1,1. Materials & Processing,2026,sam_mi,moodys_mi_detail,Forecast,20599.623123520956
+2,2. Equipment Manufacturing,2026,sam_mi,moodys_mi_detail,Forecast,6071.0911460137395
+3,3. Forging & Foundries,2026,sam_mi,moodys_mi_detail,Forecast,8452.81933161672
+4,4. Parts & Machining,2026,sam_mi,moodys_mi_detail,Forecast,14604.470013531522
+5,5. Component Systems,2026,sam_mi,moodys_mi_detail,Forecast,5905.859376380033
+6,6. Engineering & Design,2026,sam_mi,moodys_mi_detail,Forecast,1018.4815560404097
+7,7. Core Automotive,2026,sam_mi,moodys_mi_detail,Forecast,167953.60811758047
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2026,sam_mi,moodys_mi_detail,Forecast,116282.50057063901
+9,"9. Dealers, Maintenance, & Repair",2026,sam_mi,moodys_mi_detail,Forecast,70755.67926883949
+10,10. Logistics,2026,sam_mi,moodys_mi_detail,Forecast,46067.4380044285
+1,1. Materials & Processing,2027,sam_mi,moodys_mi_detail,Forecast,20389.936636277744
+2,2. Equipment Manufacturing,2027,sam_mi,moodys_mi_detail,Forecast,6089.927852699738
+3,3. Forging & Foundries,2027,sam_mi,moodys_mi_detail,Forecast,8179.9046734152125
+4,4. Parts & Machining,2027,sam_mi,moodys_mi_detail,Forecast,14514.374140139422
+5,5. Component Systems,2027,sam_mi,moodys_mi_detail,Forecast,5905.723626426209
+6,6. Engineering & Design,2027,sam_mi,moodys_mi_detail,Forecast,1025.7263498700638
+7,7. Core Automotive,2027,sam_mi,moodys_mi_detail,Forecast,169526.62823210887
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2027,sam_mi,moodys_mi_detail,Forecast,116342.64271089605
+9,"9. Dealers, Maintenance, & Repair",2027,sam_mi,moodys_mi_detail,Forecast,70694.41782035932
+10,10. Logistics,2027,sam_mi,moodys_mi_detail,Forecast,44881.438116111225
+1,1. Materials & Processing,2028,sam_mi,moodys_mi_detail,Forecast,20164.53068757691
+2,2. Equipment Manufacturing,2028,sam_mi,moodys_mi_detail,Forecast,6107.4803817065185
+3,3. Forging & Foundries,2028,sam_mi,moodys_mi_detail,Forecast,7935.879359808459
+4,4. Parts & Machining,2028,sam_mi,moodys_mi_detail,Forecast,14433.074549685163
+5,5. Component Systems,2028,sam_mi,moodys_mi_detail,Forecast,5904.236172077721
+6,6. Engineering & Design,2028,sam_mi,moodys_mi_detail,Forecast,1033.8757762149917
+7,7. Core Automotive,2028,sam_mi,moodys_mi_detail,Forecast,171430.80516339553
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2028,sam_mi,moodys_mi_detail,Forecast,116558.89760343956
+9,"9. Dealers, Maintenance, & Repair",2028,sam_mi,moodys_mi_detail,Forecast,70835.74638013635
+10,10. Logistics,2028,sam_mi,moodys_mi_detail,Forecast,43781.15907351396
+1,1. Materials & Processing,2029,sam_mi,moodys_mi_detail,Forecast,19895.977926252992
+2,2. Equipment Manufacturing,2029,sam_mi,moodys_mi_detail,Forecast,6106.059914930845
+3,3. Forging & Foundries,2029,sam_mi,moodys_mi_detail,Forecast,7693.320825294876
+4,4. Parts & Machining,2029,sam_mi,moodys_mi_detail,Forecast,14320.25600495678
+5,5. Component Systems,2029,sam_mi,moodys_mi_detail,Forecast,5887.419266648452
+6,6. Engineering & Design,2029,sam_mi,moodys_mi_detail,Forecast,1040.906894850342
+7,7. Core Automotive,2029,sam_mi,moodys_mi_detail,Forecast,173128.8847708976
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2029,sam_mi,moodys_mi_detail,Forecast,116740.65375056109
+9,"9. Dealers, Maintenance, & Repair",2029,sam_mi,moodys_mi_detail,Forecast,71159.89952370929
+10,10. Logistics,2029,sam_mi,moodys_mi_detail,Forecast,42724.203812161686
+1,1. Materials & Processing,2030,sam_mi,moodys_mi_detail,Forecast,19649.73515071348
+2,2. Equipment Manufacturing,2030,sam_mi,moodys_mi_detail,Forecast,6105.364701206261
+3,3. Forging & Foundries,2030,sam_mi,moodys_mi_detail,Forecast,7470.890075979913
+4,4. Parts & Machining,2030,sam_mi,moodys_mi_detail,Forecast,14206.889340782625
+5,5. Component Systems,2030,sam_mi,moodys_mi_detail,Forecast,5870.490278329624
+6,6. Engineering & Design,2030,sam_mi,moodys_mi_detail,Forecast,1047.992311069022
+7,7. Core Automotive,2030,sam_mi,moodys_mi_detail,Forecast,175004.8842921995
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2030,sam_mi,moodys_mi_detail,Forecast,116941.32953853875
+9,"9. Dealers, Maintenance, & Repair",2030,sam_mi,moodys_mi_detail,Forecast,71700.708618174
+10,10. Logistics,2030,sam_mi,moodys_mi_detail,Forecast,41734.77862917185
+1,1. Materials & Processing,2031,sam_mi,moodys_mi_detail,Forecast,19381.573090574522
+2,2. Equipment Manufacturing,2031,sam_mi,moodys_mi_detail,Forecast,6092.460352623926
+3,3. Forging & Foundries,2031,sam_mi,moodys_mi_detail,Forecast,7251.186736801585
+4,4. Parts & Machining,2031,sam_mi,moodys_mi_detail,Forecast,14061.263580072333
+5,5. Component Systems,2031,sam_mi,moodys_mi_detail,Forecast,5842.800172964862
+6,6. Engineering & Design,2031,sam_mi,moodys_mi_detail,Forecast,1053.872472623958
+7,7. Core Automotive,2031,sam_mi,moodys_mi_detail,Forecast,175961.28725844348
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2031,sam_mi,moodys_mi_detail,Forecast,116994.10448044937
+9,"9. Dealers, Maintenance, & Repair",2031,sam_mi,moodys_mi_detail,Forecast,72168.94582892774
+10,10. Logistics,2031,sam_mi,moodys_mi_detail,Forecast,40691.58218150624
+1,1. Materials & Processing,2032,sam_mi,moodys_mi_detail,Forecast,19033.556279822635
+2,2. Equipment Manufacturing,2032,sam_mi,moodys_mi_detail,Forecast,6056.852164585473
+3,3. Forging & Foundries,2032,sam_mi,moodys_mi_detail,Forecast,7017.547116635533
+4,4. Parts & Machining,2032,sam_mi,moodys_mi_detail,Forecast,13855.321479021623
+5,5. Component Systems,2032,sam_mi,moodys_mi_detail,Forecast,5793.155082165955
+6,6. Engineering & Design,2032,sam_mi,moodys_mi_detail,Forecast,1056.4956263403092
+7,7. Core Automotive,2032,sam_mi,moodys_mi_detail,Forecast,175530.48371933098
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2032,sam_mi,moodys_mi_detail,Forecast,116672.49248069678
+9,"9. Dealers, Maintenance, & Repair",2032,sam_mi,moodys_mi_detail,Forecast,72293.85629752898
+10,10. Logistics,2032,sam_mi,moodys_mi_detail,Forecast,39525.55600229159
+1,1. Materials & Processing,2033,sam_mi,moodys_mi_detail,Forecast,18616.435403630418
+2,2. Equipment Manufacturing,2033,sam_mi,moodys_mi_detail,Forecast,6006.243243524417
+3,3. Forging & Foundries,2033,sam_mi,moodys_mi_detail,Forecast,6772.544084994452
+4,4. Parts & Machining,2033,sam_mi,moodys_mi_detail,Forecast,13599.790303635276
+5,5. Component Systems,2033,sam_mi,moodys_mi_detail,Forecast,5728.699476101039
+6,6. Engineering & Design,2033,sam_mi,moodys_mi_detail,Forecast,1056.7736984884575
+7,7. Core Automotive,2033,sam_mi,moodys_mi_detail,Forecast,174209.95566571102
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2033,sam_mi,moodys_mi_detail,Forecast,115991.89118808645
+9,"9. Dealers, Maintenance, & Repair",2033,sam_mi,moodys_mi_detail,Forecast,72134.5058301287
+10,10. Logistics,2033,sam_mi,moodys_mi_detail,Forecast,38307.9616834904
+1,1. Materials & Processing,2034,sam_mi,moodys_mi_detail,Forecast,18195.037396564174
+2,2. Equipment Manufacturing,2034,sam_mi,moodys_mi_detail,Forecast,5947.699021048904
+3,3. Forging & Foundries,2034,sam_mi,moodys_mi_detail,Forecast,6529.347592525853
+4,4. Parts & Machining,2034,sam_mi,moodys_mi_detail,Forecast,13327.276391166599
+5,5. Component Systems,2034,sam_mi,moodys_mi_detail,Forecast,5655.581967520167
+6,6. Engineering & Design,2034,sam_mi,moodys_mi_detail,Forecast,1056.9376632994297
+7,7. Core Automotive,2034,sam_mi,moodys_mi_detail,Forecast,172479.36541486753
+8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,sam_mi,moodys_mi_detail,Forecast,115173.37853225516
+9,"9. Dealers, Maintenance, & Repair",2034,sam_mi,moodys_mi_detail,Forecast,71850.248330309
+10,10. Logistics,2034,sam_mi,moodys_mi_detail,Forecast,37126.00983223313
 1,1. Materials & Processing,2001,sam_mi,moodys_us,QCEW,30402.003453450743
 2,2. Equipment Manufacturing,2001,sam_mi,moodys_us,QCEW,8381.597086643374
 3,3. Forging & Foundries,2001,sam_mi,moodys_us,QCEW,13346.706934542986
@@ -1461,6 +1571,17 @@ segment_id,segment_name,year,adjustment_source,forecast_source,value_type,employ
 11,Upstream + Core/OEM,2032,sam_mi,moodys_mi,Forecast,229712.44866460975
 11,Upstream + Core/OEM,2033,sam_mi,moodys_mi,Forecast,230128.6357301721
 11,Upstream + Core/OEM,2034,sam_mi,moodys_mi,Forecast,230698.676413624
+11,Upstream + Core/OEM,2024,sam_mi,moodys_mi_detail,QCEW,231552.89010365604
+11,Upstream + Core/OEM,2025,sam_mi,moodys_mi_detail,Forecast,224907.8641207916
+11,Upstream + Core/OEM,2026,sam_mi,moodys_mi_detail,Forecast,224605.95266468383
+11,Upstream + Core/OEM,2027,sam_mi,moodys_mi_detail,Forecast,225632.22151093726
+11,Upstream + Core/OEM,2028,sam_mi,moodys_mi_detail,Forecast,227009.88209046528
+11,Upstream + Core/OEM,2029,sam_mi,moodys_mi_detail,Forecast,228072.82560383188
+11,Upstream + Core/OEM,2030,sam_mi,moodys_mi_detail,Forecast,229356.24615028044
+11,Upstream + Core/OEM,2031,sam_mi,moodys_mi_detail,Forecast,229644.44366410468
+11,Upstream + Core/OEM,2032,sam_mi,moodys_mi_detail,Forecast,228343.41146790254
+11,Upstream + Core/OEM,2033,sam_mi,moodys_mi_detail,Forecast,225990.4418760851
+11,Upstream + Core/OEM,2034,sam_mi,moodys_mi_detail,Forecast,223191.24544699263
 11,Upstream + Core/OEM,2001,sam_mi,moodys_us,QCEW,377757.6658239419
 11,Upstream + Core/OEM,2002,sam_mi,moodys_us,QCEW,351643.63102832204
 11,Upstream + Core/OEM,2003,sam_mi,moodys_us,QCEW,328362.2626408276

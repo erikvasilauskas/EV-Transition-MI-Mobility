@@ -11,7 +11,7 @@ This folder contains the “SAM-standard” employment and occupation data produ
 | Historical employment | `data/raw/MI-QCEW-38-NAICS-2001-2024.xlsx` | Annual QCEW employment for each tracked NAICS, 2001‑2024. Series IDs map to NAICS using the final four digits. |
 | Michigan staffing patterns | `data/processed/mcda_staffing_detailed_2021_2024.csv` | Segment-by-SOC staffing shares (2024 baseline) plus openings metrics. |
 | BLS staffing drift | `data/processed/us_staffing_segments_summary.csv` | National SOC shares for 2024/2034 from EP Table 1.9, aggregated to the 10 segments. |
-| Moody’s growth diagnostics (optional) | `data/interim/moodys_growth_comparison_{mi,us}.csv`, `data/interim/moodys_growth_summary_{mi,us}.csv` | Produced by `scripts/compare_moodys_growth_paths.py`. These files capture the detailed Moody’s MI/US NAICS time series plus the per-year growth path implied by the original Moody’s forecast. They can be used later to replace the current flat six-year CAGR in the dashboard if we want Moody’s scenarios to follow their true annual pattern. |
+| Moody's growth diagnostics (optional) | `data/interim/moodys_growth_comparison_{mi,us}.csv`, `data/interim/moodys_growth_summary_{mi,us}.csv`, `data/interim/moodys_mi_annual_multipliers_2024_2034.csv` | Produced by `scripts/compare_moodys_growth_paths.py` and `scripts/build_moodys_mi_annual_multipliers.py`. These files capture the detailed Moody's MI/US NAICS time series plus the per-year growth path implied by the original Moody's forecast. When the annual multipliers exist, the dashboard builder emits an additional `moodys_mi_detail` scenario so the Moody's MI projection follows the true annual pattern instead of the flat six-year CAGR. |
 
 ### Publication-Ready Exports
 
@@ -20,7 +20,7 @@ This folder contains the “SAM-standard” employment and occupation data produ
 ## Processing Highlights
 
 1. **Historical NAICS panel (2001‑2023).** The script melts the QCEW workbook, maps Series IDs to NAICS codes, joins SAM metadata, and applies the SAM share so `employment_raw` and `employment_auto` are available back to 2001 for every projection scenario.
-2. **Forecast extension (2024‑2034).** For each projection method (Moody’s MI/US, DTMB MI, BLS US) six-year rates are annualized into a growth multiplier that is applied to both raw and auto-adjusted baselines.
+2. **Forecast extension (2024–2034).** For each projection method (Moody's MI/US, DTMB MI, BLS US) six-year rates are annualized into a growth multiplier that is applied to both raw and auto-adjusted baselines. When the Moody's MI annual multipliers file is present, a supplemental `moodys_mi_detail` scenario applies the true year-by-year Moody's growth path to the SAM-adjusted baseline.
 3. **Segment & stage rollups.** NAICS rows are summed to segments and stages, and an explicit “Upstream + Core/OEM” segment/stage aggregate is calculated to simplify charting.
 4. **Occupation forecasts with drift.** MCDA segment staffing shares are evolved using BLS drift factors (2024→2034) with annual normalization so segment totals match the employment forecasts. Occupation-level openings scale with the new SAM-adjusted employment levels.
 
@@ -28,7 +28,7 @@ This folder contains the “SAM-standard” employment and occupation data produ
 
 | File | Description |
 | --- | --- |
-| `sam_employment_naics_timeseries.csv` | NAICS-level employment 2001‑2034 for each projection method, including `segment_subgroup`, raw and SAM-adjusted employment, and projection metadata (rates/CAGR). Historical years (`value_type=QCEW`) come from the QCEW workbook; forecast years (`value_type=Forecast`) use the chosen scenario. |
+| `sam_employment_naics_timeseries.csv` | NAICS-level employment 2001–2034 for each projection method, including `segment_subgroup`, raw and SAM-adjusted employment, and projection metadata (rates/CAGR). Historical years (`value_type=QCEW`) come from the QCEW workbook; forecast years (`value_type=Forecast`) use the chosen scenario, including the optional detailed Moody's path (`projection_method=moodys_mi_detail`). |
 | `sam_employment_segment_timeseries.csv` | Segment totals (10 base segments + “Upstream + Core/OEM”) with raw/auto employment, auto-share ratios, adjustment source, and forecast source labels. |
 | `sam_employment_stage_timeseries.csv` | Stage totals, including the combined “Upstream + Core/OEM” row, mirroring the segment file structure. |
 | `sam_segment_totals_for_occ.csv` | Segment totals formatted for downstream occupation scripts; includes the canonical labels plus the aggregate segment. |

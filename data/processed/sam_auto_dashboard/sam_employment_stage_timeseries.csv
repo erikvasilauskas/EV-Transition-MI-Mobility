@@ -305,6 +305,39 @@ sam_mi,moodys_mi,Moody's MI,Upstream,2033,Forecast,51462.29054661601,187858.0762
 sam_mi,moodys_mi,Moody's MI,Downstream,2034,Forecast,229842.17193932587,229842.17193932587,1.0
 sam_mi,moodys_mi,Moody's MI,OEM,2034,Forecast,179822.1598853335,306499.66324644553,0.5866961091593268
 sam_mi,moodys_mi,Moody's MI,Upstream,2034,Forecast,50876.51652829049,186104.90381896094,0.2733754752522917
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2024,QCEW,231829.0,231829.0,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2024,QCEW,174114.02550542576,293289.0,0.5936602651494797
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2024,QCEW,57438.86459823029,205217.0,0.279893306101494
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2025,Forecast,233975.30622808283,233975.30622808283,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2025,Forecast,168820.55701214584,286553.3962944421,0.5891417069043485
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2025,Forecast,56087.30710864578,200608.30853022047,0.27958616230591743
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2026,Forecast,233105.617843907,233105.617843907,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2026,Forecast,168972.08967362088,287386.89496956754,0.5879603163237974
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2026,Forecast,55633.86299106297,199524.15788315283,0.2788327167061333
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2027,Forecast,231918.4986473666,231918.4986473666,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2027,Forecast,170552.35458197893,290261.59487604094,0.5875815388350463
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2027,Forecast,55079.86692895832,198193.37849043473,0.27790972306179546
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2028,Forecast,231175.80305708986,231175.80305708986,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2028,Forecast,172464.68093961052,293567.1628159356,0.5874794690431524
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2028,Forecast,54545.20115085477,196821.31192902915,0.27713056384119095
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2029,Forecast,230624.75708643207,230624.75708643207,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2029,Forecast,174169.79166574794,296527.38232816174,0.5873649519254085
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2029,Forecast,53903.03393808394,194998.58310357435,0.27642782362912405
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2030,Forecast,230376.8167858846,230376.8167858846,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2030,Forecast,176052.87660326852,299663.771308099,0.5875013714028846
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2030,Forecast,53303.3695470119,193287.25201707683,0.27577281476536575
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2031,Forecast,229854.63249088335,229854.63249088335,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2031,Forecast,177015.15973106746,301728.0233217758,0.5866712603697763
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2031,Forecast,52629.28393303723,191282.06639432468,0.2751396663843168
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2032,Forecast,228491.90478051733,228491.90478051733,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2032,Forecast,176586.9793456713,302005.2440853308,0.5847149438761967
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2032,Forecast,51756.43212223122,188549.4867889777,0.27449786792661174
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2033,Forecast,226434.35870170555,226434.35870170555,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2033,Forecast,175266.7293641995,301098.37076177145,0.5820912578197583
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2033,Forecast,50723.712511885606,185235.25310041054,0.27383401195446194
+sam_mi,moodys_mi_detail,Moody's MI (detail),Downstream,2034,Forecast,224149.63669479726,224149.63669479726,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),OEM,2034,Forecast,173536.30307816694,299752.7982962354,0.5789313863441133
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream,2034,Forecast,49654.942368825694,181776.79922872598,0.2731643563948219
 sam_mi,moodys_us,Moody's US,Downstream,2001,QCEW,219668.1764984131,219668.1764984131,1.0
 sam_mi,moodys_us,Moody's US,OEM,2001,QCEW,305093.7010813365,406790.0,0.7500029525832407
 sam_mi,moodys_us,Moody's US,Upstream,2001,QCEW,72663.9647426054,259100.0,0.2804475675129502
@@ -509,6 +542,17 @@ sam_mi,moodys_mi,Moody's MI,Upstream + Core/OEM,2031,Forecast,229446.70683297553
 sam_mi,moodys_mi,Moody's MI,Upstream + Core/OEM,2032,Forecast,229712.44866460975,492407.9856875905,0.46650837383119004
 sam_mi,moodys_mi,Moody's MI,Upstream + Core/OEM,2033,Forecast,230128.6357301721,492416.10832315375,0.4673458724042137
 sam_mi,moodys_mi,Moody's MI,Upstream + Core/OEM,2034,Forecast,230698.676413624,492604.5670654065,0.46832427435247986
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2025,Forecast,224907.8641207916,487161.70482466265,0.4616698354845843
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2026,Forecast,224605.95266468383,486911.0528527204,0.461287439150867
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2027,Forecast,225632.22151093726,488454.97336647566,0.4619304415222956
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2028,Forecast,227009.88209046528,490388.4747449648,0.46291846929829616
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2029,Forecast,228072.82560383188,491525.9654317361,0.4640097200226282
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2030,Forecast,229356.24615028044,492951.0233251758,0.4652718734676108
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2031,Forecast,229644.44366410468,493010.0897161005,0.4658006974996095
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2032,Forecast,228343.41146790254,490554.7308743085,0.4654799905016295
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2033,Forecast,225990.4418760851,486333.623862182,0.4646819195460905
+sam_mi,moodys_mi_detail,Moody's MI (detail),Upstream + Core/OEM,2034,Forecast,223191.24544699263,481529.59752496134,0.4635047286691924
 sam_mi,moodys_us,Moody's US,Upstream + Core/OEM,2001,QCEW,377757.6658239419,665890.0,0.5672974002071541
 sam_mi,moodys_us,Moody's US,Upstream + Core/OEM,2002,QCEW,351643.63102832204,623804.0,0.5637085222735378
 sam_mi,moodys_us,Moody's US,Upstream + Core/OEM,2003,QCEW,328362.2626408276,592810.0,0.5539081031710458
