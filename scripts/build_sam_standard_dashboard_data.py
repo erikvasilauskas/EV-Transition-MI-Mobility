@@ -19,11 +19,13 @@ from typing import Iterable, List
 import os
 import numpy as np
 import pandas as pd
+import re
 from process_moodys_time_series import read_wide
 
 
 YEARS = list(range(2024, 2035))
 TARGET_STAGE = {"upstream"}
+TARGET_CHANGE_YEAR = 2030
 OEM_NAICS = {"5413", "5414", "5417"}
 ADJUSTMENT_SOURCE = "sam_mi"
 BLS_SEGMENT_SUMMARY = Path("data/processed/us_staffing_segments_summary.csv")
@@ -44,6 +46,195 @@ SEGMENT_LABELS = {
     10: "10. Logistics",
     UPSTREAM_CORE_SEGMENT_ID: UPSTREAM_CORE_SEGMENT_NAME,
 }
+
+SEGMENT_CHANGE_STAGE_GROUPS = [
+    {"key": "upstream", "name": "Upstream", "label": "Upstream (segments 1-5)", "segments": set(range(1, 6))},
+    {"key": "core_oem", "name": "Core/OEM", "label": "Core/OEM (segments 6-7)", "segments": {6, 7}},
+    {"key": "downstream", "name": "Downstream", "label": "Downstream (segments 8-10)", "segments": {8, 9, 10}},
+    {
+        "key": "upstream_core",
+        "name": "Upstream + Core/OEM",
+        "label": "Upstream + Core/OEM (segments 1-7)",
+        "segments": set(range(1, 8)),
+    },
+    {
+        "key": "all_segments",
+        "name": "All Segments",
+        "label": "All Segments (segments 1-10)",
+        "segments": set(range(1, 11)),
+    },
+]
+
+MAJOR_OCCUPATIONS = {
+    "00": ("00-0000", "All Occupations"),
+    "11": ("11-0000", "Management Occupations"),
+    "13": ("13-0000", "Business and Financial Operations Occupations"),
+    "15": ("15-0000", "Computer and Mathematical Occupations"),
+    "17": ("17-0000", "Architecture and Engineering Occupations"),
+    "19": ("19-0000", "Life, Physical, and Social Science Occupations"),
+    "21": ("21-0000", "Community and Social Service Occupations"),
+    "23": ("23-0000", "Legal Occupations"),
+    "25": ("25-0000", "Educational Instruction and Library Occupations"),
+    "27": ("27-0000", "Arts, Design, Entertainment, Sports, and Media Occupations"),
+    "29": ("29-0000", "Healthcare Practitioners and Technical Occupations"),
+    "31": ("31-0000", "Healthcare Support Occupations"),
+    "33": ("33-0000", "Protective Service Occupations"),
+    "35": ("35-0000", "Food Preparation and Serving Related Occupations"),
+    "37": ("37-0000", "Building and Grounds Cleaning and Maintenance Occupations"),
+    "39": ("39-0000", "Personal Care and Service Occupations"),
+    "41": ("41-0000", "Sales and Related Occupations"),
+    "43": ("43-0000", "Office and Administrative Support Occupations"),
+    "45": ("45-0000", "Farming, Fishing, and Forestry Occupations"),
+    "47": ("47-0000", "Construction and Extraction Occupations"),
+    "49": ("49-0000", "Installation, Maintenance, and Repair Occupations"),
+    "51": ("51-0000", "Production Occupations"),
+    "53": ("53-0000", "Transportation and Material Moving Occupations"),
+}
+
+ADVANCED_TRAINING_LEVELS = {
+    "moderate-term on-the-job training",
+    "long-term on-the-job training",
+    "apprenticeship",
+    "internship/residency",
+}
+
+
+def _clean_text(value: str | float | None) -> str:
+    if isinstance(value, float) and np.isnan(value):
+        return ""
+    if value is None:
+        return ""
+    return str(value).strip().lower()
+
+
+def derive_training_group(education: str | float | None, training: str | float | None) -> str:
+    edu = _clean_text(education)
+    training_clean = _clean_text(training)
+    if edu.startswith("ba"):
+        return "BA+"
+    is_sc = "associate" in edu or "sc" in edu
+    if is_sc:
+        return "SC/Associate or Employer Training"
+    if edu.startswith("hs") or "less" in edu:
+        if training_clean in ADVANCED_TRAINING_LEVELS:
+            return "SC/Associate or Employer Training"
+        return "HS or Less - Limited Training"
+    return "SC/Associate or Employer Training"
+
+
+def _normalize_segment_name(name: str) -> str:
+    if not isinstance(name, str):
+        return ""
+    cleaned = re.sub(r"^\d+\.\s*", "", name)
+    cleaned = re.sub(r"[&,]", " ", cleaned)
+    cleaned = re.sub(r"\s+", " ", cleaned)
+    return cleaned.strip()
+
+
+def build_segment_change_tables(
+    segment_summary: pd.DataFrame,
+    base_year: int = YEARS[0],
+    target_year: int = TARGET_CHANGE_YEAR,
+) -> tuple[pd.DataFrame, pd.DataFrame]:
+    valid_segments = set(range(1, 11))
+
+    def _extract(year: int) -> pd.DataFrame:
+        subset = segment_summary[
+            (segment_summary["year"] == year) & (segment_summary["segment_id"].isin(valid_segments))
+        ].copy()
+        if subset.empty:
+            return subset
+        subset["segment_id"] = subset["segment_id"].astype(int)
+        subset["segment_name"] = subset["segment_name"].astype(str)
+        cols = [
+            "projection_method",
+            "projection_label",
+            "segment_id",
+            "segment_name",
+            "employment_raw",
+            "employment_auto",
+        ]
+        return subset[cols]
+
+    base = _extract(base_year)
+    target = _extract(target_year)
+    if base.empty or target.empty:
+        return pd.DataFrame(), pd.DataFrame()
+
+    base = base.rename(columns={"employment_raw": "base_raw", "employment_auto": "base_auto"})
+    target = target.rename(columns={"employment_raw": "target_raw", "employment_auto": "target_auto"})
+
+    merged = base.merge(
+        target,
+        on=["projection_method", "projection_label", "segment_id", "segment_name"],
+        how="inner",
+    )
+    if merged.empty:
+        return pd.DataFrame(), pd.DataFrame()
+
+    merged["forecast_source"] = merged["projection_method"]
+    merged["raw_change"] = merged["target_raw"] - merged["base_raw"]
+    merged["auto_change"] = merged["target_auto"] - merged["base_auto"]
+    merged["segment_name_norm"] = merged["segment_name"].apply(_normalize_segment_name)
+    merged["segment_label"] = merged["segment_id"].astype(str) + "-" + merged["segment_name_norm"]
+
+    segment_cols = [
+        "forecast_source",
+        "projection_label",
+        "segment_id",
+        "segment_name_norm",
+        "segment_label",
+        "base_raw",
+        "target_raw",
+        "raw_change",
+        "base_auto",
+        "target_auto",
+        "auto_change",
+    ]
+    segment_change = merged[segment_cols].sort_values(["forecast_source", "segment_id"]).reset_index(drop=True)
+
+    stage_frames: list[pd.DataFrame] = []
+    for order, group in enumerate(SEGMENT_CHANGE_STAGE_GROUPS):
+        stage_subset = merged[merged["segment_id"].isin(group["segments"])]
+        if stage_subset.empty:
+            continue
+        agg = (
+            stage_subset
+            .groupby(["forecast_source", "projection_label"], as_index=False)[
+                ["base_raw", "target_raw", "base_auto", "target_auto"]
+            ]
+            .sum()
+        )
+        agg["raw_change"] = agg["target_raw"] - agg["base_raw"]
+        agg["auto_change"] = agg["target_auto"] - agg["base_auto"]
+        agg["stage_key"] = group["key"]
+        agg["stage_name"] = group["name"]
+        agg["stage_label"] = group["label"]
+        agg["stage_order"] = order
+        stage_frames.append(agg)
+
+    if stage_frames:
+        stage_change = pd.concat(stage_frames, ignore_index=True)
+        stage_change.sort_values(["forecast_source", "stage_order"], inplace=True)
+        stage_change.drop(columns=["stage_order"], inplace=True)
+        stage_cols = [
+            "forecast_source",
+            "projection_label",
+            "stage_key",
+            "stage_name",
+            "stage_label",
+            "base_raw",
+            "target_raw",
+            "raw_change",
+            "base_auto",
+            "target_auto",
+            "auto_change",
+        ]
+        stage_change = stage_change[stage_cols].reset_index(drop=True)
+    else:
+        stage_change = pd.DataFrame()
+
+    return segment_change, stage_change
 
 
 def _normalized_path(path: Path) -> str:
@@ -88,6 +279,48 @@ DETAIL_MULTIPLIER_REL_PATH = Path("data") / "interim" / "moodys_mi_annual_multip
 DETAIL_PROJECTION_METHOD = ProjectionMethod("", "Moody's MI (detail)", "moodys_mi_detail")
 ADDITIONAL_PROJECTION_METHODS: List[ProjectionMethod] = [DETAIL_PROJECTION_METHOD]
 ALL_PROJECTION_METHODS: List[ProjectionMethod] = PROJECTION_METHODS + ADDITIONAL_PROJECTION_METHODS
+
+
+def _major_code_and_name(occcd: str) -> tuple[str, str]:
+    if not isinstance(occcd, str):
+        prefix = "00"
+    else:
+        match = re.match(r"^(\d{2})", occcd.strip())
+        prefix = match.group(1) if match else "00"
+    return MAJOR_OCCUPATIONS.get(
+        prefix,
+        (f"{prefix}-0000", f"{prefix} Occupations"),
+    )
+
+
+def _weighted_average(values: pd.Series | None, weights: pd.Series | None) -> float:
+    if values is None or weights is None:
+        return np.nan
+    v = pd.to_numeric(values, errors="coerce")
+    w = pd.to_numeric(weights, errors="coerce").fillna(0.0)
+    mask = (w > 0) & (~v.isna())
+    if not mask.any():
+        return np.nan
+    return float((v[mask] * w[mask]).sum() / w[mask].sum())
+
+
+def _weighted_mode(values: pd.Series | None, weights: pd.Series | None, default: str = "Unreported") -> str:
+    if values is None or weights is None:
+        return default
+    w = pd.to_numeric(weights, errors="coerce").fillna(0.0)
+    df = pd.DataFrame({"value": values, "weight": w})
+    df["value"] = df["value"].fillna("").astype(str).str.strip()
+    df = df[df["value"] != ""]
+    if df.empty:
+        return default
+    grouped = df.groupby("value", sort=False)["weight"].sum()
+    if grouped.empty:
+        return default
+    max_weight = grouped.max()
+    top_values = grouped[grouped == max_weight].index.tolist()
+    if not top_values:
+        return default
+    return sorted(top_values)[0]
 
 
 def load_base_dataframe(repo_root: Path) -> pd.DataFrame:
@@ -698,6 +931,10 @@ def build_occupation_outputs(
         return pd.DataFrame(), pd.DataFrame(), pd.DataFrame()
 
     shares_long = pd.concat(share_frames, ignore_index=True)
+    shares_long["ep_edu_training_grouped"] = shares_long.apply(
+        lambda row: derive_training_group(row["ep_edu_grouped"], row["ep_on_the_job_training"]),
+        axis=1,
+    )
     share_lookup = (
         shares_long.set_index(["segment_id", "occcd", "year"])["share"].to_dict()
     )
@@ -767,6 +1004,7 @@ def build_occupation_outputs(
                         "ep_work_experience": occ["ep_work_experience"],
                         "ep_on_the_job_training": occ["ep_on_the_job_training"],
                         "ep_edu_grouped": occ["ep_edu_grouped"],
+                        "ep_edu_training_grouped": occ["ep_edu_training_grouped"],
                         "ep_avg_annual_salary": occ["ep_avg_annual_salary"],
                         "empl_2021": occ["empl_2021"],
                         "ep_openings_annual_avg": occ["ep_openings_annual_avg"],
@@ -788,6 +1026,7 @@ def build_occupation_outputs(
         "ep_work_experience",
         "ep_on_the_job_training",
         "ep_edu_grouped",
+        "ep_edu_training_grouped",
         "ep_avg_annual_salary",
         "year",
     ]
@@ -914,6 +1153,7 @@ def aggregate_stage_occ(
         "ep_work_experience",
         "ep_on_the_job_training",
         "ep_edu_grouped",
+        "ep_edu_training_grouped",
     ]
     for col in meta_cols:
         occ[col] = occ[col].fillna("Unreported").replace("", "Unreported")
@@ -934,6 +1174,7 @@ def aggregate_stage_occ(
         "ep_work_experience",
         "ep_on_the_job_training",
         "ep_edu_grouped",
+        "ep_edu_training_grouped",
         "ep_avg_annual_salary",
     ]
     grouped = (
@@ -966,6 +1207,222 @@ def aggregate_stage_occ(
     )
     grouped["year"] = 2030
     return grouped
+
+
+SEGMENT_SUM_COLUMNS = [
+    "employment",
+    "employment_auto",
+    "employment_raw",
+    "employment_auto_2024",
+    "employment_raw_2024",
+    "employment_auto_change",
+    "employment_raw_change",
+    "openings",
+    "ep_openings_annual_avg",
+    "empl_2021",
+]
+
+STAGE_SUM_COLUMNS = SEGMENT_SUM_COLUMNS.copy()
+
+
+def _aggregate_major_rows(
+    df: pd.DataFrame,
+    group_cols: list[str],
+    sum_cols: list[str],
+    include_share: bool,
+) -> pd.DataFrame:
+    if df.empty:
+        return pd.DataFrame()
+
+    records: list[dict[str, object]] = []
+    for keys, group in df.groupby(group_cols, dropna=False, sort=False):
+        record = {col: key for col, key in zip(group_cols, keys)}
+        weight_current = pd.to_numeric(group.get("employment_auto"), errors="coerce").fillna(0.0).clip(lower=0.0)
+        weight_base = pd.to_numeric(group.get("employment_auto_2024"), errors="coerce").fillna(0.0).clip(lower=0.0)
+        for col in sum_cols:
+            if col in group.columns:
+                record[col] = group[col].sum()
+        record["ep_avg_annual_salary"] = _weighted_average(group.get("ep_avg_annual_salary"), weight_current)
+        for meta in [
+            "ep_entry_education",
+            "ep_work_experience",
+            "ep_on_the_job_training",
+            "ep_edu_grouped",
+        ]:
+            if meta in group.columns:
+                record[meta] = _weighted_mode(group[meta], weight_current)
+        if include_share and "share_2034" in group.columns:
+            record["share_2034"] = _weighted_average(group.get("share_2034"), weight_base)
+        records.append(record)
+
+    return pd.DataFrame.from_records(records)
+
+
+def _compute_group_share(df: pd.DataFrame, group_cols: list[str], value_col: str) -> pd.Series:
+    totals = df.groupby(group_cols)[value_col].transform("sum")
+    return np.where(totals > 0, df[value_col] / totals, np.nan)
+
+
+def _finalize_segment_major(df: pd.DataFrame, base_cols: list[str]) -> pd.DataFrame:
+    if df.empty:
+        return df
+
+    df["employment_auto_change"] = df["employment_auto"] - df["employment_auto_2024"]
+    df["employment_raw_change"] = df["employment_raw"] - df["employment_raw_2024"]
+    df["employment_auto_pct_change"] = np.where(
+        df["employment_auto_2024"] != 0,
+        df["employment_auto_change"] / df["employment_auto_2024"],
+        np.nan,
+    )
+    df["employment_raw_pct_change"] = np.where(
+        df["employment_raw_2024"] != 0,
+        df["employment_raw_change"] / df["employment_raw_2024"],
+        np.nan,
+    )
+    df["share"] = _compute_group_share(df, base_cols, "employment_auto")
+    df["share_2024"] = _compute_group_share(df, base_cols, "employment_auto_2024")
+    df.sort_values(base_cols + ["occcd"], inplace=True)
+    columns = [
+        "segment_id",
+        "segment_name",
+        "year",
+        "methodology",
+        "projection_method",
+        "projection_label",
+        "occcd",
+        "soctitle",
+        "employment",
+        "employment_auto",
+        "employment_raw",
+        "share",
+        "share_2024",
+        "share_2034",
+        "ep_entry_education",
+        "ep_work_experience",
+        "ep_on_the_job_training",
+        "ep_edu_grouped",
+        "ep_avg_annual_salary",
+        "empl_2021",
+        "ep_openings_annual_avg",
+        "openings",
+        "employment_auto_2024",
+        "employment_raw_2024",
+        "employment_auto_change",
+        "employment_raw_change",
+        "employment_auto_pct_change",
+        "employment_raw_pct_change",
+    ]
+    return df[columns]
+
+
+def _finalize_stage_major(df: pd.DataFrame) -> pd.DataFrame:
+    if df.empty:
+        return df
+
+    df["employment_auto_change"] = df["employment_auto"] - df["employment_auto_2024"]
+    df["employment_raw_change"] = df["employment_raw"] - df["employment_raw_2024"]
+    df["employment_auto_pct_change"] = np.where(
+        df["employment_auto_2024"] != 0,
+        df["employment_auto_change"] / df["employment_auto_2024"],
+        np.nan,
+    )
+    df["employment_raw_pct_change"] = np.where(
+        df["employment_raw_2024"] != 0,
+        df["employment_raw_change"] / df["employment_raw_2024"],
+        np.nan,
+    )
+    df.sort_values([
+        "stage_clean",
+        "methodology",
+        "projection_method",
+        "occcd",
+    ], inplace=True)
+    columns = [
+        "stage_clean",
+        "methodology",
+        "projection_method",
+        "projection_label",
+        "occcd",
+        "soctitle",
+        "ep_entry_education",
+        "ep_work_experience",
+        "ep_on_the_job_training",
+        "ep_edu_grouped",
+        "ep_avg_annual_salary",
+        "employment",
+        "employment_auto",
+        "employment_raw",
+        "employment_auto_2024",
+        "employment_raw_2024",
+        "employment_auto_change",
+        "employment_raw_change",
+        "openings",
+        "ep_openings_annual_avg",
+        "empl_2021",
+        "employment_auto_pct_change",
+        "employment_raw_pct_change",
+        "year",
+    ]
+    return df[columns]
+
+
+def build_major_segment_snapshot(segment_df: pd.DataFrame) -> pd.DataFrame:
+    if segment_df.empty:
+        return pd.DataFrame()
+
+    df = segment_df.copy()
+    major_pairs = df["occcd"].apply(_major_code_and_name)
+    major_info = pd.DataFrame(major_pairs.tolist(), columns=["major_code", "major_name"], index=df.index)
+    df = df.join(major_info)
+    base_cols = [
+        "segment_id",
+        "segment_name",
+        "year",
+        "methodology",
+        "projection_method",
+        "projection_label",
+    ]
+    group_cols = base_cols + ["major_code", "major_name"]
+    major = _aggregate_major_rows(df, group_cols, SEGMENT_SUM_COLUMNS, include_share=True)
+
+    total_code, total_name = MAJOR_OCCUPATIONS["00"]
+    all_df = df.copy()
+    all_df["major_code"] = total_code
+    all_df["major_name"] = total_name
+    all_major = _aggregate_major_rows(all_df, group_cols, SEGMENT_SUM_COLUMNS, include_share=True)
+
+    combined = pd.concat([major, all_major], ignore_index=True)
+    combined.rename(columns={"major_code": "occcd", "major_name": "soctitle"}, inplace=True)
+    return _finalize_segment_major(combined, base_cols)
+
+
+def build_major_stage_snapshot(stage_df: pd.DataFrame) -> pd.DataFrame:
+    if stage_df.empty:
+        return pd.DataFrame()
+
+    df = stage_df.copy()
+    major_pairs = df["occcd"].apply(_major_code_and_name)
+    major_info = pd.DataFrame(major_pairs.tolist(), columns=["major_code", "major_name"], index=df.index)
+    df = df.join(major_info)
+    base_cols = [
+        "stage_clean",
+        "methodology",
+        "projection_method",
+        "projection_label",
+        "year",
+    ]
+    group_cols = base_cols + ["major_code", "major_name"]
+    major = _aggregate_major_rows(df, group_cols, STAGE_SUM_COLUMNS, include_share=False)
+
+    total_code, total_name = MAJOR_OCCUPATIONS["00"]
+    all_df = df.copy()
+    all_df["major_code"] = total_code
+    all_df["major_name"] = total_name
+    all_major = _aggregate_major_rows(all_df, group_cols, STAGE_SUM_COLUMNS, include_share=False)
+
+    combined = pd.concat([major, all_major], ignore_index=True)
+    combined.rename(columns={"major_code": "occcd", "major_name": "soctitle"}, inplace=True)
+    return _finalize_stage_major(combined)
 
 def main() -> None:
     repo_root = Path(__file__).resolve().parents[1]
@@ -1015,6 +1472,13 @@ def main() -> None:
     segment_for_outputs = pd.concat([segment_summary, uc_segment], ignore_index=True, sort=False)
 
     write_outputs(output_dir, naics_ts, segment_for_outputs, stage_summary)
+    segment_change, stage_change = build_segment_change_tables(segment_summary)
+    segment_change_path = output_dir / "segment_change_2024_2030.csv"
+    stage_change_path = output_dir / "stage_change_2024_2030.csv"
+    if not segment_change.empty:
+        write_csv(segment_change, segment_change_path)
+    if not stage_change.empty:
+        write_csv(stage_change, stage_change_path)
 
     mcda_path = repo_root / "data" / "processed" / "mcda_staffing_detailed_2021_2024.csv"
     mcda_shares = load_mcda_shares(mcda_path)
@@ -1033,6 +1497,18 @@ def main() -> None:
     stage_occ_xlsx = output_dir / "sam_occ_stage_totals_2030.xlsx"
     write_csv(stage_occ_2030, stage_occ_path)
     write_excel(stage_occ_2030, stage_occ_xlsx)
+    segment_major = build_major_segment_snapshot(occ_2030)
+    if not segment_major.empty:
+        segment_major_path = output_dir / "sam_occ_segment_major_totals_2030.csv"
+        segment_major_xlsx = output_dir / "sam_occ_segment_major_totals_2030.xlsx"
+        write_csv(segment_major, segment_major_path)
+        write_excel(segment_major, segment_major_xlsx)
+    stage_major = build_major_stage_snapshot(stage_occ_2030)
+    if not stage_major.empty:
+        stage_major_path = output_dir / "sam_occ_stage_major_totals_2030.csv"
+        stage_major_xlsx = output_dir / "sam_occ_stage_major_totals_2030.xlsx"
+        write_csv(stage_major, stage_major_path)
+        write_excel(stage_major, stage_major_xlsx)
     occ_val_path = output_dir / "sam_occ_segment_totals_validation.csv"
     write_csv(occ_validation, occ_val_path)
 

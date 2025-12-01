@@ -1,0 +1,4 @@
+methodology,projection_method,projection_label,education_group,employment_2024,stage_key,stage_name,stage_label,employment_2030,change_abs,change_pct,share_2024,share_2030
+sam_mi_moodys_mi,moodys_mi,Moody's MI,BA+,70121.14510613833,all_segments,All Segments,All Segments (segments 1-10),71775.83362033036,1654.6885141920357,0.023597568346715236,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,HS or Less,328638.4390227165,all_segments,All Segments,All Segments (segments 1-10),326073.691948974,-2564.747073742503,-0.007804160345239529,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,SC or Associate's,64622.305974801275,all_segments,All Segments,All Segments (segments 1-10),61854.67148762487,-2767.6344871764013,-0.04282785093208541,1.0,1.0

@@ -1,0 +1,31 @@
+methodology,projection_method,projection_label,segment_id,segment_name,education_group,employment_2024,employment_2030,change_abs,change_pct,share_2024,share_2030
+sam_mi_moodys_mi,moodys_mi,Moody's MI,1,1. Materials & Processing,BA+,3451.9690405580805,3302.0626055758366,-149.9064349822438,-0.04342635557299448,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,1,1. Materials & Processing,HS or Less,16795.043196471823,15430.95372287424,-1364.0894735975835,-0.08121976571540711,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,1,1. Materials & Processing,SC or Associate's,1000.6565486351875,919.4599649326431,-81.19658370254444,-0.08114330917365188,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,2,2. Equipment Manufacturing,BA+,1664.4286813213025,1677.026407533276,12.597726211973395,0.00756879904398951,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,2,2. Equipment Manufacturing,HS or Less,3887.6393065706893,3774.373398713734,-113.26590785695544,-0.02913488081713733,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,2,2. Equipment Manufacturing,SC or Associate's,692.5188546786338,656.0666391380176,-36.45221554061618,-0.052637145247882065,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,3,3. Forging & Foundries,BA+,1144.8958530887817,992.2301162322491,-152.6657368565326,-0.13334465003490062,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,3,3. Forging & Foundries,HS or Less,7470.162051341688,6145.380291756315,-1324.781759585373,-0.17734310855377414,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,3,3. Forging & Foundries,SC or Associate's,408.08169020986344,332.0668703905082,-76.01481981935524,-0.1862735369976125,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,4,4. Parts & Machining,BA+,2548.7134611243546,2543.0445734705427,-5.6688876538119075,-0.0022242153699424103,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,4,4. Parts & Machining,HS or Less,11600.84106595768,10915.537958038185,-685.3031079194952,-0.059073570961203546,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,4,4. Parts & Machining,SC or Associate's,786.889967566202,750.4533219861942,-36.43664558000785,-0.046304625909393604,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,5,5. Component Systems,BA+,2443.9877546628113,2409.0016425502245,-34.98611211258685,-0.014315174880004162,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,5,5. Component Systems,HS or Less,3200.282745816092,3140.0451125833206,-60.23763323277126,-0.018822597256921526,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,5,5. Component Systems,SC or Associate's,342.7543802271001,319.6438079607781,-23.110572266322038,-0.06742604500344992,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,6,6. Engineering & Design,BA+,737.9275791029602,756.5804555366744,18.652876433714255,0.02527738081884549,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,6,6. Engineering & Design,HS or Less,199.9497019041748,197.2497972978348,-2.6999046063399987,-0.013502918887240546,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,6,6. Engineering & Design,SC or Associate's,94.14822441861125,94.01137035866383,-0.1368540599474244,-0.0014536021342147695,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,7,7. Core Automotive,BA+,28420.73848797222,29477.977713350538,1057.2392253783182,0.037199569104291445,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,7,7. Core Automotive,HS or Less,136344.2054982822,137595.42361382346,1251.218115541269,0.009176907159116735,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,7,7. Core Automotive,SC or Associate's,8317.056013745616,7899.610672826003,-417.44534091961305,-0.05019147883935136,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,8,"8. Motor Vehicle Parts, Materials, & Products Sales",BA+,19646.968930635714,20716.31565468315,1069.3467240474347,0.05442807630137755,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,8,"8. Motor Vehicle Parts, Materials, & Products Sales",HS or Less,87775.90679190768,88145.03513062403,369.12833871635667,0.0042053491921360325,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,8,"8. Motor Vehicle Parts, Materials, & Products Sales",SC or Associate's,7917.124277456613,8094.795214692798,177.67093723618564,0.022441347515800607,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,9,"9. Dealers, Maintenance, & Repair",BA+,6147.44206383908,6300.020290295166,152.57822645608576,0.024819790877508584,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,9,"9. Dealers, Maintenance, & Repair",HS or Less,45578.312199387816,46745.444864042816,1167.1326646550006,0.02560719360447658,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,9,"9. Dealers, Maintenance, & Repair",SC or Associate's,17874.245736773108,18650.53884566201,776.2931088889018,0.043430817743084715,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,10,10. Logistics,BA+,3914.073253833027,3601.574161102707,-312.49909273032017,-0.07983986820489161,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,10,10. Logistics,HS or Less,15786.096465076636,13984.248059220045,-1801.8484058565919,-0.11414147948752222,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,10,10. Logistics,SC or Associate's,27188.83028109034,24138.02477967726,-3050.8055014130805,-0.11220804535805634,1.0,1.0

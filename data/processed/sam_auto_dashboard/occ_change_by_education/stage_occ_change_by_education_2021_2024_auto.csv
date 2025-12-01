@@ -1,0 +1,16 @@
+methodology,projection_method,projection_label,education_group,employment_2021,stage_key,stage_name,stage_label,employment_2024,change_abs,change_pct,share_2021,share_2024
+sam_mi_moodys_mi,moodys_mi,Moody's MI,BA+,59515.866264064294,all_segments,All Segments,All Segments (segments 1-10),70121.14510613833,10605.278842074033,0.17819246375445105,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,HS or Less,324357.2426160729,all_segments,All Segments,All Segments (segments 1-10),328638.4390227165,4281.196406643605,0.013199015912559921,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,SC or Associate's,66466.93868516505,all_segments,All Segments,All Segments (segments 1-10),64622.305974801275,-1844.632710363774,-0.02775263532297273,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,BA+,26189.264056987406,core_oem,Core/OEM,Core/OEM (segments 6-7),29158.66606707518,2969.402010087775,0.1133824151616634,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,HS or Less,141104.3963772078,core_oem,Core/OEM,Core/OEM (segments 6-7),136544.15520018636,-4560.2411770214385,-0.03231820761155279,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,SC or Associate's,8556.174093184109,core_oem,Core/OEM,Core/OEM (segments 6-7),8411.204238164228,-144.96985501988092,-0.016943303565476145,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,BA+,22784.616482268553,downstream,Downstream,Downstream (segments 8-10),29708.48424830782,6923.867766039268,0.3038834457199471,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,HS or Less,140999.7393727065,downstream,Downstream,Downstream (segments 8-10),149140.31545637213,8140.576083665626,0.05773468887164062,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,SC or Associate's,54730.267767919235,downstream,Downstream,Downstream (segments 8-10),52980.20029532006,-1750.0674725991776,-0.031976227122078864,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,BA+,10541.985724808337,upstream,Upstream,Upstream (segments 1-5),11253.99479075533,712.0090659469934,0.06754031778580674,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,HS or Less,42253.1068661586,upstream,Upstream,Upstream (segments 1-5),42953.96836615798,700.8614999993733,0.016587218123851336,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,SC or Associate's,3180.4968240616986,upstream,Upstream,Upstream (segments 1-5),3230.901441316987,50.404617255288485,0.01584803256961551,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,BA+,36731.24978179574,upstream_core,Upstream + Core/OEM,Upstream + Core/OEM (segments 1-7),40412.66085783051,3681.4110760347685,0.10022558714730423,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,HS or Less,183357.5032433664,upstream_core,Upstream + Core/OEM,Upstream + Core/OEM (segments 1-7),179498.12356634432,-3859.3796770220797,-0.021048386942200067,1.0,1.0
+sam_mi_moodys_mi,moodys_mi,Moody's MI,SC or Associate's,11736.670917245807,upstream_core,Upstream + Core/OEM,Upstream + Core/OEM (segments 1-7),11642.105679481214,-94.5652377645929,-0.008057245400451605,1.0,1.0
