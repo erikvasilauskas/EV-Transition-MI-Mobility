@@ -960,6 +960,9 @@ def build_occupation_outputs(
                     "ep_edu_grouped",
                     "ep_avg_annual_salary",
                     "ep_openings_annual_avg",
+                    "ep_employment_2024",
+                    "ep_employment_2034",
+                    "ep_openings_ratio",
                     "empl_2021",
                 ]
             ]
