@@ -17,7 +17,8 @@ warnings.filterwarnings(
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
 
-RAW_XLSX = REPO_ROOT / "data" / "raw" / "Moody's Supply Chain Employment and Output 1970-2055.xlsx"
+# Updated to December 2025 refresh of Moody's supply chain workbook
+RAW_XLSX = REPO_ROOT / "data" / "raw" / "Moody's Supply Chain Employment and Output 1970-2055 - December 2025.xlsx"
 SEGMENT_LOOKUP_PATH = REPO_ROOT / "data" / "lookups" / "segment_assignments.csv"
 
 OUT_DIR = REPO_ROOT / "data" / "interim"

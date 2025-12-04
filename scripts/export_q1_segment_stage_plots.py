@@ -35,7 +35,8 @@ OEM_NAICS = {"5413", "5414", "5417"}
 TARGET_STAGE = {"upstream"}
 HISTORICAL_END = pd.Timestamp(2025, 3, 1)
 SCENARIOS = {
-    "moodys_mi_detail": ("Moody's MI", "#0067a0"),
+    # Use common Moody's MI CAGR (not the detailed annual path)
+    "moodys_mi": ("Moody's MI", "#0067a0"),
     "bls_us": ("BLS US", "#dd8452"),
     "dtmb_mi": ("DTMB MI", "#55a868"),
 }
@@ -160,7 +161,10 @@ def plot_entity(
         )
 
     ax.axvline(HISTORICAL_END, color="#555555", linestyle="--", linewidth=1)
-    ax.set_title(f"{name} Employment (2000–2030)")
+    title_text = f"{name} Employment (2000–2030)"
+    if name.lower().startswith("oem") or name.lower().startswith("core automotive"):
+        title_text = "Core Automotive Employment (2000-2030)"
+    ax.set_title(title_text)
     ax.set_ylabel("Employment")
     ax.set_xlabel("Year")
     ax.legend()
