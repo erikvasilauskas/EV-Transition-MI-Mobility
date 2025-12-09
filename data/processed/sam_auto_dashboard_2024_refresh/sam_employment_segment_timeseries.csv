@@ -1029,106 +1029,106 @@ sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2024,QCEW,17308
 sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2024,QCEW,115340.0,115340.0,1.0
 sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2024,QCEW,69600.0,69600.0,1.0
 sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2024,QCEW,46889.0,46889.0,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2025,Forecast,20787.479294219833,71046.93062381202,0.2925879993927946
-sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2025,Forecast,6093.043537946611,46398.961925220356,0.13131853138797725
-sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2025,Forecast,8690.371350793217,15809.871930311843,0.5496800599713525
-sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2025,Forecast,14682.018644691332,49592.878621506796,0.29605094628090867
-sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2025,Forecast,5947.419599200513,18054.61658615023,0.3294126779608714
-sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2025,Forecast,1018.6317424729555,118640.75162988521,0.008585850380067598
-sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2025,Forecast,167856.5442245733,167856.5442245733,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2025,Forecast,116602.50329903123,116602.50329903123,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2025,Forecast,70453.97449169148,70453.97449169148,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2025,Forecast,47174.15633877256,47174.15633877256,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2026,Forecast,20845.95317830708,71436.64181824318,0.291810374168282
-sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2026,Forecast,6083.49113923297,46138.212594910714,0.1318536370848491
-sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2026,Forecast,8545.0316394491,15600.709733303729,0.5477335188928957
-sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2026,Forecast,14670.303490168722,49614.92519254883,0.2956832733947548
-sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2026,Forecast,5901.678455828396,17977.261459095273,0.32828573302206426
-sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2026,Forecast,1014.8874525876546,119011.82087078033,0.008527618896694227
-sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2026,Forecast,168338.8571480505,168338.8571480505,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2026,Forecast,117082.33531070035,117082.33531070035,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2026,Forecast,70441.99363247465,70441.99363247465,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2026,Forecast,46432.547280123246,46432.547280123246,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2027,Forecast,20649.346353435794,70886.76533554995,0.29130044593923765
-sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2027,Forecast,6106.842297614157,46081.47415983306,0.13252272000745127
-sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2027,Forecast,8274.762998883236,15180.96983960733,0.5450747275246065
-sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2027,Forecast,14590.65636011005,49418.6506286893,0.29524594812873445
-sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2027,Forecast,5906.0079016508,18005.307162065546,0.3280148374304807
-sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2027,Forecast,1017.7057326609046,119791.69152633293,0.008495628700903599
-sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2027,Forecast,169982.82628255553,169982.82628255553,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2027,Forecast,117196.97841250472,117196.97841250472,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2027,Forecast,70400.55492285619,70400.55492285619,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2027,Forecast,45261.02872175898,45261.02872175898,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2028,Forecast,20421.098722261104,70206.42556648862,0.29087221799835705
-sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2028,Forecast,6121.367196290161,45965.88624078059,0.13317196070635814
-sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2028,Forecast,8026.6463786977,14794.098631802004,0.5425573114297947
-sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2028,Forecast,14502.252434878363,49180.79392276689,0.2948763384676664
-sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2028,Forecast,5903.4833524530295,17994.148815696415,0.3280779442761628
-sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2028,Forecast,1021.8505448489168,120718.0639358853,0.008464769161569996
-sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2028,Forecast,171765.70200949142,171765.70200949142,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2028,Forecast,117433.23526250981,117433.23526250981,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2028,Forecast,70549.05691730746,70549.05691730746,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2028,Forecast,44155.735686503125,44155.735686503125,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2029,Forecast,20151.445431440497,69369.65275299063,0.2904936760054884
-sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2029,Forecast,6119.777577947798,45737.66396299489,0.13380170843222655
-sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2029,Forecast,7781.004095562272,14405.53989936157,0.5401397066629285
-sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2029,Forecast,14386.674447291072,48847.96686512463,0.29451941136085535
-sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2029,Forecast,5887.0527724860185,17943.10395403162,0.32809556181405625
-sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2029,Forecast,1028.0364480289652,121877.02769713194,0.008435030517676117
-sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2029,Forecast,173472.71234994577,173472.71234994577,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2029,Forecast,117621.15019289528,117621.15019289528,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2029,Forecast,70865.23972515957,70865.23972515957,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2029,Forecast,43087.66163516326,43087.66163516326,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2030,Forecast,19921.054006857757,68658.75666000211,0.2901458601341521
-sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2030,Forecast,6121.928858063344,45546.329468511365,0.13441102564139143
-sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2030,Forecast,7561.026618857613,14056.733093705212,0.5378935893890978
-sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2030,Forecast,14280.440492451875,48545.349731275426,0.2941670123194452
-sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2030,Forecast,5873.196339146476,17902.45038639405,0.3280666172721324
-sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2030,Forecast,1035.358805508031,123162.8839330377,0.008406418983100008
-sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2030,Forecast,175395.12459314702,175395.12459314702,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2030,Forecast,117867.42133580468,117867.42133580468,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2030,Forecast,71386.84768836701,71386.84768836701,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2030,Forecast,42092.6682197545,42092.6682197545,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2031,Forecast,19655.778876364955,67818.66008943935,0.28982847567974485
-sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2031,Forecast,6110.435049714582,45262.55427436717,0.13499978398645102
-sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2031,Forecast,7340.260414605955,13697.766721398846,0.5358727859731247
-sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2031,Forecast,14136.163526639493,48118.57409495085,0.29377768964527196
-sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2031,Forecast,5847.048998206541,17837.129961337567,0.3278021190000952
-sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2031,Forecast,1041.256094985063,124270.906555999,0.008378920890191236
-sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2031,Forecast,176426.08977537218,176426.08977537218,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2031,Forecast,117936.01709358608,117936.01709358608,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2031,Forecast,71840.47282862634,71840.47282862634,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2031,Forecast,41036.27535894186,41036.27535894186,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2032,Forecast,19295.31799037769,66639.88354566306,0.28954609407677206
-sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2032,Forecast,6074.333983889964,44806.505300605786,0.1355681266177177
-sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2032,Forecast,7101.413739426941,13296.843820508922,0.5340676205035807
-sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2032,Forecast,13924.715101157473,47469.874556530616,0.293337937612936
-sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2032,Forecast,5797.040709729023,17715.04011345337,0.32723836201344886
-sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2032,Forecast,1043.6387385746827,124949.0337349976,0.008352515480736886
-sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2032,Forecast,176071.99650417868,176071.99650417868,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2032,Forecast,117592.77760655523,117592.77760655523,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2032,Forecast,71961.50154598587,71961.50154598587,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2032,Forecast,39847.617208174684,39847.617208174684,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2033,Forecast,18859.609738886793,65192.084157884325,0.28929294073820333
-sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2033,Forecast,6022.363185840041,44244.483548611155,0.13611557199494273
-sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2033,Forecast,6849.685830854113,12865.30641776848,0.532415288717407
-sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2033,Forecast,13661.178101460728,46646.49142439119,0.29286614457603927
-sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2033,Forecast,5731.408729099028,17549.72072611186,0.32658119286031634
-sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2033,Forecast,1043.5859379434735,125322.49887464372,0.008327203393760451
-sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2033,Forecast,174812.71525257247,174812.71525257247,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2033,Forecast,116872.8597911579,116872.8597911579,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2033,Forecast,71803.4643024425,71803.4643024425,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2033,Forecast,38602.6033846388,38602.6033846388,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2034,Forecast,18418.50070311362,63719.9027682008,0.28905412442508166
-sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2034,Forecast,5962.408192105079,43635.37618823699,0.1366416131348123
-sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2034,Forecast,6599.661577884846,12432.300127647899,0.5308479935428855
-sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2034,Forecast,13380.758871293761,45765.2658246679,0.29237804326444905
-sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2034,Forecast,5656.999857009818,17365.731400543013,0.32575649861962785
-sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2034,Forecast,1043.38902497205,125664.23088997716,0.008302991372983206
-sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2034,Forecast,173137.21753151622,173137.21753151622,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,Forecast,116007.23165823949,116007.23165823949,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2034,Forecast,71521.59675502479,71521.59675502479,1.0
-sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2034,Forecast,37391.21826165633,37391.21826165633,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2025,Forecast,20713.34378147685,70796.98521663819,0.2925738111318468
+sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2025,Forecast,6092.666971132827,46396.11881325221,0.1313184621251674
+sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2025,Forecast,8657.995895779444,15755.84942166205,0.5495099416141876
+sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2025,Forecast,14666.956508239542,49557.96005645554,0.29595561422486333
+sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2025,Forecast,5956.343952017109,18101.395022212488,0.32905441512701045
+sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2025,Forecast,1019.5866519125034,118752.4259342088,0.008585817459235524
+sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2025,Forecast,167800.97036023333,167800.97036023333,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2025,Forecast,116326.04595949763,116326.04595949763,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2025,Forecast,70620.15272872713,70620.15272872713,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2025,Forecast,47029.10753985807,47029.10753985807,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2026,Forecast,20599.623123520956,70595.20291825675,0.29179919133278176
+sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2026,Forecast,6071.0911460137395,46044.34149355856,0.13185314305913276
+sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2026,Forecast,8452.81933161672,15445.431274679542,0.5472698807364378
+sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2026,Forecast,14604.470013531522,49420.45003482834,0.2955147110809237
+sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2026,Forecast,5905.859376380033,18018.732161829623,0.327762204540164
+sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2026,Forecast,1018.4815560404097,119433.28685198708,0.008527618915006563
+sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2026,Forecast,167953.60811758047,167953.60811758047,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2026,Forecast,116282.50057063901,116282.50057063901,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2026,Forecast,70755.67926883949,70755.67926883949,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2026,Forecast,46067.4380044285,46067.4380044285,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2027,Forecast,20389.936636277744,69998.41342572385,0.2912914113105399
+sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2027,Forecast,6089.927852699738,45954.37537389125,0.13252117569113342
+sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2027,Forecast,8179.9046734152125,15019.734699528137,0.5446104633041351
+sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2027,Forecast,14514.374140139422,49188.11225121344,0.2950789017072181
+sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2027,Forecast,5905.723626426209,18032.742740078047,0.32750002102013287
+sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2027,Forecast,1025.7263498700638,120734.96664393204,0.008495685867832352
+sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2027,Forecast,169526.62823210887,169526.62823210887,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2027,Forecast,116342.64271089605,116342.64271089605,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2027,Forecast,70694.41782035932,70694.41782035932,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2027,Forecast,44881.438116111225,44881.438116111225,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2028,Forecast,20164.53068757691,69327.13784361209,0.2908605679505187
+sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2028,Forecast,6107.4803817065185,45862.91282928412,0.1331681745649353
+sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2028,Forecast,7935.879359808459,14640.868647518,0.5420361011949788
+sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2028,Forecast,14433.074549685163,48970.857909345104,0.294727827239696
+sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2028,Forecast,5904.236172077721,18019.534699269847,0.3276575267127714
+sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2028,Forecast,1033.8757762149917,122136.35765254011,0.008464930476772653
+sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2028,Forecast,171430.80516339553,171430.80516339553,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2028,Forecast,116558.89760343956,116558.89760343956,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2028,Forecast,70835.74638013635,70835.74638013635,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2028,Forecast,43781.15907351396,43781.15907351396,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2029,Forecast,19895.977926252992,68492.90997378367,0.2904822985892755
+sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2029,Forecast,6106.059914930845,45637.40937080173,0.1337950597791256
+sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2029,Forecast,7693.320825294876,14257.716390041947,0.5395899746377436
+sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2029,Forecast,14320.25600495678,48645.266533061666,0.29438128363885196
+sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2029,Forecast,5887.419266648452,17965.28083588533,0.327710950940908
+sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2029,Forecast,1040.906894850342,123398.49755726416,0.008435328755662524
+sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2029,Forecast,173128.8847708976,173128.8847708976,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2029,Forecast,116740.65375056109,116740.65375056109,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2029,Forecast,71159.89952370929,71159.89952370929,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2029,Forecast,42724.203812161686,42724.203812161686,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2030,Forecast,19649.73515071348,67725.60786988678,0.2901374497585049
+sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2030,Forecast,6105.364701206261,45426.52919430201,0.13440086243639487
+sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2030,Forecast,7470.890075979913,13903.939483699152,0.5373218205342963
+sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2030,Forecast,14206.889340782625,48317.309421580234,0.29403312210173116
+sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2030,Forecast,5870.490278329624,17913.866047608648,0.3277064963379742
+sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2030,Forecast,1047.992311069022,124658.88701589944,0.008406880056095457
+sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2030,Forecast,175004.8842921995,175004.8842921995,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2030,Forecast,116941.32953853875,116941.32953853875,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2030,Forecast,71700.708618174,71700.708618174,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2030,Forecast,41734.77862917185,41734.77862917185,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2031,Forecast,19381.573090574522,66874.29108905088,0.2898209876313411
+sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2031,Forecast,6092.460352623926,45134.24631333413,0.13498531271195757
+sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2031,Forecast,7251.186736801585,13546.444083273745,0.5352834066435834
+sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2031,Forecast,14061.263580072333,47884.38885099044,0.29365026718476095
+sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2031,Forecast,5842.800172964862,17842.696057675483,0.32746173302949
+sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2031,Forecast,1053.872472623958,125766.73606333228,0.008379580369273954
+sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2031,Forecast,175961.28725844348,175961.28725844348,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2031,Forecast,116994.10448044937,116994.10448044937,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2031,Forecast,72168.94582892774,72168.94582892774,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2031,Forecast,40691.58218150624,40691.58218150624,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2032,Forecast,19033.556279822635,65737.78444427483,0.2895375382776577
+sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2032,Forecast,6056.852164585473,44684.02205788425,0.13554850001504676
+sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2032,Forecast,7017.547116635533,13154.595063463636,0.5334673612361122
+sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2032,Forecast,13855.321479021623,47252.36920227748,0.29321961444324407
+sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2032,Forecast,5793.155082165955,17720.716021077493,0.32691427791492295
+sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2032,Forecast,1056.4956263403092,126474.76036599983,0.008353410777636284
+sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2032,Forecast,175530.48371933098,175530.48371933098,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2032,Forecast,116672.49248069678,116672.49248069678,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2032,Forecast,72293.85629752898,72293.85629752898,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2032,Forecast,39525.55600229159,39525.55600229159,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2033,Forecast,18616.435403630418,64353.781271454325,0.2892826969265936
+sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2033,Forecast,6006.243243524417,44134.356565086346,0.13608996960603284
+sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2033,Forecast,6772.544084994452,12734.897077514672,0.531809879873499
+sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2033,Forecast,13599.790303635276,46454.120703335415,0.29275745827772837
+sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2033,Forecast,5728.699476101039,17558.09748301979,0.326271082709342
+sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2033,Forecast,1056.7736984884575,126888.41509606043,0.008328370227403587
+sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2033,Forecast,174209.95566571102,174209.95566571102,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2033,Forecast,115991.89118808645,115991.89118808645,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2033,Forecast,72134.5058301287,72134.5058301287,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2033,Forecast,38307.9616834904,38307.9616834904,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),1,1. Materials & Processing,2034,Forecast,18195.037396564174,62949.3956302598,0.2890422888797015
+sam_mi,moodys_mi_detail,Moody's MI (detail),2,2. Equipment Manufacturing,2034,Forecast,5947.699021048904,43538.04274616915,0.13660924207651096
+sam_mi,moodys_mi_detail,Moody's MI (detail),3,3. Forging & Foundries,2034,Forecast,6529.347592525853,12313.818012839085,0.5302455814856111
+sam_mi,moodys_mi_detail,Moody's MI (detail),4,4. Parts & Machining,2034,Forecast,13327.276391166599,45597.96963437287,0.29227784697501463
+sam_mi,moodys_mi_detail,Moody's MI (detail),5,5. Component Systems,2034,Forecast,5655.581967520167,17377.57320508506,0.3254529214623144
+sam_mi,moodys_mi_detail,Moody's MI (detail),6,6. Engineering & Design,2034,Forecast,1056.9376632994297,127273.43288136786,0.00830446417112522
+sam_mi,moodys_mi_detail,Moody's MI (detail),7,7. Core Automotive,2034,Forecast,172479.36541486753,172479.36541486753,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,Forecast,115173.37853225516,115173.37853225516,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),9,"9. Dealers, Maintenance, & Repair",2034,Forecast,71850.248330309,71850.248330309,1.0
+sam_mi,moodys_mi_detail,Moody's MI (detail),10,10. Logistics,2034,Forecast,37126.00983223313,37126.00983223313,1.0
 sam_mi,moodys_us,Moody's US,1,1. Materials & Processing,2001,QCEW,30402.003453450743,96567.0,0.3148280826105268
 sam_mi,moodys_us,Moody's US,2,2. Equipment Manufacturing,2001,QCEW,8381.597086643374,69888.0,0.11992898761795122
 sam_mi,moodys_us,Moody's US,3,3. Forging & Foundries,2001,QCEW,13346.706934542986,22569.0,0.5913734296842122
@@ -1469,150 +1469,150 @@ sam_mi,moodys_us,Moody's US,7,7. Core Automotive,2034,Forecast,191442.4870919091
 sam_mi,moodys_us,Moody's US,8,"8. Motor Vehicle Parts, Materials, & Products Sales",2034,Forecast,123002.0998521677,123002.0998521677,1.0
 sam_mi,moodys_us,Moody's US,9,"9. Dealers, Maintenance, & Repair",2034,Forecast,74555.43015720093,74555.43015720093,1.0
 sam_mi,moodys_us,Moody's US,10,10. Logistics,2034,Forecast,37765.30088575686,37765.30088575686,1.0
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2001,QCEW,377757.6658239419,665890.0,0.5672974002071541
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2002,QCEW,351643.63102832204,623804.0,0.5637085222735378
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2003,QCEW,328362.2626408276,592810.0,0.5539081031710458
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2004,QCEW,316306.4107062139,577971.0,0.5472703832998782
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2005,QCEW,298603.7907849557,562113.0,0.5312166606802471
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2006,QCEW,278370.0670967706,536121.0,0.5192299258875713
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2007,QCEW,259646.60371586896,508352.0,0.5107614482009886
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2008,QCEW,225646.018807956,463339.0,0.48699983987524464
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2009,QCEW,168102.37628611637,363737.0,0.4621536337686745
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2010,QCEW,174305.98184292318,378690.0,0.4602867301563896
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2011,QCEW,191682.21298957025,414521.0,0.4624185819043432
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2012,QCEW,206803.195691261,445024.0,0.46470121991456864
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2013,QCEW,218335.9160949116,465306.0,0.4692308203524382
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2014,QCEW,230614.80329062234,487191.0,0.4733560416563983
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2015,QCEW,228891.15038678877,504503.0,0.4536963117896004
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2016,QCEW,235833.37870677153,517011.0,0.4561477003521618
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2017,QCEW,243750.85288048678,518780.0,0.4698539899003176
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2018,QCEW,247621.5901984939,529212.0,0.46790622699125095
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2019,QCEW,245027.3835348418,526356.0,0.46551646325840645
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2020,QCEW,210373.72961179103,467845.0,0.44966544392222
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2021,QCEW,231825.42394240794,495976.0,0.46741258436377553
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2022,QCEW,235554.4186373327,505000.0,0.46644439334125287
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2023,QCEW,238926.86430492083,511270.0,0.4673203284075358
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2025,Forecast,228794.7381031027,496099.7086172966,0.46118700359810233
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2026,Forecast,226116.02568628444,493783.78648323624,0.45792517266858657
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2027,Forecast,223514.9366883872,491556.4415770345,0.4547085904749739
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2028,Forecast,220989.7023345641,489415.9310496729,0.451537615174474
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2029,Forecast,218538.60011385416,487360.56011982396,0.4484125676072836
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2030,Forecast,216159.9526825529,485388.6810000001,0.4453337317986466
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2031,Forecast,213852.12679633356,483498.69185224385,0.44230135551573796
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2032,Forecast,211613.53227043746,481689.03577269334,0.43931565087625707
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2033,Forecast,209442.62096726804,479958.1998043755,0.43637679500555265
-sam_mi,bls_us,BLS US,11,Upstream + Core/OEM,2034,Forecast,207337.8858107426,478304.7139775993,0.43348493073905386
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2001,QCEW,377757.6658239419,665890.0,0.5672974002071541
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2002,QCEW,351643.63102832204,623804.0,0.5637085222735378
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2003,QCEW,328362.2626408276,592810.0,0.5539081031710458
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2004,QCEW,316306.4107062139,577971.0,0.5472703832998782
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2005,QCEW,298603.7907849557,562113.0,0.5312166606802471
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2006,QCEW,278370.0670967706,536121.0,0.5192299258875713
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2007,QCEW,259646.60371586896,508352.0,0.5107614482009886
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2008,QCEW,225646.018807956,463339.0,0.48699983987524464
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2009,QCEW,168102.37628611637,363737.0,0.4621536337686745
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2010,QCEW,174305.98184292318,378690.0,0.4602867301563896
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2011,QCEW,191682.21298957025,414521.0,0.4624185819043432
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2012,QCEW,206803.195691261,445024.0,0.46470121991456864
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2013,QCEW,218335.9160949116,465306.0,0.4692308203524382
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2014,QCEW,230614.80329062234,487191.0,0.4733560416563983
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2015,QCEW,228891.15038678877,504503.0,0.4536963117896004
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2016,QCEW,235833.37870677153,517011.0,0.4561477003521618
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2017,QCEW,243750.85288048678,518780.0,0.4698539899003176
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2018,QCEW,247621.5901984939,529212.0,0.46790622699125095
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2019,QCEW,245027.3835348418,526356.0,0.46551646325840645
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2020,QCEW,210373.72961179103,467845.0,0.44966544392222
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2021,QCEW,231825.42394240794,495976.0,0.46741258436377553
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2022,QCEW,235554.4186373327,505000.0,0.46644439334125287
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2023,QCEW,238926.86430492083,511270.0,0.4673203284075358
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2025,Forecast,230462.20323907048,497646.4686599712,0.4631042672916851
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2026,Forecast,229377.85906204078,496800.7234460743,0.4617099940413811
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2027,Forecast,228299.82917075724,495968.7892851472,0.4603108786337377
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2028,Forecast,227228.08540280347,495150.6923391598,0.45890693261347737
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2029,Forecast,226162.59983479392,494346.4600192457,0.45749816803783533
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2030,Forecast,225103.34478202913,493556.1209999999,0.456084597483959
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2031,Forecast,224050.29279816902,492779.7052340461,0.4546662340563643
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2032,Forecast,223003.41667492402,492017.2439668773,0.4532430913944485
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2033,Forecast,221962.68944176505,491268.76975197584,0.4518151836800579
-sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core/OEM,2034,Forecast,220928.08436565095,490534.3164662157,0.45038252564510806
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2001,QCEW,377757.6658239419,665890.0,0.5672974002071541
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2002,QCEW,351643.63102832204,623804.0,0.5637085222735378
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2003,QCEW,328362.2626408276,592810.0,0.5539081031710458
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2004,QCEW,316306.4107062139,577971.0,0.5472703832998782
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2005,QCEW,298603.7907849557,562113.0,0.5312166606802471
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2006,QCEW,278370.0670967706,536121.0,0.5192299258875713
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2007,QCEW,259646.60371586896,508352.0,0.5107614482009886
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2008,QCEW,225646.018807956,463339.0,0.48699983987524464
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2009,QCEW,168102.37628611637,363737.0,0.4621536337686745
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2010,QCEW,174305.98184292318,378690.0,0.4602867301563896
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2011,QCEW,191682.21298957025,414521.0,0.4624185819043432
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2012,QCEW,206803.195691261,445024.0,0.46470121991456864
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2013,QCEW,218335.9160949116,465306.0,0.4692308203524382
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2014,QCEW,230614.80329062234,487191.0,0.4733560416563983
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2015,QCEW,228891.15038678877,504503.0,0.4536963117896004
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2016,QCEW,235833.37870677153,517011.0,0.4561477003521618
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2017,QCEW,243750.85288048678,518780.0,0.4698539899003176
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2018,QCEW,247621.5901984939,529212.0,0.46790622699125095
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2019,QCEW,245027.3835348418,526356.0,0.46551646325840645
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2020,QCEW,210373.72961179103,467845.0,0.44966544392222
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2021,QCEW,231825.42394240794,495976.0,0.46741258436377553
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2022,QCEW,235554.4186373327,505000.0,0.46644439334125287
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2023,QCEW,238926.86430492083,511270.0,0.4673203284075358
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2025,Forecast,230844.99937528538,497165.9666342792,0.4643218057303137
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2026,Forecast,230268.93850236476,495987.10211321816,0.46426396477100657
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2027,Forecast,229826.84084194756,494971.1280245539,0.46432373087940315
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2028,Forecast,229521.00725412258,494119.9500975668,0.46450463538013864
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2029,Forecast,229353.9105250265,493435.66209607926,0.4648101629921671
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2030,Forecast,229328.20005692923,492920.55000000005,0.46524373969989524
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2031,Forecast,229446.70683297553,492577.0964821505,0.46580872003919893
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2032,Forecast,229712.44866460975,492407.9856875905,0.46650837383119004
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2033,Forecast,230128.6357301721,492416.10832315375,0.4673458724042137
-sam_mi,moodys_mi,Moody's MI,11,Upstream + Core/OEM,2034,Forecast,230698.676413624,492604.5670654065,0.46832427435247986
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2025,Forecast,225075.50839389773,487400.5555414597,0.4617875499625937
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2026,Forecast,225400.20250362443,488118.42881693254,0.4617735967271995
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2027,Forecast,226528.14792691046,489347.6849346336,0.4629186055251692
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2028,Forecast,227762.4006389207,490625.11912291124,0.4642289841296563
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2029,Forecast,228826.70312270237,491653.66748158104,0.4654225489557138
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2030,Forecast,230188.12971403208,493267.6278660729,0.466659713125408
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2031,Forecast,230557.0327358888,493431.68147286493,0.4672521878767278
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2032,Forecast,229308.45676733446,490949.177575938,0.4670716791899829
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2033,Forecast,226980.54677665664,486633.3004019832,0.46643036263477955
-sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core/OEM,2034,Forecast,224198.93575789538,481720.02473078994,0.4654133609728791
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2001,QCEW,377757.6658239419,665890.0,0.5672974002071541
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2002,QCEW,351643.63102832204,623804.0,0.5637085222735378
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2003,QCEW,328362.2626408276,592810.0,0.5539081031710458
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2004,QCEW,316306.4107062139,577971.0,0.5472703832998782
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2005,QCEW,298603.7907849557,562113.0,0.5312166606802471
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2006,QCEW,278370.0670967706,536121.0,0.5192299258875713
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2007,QCEW,259646.60371586896,508352.0,0.5107614482009886
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2008,QCEW,225646.018807956,463339.0,0.48699983987524464
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2009,QCEW,168102.37628611637,363737.0,0.4621536337686745
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2010,QCEW,174305.98184292318,378690.0,0.4602867301563896
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2011,QCEW,191682.21298957025,414521.0,0.4624185819043432
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2012,QCEW,206803.195691261,445024.0,0.46470121991456864
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2013,QCEW,218335.9160949116,465306.0,0.4692308203524382
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2014,QCEW,230614.80329062234,487191.0,0.4733560416563983
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2015,QCEW,228891.15038678877,504503.0,0.4536963117896004
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2016,QCEW,235833.37870677153,517011.0,0.4561477003521618
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2017,QCEW,243750.85288048678,518780.0,0.4698539899003176
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2018,QCEW,247621.5901984939,529212.0,0.46790622699125095
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2019,QCEW,245027.3835348418,526356.0,0.46551646325840645
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2020,QCEW,210373.72961179103,467845.0,0.44966544392222
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2021,QCEW,231825.42394240794,495976.0,0.46741258436377553
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2022,QCEW,235554.4186373327,505000.0,0.46644439334125287
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2023,QCEW,238926.86430492083,511270.0,0.4673203284075358
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2025,Forecast,232242.97766800193,499570.6290165407,0.46488517174277755
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2026,Forecast,233060.16181648904,500802.00998910854,0.4653738546727431
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2027,Forecast,234009.01633704864,502204.7132288104,0.4659634013240162
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2028,Forecast,235094.35557092397,503783.562106095,0.4666574562061911
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2029,Forecast,236321.24499935054,505543.64353847026,0.4674596308743169
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2030,Forecast,237695.01234572742,507490.319,0.4683734909743715
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2031,Forecast,239221.25921681095,509629.23607599415,0.46940254263815256
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2032,Forecast,240905.87330758266,511966.3405874318,0.4705502182646744
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2033,Forecast,242755.04119561758,514507.88931083493,0.47181986173385865
-sam_mi,moodys_us,Moody's US,11,Upstream + Core/OEM,2034,Forecast,244775.2617520053,517260.46332054236,0.4732147131073498
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2001,QCEW,377757.6658239419,665890.0,0.5672974002071541
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2002,QCEW,351643.63102832204,623804.0,0.5637085222735378
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2003,QCEW,328362.2626408276,592810.0,0.5539081031710458
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2004,QCEW,316306.4107062139,577971.0,0.5472703832998782
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2005,QCEW,298603.7907849557,562113.0,0.5312166606802471
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2006,QCEW,278370.0670967706,536121.0,0.5192299258875713
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2007,QCEW,259646.60371586896,508352.0,0.5107614482009886
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2008,QCEW,225646.018807956,463339.0,0.48699983987524464
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2009,QCEW,168102.37628611637,363737.0,0.4621536337686745
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2010,QCEW,174305.98184292318,378690.0,0.4602867301563896
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2011,QCEW,191682.21298957025,414521.0,0.4624185819043432
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2012,QCEW,206803.195691261,445024.0,0.46470121991456864
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2013,QCEW,218335.9160949116,465306.0,0.4692308203524382
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2014,QCEW,230614.80329062234,487191.0,0.4733560416563983
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2015,QCEW,228891.15038678877,504503.0,0.4536963117896004
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2016,QCEW,235833.37870677153,517011.0,0.4561477003521618
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2017,QCEW,243750.85288048678,518780.0,0.4698539899003176
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2018,QCEW,247621.5901984939,529212.0,0.46790622699125095
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2019,QCEW,245027.3835348418,526356.0,0.46551646325840645
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2020,QCEW,210373.72961179103,467845.0,0.44966544392222
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2021,QCEW,231825.42394240794,495976.0,0.46741258436377553
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2022,QCEW,235554.4186373327,505000.0,0.46644439334125287
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2023,QCEW,238926.86430492083,511270.0,0.4673203284075358
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2025,Forecast,228794.7381031027,496099.7086172966,0.46118700359810233
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2026,Forecast,226116.02568628444,493783.78648323624,0.45792517266858657
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2027,Forecast,223514.9366883872,491556.4415770345,0.4547085904749739
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2028,Forecast,220989.7023345641,489415.9310496729,0.451537615174474
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2029,Forecast,218538.60011385416,487360.56011982396,0.4484125676072836
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2030,Forecast,216159.9526825529,485388.6810000001,0.4453337317986466
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2031,Forecast,213852.12679633356,483498.69185224385,0.44230135551573796
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2032,Forecast,211613.53227043746,481689.03577269334,0.43931565087625707
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2033,Forecast,209442.62096726804,479958.1998043755,0.43637679500555265
+sam_mi,bls_us,BLS US,11,Upstream + Core Automotive,2034,Forecast,207337.8858107426,478304.7139775993,0.43348493073905386
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2001,QCEW,377757.6658239419,665890.0,0.5672974002071541
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2002,QCEW,351643.63102832204,623804.0,0.5637085222735378
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2003,QCEW,328362.2626408276,592810.0,0.5539081031710458
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2004,QCEW,316306.4107062139,577971.0,0.5472703832998782
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2005,QCEW,298603.7907849557,562113.0,0.5312166606802471
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2006,QCEW,278370.0670967706,536121.0,0.5192299258875713
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2007,QCEW,259646.60371586896,508352.0,0.5107614482009886
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2008,QCEW,225646.018807956,463339.0,0.48699983987524464
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2009,QCEW,168102.37628611637,363737.0,0.4621536337686745
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2010,QCEW,174305.98184292318,378690.0,0.4602867301563896
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2011,QCEW,191682.21298957025,414521.0,0.4624185819043432
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2012,QCEW,206803.195691261,445024.0,0.46470121991456864
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2013,QCEW,218335.9160949116,465306.0,0.4692308203524382
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2014,QCEW,230614.80329062234,487191.0,0.4733560416563983
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2015,QCEW,228891.15038678877,504503.0,0.4536963117896004
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2016,QCEW,235833.37870677153,517011.0,0.4561477003521618
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2017,QCEW,243750.85288048678,518780.0,0.4698539899003176
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2018,QCEW,247621.5901984939,529212.0,0.46790622699125095
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2019,QCEW,245027.3835348418,526356.0,0.46551646325840645
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2020,QCEW,210373.72961179103,467845.0,0.44966544392222
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2021,QCEW,231825.42394240794,495976.0,0.46741258436377553
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2022,QCEW,235554.4186373327,505000.0,0.46644439334125287
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2023,QCEW,238926.86430492083,511270.0,0.4673203284075358
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2025,Forecast,230462.20323907048,497646.4686599712,0.4631042672916851
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2026,Forecast,229377.85906204078,496800.7234460743,0.4617099940413811
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2027,Forecast,228299.82917075724,495968.7892851472,0.4603108786337377
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2028,Forecast,227228.08540280347,495150.6923391598,0.45890693261347737
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2029,Forecast,226162.59983479392,494346.4600192457,0.45749816803783533
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2030,Forecast,225103.34478202913,493556.1209999999,0.456084597483959
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2031,Forecast,224050.29279816902,492779.7052340461,0.4546662340563643
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2032,Forecast,223003.41667492402,492017.2439668773,0.4532430913944485
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2033,Forecast,221962.68944176505,491268.76975197584,0.4518151836800579
+sam_mi,dtmb_mi,DTMB MI,11,Upstream + Core Automotive,2034,Forecast,220928.08436565095,490534.3164662157,0.45038252564510806
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2001,QCEW,377757.6658239419,665890.0,0.5672974002071541
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2002,QCEW,351643.63102832204,623804.0,0.5637085222735378
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2003,QCEW,328362.2626408276,592810.0,0.5539081031710458
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2004,QCEW,316306.4107062139,577971.0,0.5472703832998782
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2005,QCEW,298603.7907849557,562113.0,0.5312166606802471
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2006,QCEW,278370.0670967706,536121.0,0.5192299258875713
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2007,QCEW,259646.60371586896,508352.0,0.5107614482009886
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2008,QCEW,225646.018807956,463339.0,0.48699983987524464
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2009,QCEW,168102.37628611637,363737.0,0.4621536337686745
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2010,QCEW,174305.98184292318,378690.0,0.4602867301563896
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2011,QCEW,191682.21298957025,414521.0,0.4624185819043432
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2012,QCEW,206803.195691261,445024.0,0.46470121991456864
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2013,QCEW,218335.9160949116,465306.0,0.4692308203524382
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2014,QCEW,230614.80329062234,487191.0,0.4733560416563983
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2015,QCEW,228891.15038678877,504503.0,0.4536963117896004
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2016,QCEW,235833.37870677153,517011.0,0.4561477003521618
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2017,QCEW,243750.85288048678,518780.0,0.4698539899003176
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2018,QCEW,247621.5901984939,529212.0,0.46790622699125095
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2019,QCEW,245027.3835348418,526356.0,0.46551646325840645
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2020,QCEW,210373.72961179103,467845.0,0.44966544392222
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2021,QCEW,231825.42394240794,495976.0,0.46741258436377553
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2022,QCEW,235554.4186373327,505000.0,0.46644439334125287
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2023,QCEW,238926.86430492083,511270.0,0.4673203284075358
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2025,Forecast,230844.99937528538,497165.9666342792,0.4643218057303137
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2026,Forecast,230268.93850236476,495987.10211321816,0.46426396477100657
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2027,Forecast,229826.84084194756,494971.1280245539,0.46432373087940315
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2028,Forecast,229521.00725412258,494119.9500975668,0.46450463538013864
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2029,Forecast,229353.9105250265,493435.66209607926,0.4648101629921671
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2030,Forecast,229328.20005692923,492920.55000000005,0.46524373969989524
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2031,Forecast,229446.70683297553,492577.0964821505,0.46580872003919893
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2032,Forecast,229712.44866460975,492407.9856875905,0.46650837383119004
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2033,Forecast,230128.6357301721,492416.10832315375,0.4673458724042137
+sam_mi,moodys_mi,Moody's MI,11,Upstream + Core Automotive,2034,Forecast,230698.676413624,492604.5670654065,0.46832427435247986
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2025,Forecast,224907.8641207916,487161.70482466265,0.4616698354845843
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2026,Forecast,224605.95266468383,486911.0528527204,0.461287439150867
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2027,Forecast,225632.22151093726,488454.97336647566,0.4619304415222956
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2028,Forecast,227009.88209046528,490388.4747449648,0.46291846929829616
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2029,Forecast,228072.82560383188,491525.9654317361,0.4640097200226282
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2030,Forecast,229356.24615028044,492951.0233251758,0.4652718734676108
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2031,Forecast,229644.44366410468,493010.0897161005,0.4658006974996095
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2032,Forecast,228343.41146790254,490554.7308743085,0.4654799905016295
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2033,Forecast,225990.4418760851,486333.623862182,0.4646819195460905
+sam_mi,moodys_mi_detail,Moody's MI (detail),11,Upstream + Core Automotive,2034,Forecast,223191.24544699263,481529.59752496134,0.4635047286691924
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2001,QCEW,377757.6658239419,665890.0,0.5672974002071541
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2002,QCEW,351643.63102832204,623804.0,0.5637085222735378
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2003,QCEW,328362.2626408276,592810.0,0.5539081031710458
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2004,QCEW,316306.4107062139,577971.0,0.5472703832998782
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2005,QCEW,298603.7907849557,562113.0,0.5312166606802471
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2006,QCEW,278370.0670967706,536121.0,0.5192299258875713
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2007,QCEW,259646.60371586896,508352.0,0.5107614482009886
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2008,QCEW,225646.018807956,463339.0,0.48699983987524464
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2009,QCEW,168102.37628611637,363737.0,0.4621536337686745
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2010,QCEW,174305.98184292318,378690.0,0.4602867301563896
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2011,QCEW,191682.21298957025,414521.0,0.4624185819043432
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2012,QCEW,206803.195691261,445024.0,0.46470121991456864
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2013,QCEW,218335.9160949116,465306.0,0.4692308203524382
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2014,QCEW,230614.80329062234,487191.0,0.4733560416563983
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2015,QCEW,228891.15038678877,504503.0,0.4536963117896004
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2016,QCEW,235833.37870677153,517011.0,0.4561477003521618
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2017,QCEW,243750.85288048678,518780.0,0.4698539899003176
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2018,QCEW,247621.5901984939,529212.0,0.46790622699125095
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2019,QCEW,245027.3835348418,526356.0,0.46551646325840645
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2020,QCEW,210373.72961179103,467845.0,0.44966544392222
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2021,QCEW,231825.42394240794,495976.0,0.46741258436377553
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2022,QCEW,235554.4186373327,505000.0,0.46644439334125287
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2023,QCEW,238926.86430492083,511270.0,0.4673203284075358
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2024,QCEW,231552.89010365604,498506.0,0.4644936873450992
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2025,Forecast,232242.97766800193,499570.6290165407,0.46488517174277755
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2026,Forecast,233060.16181648904,500802.00998910854,0.4653738546727431
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2027,Forecast,234009.01633704864,502204.7132288104,0.4659634013240162
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2028,Forecast,235094.35557092397,503783.562106095,0.4666574562061911
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2029,Forecast,236321.24499935054,505543.64353847026,0.4674596308743169
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2030,Forecast,237695.01234572742,507490.319,0.4683734909743715
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2031,Forecast,239221.25921681095,509629.23607599415,0.46940254263815256
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2032,Forecast,240905.87330758266,511966.3405874318,0.4705502182646744
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2033,Forecast,242755.04119561758,514507.88931083493,0.47181986173385865
+sam_mi,moodys_us,Moody's US,11,Upstream + Core Automotive,2034,Forecast,244775.2617520053,517260.46332054236,0.4732147131073498

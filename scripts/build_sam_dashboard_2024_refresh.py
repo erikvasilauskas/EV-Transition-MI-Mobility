@@ -35,10 +35,11 @@ TARGET_CHANGE_YEAR = 2030
 OEM_NAICS = {"5413", "5414", "5417"}
 ADJUSTMENT_SOURCE = "sam_mi"
 BLS_SEGMENT_SUMMARY = Path("data/processed/us_staffing_segments_summary.csv")
-UPSTREAM_CORE_STAGES = {"upstream", "oem"}
+SEGMENT_LOOKUP_COREAUTO = Path("data/lookups/segment_assignments_coreauto.csv")
+UPSTREAM_CORE_STAGES = {"upstream", "core automotive", "oem"}
 UPSTREAM_CORE_SEGMENT_ID = 11
-UPSTREAM_CORE_SEGMENT_NAME = "Upstream + Core/OEM"
-UPSTREAM_CORE_STAGE_LABEL = "Upstream + Core/OEM"
+UPSTREAM_CORE_SEGMENT_NAME = "Upstream + Core Automotive"
+UPSTREAM_CORE_STAGE_LABEL = "Upstream + Core Automotive"
 SEGMENT_LABELS = {
     1: "1. Materials & Processing",
     2: "2. Equipment Manufacturing",
@@ -54,13 +55,13 @@ SEGMENT_LABELS = {
 }
 
 SEGMENT_CHANGE_STAGE_GROUPS = [
-    {"key": "upstream", "name": "Upstream", "label": "Upstream (segments 1-5)", "segments": set(range(1, 6))},
-    {"key": "core_oem", "name": "Core/OEM", "label": "Core/OEM (segments 6-7)", "segments": {6, 7}},
+    {"key": "upstream", "name": "Upstream", "label": "Upstream (segments 1-6)", "segments": set(range(1, 7))},
+    {"key": "core_auto", "name": "Core Automotive", "label": "Core Automotive (segment 7)", "segments": {7}},
     {"key": "downstream", "name": "Downstream", "label": "Downstream (segments 8-10)", "segments": {8, 9, 10}},
     {
         "key": "upstream_core",
-        "name": "Upstream + Core/OEM",
-        "label": "Upstream + Core/OEM (segments 1-7)",
+        "name": "Upstream + Core Automotive",
+        "label": "Upstream + Core Automotive (segments 1-7)",
         "segments": set(range(1, 8)),
     },
     {
@@ -393,6 +394,15 @@ def load_base_dataframe(repo_root: Path) -> pd.DataFrame:
     if base_lookup:
         df["employment_qcew_base"] = df["naics_code"].map(base_lookup).fillna(df["employment_qcew_base"])
 
+    lookup_path = repo_root / SEGMENT_LOOKUP_COREAUTO
+    if lookup_path.exists():
+        lookup = pd.read_csv(lookup_path, dtype={"naics_code": str})
+        lookup["naics_code"] = lookup["naics_code"].str.strip().str.zfill(4)
+        lookup = lookup.set_index("naics_code")
+        for col in ("segment_id", "segment_name", "stage"):
+            if col in lookup.columns:
+                df[col] = df["naics_code"].map(lookup[col]).fillna(df[col])
+
     df["segment_name"] = df["segment_name"].astype(str).str.strip()
     df["segment_subgroup"] = df["segment_name"]
     df["segment_id"] = pd.to_numeric(df["segment_id"], errors="coerce").astype("Int64")
@@ -690,8 +700,8 @@ def aggregate_stages(naics_ts: pd.DataFrame) -> pd.DataFrame:
         agg["employment_auto"] / agg["employment_raw"],
         np.nan,
     )
-    # Add combined upstream+core view (core captured by OEM stage)
-    uc_mask = naics_ts["stage"].str.lower().isin({"upstream", "oem"})
+    # Add combined upstream+core view using recoded stages
+    uc_mask = naics_ts["stage"].str.lower().isin(UPSTREAM_CORE_STAGES)
     uc = (
         naics_ts.loc[uc_mask]
         .groupby(["projection_method", "projection_label", "year", "value_type"], as_index=False)
@@ -710,7 +720,7 @@ def aggregate_stages(naics_ts: pd.DataFrame) -> pd.DataFrame:
 
 
 def build_upstream_core_segment(naics_ts: pd.DataFrame) -> pd.DataFrame:
-    """Create aggregate segment representing Upstream + Core/OEM."""
+    """Create aggregate segment representing Upstream + Core Automotive."""
     if naics_ts.empty:
         return pd.DataFrame()
     stage_mask = naics_ts["stage"].astype(str).str.lower().isin(UPSTREAM_CORE_STAGES)
@@ -1177,7 +1187,7 @@ def aggregate_stage_occ(
     stage_summary: pd.DataFrame,
     segment_stage_lookup: dict[int, str],
 ) -> pd.DataFrame:
-    """Aggregate 2030 occupation totals to stages (Upstream, OEM, Downstream, Upstream+Core)."""
+    """Aggregate 2030 occupation totals to stages (Upstream, Core Automotive, Downstream, Upstream+Core)."""
     stage_map = (
         stage_summary[["stage", "year", "projection_method", "projection_label"]]
         .drop_duplicates()
@@ -1185,9 +1195,13 @@ def aggregate_stage_occ(
     )
     mapping = {
         "Upstream": "Upstream",
-        "OEM": "Core/OEM",
+        "OEM": "Core Automotive",
+        "Core/OEM": "Core Automotive",
+        "Core Automotive": "Core Automotive",
         "Downstream": "Downstream",
-        "Upstream+Core": "Upstream + Core/OEM",
+        "Upstream+Core": UPSTREAM_CORE_STAGE_LABEL,
+        "Upstream + Core/OEM": UPSTREAM_CORE_STAGE_LABEL,
+        "Upstream + Core Automotive": UPSTREAM_CORE_STAGE_LABEL,
     }
     stage_df = stage_summary[stage_summary["year"] == 2030].copy()
     stage_df["stage_clean"] = stage_df["stage"].map(mapping).fillna(stage_df["stage"])
@@ -1206,8 +1220,8 @@ def aggregate_stage_occ(
         occ[col] = occ[col].fillna("Unreported").replace("", "Unreported")
     occ["ep_avg_annual_salary"] = pd.to_numeric(occ.get("ep_avg_annual_salary"), errors="coerce")
     occ["stage_clean"] = occ["stage"].map(mapping).fillna(occ["stage"])
-    uc_rows = occ[occ["stage_clean"].isin({"Upstream", "Core/OEM"})].copy()
-    uc_rows["stage_clean"] = "Upstream + Core/OEM"
+    uc_rows = occ[occ["stage_clean"].isin({"Upstream", "Core Automotive"})].copy()
+    uc_rows["stage_clean"] = UPSTREAM_CORE_STAGE_LABEL
     occ_aug = pd.concat([occ, uc_rows], ignore_index=True)
 
     agg_cols = [

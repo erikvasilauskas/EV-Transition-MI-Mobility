@@ -68,7 +68,7 @@ def build_projection_table(path: Path, entity_col: str) -> pd.DataFrame:
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     segment_table = build_projection_table(SEGMENT_FILE, "segment_name")
-    stage_table = build_projection_table(STAGE_FILE, "stage_clean")
+    stage_table = build_projection_table(STAGE_FILE, "stage")
 
     csv_segment = OUTPUT_DIR / "projection_segment_change_2024_2030.csv"
     csv_stage = OUTPUT_DIR / "projection_stage_change_2024_2030.csv"

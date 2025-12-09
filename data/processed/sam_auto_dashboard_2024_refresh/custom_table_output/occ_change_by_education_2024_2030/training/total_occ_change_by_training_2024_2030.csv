@@ -1,0 +1,4 @@
+stage_key,stage_label,training_group,employment_base,employment_target,employment_change,pct_change
+all_segments,All Segments,BA+,61551.71293273578,63378.86766278144,1827.1547300456587,0.029684872166634717
+all_segments,All Segments,HS or Less - Limited Training,128642.00976387355,126884.99303044728,-1757.016733426266,-0.013658187839659264
+all_segments,All Segments,SC/Associate or Employer Training,233131.276449438,231902.30271522436,-1228.9737342136505,-0.005271595269973108
