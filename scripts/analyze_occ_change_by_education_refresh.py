@@ -32,10 +32,10 @@ SEGMENT_TIMESERIES_FILE = Path("data/processed/sam_auto_dashboard_2024_refresh/s
 OUTPUT_DIR = Path("data/processed/sam_auto_dashboard_2024_refresh/occ_change_by_education")
 
 STAGE_GROUPS = [
-    {"key": "upstream", "name": "Upstream", "label": "Upstream (segments 1-5)", "segments": set(range(1, 6))},
-    {"key": "core_oem", "name": "Core/OEM", "label": "Core/OEM (segments 6-7)", "segments": {6, 7}},
+    {"key": "upstream", "name": "Upstream", "label": "Upstream (segments 1-6)", "segments": set(range(1, 7))},
+    {"key": "core_auto", "name": "Core Automotive", "label": "Core Automotive (segment 7)", "segments": {7}},
     {"key": "downstream", "name": "Downstream", "label": "Downstream (segments 8-10)", "segments": {8, 9, 10}},
-    {"key": "upstream_core", "name": "Upstream + Core/OEM", "label": "Upstream + Core/OEM (segments 1-7)", "segments": set(range(1, 8))},
+    {"key": "upstream_core", "name": "Upstream + Core Automotive", "label": "Upstream + Core Automotive (segments 1-7)", "segments": set(range(1, 8))},
     {"key": "all_segments", "name": "All Segments", "label": "All Segments (segments 1-10)", "segments": set(range(1, 11))},
 ]
 
@@ -119,7 +119,12 @@ def load_segment_panel(path: Path) -> pd.DataFrame:
     df["education_group"] = df["ep_edu_grouped"].apply(normalize_education)
     training_source = df.get("ep_edu_training_grouped")
     if training_source is not None:
-        df["training_group"] = training_source.fillna("Unreported").astype(str)
+        df["training_group"] = (
+            training_source.fillna("Unreported")
+            .astype(str)
+            .str.strip()
+            .replace("", "Unreported")
+        )
     else:
         df["training_group"] = df["education_group"]
     df["custom_training_group"] = df.apply(classify_custom_edu_training, axis=1)
@@ -315,6 +320,40 @@ def compute_change_table(
     return merged
 
 
+def add_shares(df: pd.DataFrame, group_for_total: list[str]) -> pd.DataFrame:
+    """Compute base/target shares within the provided grouping (e.g., within segment or stage)."""
+    if df.empty:
+        return df
+    df = df.copy()
+    for col in ["employment_base", "employment_target"]:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
+    totals_base = df.groupby(group_for_total)["employment_base"].transform("sum")
+    totals_target = df.groupby(group_for_total)["employment_target"].transform("sum")
+    df["share_base"] = np.where(totals_base != 0, df["employment_base"] / totals_base, np.nan)
+    df["share_target"] = np.where(totals_target != 0, df["employment_target"] / totals_target, np.nan)
+    return df
+
+
+def add_change_share(df: pd.DataFrame, group_for_total: list[str]) -> pd.DataFrame:
+    """Compute share of employment_change within the provided grouping."""
+    if df.empty or "employment_change" not in df.columns:
+        return df
+    df = df.copy()
+    change_total = df.groupby(group_for_total)["employment_change"].transform("sum")
+    df["share_change"] = np.where(change_total != 0, df["employment_change"] / change_total, np.nan)
+    return df
+
+
+def sort_education(df: pd.DataFrame, col: str, order: list[str], extra_keys: list[str] | None = None) -> pd.DataFrame:
+    if df.empty or col not in df.columns:
+        return df
+    categories = pd.Categorical(df[col], categories=order, ordered=True)
+    df[col] = categories
+    sort_cols = (extra_keys or []) + [col]
+    existing = [c for c in sort_cols if c in df.columns]
+    return df.sort_values(existing, kind="mergesort")
+
+
 def build_group_tables(
     df: pd.DataFrame,
     auto_share_lookup: dict[int, float],
@@ -393,6 +432,24 @@ def build_group_tables(
         tables["stage_auto_baseline"]["stage_key"] == "all_segments"
     ].copy()
 
+    # Add within-group shares (segment/stage), skip totals which represent 100%.
+    seg_share_keys = ["methodology", "projection_method", "projection_label", "segment_id", "segment_name"]
+    stage_share_keys = ["methodology", "projection_method", "projection_label", "stage_key", "stage_name", "stage_label"]
+    for key in [
+        "segment_auto",
+        "segment_raw",
+        "segment_auto_baseline",
+    ]:
+        tables[key] = add_shares(tables[key], seg_share_keys)
+        tables[key] = add_change_share(tables[key], seg_share_keys)
+    for key in [
+        "stage_auto",
+        "stage_raw",
+        "stage_auto_baseline",
+    ]:
+        tables[key] = add_shares(tables[key], stage_share_keys)
+        tables[key] = add_change_share(tables[key], stage_share_keys)
+
     return tables
 
 
@@ -415,6 +472,41 @@ def main() -> None:
     results: dict[str, dict[str, pd.DataFrame]] = {}
     for label, df in group_configs:
         results[label] = build_group_tables(df, share_map, auto_totals)
+
+    # Apply ordering by education/training group
+    edu_order = ["BA+", "SC or Associate's", "HS or Less", "Unreported", "Other"]
+    training_order = [
+        "BA+",
+        "SC/Associate or Employer Training",
+        "HS or Less - Limited Training",
+        "Unreported",
+        "Other",
+    ]
+    custom_order = [
+        "BA+",
+        "Associate's",
+        "SC/HS + moderate/long OJT",
+        "SC/HS + no significant OJT",
+        "Other",
+        "Unreported",
+    ]
+    sort_keys_segment = ["segment_id"]
+    sort_keys_stage = ["stage_key"]
+
+    def apply_orders(res_dict: dict[str, pd.DataFrame], order: list[str]) -> dict[str, pd.DataFrame]:
+        out = {}
+        for k, v in res_dict.items():
+            if k.startswith("segment_"):
+                out[k] = sort_education(v, "education_group", order, extra_keys=sort_keys_segment)
+            elif k.startswith("stage_"):
+                out[k] = sort_education(v, "education_group", order, extra_keys=sort_keys_stage)
+            else:
+                out[k] = v
+        return out
+
+    results["Education"] = apply_orders(results["Education"], edu_order)
+    results["Education+Training"] = apply_orders(results["Education+Training"], training_order)
+    results["Edu+Training Custom"] = apply_orders(results["Edu+Training Custom"], custom_order)
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     output_specs = [

@@ -26,10 +26,10 @@ OUTPUT_DIR = Path(
 )
 
 STAGE_GROUPS = [
-    {"key": "upstream", "name": "Upstream", "label": "Upstream (segments 1-5)", "segments": set(range(1, 6))},
-    {"key": "core_oem", "name": "Core/OEM", "label": "Core/OEM (segments 6-7)", "segments": {6, 7}},
+    {"key": "upstream", "name": "Upstream", "label": "Upstream (segments 1-6)", "segments": set(range(1, 7))},
+    {"key": "core_auto", "name": "Core Automotive", "label": "Core Automotive (segment 7)", "segments": {7}},
     {"key": "downstream", "name": "Downstream", "label": "Downstream (segments 8-10)", "segments": {8, 9, 10}},
-    {"key": "upstream_core", "name": "Upstream + Core/OEM", "label": "Upstream + Core/OEM (segments 1-7)", "segments": set(range(1, 8))},
+    {"key": "upstream_core", "name": "Upstream + Core Automotive", "label": "Upstream + Core Automotive (segments 1-7)", "segments": set(range(1, 8))},
     {"key": "all_segments", "name": "All Segments", "label": "All Segments (segments 1-10)", "segments": set(range(1, 11))},
 ]
 
@@ -95,12 +95,12 @@ def compute_change(grouped: pd.DataFrame, share_map: dict[int, float]) -> pd.Dat
         columns={"employment": "employment_target"}
     ).drop(columns="year")
     merged = base.merge(target, on=["segment_id", "segment_name", "training_group"], how="outer").fillna(0.0)
-    merged["employment_base_auto_adj"] = merged["employment_base"] * merged["segment_id"].map(share_map).fillna(1.0)
-    merged["employment_target_auto_adj"] = merged["employment_target"] * merged["segment_id"].map(share_map).fillna(1.0)
-    merged["employment_change"] = merged["employment_target_auto_adj"] - merged["employment_base_auto_adj"]
+    merged["employment_base"] = merged["employment_base"] * merged["segment_id"].map(share_map).fillna(1.0)
+    merged["employment_target"] = merged["employment_target"] * merged["segment_id"].map(share_map).fillna(1.0)
+    merged["employment_change"] = merged["employment_target"] - merged["employment_base"]
     merged["pct_change"] = np.where(
-        merged["employment_base_auto_adj"] != 0,
-        merged["employment_change"] / merged["employment_base_auto_adj"],
+        merged["employment_base"] != 0,
+        merged["employment_change"] / merged["employment_base"],
         np.nan,
     )
     return merged[
@@ -108,12 +108,44 @@ def compute_change(grouped: pd.DataFrame, share_map: dict[int, float]) -> pd.Dat
             "segment_id",
             "segment_name",
             "training_group",
-            "employment_base_auto_adj",
-            "employment_target_auto_adj",
+            "employment_base",
+            "employment_target",
             "employment_change",
             "pct_change",
         ]
     ]
+
+
+def add_shares(df: pd.DataFrame, group_keys: list[str]) -> pd.DataFrame:
+    if df.empty:
+        return df
+    df = df.copy()
+    totals_base = df.groupby(group_keys)["employment_base"].transform("sum") if "employment_base" in df.columns else None
+    totals_target = df.groupby(group_keys)["employment_target"].transform("sum") if "employment_target" in df.columns else None
+    if totals_base is not None:
+        df["share_base"] = np.where(totals_base != 0, df["employment_base"] / totals_base, np.nan)
+    if totals_target is not None:
+        df["share_target"] = np.where(totals_target != 0, df["employment_target"] / totals_target, np.nan)
+    return df
+
+
+def add_change_share(df: pd.DataFrame, group_keys: list[str]) -> pd.DataFrame:
+    if df.empty or "employment_change" not in df.columns:
+        return df
+    df = df.copy()
+    change_total = df.groupby(group_keys)["employment_change"].transform("sum")
+    df["share_change"] = np.where(change_total != 0, df["employment_change"] / change_total, np.nan)
+    return df
+
+
+def sort_training(df: pd.DataFrame, order: list[str], extra_keys: list[str] | None = None) -> pd.DataFrame:
+    if df.empty or "training_group" not in df.columns:
+        return df
+    df = df.copy()
+    df["training_group"] = pd.Categorical(df["training_group"], categories=order, ordered=True)
+    sort_cols = (extra_keys or []) + ["training_group"]
+    sort_cols = [c for c in sort_cols if c in df.columns]
+    return df.sort_values(sort_cols, kind="mergesort")
 
 
 def aggregate_stage_totals(df: pd.DataFrame, share_map: dict[int, float]) -> pd.DataFrame:
@@ -203,6 +235,19 @@ def main() -> None:
 
     stage_change = aggregate_stage_totals(df, share_map)
     total_change = aggregate_total(df, share_map)
+
+    # Add within-group shares
+    seg_change = add_shares(seg_change, ["segment_id", "segment_name"])
+    stage_change = add_shares(stage_change, ["stage_key", "stage_label"])
+    seg_change = add_change_share(seg_change, ["segment_id", "segment_name"])
+    stage_change = add_change_share(stage_change, ["stage_key", "stage_label"])
+    total_change = add_change_share(total_change, ["stage_key", "stage_label"])
+
+    # Order training groups
+    training_order = ["BA+", "SC or Associate's", "HS or Less", "Unreported", "Other"]
+    seg_change = sort_training(seg_change, training_order, extra_keys=["segment_id"])
+    stage_change = sort_training(stage_change, training_order, extra_keys=["stage_key"])
+    total_change = sort_training(total_change, training_order)
 
     write_outputs(seg_change, stage_change, total_change)
     print(f"Wrote training change tables to {OUTPUT_DIR}")
