@@ -3,15 +3,16 @@
 This refreshes the original education-change script for the 2024 annual dashboard
 outputs and adds a custom education+training recode:
 
-1) BA+                    – education is Bachelor's degree or higher
-2) Associate's            – education is Associate's
-3) SC/HS + moderate/long  – education not in (1)/(2) and training is moderate/long OJT, internship, or apprenticeship
-4) SC/HS + no signif. OJT – education not in (1)/(2) and training not in the moderate/long set
-5) Other                  – fallback (should be empty)
+1) BA+ - education is Bachelor's degree or higher
+2) Associate's - education is Associate's
+3) HS/SC + moderate/long OJT - education not in (1)/(2) and training is moderate/long OJT, internship, or apprenticeship
+4) HS/SC + no significant OJT - education not in (1)/(2) and training not in the moderate/long set
+5) Other - fallback (should be empty)
 
-Outputs include both the auto-adjusted 2024→2030 change and the raw 2021→2024 change,
+Outputs include both the auto-adjusted 2024-2030 change and the raw 2021-2024 change,
 saved under `data/processed/sam_auto_dashboard_2024_refresh/occ_change_by_education/`.
 """
+
 
 from __future__ import annotations
 
@@ -93,9 +94,9 @@ def classify_custom_edu_training(row: pd.Series) -> str:
     if not training_text:
         training_text = normalize_training(row.get("ep_edu_training_grouped"))
     if training_text in MODERATE_LONG_TRAINING:
-        return "SC/HS + moderate/long OJT"
+        return "HS/SC + moderate/long OJT"
     if training_text:
-        return "SC/HS + no significant OJT"
+        return "HS/SC + no significant OJT"
     return "Other"
 
 
@@ -485,8 +486,8 @@ def main() -> None:
     custom_order = [
         "BA+",
         "Associate's",
-        "SC/HS + moderate/long OJT",
-        "SC/HS + no significant OJT",
+        "HS/SC + moderate/long OJT",
+        "HS/SC + no significant OJT",
         "Other",
         "Unreported",
     ]

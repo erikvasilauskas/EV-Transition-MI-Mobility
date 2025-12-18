@@ -31,10 +31,10 @@ TARGET_YEAR = 2030
 TOP_N = 100
 
 STAGE_GROUPS = [
-    {"key": "upstream", "label": "Upstream (segments 1-5)", "segments": set(range(1, 6))},
-    {"key": "core_oem", "label": "Core/OEM (segments 6-7)", "segments": {6, 7}},
+    {"key": "upstream", "label": "Upstream (segments 1-6)", "segments": set(range(1, 7))},
+    {"key": "core_auto", "label": "Core Automotive (segment 7)", "segments": {7}},
     {"key": "downstream", "label": "Downstream (segments 8-10)", "segments": {8, 9, 10}},
-    {"key": "upstream_core", "label": "Upstream + Core/OEM (segments 1-7)", "segments": set(range(1, 8))},
+    {"key": "upstream_core", "label": "Upstream + Core Automotive (segments 1-7)", "segments": set(range(1, 8))},
 ]
 
 META_COLS = [
@@ -47,9 +47,68 @@ META_COLS = [
     "ep_on_the_job_training",
     "ep_edu_grouped",
     "ep_edu_training_grouped",
+    "custom_training_group",
     "ep_avg_annual_salary",
     "empl_2021",
 ]
+
+MODERATE_LONG_TRAINING = {
+    "moderate-term on-the-job training",
+    "long-term on-the-job training",
+    "internship/residency",
+    "apprenticeship",
+}
+
+
+def normalize_education(value: str | float | int | None) -> str:
+    if value is None or (isinstance(value, float) and np.isnan(value)):
+        return "Unreported"
+    text = str(value).strip().lower()
+    if not text or text in {"nan", "none"}:
+        return "Unreported"
+    if "sc" in text or "associate" in text or "postsecondary" in text:
+        return "SC or Associate's"
+    if "hs" in text or "high school" in text:
+        return "HS or Less"
+    return "BA+"
+
+
+def normalize_training(value: str | float | int | None) -> str:
+    if value is None or (isinstance(value, float) and np.isnan(value)):
+        return ""
+    return str(value).strip().lower()
+
+
+def classify_custom_edu_training(row: pd.Series) -> str:
+    """Recode education + training into four buckets."""
+    edu_raw = str(row.get("ep_entry_education", "")).strip().lower()
+    edu_grouped = normalize_education(row.get("ep_edu_grouped"))
+
+    if any(token in edu_raw for token in ["bachelor", "master", "doctoral", "doctor", "professional", "ph.d", "phd"]):
+        edu_class = "BA+"
+    elif "associate" in edu_raw:
+        edu_class = "Associate's"
+    elif edu_grouped == "BA+":
+        edu_class = "BA+"
+    elif edu_grouped == "SC or Associate's":
+        edu_class = "SC/HS"
+    else:
+        edu_class = "SC/HS"
+
+    if edu_class == "BA+":
+        return "BA+"
+    if edu_class == "Associate's":
+        return "Associate's"
+
+    training_raw = row.get("ep_on_the_job_training")
+    training_text = normalize_training(training_raw)
+    if not training_text:
+        training_text = normalize_training(row.get("ep_edu_training_grouped"))
+    if training_text in MODERATE_LONG_TRAINING:
+        return "HS/SC + moderate/long OJT"
+    if training_text:
+        return "HS/SC + no significant OJT"
+    return "Other"
 
 
 def load_occ_data() -> pd.DataFrame:
@@ -67,6 +126,7 @@ def build_stage_change_frame(
     stage_df = df[df["segment_id"].isin(segments)].copy()
     if stage_df.empty:
         return pd.DataFrame()
+    stage_df["custom_training_group"] = stage_df.apply(classify_custom_edu_training, axis=1)
 
     agg_dict = {
         "employment_auto": ("employment_auto", "sum"),
