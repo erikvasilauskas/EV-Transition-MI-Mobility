@@ -1,0 +1,10 @@
+source_soc,source_title,component_count,published_weight_sum,weight_with_exposure,fully_covered_by_exposure_index,applied_as_complete_crosswalk,exposure_score,exposure_percentile,exposure_quartile,mapping_method
+13-1020,Buyers and purchasing agents,3,1.0,1.0,True,True,0.44904409283806934,82.79976144817722,q1,bls_table3_complete_weighted_crosswalk
+21-1018,"Substance abuse, behavioral disorder, and mental health counselors",2,1.0,1.0,True,True,0.45063627907822507,83.77692600524524,q1,bls_table3_complete_weighted_crosswalk
+29-2010,Clinical laboratory technologists and technicians,2,1.0,1.0,True,True,0.42669568449544015,54.67576915328943,q2,bls_table3_complete_weighted_crosswalk
+39-1013,First-line supervisors of gambling services workers,1,1.0,1.0,True,True,0.421892105754415,49.6765847347995,q3,bls_table3_complete_weighted_crosswalk
+39-7010,Tour and travel guides,2,1.0,1.0,True,True,0.42935387229963257,58.25031416008992,q2,bls_table3_complete_weighted_crosswalk
+47-4090,Miscellaneous construction and related workers,2,1.0,1.0,True,True,0.4017768310627644,21.3911087974935,q4,bls_table3_complete_weighted_crosswalk
+51-2028,"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",2,1.0,1.0,True,True,0.4046892009276748,26.177507132023607,q3,bls_table3_complete_weighted_crosswalk
+51-2090,Miscellaneous assemblers and fabricators,2,1.0,0.83,False,False,,,,
+53-1047,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",4,0.9900000000000001,0.65,False,False,,,,

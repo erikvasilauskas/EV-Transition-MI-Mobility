@@ -1,0 +1,21 @@
+source_ep_oews_code,source_ep_oews_title,target_soc_2018,target_soc_2018_title,final_weight,pdf_table,pdf_page,mapping_note
+13-1020,Buyers and purchasing agents,13-1021,"Buyers and purchasing agents, farm products",0.03,3,7,Permanent OEWS aggregate
+13-1020,Buyers and purchasing agents,13-1022,"Wholesale and retail buyers, except farm products",0.26,3,7,Permanent OEWS aggregate
+13-1020,Buyers and purchasing agents,13-1023,"Purchasing agents, except wholesale, retail, and farm products",0.71,3,7,Permanent OEWS aggregate
+21-1018,"Substance abuse, behavioral disorder, and mental health counselors",21-1011,Substance abuse and behavioral disorder counselors,0.39,3,7,Permanent OEWS aggregate
+21-1018,"Substance abuse, behavioral disorder, and mental health counselors",21-1014,Mental health counselors,0.61,3,7,Permanent OEWS aggregate
+29-2010,Clinical laboratory technologists and technicians,29-2011,Medical and clinical laboratory technologists,0.51,3,7,Permanent OEWS aggregate
+29-2010,Clinical laboratory technologists and technicians,29-2012,Medical and clinical laboratory technicians,0.49,3,7,Permanent OEWS aggregate
+39-1013,First-line supervisors of gambling services workers,39-1013,First-line supervisors of gambling services workers,1.00,3,7,Updated 2018 SOC mapping is one-to-one
+39-7010,Tour and travel guides,39-7011,Tour guides and escorts,0.93,3,7,Permanent OEWS aggregate
+39-7010,Tour and travel guides,39-7012,Travel guides,0.07,3,7,Permanent OEWS aggregate
+47-4090,Miscellaneous construction and related workers,47-4091,Segmental pavers,0.05,3,7,Permanent OEWS aggregate
+47-4090,Miscellaneous construction and related workers,47-4099,"Construction and related workers, all other",0.95,3,7,Permanent OEWS aggregate
+51-2028,"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",51-2022,Electrical and electronic equipment assemblers,0.83,3,7,Permanent OEWS aggregate
+51-2028,"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",51-2023,Electromechanical equipment assemblers,0.17,3,7,Permanent OEWS aggregate
+51-2090,Miscellaneous assemblers and fabricators,51-2092,Team assemblers,0.83,3,7,Permanent OEWS aggregate
+51-2090,Miscellaneous assemblers and fabricators,51-2099,"Assemblers and fabricators, all other",0.17,3,7,Permanent OEWS aggregate; residual target may lack O*NET data
+53-1047,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",53-1042,"First-line supervisors of helpers, laborers, and material movers, hand",0.48,3,7,Permanent OEWS aggregate
+53-1047,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",53-1043,First-line supervisors of material-moving machine and vehicle operators,0.17,3,7,Permanent OEWS aggregate; rounded final weight
+53-1047,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",53-1044,First-line supervisors of passenger attendants,0.17,3,8,Permanent OEWS aggregate; rounded final weight
+53-1047,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",53-1049,"First-line supervisors of transportation workers, all other",0.17,3,8,Permanent OEWS aggregate; rounded final weight
