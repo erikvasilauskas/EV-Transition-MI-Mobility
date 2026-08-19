@@ -367,6 +367,7 @@ def plot_quartile_shares(
     output_name: str,
     x_label: str,
     exclude_segment_11: bool = False,
+    show_data_labels: bool = False,
 ) -> None:
     data = summary.loc[summary["year"].eq(year)].copy()
     if exclude_segment_11:
@@ -379,7 +380,16 @@ def plot_quartile_shares(
     left = np.zeros(len(data))
     for quartile in QUARTILES:
         values = data[f"{quartile}_share_of_matched_pct"].fillna(0).to_numpy()
-        ax.barh(labels, values, left=left, color=colors[quartile], label=quartile.upper())
+        bars = ax.barh(labels, values, left=left, color=colors[quartile], label=quartile.upper())
+        if show_data_labels:
+            ax.bar_label(
+                bars,
+                labels=[f"{value:.1f}" for value in values],
+                label_type="center",
+                color="white" if quartile in {"q1", "q2", "q4"} else "#222222",
+                fontsize=8,
+                fontweight="bold",
+            )
         left += values
     ax.set_xlim(0, 100)
     ax.set_xlabel(x_label)
@@ -532,6 +542,17 @@ def main() -> None:
         "segment_exposure_quartile_shares_2024.png",
         "Share of segment employment (%)",
         exclude_segment_11=True,
+    )
+    plot_quartile_shares(
+        segment_summary,
+        "segment_id",
+        "segment_name",
+        BASE_YEAR,
+        f"Employment distribution by AI-exposure quartile and segment, {BASE_YEAR}",
+        "segment_exposure_quartile_shares_2024_labeled.png",
+        "Share of segment employment (%)",
+        exclude_segment_11=True,
+        show_data_labels=True,
     )
     plot_quartile_shares(
         segment_summary,
